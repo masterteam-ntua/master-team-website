@@ -10,17 +10,23 @@
 {% include components/banner.html %}
 
 {% capture col1 %}{% if page.narrow %}3{% else %}4{% endif %}{% endcapture %}
-
 {% capture col2 %}{% if page.narrow %}9{% else %}8{% endif %}{% endcapture %}
+{% capture col3 %}{% if page.narrow %}10{% else %}12{% endif %}{% endcapture %}
 
 <div class="container site-container" id="top">
     <div class="row">
-        <div class="d-none d-lg-block col-lg-4 col-xl-{{ col1 }} side">
-            {% include bars/side.html %}
-        </div>
-        <div class="col-md-12 col-lg-8 col-xl-{{ col2 }} pb-4 content">
-            {{ content }}
-        </div>
+        {% if page.show_sidebar %}
+            <div class="d-none d-lg-block col-lg-4 col-xl-{{ col1 }} side">
+                {% include bars/side.html %}
+            </div>
+            <div class="col-md-12 col-lg-8 col-xl-{{ col2 }} pb-4 content">
+                {{ content }}
+            </div>
+        {% else %}
+            <div class="col-md-12 col-lg-12 col-xl-{{ col3 }} pb-4 content">
+                {{ content }}
+            </div>
+        {% endif %}
         <div class="col-md-12 d-lg-none bottom">
             {% include bars/bottom.html %}
         </div>

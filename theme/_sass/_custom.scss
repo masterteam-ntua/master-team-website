@@ -24,7 +24,7 @@ h2 {
 
 h3 {
   font-weight: 500;
-  color: $main-color;
+  // color: $main-color;
 }
 
 .contact-info-box {
@@ -92,10 +92,25 @@ ul.navbar-nav.ml-auto {
 .btn-custom {
   color: $white;
   background-color: $main-color;
-  width: 12rem;
-  padding: 0.5rem 2.5rem;
+  width: 10rem;
+  padding: 0.5rem 1.5rem;
   &:hover {
     color: $white;
     background-color: $main-color-light;
+  }
+}
+
+.faculty-section {
+  background-color: $light-grey;
+  padding: 4rem 3rem;
+}
+.team-member {
+  margin-bottom: 3rem;
+  text-align: center;
+  img {
+      width: 225px;
+      height: 225px;
+      border: 7px solid $grey-blue;
+      object-fit: cover;
   }
 }
