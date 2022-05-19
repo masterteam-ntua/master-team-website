@@ -61,7 +61,7 @@ narrow: true
             Apply
         </button>
         <button type="button" class="offset-md-3 col-4 btn btn-danger">
-            Brochure
+            <span class="fa fa-download">Brochure</span>
         </button>
     </div>
 </div>

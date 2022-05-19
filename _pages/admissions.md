@@ -20,47 +20,45 @@ narrow: true
         </p>
     </div>
     <div class="row">
-        <h2>Application Material</h2>
-        <p>
-            The application consists of the following elements:
-            <ul>
-                <li>
-                    Copy of all university degrees/diplomas received.
-                    In case of degrees from foreign Universities, they must have been accompanied by a certification issued by the Hellenic
-                    NARIC organization (DOATAP, http://www.doatap.gr/en/index.php). The recognition of the degree or certificate of completion
-                    of studies by the Hellenic NARIC (which can be submitted by the end of the program) is a precondition for obtaining the M.Sc.
-                    degree.
-                </li>
-                <li>
-                    Certificate of equivalence for degrees from foreign Universities, issued by DOATAP/Hellenic NARIC (or proof that an
-                    application for certification has been filed -- admission is contingent on submission of certificate by the Program
-                    enrollment date)
-                </li>
-                <li>
-                    Copy of transcripts of grades in Greek or English. Accepted candidates must submit official transcripts.
-                </li>
-                <li>
-                    Certificate of Proficiency in English (at least level B2)
-                </li>
-                <li>
-                    Two Letters of Recommendation
-                </li>
-                <li>
-                    Resume/CV in English, which will include all information about the candidate's education, research of professional activity
-                    and interests.
-                </li>
-                <li>
-                    Personal Statement.
-                </li>
-                <li>
-                    Evidence of research experience (if any). Candidates may submit a list of journal or conference publications (if any) and/or
-                    a one-page summary of their Undergraduate Research Thesis in English (if any) (pdf).
-                </li>
-                <li>
-                    A photocopy of both sides of your identity card (pdf).
-                </li>
-            </ul>
-        </p>
+        <h2 >Application Material</h2>
+        <label class="col-12 pl-0">The application consists of the following elements:</label>
+        <ul>
+            <li>
+                Copy of all university degrees/diplomas received.
+                In case of degrees from foreign Universities, they must have been accompanied by a certification issued by the Hellenic
+                NARIC organization (DOATAP, http://www.doatap.gr/en/index.php). The recognition of the degree or certificate of completion
+                of studies by the Hellenic NARIC (which can be submitted by the end of the program) is a precondition for obtaining the M.Sc.
+                degree.
+            </li>
+            <li>
+                Certificate of equivalence for degrees from foreign Universities, issued by DOATAP/Hellenic NARIC (or proof that an
+                application for certification has been filed -- admission is contingent on submission of certificate by the Program
+                enrollment date)
+            </li>
+            <li>
+                Copy of transcripts of grades in Greek or English. Accepted candidates must submit official transcripts.
+            </li>
+            <li>
+                Certificate of Proficiency in English (at least level B2)
+            </li>
+            <li>
+                Two Letters of Recommendation
+            </li>
+            <li>
+                Resume/CV in English, which will include all information about the candidate's education, research of professional activity
+                and interests.
+            </li>
+            <li>
+                Personal Statement.
+            </li>
+            <li>
+                Evidence of research experience (if any). Candidates may submit a list of journal or conference publications (if any) and/or
+                a one-page summary of their Undergraduate Research Thesis in English (if any) (pdf).
+            </li>
+            <li>
+                A photocopy of both sides of your identity card (pdf).
+            </li>
+        </ul>
     </div>
     <div class="row">
         <h2>Selection Criteria</h2>
