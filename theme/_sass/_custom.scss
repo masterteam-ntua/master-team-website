@@ -77,8 +77,11 @@ ul.navbar-nav.ml-auto {
   background-image: url('../img/banner-1.jpg');
   background-size: cover;
   background-repeat: no-repeat;
-  h1 .header1 {
-    color: $main-color;
+  h1 {
+    color: $black;
+    .header1 {
+      color: $main-color;
+    }
   }
   h2 {
     color: $black;
@@ -104,6 +107,7 @@ ul.navbar-nav.ml-auto {
   background-color: $light-grey;
   padding: 4rem 3rem;
 }
+
 .team-member {
   margin-bottom: 3rem;
   text-align: center;
@@ -113,4 +117,8 @@ ul.navbar-nav.ml-auto {
       border: 7px solid $grey-blue;
       object-fit: cover;
   }
+}
+
+a.map-section {
+  width: fit-content;
 }
