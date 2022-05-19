@@ -1,6 +1,24 @@
 - title: Home
   href: index.html
 
+- title: Program Overview
+  href: overview.html
+
+- title: Courses
+  href: courses.html
+
+- title: Faculty
+  href: faculty.html
+
+- title: Admissions
+  href: admissions.html
+
+- title: News
+  href: news.html
+
+- title: Contact
+  href: contact.html
+
 - title: About
   href: about.html
 
@@ -9,5 +27,3 @@
 
 - title: Documentation
   href: list/projects.html
-
-

@@ -60,6 +60,7 @@ GEM
 
 PLATFORMS
   arm64-darwin-20
+  x64-mingw-ucrt
 
 DEPENDENCIES
   jekyll (~> 4.2)
