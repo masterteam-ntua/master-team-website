@@ -85,7 +85,8 @@ ul.navbar-nav.ml-auto {
 .btn-custom {
   color: $white;
   background-color: $main-color;
-  padding: 0.5rem 4rem;
+  width: 12rem;
+  padding: 0.5rem 2.5rem;
   &:hover {
     color: $white;
     background-color: $main-color-light;

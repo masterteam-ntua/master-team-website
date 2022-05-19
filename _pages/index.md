@@ -45,11 +45,11 @@ header3: National Technical University of Athens
             your knowledge for an accelerated impact in healthcare? Then, you are welcome to apply!
         </p>
     </div>
-    <div class="row">
-        <button type="button" class="col-4 btn btn-custom">
+    <div class="row justify-content-between mt-4">
+        <button type="button" class="btn btn-custom">
             <i class="fa-regular fa-pen-to-square fa-lg mr-2"></i>Apply
         </button>
-        <button type="button" class="offset-md-3 col-4 btn btn-custom">
+        <button type="button" class="btn btn-custom">
             <i class="fa-solid fa-download fa-lg mr-2"></i>Brochure
         </button>
     </div>
