@@ -6,6 +6,7 @@ body {
 
 h1, h2 {
   font-weight: 600;
+  color: $main-color;
 }
 
 h3 {
@@ -14,9 +15,9 @@ h3 {
 
 .navbar {
   padding: 0;
-  background: #FFF;
-  border-bottom: 1px solid #ebe7e7;
-  box-shadow: 0 1px #f0f1f1;
+  background: $white;
+  border-bottom: 1px solid $main-grey;
+  box-shadow: 0 1px $light-grey;
 }
 
 .nav-item {
@@ -29,18 +30,18 @@ h3 {
 }
 
 .navbar-light .navbar-nav .nav-link {
-  color: #000 !important;
+  color: $black !important;
 }
 
 .site-logo {
-  height: 6rem;
+  height: 7rem;
 }
 
 .site-banner {
   display: flex;
   flex-direction: column;
   justify-content: center;
-  margin-top: 6.6rem;
+  margin-top: 7rem;
   padding: 2rem 0;
   min-height: 16rem;
   background-image: url('../img/banner-1.jpg');
@@ -49,8 +50,21 @@ h3 {
   h1 .header1 {
     color: $main-color;
   }
+  h2 {
+    color: $black;
+  }
 }
 
 .site-container {
-    padding-top: 2rem;
+  padding-top: 2rem;
+}
+
+.btn-custom {
+  color: $white;
+  background-color: $main-color;
+  padding: 0.5rem 4rem;
+  &:hover {
+    color: $white;
+    background-color: $main-color-light;
+  }
 }
