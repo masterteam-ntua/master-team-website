@@ -4,9 +4,22 @@ body {
   font-family: $text-font;
 }
 
-h1, h2 {
+h1 {
   font-weight: 600;
   color: $main-color;
+  @media (max-width: 1180px) {
+    word-break: break-word;
+    font-size: 2rem;
+  }
+}
+
+h2 {
+  font-weight: 600;
+  color: $main-color;
+  @media (max-width: 1180px) {
+    word-break: break-word;
+    font-size: 1.5rem;
+  }
 }
 
 h3 {
@@ -79,7 +92,8 @@ ul.navbar-nav.ml-auto {
 .btn-custom {
   color: $white;
   background-color: $main-color;
-  padding: 0.5rem 4rem;
+  width: 12rem;
+  padding: 0.5rem 2.5rem;
   &:hover {
     color: $white;
     background-color: $main-color-light;
