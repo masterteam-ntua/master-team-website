@@ -2,6 +2,10 @@
 layout: defaults/page
 permalink: contact.html
 narrow: true
+header0: MASTER
+header1: TEAM
+header2:
+header3: Contact
 ---
 
 <div class="container">

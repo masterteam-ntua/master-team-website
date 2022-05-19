@@ -2,9 +2,12 @@
 layout: defaults/page
 permalink: index.html
 narrow: true
+header0:
+header1: Master of Science
+header2: Translational Engineering in Health and Medicine
+header3: National Technical University of Athens
 # title: Welcome to Friday Theme
 ---
-
 <h2>Welcome to our Master TEAM!</h2>
 <div class="container">
     <div class="row">
@@ -37,7 +40,7 @@ narrow: true
         services. The program fosters a multidisciplinary and
         multisectoral approach through student internships in research
         labs, clinical departments, and industry.
-        </p> 
+        </p>
     </div>
 
     <hr />

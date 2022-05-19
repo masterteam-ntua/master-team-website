@@ -2,6 +2,10 @@
 layout: defaults/page
 permalink: courses.html
 narrow: true
+header0: MASTER
+header1: TEAM
+header2:
+header3: Courses
 ---
 
 <div class="container">
