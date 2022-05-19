@@ -14,8 +14,8 @@ header3: Program Overview
 ---
 
 <div class="container">
-    <div class="row">
-        <h2>
+    <div class="row flex-column">
+        <h2 class="my-3">
             Program Goals
         </h2>
         <p>
@@ -39,9 +39,7 @@ header3: Program Overview
                 agencies, and services in Greece and abroad
             </li>
         </ul>
-    </div>
-    <div class="row">
-        <h2>
+        <h2 class="my-3">
             Program Structure
         </h2>
         <p>
@@ -53,9 +51,7 @@ header3: Program Overview
             corresponding to a total of 60 credits (30 per semester) and [b] complete and successfully defend their M.Sc. thesis (30
             credits).
         </p>
-    </div>
-    <div class="row">
-        <h2>
+        <h2 class="my-3">
             Master Thesis
         </h2>
         <p>
@@ -63,17 +59,13 @@ header3: Program Overview
             the first year of studies, provided that the student has successfully completed at least half of the MSc program
             courses by that time. The writing language of the MSc thesis is English.
         </p>
-    </div>
-    <div class="row">
-        <h2>
+        <h2 class="my-3">
             Language of instruction
         </h2>
         <p>
             The courses of the program are taught in English.
         </p>
-    </div>
-    <div class="row">
-        <h2>
+        <h2 class="my-3">
             Organizers
         </h2>
         <p>
@@ -84,6 +76,4 @@ header3: Program Overview
             lectures and interact with students.
         </p>
     </div>
-
-
 </div>
