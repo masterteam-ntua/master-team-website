@@ -1,5 +1,5 @@
 ---
-layout: defaults/page
+layout: defaults/textpage
 permalink: admissions.html
 narrow: true
 header0: MASTER

@@ -11,8 +11,15 @@ h1, h2 {
 
 h3 {
   font-weight: 500;
+  color: $main-color;
 }
 
+.contact-info-box {
+  padding-top: 0.3rem;
+  p {
+    margin-bottom: 0.3rem;
+  }
+}
 .navbar {
   padding: 0;
   background: $white;

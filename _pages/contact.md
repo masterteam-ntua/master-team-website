@@ -1,5 +1,5 @@
 ---
-layout: defaults/page
+layout: defaults/textpage
 permalink: contact.html
 narrow: true
 header0: MASTER
@@ -9,41 +9,43 @@ header3: Contact
 ---
 
 <div class="container">
-    <div class="row">
-        <h3 class="col-12">Postal Address</h3>
-        <label class="col-12">National Technical University of Athens</label>
-        <label class="col-12">School of Electrical and Computer Engineering</label>
-        <label class="col-12">9, Iroon Polytechniou St</label>
-        <label class="col-12">Athens, Postal Code 157 8</label>
-    </div>
-    <div class="row">
-        <div class="col-6 contact-info-box">
-            <div class="row">
-                <h3 class="col-12">Secretariat of the Master Program</h3>
-                <span class="col-12">Unknown Yet</span>
-                <div class="col-12">
-                    <span><i class="fa fa-map-marker" area-hidden="true"></i>1st Floor, Room Γ.1.1, Electrical and Comp. Engineering</span>
-                </div>
-                <div class="col-12">
-                    <span><i class="f fa fa-phone" area-hidden="true"></i>210-772-xxxx</span>
-                </div>
-                <div class="col-12">
-                    <span><i class="f fa fa-envelope" area-hidden="true"></i>masterteam-info@ece.ntua.gr</span>
+    <div class="pt-1 pb-2">
+        <div class="row">
+            <h3 class="col-12">Postal Address</h3>
+            <label class="col-12">National Technical University of Athens</label>
+            <label class="col-12">School of Electrical and Computer Engineering</label>
+            <label class="col-12">9, Iroon Polytechniou St</label>
+            <label class="col-12">Athens, Postal Code 157 8</label>
+        </div>
+        <div class="row">
+            <div class="col-6 contact-info-box">
+                <div class="row">
+                    <h3 class="col-12">Secretariat of the Master Program</h3>
+                    <p class="col-12">Unknown Yet</p>
+                    <div class="col-12">
+                        <p><i class="fa fa-map-marker mr-2" area-hidden="true"></i>1st Floor, Room Γ.1.1, Electrical and Comp. Engineering</p>
+                    </div>
+                    <div class="col-12">
+                        <p><i class="f fa fa-phone mr-2" area-hidden="true"></i>210-772-xxxx</p>
+                    </div>
+                    <div class="col-12">
+                        <p><i class="f fa fa-envelope mr-2" area-hidden="true"></i>masterteam-info@ece.ntua.gr</p>
+                    </div>
                 </div>
             </div>
-        </div>
-        <div class="col-6 contact-info-box">
-            <div class="row">
-                <h3 class="col-12">Director of the Master Program</h3>
-                <span class="col-12">Konstantina Nikita</span>
-                <div class="col-12">
-                    <span><i class="fa fa-map-marker" area-hidden="true"></i>Office 1.1.17, 1st Floor, Old Electrical and Comp. Engineerin</span>
-                </div>
-                <div class="col-12">
-                    <span><i class="f fa fa-phone" area-hidden="true"></i>+30 (210) 7722285, +30 (210) 7722968</span>
-                </div>
-                <div class="col-12">
-                    <span><i class="f fa fa-envelope" area-hidden="true"></i>knikita@ece.ntua.gr</span>
+            <div class="col-6 contact-info-box">
+                <div class="row">
+                    <h3 class="col-12">Director of the Master Program</h3>
+                    <p class="col-12">Konstantina Nikita</p>
+                    <div class="col-12">
+                        <p><i class="fa fa-map-marker mr-2" area-hidden="true"></i>Office 1.1.17, 1st Floor, Old Electrical and Comp. Engineerin</p>
+                    </div>
+                    <div class="col-12">
+                        <p><i class="f fa fa-phone mr-2" area-hidden="true"></i>+30 (210) 7722285, +30 (210) 7722968</p>
+                    </div>
+                    <div class="col-12">
+                        <p><i class="f fa fa-envelope mr-2" area-hidden="true"></i>knikita@ece.ntua.gr</p>
+                    </div>
                 </div>
             </div>
         </div>
