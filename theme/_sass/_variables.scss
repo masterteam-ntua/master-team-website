@@ -3,10 +3,6 @@
 // https://github.com/twbs/bootstrap/blob/master/scss/_variables.scss
 // for things to override.
 
-// Set the primarys colour to green.
-$green: #28a745 !default;
-$primary: $green !default;
-
 // Website palette
 $main-color: #a01636;
 $main-color-light: #C02F51;
@@ -18,3 +14,7 @@ $white: #FFFFFF;
 
 // Typography
 $text-font: 'Montserrat';
+
+// Set the primarys colour to green.
+$green: #28a745 !default;
+$primary: $main-color-light !default;

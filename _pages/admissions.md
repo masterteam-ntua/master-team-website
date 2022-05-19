@@ -1,16 +1,16 @@
 ---
 layout: defaults/textpage
 permalink: admissions.html
-narrow: true
+narrow: false
 header0: MASTER
 header1: TEAM
 header2:
 header3: Admissions
+show_sidebar: false
 ---
-
 <div class="container">
-    <div class="row">
-        <h2>Eligibility</h2>
+    <div class="row flex-column">
+        <h2 class="my-3">Eligibility</h2>
         <p>
             Graduates from Universities in relevant Engineering, Sciences or Health Sciences disciplines (e.g. Electrical and Computer
             Engineering, Mechanical Engineering, Chemical Engineering, Computer Science, Physics, Chemistry, Medicine, Biology,
@@ -22,15 +22,13 @@ header3: Admissions
         <p>
             For the academic year 2022-2023, a maximum of 40 students will be selected and enrolled in the M.Sc. program.
         </p>
-    </div>
-    <div class="row">
-        <h2 >Application Material</h2>
+        <h2 class="my-3" >Application Material</h2>
         <label class="col-12 pl-0">The application consists of the following elements:</label>
         <ul>
             <li>
-                Copy of all university degrees/diplomas received.
+                Copy of all university degrees/diplomas received.<br/>
                 In case of degrees from foreign Universities, they must have been accompanied by a certification issued by the Hellenic
-                NARIC organization (DOATAP, http://www.doatap.gr/en/index.php). The recognition of the degree or certificate of completion
+                NARIC organization (<a href="http://www.doatap.gr/en/index.php" target="_blank" class="font-weight-bold">DOATAP</a>). The recognition of the degree or certificate of completion
                 of studies by the Hellenic NARIC (which can be submitted by the end of the program) is a precondition for obtaining the M.Sc.
                 degree.
             </li>
@@ -63,9 +61,7 @@ header3: Admissions
                 A photocopy of both sides of your identity card (pdf).
             </li>
         </ul>
-    </div>
-    <div class="row">
-        <h2>Selection Criteria</h2>
+        <h2 class="my-3">Selection Criteria</h2>
         <p>
             We welcome students from all over the world and consider all applicants on an individual basis. The admissions committee
             considers the totality of a candidate’s experience, skills, personality and potential, aiming for a diverse class of motivated
@@ -86,11 +82,9 @@ header3: Admissions
             age or disability. Our non-discrimination policy applies to all phases of the admission and scholarship process, and to all
             aspects of the educational programs and activities
         </p>
-    </div>
-    <div class="row">
-        <h2>Application Process</h2>
+        <h2 class="my-3">Application Process</h2>
         <p>
-            Applications should be submitted online at: www.ece.ntua.gr/gradapply/masterteam
+            Applications should be submitted online at: <a href="https://www.ece.ntua.gr/gradapply/masterteam" target="_blank">www.ece.ntua.gr/gradapply/masterteam</a>.
         </p>
         <p>
             The application deadline for the MSc in Translational Engineering in Health and Medicine for the academic year 2022-2023 is
