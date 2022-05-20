@@ -78,7 +78,7 @@ show_sidebar: false
         </p>
     </div>
     <div class="row flex-column">
-        <h2 class="my-3">Transport Services</h2>
+        <h3 class="my-3 colored-main">Transport Services</h3>
         <h4>Bus</h4>
         <p>
             Line 242 (Katechaki - Polytehneioupoli) enters from the Gate "Katechaki" and goes around the campus. Line 140 (Polygono-Glyfada) stops outside the Gate "Katechaki". Lines 230 (Acropolis - Polytechnioupoli) and 608 (Galatsi - Academy - Zografou)
@@ -98,7 +98,7 @@ show_sidebar: false
         </p>
     </div>
     <div class="row flex-column">
-        <h2 class="my-3">Map</h2>
+        <h3 class="my-3 colored-main">Map</h3>
         <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d6289.929409574721!2d23.783272000000004!3d37.977953!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14a197f449261011%3A0x7a5866ef6ff78274!2sSchool%20of%20Electrical%20and%20Computer%20Engineering!5e0!3m2!1sen!2sus!4v1653039216849!5m2!1sen!2sus" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
     </div>
 </div>

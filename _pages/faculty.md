@@ -11,63 +11,56 @@ show_sidebar: false
 <div class="container faculty-section mt-5">
   <div class="row">
     <div class="col-sm-4">
-      <div class="team-member">
-        <img class="mx-auto rounded-circle" src="{{ site.baseurl}}/theme/img/team/nikita.jpg" alt="Nikita">
-        <h4 class="mt-3">Nikita Konstantina</h4>
-        <h6>Chair, Professor</h6>
-        <p class="text-muted">
-          M.D., Ph.D.,<br/>
-          Director of Biomedical Simulations and Imaging Lab,<br/>
-          Faculty of Electrical and Computer Engineering, NTUA
-        </p>
-      </div>
+      {% include components/person-card.html
+        name="Nikita Konstantina"
+        image="/theme/img/team/nikita.jpg"
+        title="Chair, Professor"
+        description="M.D., Ph.D.,<br/>Director of Biomedical Simulations and Imaging Lab,<br/>Faculty of Electrical and Computer Engineering, NTUA"
+        cv=""
+        modalId="nikita-modal"
+      %}
     </div>
     <div class="col-sm-4">
-      <div class="team-member">
-        <img class="mx-auto rounded-circle" src="{{ site.baseurl}}/theme/img/team/alexopoulos.jpeg" alt="Alexopoulos">
-        <h4 class="mt-3">Alexopoulos Leonidas</h4>
-        <h6>Associate Professor</h6>
-        <p class="text-muted">
-          Head of the Systems Bioengineering Lab,<br/>
-          Co-founder of ProtATonce (biotech company),<br/>
-          Faculty of Mechanical Engineering, NTUA
-        </p>
-      </div>
+      {% include components/person-card.html
+        name="Alexopoulos Leonidas"
+        image="/theme/img/team/alexopoulos.jpeg"
+        title="Associate Professor"
+        description="Head of the Systems Bioengineering Lab,<br/>Co-founder of ProtATonce (biotech company),<br/>Faculty of Mechanical Engineering, NTUA"
+        cv=""
+        modalId="alexopoulos-modal"
+      %}
     </div>
     <div class="col-sm-4">
-      <div class="team-member">
-        <img class="mx-auto rounded-circle" src="{{ site.baseurl}}/theme/img/team/manopoulos.jpg" alt="Manopoulos">
-        <h4 class="mt-3">Manopoulos Christos</h4>
-        <h6>Associate Professor</h6>
-        <p class="text-muted">
-          Head of Fluids,<br/>
-          Faculty of Mechanical Engineering, NTUA
-        </p>
-      </div>
+      {% include components/person-card.html
+        name="Manopoulos Christos"
+        image="/theme/img/team/manopoulos.jpg"
+        title="Associate Professor"
+        description="Head of Fluids,<br/>Faculty of Mechanical Engineering, NTUA"
+        cv=""
+        modalId="manopoulos-modal"
+      %}
     </div>
   </div>
   <div class="row">
-    <div class="col-sm-4">
-      <div class="team-member">
-        <img class="mx-auto rounded-circle" src="{{ site.baseurl}}/theme/img/team/matsopoulos.png" alt="Matsopoulos">
-        <h4 class="mt-3">Matsopoulos George</h4>
-        <h6>Associate Professor</h6>
-        <p class="text-muted">
-          Division of Information Transmission Systems and Material Technology,<br/>
-          Faculty of Electrical and Computer Engineering, NTUA
-        </p>
-      </div>
+    <div class="col-sm-6">
+      {% include components/person-card.html
+        name="Matsopoulos George"
+        image="/theme/img/team/matsopoulos.png"
+        title="Associate Professor"
+        description="Division of Information Transmission Systems and Material Technology,<br/>Faculty of Electrical and Computer Engineering, NTUA"
+        cv=""
+        modalId="matsopoulos-modal"
+      %}
     </div>
-    <div class="col-sm-4">
-      <div class="team-member">
-        <img class="mx-auto rounded-circle" src="{{ site.baseurl}}/theme/img/team/golemati.jpg" alt="Golemati">
-        <h4 class="mt-3">Golemati Spyretta</h4>
-        <h6>Associate Professor</h6>
-        <p class="text-muted">
-          Biomedical Engineering,<br/>
-          Medical School of the University of Athens
-        </p>
-      </div>
+    <div class="col-sm-6">
+      {% include components/person-card.html
+        name="Golemati Spyretta"
+        image="/theme/img/team/golemati.jpg"
+        title="Associate Professor"
+        description="Biomedical Engineering,<br/>Medical School of the University of Athens"
+        cv=""
+        modalId="golemati-modal"
+      %}
     </div>
   </div>
 </div>
