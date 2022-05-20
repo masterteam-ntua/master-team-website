@@ -117,19 +117,60 @@ ul.navbar-nav.ml-auto {
   }
 }
 
-.faculty-section {
-  background-color: $light-grey;
-  padding: 4rem 3rem;
-}
-
 .team-member {
   margin-bottom: 3rem;
   text-align: center;
+  padding: 0.5rem;
   img {
+    margin-top: 0.5rem;
       width: 225px;
       height: 225px;
       border: 7px solid $grey-blue;
       object-fit: cover;
+  }
+  &:hover {
+    cursor: pointer;
+    background-color: $light-grey;
+  }
+}
+
+.person-modal {
+  max-width: 1120px;
+  @media (max-width: 1120px) {
+    max-width: 960px;
+  }
+  @media (max-width: 960px) {
+    max-width: 720px;
+  }
+  @media (max-width: 720px) {
+    max-width: 640px;
+  }
+  .modal-content {
+    .modal-header {
+      border: 0;
+    }
+    .modal-body {
+      margin-bottom: 1.5rem;
+      .row {
+        flex-direction: row;
+        .modal-image {
+          text-align: center;
+        }
+        @media (max-width: 960px) {
+          flex-direction: column;
+          align-items: center;
+          .modal-image {
+            width: 80% !important;
+            text-align: center;
+            padding-bottom: 1.5rem;
+          }
+        }
+      }
+      img {
+        object-fit: cover;
+        width: 90%;
+      }
+    }
   }
 }
 
