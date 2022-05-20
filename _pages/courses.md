@@ -1,15 +1,129 @@
 ---
 layout: defaults/textpage
 permalink: courses.html
-narrow: true
+narrow: false
 header0: MASTER
 header1: TEAM
 header2:
 header3: Courses
 ---
-
 <div class="container">
-    <div class="row">
+    <!-- Courses overview -->
+    <div class="row my-3">
+        <div class="col">
+            <table class="table table-bordered">
+                <thead>
+                    <tr>
+                        <th scope="col" colspan="2" class="t-head">Winter Semester</th>
+                    </tr>
+                    <tr>
+                        <th scope="col" class="t-subhead">Course</th>
+                        <th scope="col" class="t-subhead">ECTS</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td class="compulsory"><a class="table-link" href="#life-sciences">Life Sciences for Engineering <sup>(1)</sup></a></td>
+                        <td class="text-right">5</td>
+                    </tr>
+                    <tr>
+                        <td class="compulsory"><a class="table-link" href="#engineering-biomedicine">Engineering for Biomedicine <sup>(2)</sup></a></td>
+                        <td class="text-right">5</td>
+                    </tr>
+                    <tr>
+                        <td class="compulsory"><a class="table-link" href="#biostatistics-ml">Biostatistics and Machine Learning</a></td>
+                        <td class="text-right">5</td>
+                    </tr>
+                    <tr>
+                        <td class="compulsory"><a class="table-link" href="#biosignals-processing">Biosignal acquisition and processing</a></td>
+                        <td class="text-right">5</td>
+                    </tr>
+                    <tr>
+                        <td class="compulsory"><a class="table-link" href="#research-methodology">Research methodology</a></td>
+                        <td class="text-right">5</td>
+                    </tr>
+                    <tr>
+                        <td class="elective"><a class="table-link" href="#translational-bioinformatics">Translational bioinformatics</a></td>
+                        <td class="text-right">5</td>
+                    </tr>
+                    <tr>
+                        <td class="elective"><a class="table-link" href="#biomechanics">Biomechanics</a></td>
+                        <td class="text-right">5</td>
+                    </tr>
+                    <tr>
+                        <td class="elective"><a class="table-link" href="#biodesign-fundamentals">Biodesign Fundamentals</a></td>
+                        <td class="text-right">5</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+        <div class="col">
+            <table class="table table-bordered">
+                <thead>
+                    <tr>
+                        <th scope="col" colspan="2" class="t-head">Spring Semester</th>
+                    </tr>
+                    <tr>
+                        <th scope="col" class="t-subhead">Course</th>
+                        <th scope="col" class="t-subhead">ECTS</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td class="compulsory"><a class="table-link" href="#medical-imaging">Medical imaging and image analysis</a></td>
+                        <td class="text-right">5</td>
+                    </tr>
+                    <tr>
+                        <td class="compulsory"><a class="table-link" href="#computational-medicine">Computational modeling and simulation for medicine</a></td>
+                        <td class="text-right">5</td>
+                    </tr>
+                    <tr>
+                        <td class="compulsory"><a class="table-link" href="#ai-healthcare">Artificial Intelligence in healthcare</a></td>
+                        <td class="text-right">5</td>
+                    </tr>
+                    <tr>
+                        <td class="elective"><a class="table-link" href="#biomems">BioMEMS</a></td>
+                        <td class="text-right">5</td>
+                    </tr>
+                    <tr>
+                        <td class="elective"><a class="table-link" href="#introduction-neuroscience">Introduction to neuroscience and neural engineering</a></td>
+                        <td class="text-right">5</td>
+                    </tr>
+                    <tr>
+                        <td class="elective"><a class="table-link" href="#healthcare-robotics">Healthcare robotics</a></td>
+                        <td class="text-right">5</td>
+                    </tr>
+                    <tr>
+                        <td class="elective"><a class="table-link" href="#biodesign-advanced">Biodesign Innovation Process <sup>(3)</sup></a></td>
+                        <td class="text-right">5</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+    <div class="row mb-5 pb-3">
+        <div class="col">
+            <div class="font-italic">
+                (1) Compulsory course for Engineers<br/>
+                (2) Compulsory course for health scientists<br/>
+                (3) Prerequisite: Biodesign Fundamentals
+            </div>
+        </div>
+        <div class="col">
+            <div class="float-right">
+                <div class="row mb-2">
+                    <div class="table-legend compulsory"></div>
+                    <div class="d-inline-block">Compulsory</div>
+                </div>
+                <div class="row">
+                    <div class="table-legend elective"></div>
+                    <div class="d-inline-block">Elective</div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Courses description -->
+    <div class="row subject-block" id="life-sciences">
         <h2>
             Life Sciences for Engineering
         </h2>
@@ -24,7 +138,7 @@ header3: Courses
             relationship between recent advances in biomedical engineering and the underlying anatomy and physiology.
         </p>
     </div>
-    <div class="row">
+    <div class="row subject-block" id="engineering-biomedicine">
         <h2>
             Engineering for Biomedicine
         </h2>
@@ -40,9 +154,9 @@ header3: Courses
             evaluate and use these technologies in healthcare and medicine
         </p>
     </div>
-    <div class="row">
+    <div class="row subject-block" id="biostatistics-ml">
         <h2>
-            Biostatistics and Mahine Learning
+            Biostatistics and Machine Learning
         </h2>
         <p>
             This course provides an introduction to statistical methods used in biological and medical research. Elementary
@@ -55,7 +169,7 @@ header3: Courses
             (SVMs), as well as principles of unsupervised learning, including clustering and density estimation.
         </p>
     </div>
-    <div class="row">
+    <div class="row subject-block" id="biosignals-processing">
         <h2>
             Biosignal acquisition and processing
         </h2>
@@ -70,7 +184,7 @@ header3: Courses
             biomedical signals, and critically evaluate their performance.
         </p>
     </div>
-    <div class="row">
+    <div class="row subject-block" id="research-methodology">
         <h2>
             Research Methodology
         </h2>
@@ -87,7 +201,7 @@ header3: Courses
             Getting research funding, Disseminating research.
         </p>
     </div>
-    <div class="row">
+    <div class="row subject-block" id="translational-bioinformatics">
         <h2>
             Translational Bioinformatics
         </h2>
@@ -103,7 +217,7 @@ header3: Courses
             drug discovery, and mobile/digital health solutions.
         </p>
     </div>
-    <div class="row">
+    <div class="row subject-block" id="biomechanics">
         <h2>
             Biomechanics
         </h2>
@@ -116,7 +230,7 @@ header3: Courses
             and urinary systems are discussed.
         </p>
     </div>
-    <div class="row">
+    <div class="row subject-block" id="biodesign-fundamentals">
         <h2>
             Biodesign Fundamentals
         </h2>
@@ -129,7 +243,7 @@ header3: Courses
             the course “Biodesign Innovation Process”.
         </p>
     </div>
-    <div class="row">
+    <div class="row subject-block" id="medical-imaging">
         <h2>
             Medical Imaging and Image Analysis
         </h2>
@@ -147,7 +261,7 @@ header3: Courses
             sources; Linking imaging data to clinical data and phenotypes.
         </p>
     </div>
-    <div class="row">
+    <div class="row subject-block" id="computational-medicine">
         <h2>
             Computational modeling and simulation for Medicine
         </h2>
@@ -161,7 +275,7 @@ header3: Courses
             manufacturing using 3D printing technology.
         </p>
     </div>
-    <div class="row">
+    <div class="row subject-block" id="introduction-neuroscience">
         <h2>
             Introduction to neuroscience and neural engineering
         </h2>
@@ -175,7 +289,7 @@ header3: Courses
             and self-organization.
         </p>
     </div>
-    <div class="row">
+    <div class="row subject-block" id="biomems">
         <h2>
             BioMicroElectroMechanical Systems (BioMEMS)
         </h2>
@@ -186,7 +300,7 @@ header3: Courses
             actuators, and (iii) BioMEMS applications.
         </p>
     </div>
-    <div class="row">
+    <div class="row subject-block" id="ai-healthcare">
         <h2>
             Artificial Intelligence in Healthcare
         </h2>
@@ -199,7 +313,7 @@ header3: Courses
             conceptual understanding and practical grounding of cutting-edge research on AI in healthcare
         </p>
     </div>
-    <div class="row">
+    <div class="row subject-block" id="healthcare-robotics">
         <h2>
             Healthcare robotics
         </h2>
@@ -213,7 +327,7 @@ header3: Courses
             rehabilitation technologies; upper limb rehabilitation robots; wearable exoskeletons and sensors; implanted neural interfaces.
         </p>
     </div>
-    <div class="row">
+    <div class="row subject-block" id="biodesign-advanced">
         <h2>
             Biodesign Innovation Process (prerequisite: Biodesign Fundamentals)
         </h2>
@@ -227,5 +341,4 @@ header3: Courses
             medical sector.
         </p>
     </div>
-
 </div>

@@ -174,6 +174,47 @@ ul.navbar-nav.ml-auto {
   }
 }
 
+.compulsory {
+  background-color: $grey-blue;
+}
+.elective {
+  background-color: $light-grey;
+}
+.t-head {
+  background-color: $main-color;
+  color: $white;
+}
+.t-subhead {
+  background-color: $main-color-lighter;
+  color: $main-color;
+}
+td {
+  margin: 0.25rem;
+}
+a.table-link {
+  color: $black;
+  &:hover {
+    color: $main-color;
+    font-weight: 500;
+  }
+}
+.table-legend {
+  display: inline-block;
+  height: 24px;
+  width: 24px;
+  margin-right: 0.5rem;
+  border: 1px solid black;
+}
+// This is used to be able to scroll at the correct point without navbar messing with the view
+.subject-block {
+  padding-top: 113px;
+  margin-top: -113px;
+  @media (max-width: 991px) {
+    padding-top: 85px;
+    margin-top: -85px;
+  }
+}
+
 a.map-section {
   width: fit-content;
 }
