@@ -45,7 +45,7 @@ defaults:
     scope:
       path: ""
     values:
-      show_profile: false
+      show_profile: true
   -
     scope:
       path: "_posts"

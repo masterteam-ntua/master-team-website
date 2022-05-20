@@ -6,45 +6,63 @@ header0: MASTER
 header1: TEAM
 header2:
 header3: Contact
+show_sidebar: false
 ---
-
 <div class="container">
-    <div class="pt-1 pb-2">
+    <div class="row pt-1 pb-2">
         <div class="row">
-            <h2 class="my-3" class="col-12">Postal Address</h2>
+            <h2 class="my-3 col-12">Postal Address</h2>
             <label class="col-12">National Technical University of Athens</label>
             <label class="col-12">School of Electrical and Computer Engineering</label>
             <label class="col-12">9, Iroon Polytechniou St</label>
             <label class="col-12">Athens, Postal Code 157 8</label>
         </div>
-        <div class="row">
-            <div class="col-6 contact-info-box">
+        <div class="row contact-persons">
+            <div class="col contact-info-box">
                 <div class="row">
-                    <h2 class="my-3" class="col-12">Secretariat of the Master Program</h2>
+                    <h3 class="my-3 col-12 colored-main">Secretariat of the Master Program</h3>
                     <p class="col-12">Unknown Yet</p>
                     <div class="col-12">
-                        <p><i class="fa fa-map-marker mr-2" area-hidden="true"></i>1st Floor, Room Γ.1.1, Electrical and Comp. Engineering</p>
+                        <p>
+                            <i class="fa-solid fa-location-dot fa-lg mr-2"></i>
+                            1st Floor, Room Γ.1.1, Electrical and Comp. Engineering
+                        </p>
                     </div>
                     <div class="col-12">
-                        <p><i class="f fa fa-phone mr-2" area-hidden="true"></i>210-772-xxxx</p>
+                        <p>
+                            <i class="fa-solid fa-phone fa-lg mr-2"></i>
+                            <a href="tel:+302107720000">+30 (210) 772-xxxx</a>
+                        </p>
                     </div>
                     <div class="col-12">
-                        <p><i class="f fa fa-envelope mr-2" area-hidden="true"></i>masterteam-info@ece.ntua.gr</p>
+                        <p>
+                            <i class="fa-solid fa-envelope fa-lg mr-2"></i>
+                            <a href="mailto:masterteam-info@ece.ntua.gr">masterteam-info@ece.ntua.gr</a>
+                        </p>
                     </div>
                 </div>
             </div>
-            <div class="col-6 contact-info-box">
+            <div class="col contact-info-box">
                 <div class="row">
-                    <h2 class="my-3" class="col-12">Director of the Master Program</h2>
+                    <h3 class="my-3 col-12 colored-main">Director of the Master Program</h3>
                     <p class="col-12">Konstantina Nikita</p>
                     <div class="col-12">
-                        <p><i class="fa fa-map-marker mr-2" area-hidden="true"></i>Office 1.1.17, 1st Floor, Old Electrical and Comp. Engineerin</p>
+                        <p>
+                            <i class="fa-solid fa-location-dot fa-lg mr-2"></i>
+                            Office 1.1.17, 1st Floor, Old Electrical and Comp. Engineering
+                        </p>
                     </div>
                     <div class="col-12">
-                        <p><i class="f fa fa-phone mr-2" area-hidden="true"></i>+30 (210) 7722285, +30 (210) 7722968</p>
+                        <p>
+                            <i class="fa-solid fa-phone fa-lg mr-2"></i>
+                            <a href="tel:+302107722285">+30 (210) 7722285</a>, <a href="tel:+302107722968">+30 (210) 7722968</a>
+                        </p>
                     </div>
                     <div class="col-12">
-                        <p><i class="f fa fa-envelope mr-2" area-hidden="true"></i>knikita@ece.ntua.gr</p>
+                        <p>
+                            <i class="fa-solid fa-envelope fa-lg mr-2"></i>
+                            <a href="mailto:knikita@ece.ntua.gr">knikita@ece.ntua.gr</a>
+                        </p>
                     </div>
                 </div>
             </div>
@@ -81,8 +99,6 @@ header3: Contact
     </div>
     <div class="row flex-column">
         <h2 class="my-3">Map</h2>
-        <a href="https://goo.gl/maps/472c8izi5bExKbP5A" target="_blank" class="map-section">
-          <img src="{{ site.baseurl}}/theme/img/map.jpg" alt="ntua_map">
-        </a>
+        <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d6289.929409574721!2d23.783272000000004!3d37.977953!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14a197f449261011%3A0x7a5866ef6ff78274!2sSchool%20of%20Electrical%20and%20Computer%20Engineering!5e0!3m2!1sen!2sus!4v1653039216849!5m2!1sen!2sus" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
     </div>
 </div>

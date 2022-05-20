@@ -27,9 +27,11 @@
                 {{ content }}
             </div>
         {% endif %}
-        <div class="col-md-12 d-lg-none bottom">
-            {% include bars/bottom.html %}
-        </div>
+        {% if page.show_bottombar %}
+            <div class="col-md-12 d-lg-none bottom">
+                {% include bars/bottom.html %}
+            </div>
+        {% endif %}
     </div>
 </div>
 

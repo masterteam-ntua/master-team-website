@@ -27,12 +27,26 @@ h3 {
   // color: $main-color;
 }
 
-.contact-info-box {
-  padding-top: 0.3rem;
-  p {
-    margin-bottom: 0.3rem;
+.colored-main {
+  color: $main-color;
+}
+
+.contact-persons {
+  display: flex;
+  @media (max-width: 1199px) {
+    flex-direction: column;
+  }
+  @media (min-width: 1200px) {
+    flex-direction: row;
+  }
+  .contact-info-box {
+    padding-top: 0.3rem;
+    p {
+      margin-bottom: 0.3rem;
+    }
   }
 }
+
 .navbar {
   padding: 0;
   background: $white;

@@ -6,6 +6,7 @@ header0:
 header1: Master of Science
 header2: Translational Engineering in Health and Medicine
 header3: National Technical University of Athens
+show_sidebar: true
 ---
 <h2>Welcome to our Master TEAM!</h2>
 <div class="container">
