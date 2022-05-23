@@ -49,7 +49,7 @@ show_sidebar: true
             </div>
         </div>
         <div class="col-4 pl-0 pr-0">
-            <div class="card colored-main text-white key-information-box">
+            <div class="card colored-main text-white background-color-main">
                 <div class="card-body">
                         <h5 class="card-title text-center">KEY INFORMATION</h5>
                         <div class="card-text text-left">

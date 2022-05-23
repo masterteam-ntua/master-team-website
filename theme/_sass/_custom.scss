@@ -224,10 +224,11 @@ a.map-section {
   width: fit-content;
 }
 
-.contact-us-box {
-  background-color: $main-color
+.background-color-main {
+  background-color: $main-color;
 }
 
-.key-information-box {
-  background-color: $main-color
+.custom-footer {
+  padding-top: 0.5rem !important;
+  padding-bottom: 0.5rem !important;
 }
