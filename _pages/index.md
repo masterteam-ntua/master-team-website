@@ -47,17 +47,9 @@ show_sidebar: true
                     your knowledge for an accelerated impact in healthcare? Then, you are welcome to apply!
                 </p>
             </div>
-            <div class="col-12 justify-content-between mt-4">
-                <button type="button" class="btn btn-custom">
-                    <i class="fa-regular fa-pen-to-square fa-lg mr-2"></i>Apply
-                </button>
-                <button type="button" class="btn btn-custom">
-                    <i class="fa-solid fa-download fa-lg mr-2"></i>Brochure
-                </button>
-            </div>
         </div>
         <div class="col-4 pl-0 pr-0">
-            <div class="card bg-light key-information-box">
+            <div class="card colored-main text-white key-information-box">
                 <div class="card-body">
                         <h5 class="card-title text-center">KEY INFORMATION</h5>
                         <div class="card-text text-left">
@@ -69,17 +61,13 @@ show_sidebar: true
                         </div>
                 </div>
             </div>
-            <div class="mt-3 card text-white contact-us-box">
-                <div class="card-body">
-                        <h5 class="card-title text-center">CONTACT US</h5>
-                        <div class="card-text text-left">
-                            <label class="mb-0"><strong>Duration:</Strong> 12 months</label>
-                            <label class="mb-0"><strong>Start Date:</Strong> October 2022</label>
-                            <label class="mb-0"><strong>Location:</Strong> NTUA Campus</label>
-                            <label class="mb-0"><strong>Language:</Strong> English</label>
-                            <label class="mb-0"><strong>ECTS:</Strong> 90 credits</label>
-                        </div>
-                </div>
+            <div class="col-12 mt-4 pl-0 pr-0 ">
+                <button type="button" class="btn btn-custom apply-btn">
+                    <i class="fa-regular fa-pen-to-square fa-lg mr-2"></i>Apply
+                </button>
+                <button type="button" class="btn btn-custom mt-3">
+                    <i class="fa-solid fa-download fa-lg mr-2"></i>Brochure
+                </button>
             </div>
         </div>
     </div>

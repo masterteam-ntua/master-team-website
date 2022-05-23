@@ -109,12 +109,17 @@ ul.navbar-nav.ml-auto {
 .btn-custom {
   color: $white;
   background-color: $main-color;
-  width: 10rem;
+  width: 100%;
   padding: 0.5rem 1.5rem;
   &:hover {
     color: $white;
     background-color: $main-color-light;
   }
+}
+
+.apply-btn {
+  color: $main-color;
+  background-color: #d7d7d7;
 }
 
 .team-member {
@@ -224,5 +229,5 @@ a.map-section {
 }
 
 .key-information-box {
-  color: $main-color
+  background-color: $main-color
 }
