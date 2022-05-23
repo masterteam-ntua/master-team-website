@@ -11,7 +11,10 @@ show_sidebar: false
 <div class="container">
     <div class="row pt-1 pb-2">
         <div class="row">
-            <h2 class="my-3 col-12">Postal Address</h2>
+            <div class="col-12">
+                <h2 class="my-3">Postal Address</h2>
+                <hr/>
+            </div>
             <label class="col-12">National Technical University of Athens</label>
             <label class="col-12">School of Electrical and Computer Engineering</label>
             <label class="col-12">9, Iroon Polytechniou St</label>
@@ -20,7 +23,10 @@ show_sidebar: false
         <div class="row contact-persons">
             <div class="col contact-info-box">
                 <div class="row">
-                    <h3 class="my-3 col-12 colored-main">Secretariat of the Master Program</h3>
+                    <div class="col-12">
+                        <h3 class="my-3 colored-main">Secretariat of the Master Program</h3>
+                        <hr/>
+                    </div>
                     <p class="col-12">Unknown Yet</p>
                     <div class="col-12">
                         <p>
@@ -44,7 +50,10 @@ show_sidebar: false
             </div>
             <div class="col contact-info-box">
                 <div class="row">
-                    <h3 class="my-3 col-12 colored-main">Director of the Master Program</h3>
+                    <div class="col-12">
+                        <h3 class="my-3 colored-main">Director of the Master Program</h3>
+                        <hr/>
+                    </div>
                     <p class="col-12">Konstantina Nikita</p>
                     <div class="col-12">
                         <p>
