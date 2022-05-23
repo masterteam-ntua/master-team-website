@@ -71,4 +71,50 @@ show_sidebar: true
             </div>
         </div>
     </div>
+    <div class="row">
+        <div class="custom-information-box col-12">
+            <div class="row">
+                <div class="information-box-component col-2 offset-md-1">
+                    <label class="title">
+                        FACULTY
+                    </label>
+                    <p>
+                        Learn from professors and researchers from top-ranking engineering Schools at a world-class technical university.
+                    </p>
+                </div>
+                <div class="information-box-component col-2">
+                    <label class="title">
+                        CURRICULUM
+                    </label>
+                    <p>
+                        Academically rigorous coursework that links research-backed concepts to practice and accelerates impact in the healthcare domain.
+                    </p>
+                </div>
+                <div class="information-box-component col-2">
+                    <label class="title">
+                        ENTERPREUNERSHIP
+                    </label>
+                    <p>
+                        Cultivate enterpreneurial skills to deliver high-impact solutions powered by deep science and technology.                   
+                    </p>
+                </div>
+                <div class="information-box-component col-2">
+                    <label class="title">
+                        GLOBAL COHORT
+                    </label>
+                    <p>
+                        Gain hands-on experience in the healthcare domain and build your professional network by interacting and connecting with a diverse community of experts from the industry, clinical sector, and regulatory bodies.                    
+                    </p>
+                </div>
+                <div class="information-box-component col-2">
+                    <label class="title">
+                        STRATEGIC COLLABORATIONS
+                    </label> 
+                    <p>
+                        Opportunities for internships and a richer academic experience are available to students through a strategic collaboration with Columbia University and the support of the Bodossakis Foundation.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
 </div>

@@ -232,3 +232,23 @@ a.map-section {
   padding-top: 0.5rem !important;
   padding-bottom: 0.5rem !important;
 }
+
+.custom-information-box {
+  width: 100%;
+  background-color: #eae7e7;
+  text-align: center;
+}
+
+.stuff {
+  border-right: 1px dotted $main-color;
+  overflow: auto;
+
+}
+
+.custom-information-box p {
+  word-break: break-all;
+}
+
+.custom-information-box label {
+  color: $main-color;
+}
