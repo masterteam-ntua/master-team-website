@@ -119,7 +119,7 @@ ul.navbar-nav.ml-auto {
 
 .apply-btn {
   color: $main-color;
-  background-color: #d7d7d7;
+  background-color: $medium-grey;
 }
 
 .team-member {
@@ -235,20 +235,26 @@ a.map-section {
 
 .custom-information-box {
   width: 100%;
-  background-color: #eae7e7;
+  background-color: $main-color-lighter;
   text-align: center;
+  padding: 0.5rem;
+  .information-box-component {
+    border-left: 2px dotted $main-color;
+    &:first-child {
+      border-left: none;
+    }
+    label.title {
+      display: inline-flex;
+      align-items: center;
+      min-height: 3rem;
+      color: $main-color;
+      font-weight: bold;
+    }
+  }
 }
 
 .stuff {
   border-right: 1px dotted $main-color;
   overflow: auto;
 
-}
-
-.custom-information-box p {
-  word-break: break-all;
-}
-
-.custom-information-box label {
-  color: $main-color;
 }
