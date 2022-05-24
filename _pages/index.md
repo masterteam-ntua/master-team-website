@@ -20,12 +20,7 @@ show_sidebar: true
                     improve the public and individual health.
                 </p>
                 <p>
-                    The M.Sc. in Translational Engineering in Health and Medicine, organized by the National
-                    Technical University of Athens (NTUA), is designed to prepare students to pioneer the
-                    transformation of innovative technologies into commercial devices and services with a
-                    significant socioeconomic impact in the field of Health. The program builds on NTUA's
-                    decades of foundational work in biomedical engineering and science and focuses on cultivating
-                    deep knowledge and catalyzing interdisciplinary efforts to address urgent healthcare challenges.
+                    The M.Sc. in Translational Engineering in Health and Medicine, organized by the <a href="https://www.ece.ntua.gr">School of Electrical and Computer Engineering</a> of the <a href="https://www.ntua.gr">National Technical University of Athens</a>, in collaboration with the <a href="https://www.mech.ntua.gr">School of Mechanical Engineering</a>, is designed to prepare students to pioneer the transformation of innovative technologies into commercial devices and services with a significant socioeconomic impact in the field of Health. The program builds on NTUA's decades of foundational work in biomedical engineering and science and focuses on cultivating deep knowledge and catalyzing interdisciplinary efforts to address urgent healthcare challenges.
                 </p>
                 <p>
                     Students study and work on cutting-edge topics in biomedical data science and artificial
