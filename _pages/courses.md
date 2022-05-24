@@ -14,7 +14,7 @@ header3: Courses
             <table class="table table-bordered">
                 <thead>
                     <tr>
-                        <th scope="col" colspan="2" class="t-head">Winter Semester</th>
+                        <th scope="col" colspan="2" class="t-head text-center">Winter Semester</th>
                     </tr>
                     <tr>
                         <th scope="col" class="t-subhead">Course</th>
@@ -61,7 +61,7 @@ header3: Courses
             <table class="table table-bordered">
                 <thead>
                     <tr>
-                        <th scope="col" colspan="2" class="t-head">Spring Semester</th>
+                        <th scope="col" colspan="2" class="t-head text-center">Spring Semester</th>
                     </tr>
                     <tr>
                         <th scope="col" class="t-subhead">Course</th>
@@ -103,7 +103,7 @@ header3: Courses
     </div>
     <div class="row mb-5 pb-3">
         <div class="col">
-            <div class="font-italic">
+            <div>
                 (1) Compulsory course for Engineers<br/>
                 (2) Compulsory course for health scientists<br/>
                 (3) Prerequisite: Biodesign Fundamentals

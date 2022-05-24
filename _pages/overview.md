@@ -30,11 +30,11 @@ header3: Program Overview
             The goal of this Master's program is to provide students with:
         </p>
         <ul>
-            <li>The scientific, technological, regulatory, and business skills necessary to translate scientific discoveries into
+            <li class="mb-3">The scientific, technological, regulatory, and business skills necessary to translate scientific discoveries into
                 public health benefits</li>
-            <li>advanced research abilities so that they can conduct independent research and contribute to the creation
+            <li class="mb-3">advanced research abilities so that they can conduct independent research and contribute to the creation
                 of new knowledge in the field of Translational Engineering in Health and Medicine</li>
-            <li>professional skills that will enable them to serve as healthcare executives with specialized knowledge in
+            <li class="mb-3">professional skills that will enable them to serve as healthcare executives with specialized knowledge in
                 the scientific areas of this program and meet the growing needs of private and public enterprises,
                 agencies, and services in Greece and abroad
             </li>

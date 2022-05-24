@@ -17,7 +17,7 @@ show_sidebar: false
             Molecular Biology, Biochemistry, Pharmacy, Dentistry, Biotechnology, (Bio)informatics, Nursing and other relevant disciplines)
             are eligible, upon selection, provided that they meet all the necessary requirements for successful attendance of the courses.
             The program is open to graduates of domestic institutions or equivalent foreign institutions recognized by the Hellenic
-            National Academic Recognition and Information Center - NARIC (ΔΟΑΤΑΠ), according to Law ν.3685/2008.
+            National Academic Recognition and Information Center - NARIC (<a href="http://www.doatap.gr/en/index.php" target="_blank" class="font-weight-bold">DOATAP</a>), according to Law ν.3685/2008.
         </p>
         <p>
             For the academic year 2022-2023, a maximum of 40 students will be selected and enrolled in the M.Sc. program.
@@ -25,39 +25,39 @@ show_sidebar: false
         <h2 class="my-3" >Application Material</h2>
         <label class="col-12 pl-0">The application consists of the following elements:</label>
         <ul>
-            <li>
+            <li class="mb-3">
                 Copy of all university degrees/diplomas received.<br/>
                 In case of degrees from foreign Universities, they must have been accompanied by a certification issued by the Hellenic
                 NARIC organization (<a href="http://www.doatap.gr/en/index.php" target="_blank" class="font-weight-bold">DOATAP</a>). The recognition of the degree or certificate of completion
                 of studies by the Hellenic NARIC (which can be submitted by the end of the program) is a precondition for obtaining the M.Sc.
                 degree.
             </li>
-            <li>
+            <li class="mb-3">
                 Certificate of equivalence for degrees from foreign Universities, issued by DOATAP/Hellenic NARIC (or proof that an
                 application for certification has been filed -- admission is contingent on submission of certificate by the Program
                 enrollment date)
             </li>
-            <li>
+            <li class="mb-3">
                 Copy of transcripts of grades in Greek or English. Accepted candidates must submit official transcripts.
             </li>
-            <li>
+            <li class="mb-3">
                 Certificate of Proficiency in English (at least level B2)
             </li>
-            <li>
+            <li class="mb-3">
                 Two Letters of Recommendation
             </li>
-            <li>
+            <li class="mb-3">
                 Resume/CV in English, which will include all information about the candidate's education, research of professional activity
                 and interests.
             </li>
-            <li>
+            <li class="mb-3">
                 Personal Statement.
             </li>
-            <li>
+            <li class="mb-3">
                 Evidence of research experience (if any). Candidates may submit a list of journal or conference publications (if any) and/or
                 a one-page summary of their Undergraduate Research Thesis in English (if any) (pdf).
             </li>
-            <li>
+            <li class="mb-3">
                 A photocopy of both sides of your identity card (pdf).
             </li>
         </ul>
@@ -105,7 +105,7 @@ show_sidebar: false
         </p>
         <p>
             For clarifications and any other information, interested parties may contact the Secretariat or the Director of the M.Sc.
-            program via email or phone. Contact information can be found at Contact page.
+            program via email or phone. Contact information can be found at <a href="{{site.baseurl}}/contact">Contact</a> page.
         </p>
     </div>
 

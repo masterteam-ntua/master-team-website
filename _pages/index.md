@@ -1,7 +1,7 @@
 ---
 layout: defaults/page
 permalink: /
-narrow: true
+narrow: false
 header0:
 header1: Master of Science
 header2: Translational Engineering in Health and Medicine

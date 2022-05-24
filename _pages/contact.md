@@ -12,7 +12,7 @@ show_sidebar: false
     <div class="row pt-1 pb-2">
         <div class="row">
             <div class="col-12">
-                <h2 class="my-3">Postal Address</h2>
+                <h3 class="my-3 colored-main">Postal Address</h3>
                 <hr/>
             </div>
             <label class="col-12">National Technical University of Athens</label>
@@ -77,8 +77,11 @@ show_sidebar: false
             </div>
         </div>
     </div>
-    <div class="row">
-        <h2 class="my-3">Access to Zografou Campus</h2>
+    <div class="row mt-4">
+        <div>
+            <h3 class="my-3 colored-main">Access to Zografou Campus</h3>
+            <hr/>
+        </div>
         <p>
             The School is situated in two buildings inside the Zografou Campus, the Old and New ECE buildings. The secretariats and the
             administrative services are in the New buildings, while the faculty offices are both in the New buildings and in the Old buildings.
@@ -87,19 +90,22 @@ show_sidebar: false
         </p>
     </div>
     <div class="row flex-column">
-        <h3 class="my-3 colored-main">Transport Services</h3>
-        <h4>Bus</h4>
+        <div>
+            <h3 class="my-3 colored-main">Transport Services</h3>
+            <hr/>
+        </div>
+        <h3 class="colored-main">Bus</h3>
         <p>
             Line 242 (Katechaki - Polytehneioupoli) enters from the Gate "Katechaki" and goes around the campus. Line 140 (Polygono-Glyfada) stops outside the Gate "Katechaki". Lines 230 (Acropolis - Polytechnioupoli) and 608 (Galatsi - Academy - Zografou)
             stop near the Gate "Zografou". Please consult the website of OASA (Athens Urban Transport Organization) for complete
             itineraries.
         </p>
-        <h4>Metro</h4>
+        <h3 class="colored-main">Metro</h3>
         <p>
             The nearest station is “Katechaki”. From there you can get the bus lines 140 and 242. On weekdays during 8.00-9.30, the
             university is accessible from the station "Katechaki" with bus granted by the rectory
         </p>
-        <h4>Car</h4>
+        <h3 class="colored-main">Car</h3>
         <p>
             Cars enter the campus mainly from gates “Katechaki” and “Kokkinopoulou”. The gate “Zografou” in Iroon Polytechniou street is
             open for cars only from 07:00 to 09:00 and from 14:00 to 16:00. Inside the premises there are sufficient parking places for the
