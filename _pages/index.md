@@ -6,9 +6,9 @@ header0:
 header1: Master of Science
 header2: Translational Engineering in Health and Medicine
 header3: National Technical University of Athens
-show_sidebar: true
+show_sidebar: false
 ---
-<div class="container">
+<div class="container pb-5">
     <div class="row">
         <div class="col-8 pl-0 pr-0">
             <div class="col-12">
@@ -33,7 +33,7 @@ show_sidebar: true
                 </p>
             </div>
             <div class="col-12">
-                <h2>Who can apply? </h2>
+                <h2>Who can apply?</h2>
                 <p>
                     Do you have a degree in Engineering, Life Sciences, or a similar field? Are you interested in
                     discovering new knowledge at the interface of Engineering and Life Sciences? Do you enjoy
@@ -66,50 +66,69 @@ show_sidebar: true
             </div>
         </div>
     </div>
-    <div class="row">
+    <div class="row mt-4 pl-2">
         <div class="custom-information-box col-12">
             <div class="row">
-                <div class="information-box-component col-2 offset-md-1">
+                <div class="information-box-component col">
                     <label class="title">
                         FACULTY
                     </label>
-                    <p>
+                    <p class="text">
                         Learn from professors and researchers from top-ranking engineering Schools at a world-class technical university.
                     </p>
                 </div>
-                <div class="information-box-component col-2">
+                <div class="information-box-component col">
                     <label class="title">
                         CURRICULUM
                     </label>
-                    <p>
+                    <p class="text">
                         Academically rigorous coursework that links research-backed concepts to practice and accelerates impact in the healthcare domain.
                     </p>
                 </div>
-                <div class="information-box-component col-2">
+                <div class="information-box-component col">
                     <label class="title">
                         ENTERPREUNERSHIP
                     </label>
-                    <p>
+                    <p class="text">
                         Cultivate enterpreneurial skills to deliver high-impact solutions powered by deep science and technology.                   
                     </p>
                 </div>
-                <div class="information-box-component col-2">
+                <div class="information-box-component col">
                     <label class="title">
                         GLOBAL COHORT
                     </label>
-                    <p>
+                    <p class="text">
                         Gain hands-on experience in the healthcare domain and build your professional network by interacting and connecting with a diverse community of experts from the industry, clinical sector, and regulatory bodies.                    
                     </p>
                 </div>
-                <div class="information-box-component col-2">
+                <div class="information-box-component col">
                     <label class="title">
                         STRATEGIC COLLABORATIONS
-                    </label> 
-                    <p>
+                    </label>
+                    <p class="text">
                         Opportunities for internships and a richer academic experience are available to students through a strategic collaboration with Columbia University and the support of the Bodossakis Foundation.
                     </p>
                 </div>
             </div>
         </div>
+    </div>
+    <div class="row mt-5 pl-2">
+        <h2>To learn more about what we're building, sign up for our newsletter!</h2>
+        <form class="mt-4 w-100">
+          <div class="form-group">
+            <label for="inputFirstName" class="font-weight-bold">First Name</label>
+            <input type="text" class="form-control" id="inputFirstName" placeholder="Enter first name" required>
+          </div>
+          <div class="form-group">
+            <label for="inputLastName" class="font-weight-bold">Last Name</label>
+            <input type="text" class="form-control" id="inputLastName" placeholder="Enter last name" required>
+          </div>
+          <div class="form-group">
+            <label for="inputEmail" class="font-weight-bold">Email Address</label>
+            <input type="email" class="form-control" id="inputEmail" aria-describedby="emailHelp" placeholder="Enter e-mail address" required>
+            <small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone else.</small>
+          </div>
+          <button type="submit" class="btn btn-primary">Submit</button>
+        </form>
     </div>
 </div>
