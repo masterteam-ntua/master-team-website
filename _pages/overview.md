@@ -1,6 +1,6 @@
 ---
 layout: defaults/page
-permalink: overview.html
+permalink: /overview
 narrow: true
 header0: MASTER
 header1: TEAM

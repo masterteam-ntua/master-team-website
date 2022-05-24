@@ -1,6 +1,6 @@
 ---
 layout: defaults/page
-permalink: news.html
+permalink: /news
 narrow: true
 header0: MASTER
 header1: TEAM

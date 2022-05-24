@@ -1,6 +1,6 @@
 ---
 layout: defaults/page
-permalink: faculty.html
+permalink: /faculty
 narrow: false
 header0: MASTER
 header1: TEAM

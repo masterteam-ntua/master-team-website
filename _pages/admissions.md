@@ -1,6 +1,6 @@
 ---
 layout: defaults/textpage
-permalink: admissions.html
+permalink: /admissions
 narrow: false
 header0: MASTER
 header1: TEAM

@@ -1,6 +1,6 @@
 ---
 layout: defaults/page
-permalink: about.html
+permalink: /about
 narrow: true
 title: More info about Friday Theme
 images:

@@ -1,6 +1,6 @@
 ---
 layout: defaults/textpage
-permalink: courses.html
+permalink: /courses
 narrow: false
 header0: MASTER
 header1: TEAM

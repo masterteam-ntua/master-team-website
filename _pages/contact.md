@@ -1,6 +1,6 @@
 ---
 layout: defaults/textpage
-permalink: contact.html
+permalink: /contact
 narrow: false
 header0: MASTER
 header1: TEAM

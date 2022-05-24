@@ -1,20 +1,20 @@
 - title: Home
-  href: index.html
+  href: /index
 
 - title: Program Overview
-  href: overview.html
+  href: /overview
 
 - title: Courses
-  href: courses.html
+  href: /courses
 
 - title: Faculty
-  href: faculty.html
+  href: /faculty
 
 - title: Admissions
-  href: admissions.html
+  href: /admissions
 
 - title: News
-  href: news.html
+  href: /news
 
 - title: Contact
-  href: contact.html
+  href: /contact
