@@ -10,7 +10,7 @@ show_sidebar: false
 ---
 <div class="container pb-5">
     <div class="row">
-        <div class="col-8 pl-0 pr-0">
+        <div class="col-lg-8 col-sm-12 pl-0 pr-0">
             <div class="col-12">
                 <h2>Welcome to our Master TEAM!</h2>
                 <p>
@@ -43,17 +43,17 @@ show_sidebar: false
                 </p>
             </div>
         </div>
-        <div class="col-4 pl-0 pr-0">
-            <div class="card colored-main text-white background-color-main">
+        <div class="col-lg-4 col-sm-12 pl-3 pr-0">
+            <div class="card text-white background-color-main">
                 <div class="card-body">
-                        <h5 class="card-title text-center">KEY INFORMATION</h5>
-                        <div class="card-text text-left">
-                            <label class="mb-0"><strong>Duration:</Strong> 12 months</label>
-                            <label class="mb-0"><strong>Start Date:</Strong> October 2022</label>
-                            <label class="mb-0"><strong>Location:</Strong> NTUA Campus</label>
-                            <label class="mb-0"><strong>Language:</Strong> English</label>
-                            <label class="mb-0"><strong>ECTS:</Strong> 90 credits</label>
-                        </div>
+                    <h5 class="card-title text-center">KEY INFORMATION</h5>
+                    <div class="d-flex flex-column card-text text-left">
+                        <label class="mb-0"><strong>Duration:</Strong> 12 months</label>
+                        <label class="mb-0"><strong>Start Date:</Strong> October 2022</label>
+                        <label class="mb-0"><strong>Location:</Strong> NTUA Campus</label>
+                        <label class="mb-0"><strong>Language:</Strong> English</label>
+                        <label class="mb-0"><strong>ECTS:</Strong> 90 credits</label>
+                    </div>
                 </div>
             </div>
             <div class="col-12 mt-4 pl-0 pr-0 ">
@@ -114,7 +114,7 @@ show_sidebar: false
     </div>
     <div class="row mt-5 pl-2">
         <h2>To learn more about what we're building, sign up for our newsletter!</h2>
-        <form class="mt-4 w-100">
+        <form class="mt-4">
           <div class="form-group">
             <label for="inputFirstName" class="font-weight-bold">First Name</label>
             <input type="text" class="form-control" id="inputFirstName" placeholder="Enter first name" required>
@@ -125,8 +125,7 @@ show_sidebar: false
           </div>
           <div class="form-group">
             <label for="inputEmail" class="font-weight-bold">Email Address</label>
-            <input type="email" class="form-control" id="inputEmail" aria-describedby="emailHelp" placeholder="Enter e-mail address" required>
-            <small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone else.</small>
+            <input type="email" class="form-control" id="inputEmail" placeholder="Enter e-mail address" required>
           </div>
           <div class="form-group">
             <label for="selectCountry" class="font-weight-bold">Country</label>
@@ -134,7 +133,7 @@ show_sidebar: false
               <option selected disabled>-- Select your country --</option>
             </select>
           </div>
-          <button type="submit" class="btn btn-primary">Submit</button>
+          <button type="submit" class="btn btn-primary mt-3">Submit</button>
         </form>
     </div>
 </div>

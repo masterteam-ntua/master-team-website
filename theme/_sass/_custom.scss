@@ -24,11 +24,14 @@ h2 {
 
 h3 {
   font-weight: 500;
-  // color: $main-color;
 }
 
 .colored-main {
   color: $main-color;
+}
+
+.background-color-main {
+  background-color: $main-color;
 }
 
 .contact-persons {
@@ -225,10 +228,6 @@ a.map-section {
   width: fit-content;
 }
 
-.background-color-main {
-  background-color: $main-color;
-}
-
 .custom-footer {
   padding-top: 0.5rem !important;
   padding-bottom: 0.5rem !important;
@@ -240,6 +239,7 @@ a.map-section {
   text-align: center;
   padding: 0.5rem;
   .information-box-component {
+    font-size: 0.85rem;
     border-left: 2px dotted $main-color;
     &:first-child {
       border-left: none;
@@ -257,5 +257,4 @@ a.map-section {
 .stuff {
   border-right: 1px dotted $main-color;
   overflow: auto;
-
 }

@@ -7,7 +7,6 @@ document.addEventListener('DOMContentLoaded', () => {
     .then(data => {
       let output = "";
       data.forEach(country => {
-        console.log(country.name)
         output += `<option value="${country.name}">${country.name}</option>`;
       });
       selectDrop.innerHTML += output;
