@@ -1,6 +1,6 @@
 ---
 layout: defaults/page
-permalink: /index
+permalink: /
 narrow: true
 header0:
 header1: Master of Science

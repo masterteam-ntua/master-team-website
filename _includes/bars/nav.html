@@ -14,7 +14,7 @@
             <li class="nav-item">
                 <a
                   href='{% if item.href contains ":" %}{% else %}{{ site.baseurl }}{% endif %}{{ item.href }}'
-                  class='{% if page.url contains item.href %}nav-link active{% else %}nav-link{% endif %}'
+                  class='{% if page.url == item.href %}nav-link active{% else %}nav-link{% endif %}'
                 >
                     {{ item.title }}
                 </a>
