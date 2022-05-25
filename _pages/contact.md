@@ -18,7 +18,7 @@ show_sidebar: false
             <label class="col-12">National Technical University of Athens</label>
             <label class="col-12">School of Electrical and Computer Engineering</label>
             <label class="col-12">9, Iroon Polytechniou St</label>
-            <label class="col-12">Athens, Postal Code 157 8</label>
+            <label class="col-12">Athens, Postal Code 15780</label>
         </div>
         <div class="row contact-persons">
             <div class="col contact-info-box">
