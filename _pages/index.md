@@ -57,7 +57,7 @@ show_sidebar: false
                 </div>
             </div>
             <div class="col-12 mt-4 px-0">
-                <a href="/admissions" role="button" class="btn btn-custom apply-btn">
+                <a href="{{ site.baseurl }}/admissions" role="button" class="btn btn-custom apply-btn">
                     <i class="fa-regular fa-pen-to-square fa-lg mr-2"></i>Apply
                 </a>
                 <a href="{{ site.baseurl }}/files/brochure.pdf" role="button" class="btn btn-custom mt-3" download>
