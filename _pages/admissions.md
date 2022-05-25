@@ -26,7 +26,7 @@ show_sidebar: false
         <label class="col-12 pl-0">The application consists of the following elements:</label>
         <ol>
             <li class="mb-3">
-                Copy of all university degrees/diplomas received. In case of degrees from foreign Universities, they must have been accompanied by a certification issued by the Hellenic NARIC organization (<a href="http://www.doatap.gr/en/index.php" target="_blank" class="font-weight-bold">DOATAP</a>). The recognition of the degree or certificate of completion of studies by the Hellenic NARIC (which can be submitted by the end of the program) is a precondition for obtaining the M.Sc. degree. Recognised Foreign Educational Institutions can be found in the following <a href="http://www.doatap.gr/en/index.php" target="_blank" class="font-weight-bold">list</a>.
+                Copy of all university degrees/diplomas received. In case of degrees from foreign Universities, they must have been accompanied by a certification issued by the Hellenic NARIC organization (<a href="http://www.doatap.gr/en/index.php" target="_blank" class="font-weight-bold">DOATAP</a>). The recognition of the degree or certificate of completion of studies by the Hellenic NARIC (which can be submitted by the end of the program) is a precondition for obtaining the M.Sc. degree. Recognised Foreign Educational Institutions can be found in the following <a href="https://www.doatap.gr/home_english/foreign_hei/" target="_blank" class="font-weight-bold">list</a>.
             </li>
             <li class="mb-3">
                 Copy of transcripts of grades from all previous universities attended (in Greek or English). Accepted candidates must submit official transcripts.
