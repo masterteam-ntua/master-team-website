@@ -34,6 +34,10 @@ h3 {
   background-color: $main-color;
 }
 
+.hidden {
+  display: none;
+}
+
 .contact-persons {
   display: flex;
   @media (max-width: 1199px) {
@@ -233,11 +237,23 @@ a.map-section {
   padding-bottom: 0.5rem !important;
 }
 
-.custom-information-box {
+.custom-information-box .row {
   width: 100%;
+  margin-left: 0;
+  margin-right: 0;
   background-color: $main-color-lighter;
   text-align: center;
   padding: 0.5rem;
+  @media(max-width: 991px) {
+    flex-direction: column;
+    .information-box-component {
+      border-left: none !important;
+      border-top: 2px dotted $main-color;
+      &:first-child {
+        border-top: none;
+      }
+    }
+  }
   .information-box-component {
     font-size: 0.85rem;
     border-left: 2px dotted $main-color;
@@ -257,4 +273,12 @@ a.map-section {
 .stuff {
   border-right: 1px dotted $main-color;
   overflow: auto;
+}
+
+.form-container {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  background-color: $light-grey;
+  padding: 2rem 0.5rem;
 }

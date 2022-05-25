@@ -56,18 +56,18 @@ show_sidebar: false
                     </div>
                 </div>
             </div>
-            <div class="col-12 mt-4 pl-0 pr-0 ">
-                <button type="button" class="btn btn-custom apply-btn">
+            <div class="col-12 mt-4 px-0">
+                <a href="/admissions" role="button" class="btn btn-custom apply-btn">
                     <i class="fa-regular fa-pen-to-square fa-lg mr-2"></i>Apply
-                </button>
-                <button type="button" class="btn btn-custom mt-3">
+                </a>
+                <a href="{{ site.baseurl }}/files/brochure.pdf" role="button" class="btn btn-custom mt-3" download>
                     <i class="fa-solid fa-download fa-lg mr-2"></i>Brochure
-                </button>
+                </a>
             </div>
         </div>
     </div>
     <div class="row mt-4 pl-2">
-        <div class="custom-information-box col-12">
+        <div class="custom-information-box col-12 px-0">
             <div class="row">
                 <div class="information-box-component col">
                     <label class="title">
@@ -95,7 +95,7 @@ show_sidebar: false
                 </div>
                 <div class="information-box-component col">
                     <label class="title">
-                        GLOBAL COHORT
+                        GLOBAL NETWORK
                     </label>
                     <p class="text">
                         Gain hands-on experience in the healthcare domain and build your professional network by interacting and connecting with a diverse community of experts from the industry, clinical sector, and regulatory bodies.                    
@@ -114,28 +114,30 @@ show_sidebar: false
     </div>
     <div class="row mt-5 pl-2">
         <h2>To learn more about what we're building, sign up for our newsletter!</h2>
-        <form class="mt-4">
-          <div class="form-group">
-            <label for="inputFirstName" class="font-weight-bold">First Name</label>
-            <input type="text" class="form-control" id="inputFirstName" placeholder="Enter first name" required>
-          </div>
-          <div class="form-group">
-            <label for="inputLastName" class="font-weight-bold">Last Name</label>
-            <input type="text" class="form-control" id="inputLastName" placeholder="Enter last name" required>
-          </div>
-          <div class="form-group">
-            <label for="inputEmail" class="font-weight-bold">Email Address</label>
-            <input type="email" class="form-control" id="inputEmail" placeholder="Enter e-mail address" required>
-          </div>
-          <div class="form-group">
-            <label for="selectCountry" class="font-weight-bold">Country</label>
-            <select class="form-control" id="selectCountry">
-              <option selected disabled>-- Select your country --</option>
-            </select>
-          </div>
-          <button type="submit" class="btn btn-primary mt-3">Submit</button>
-        </form>
+        <div class="form-container">
+            <form class="mt-4">
+              <div class="form-group">
+                <label for="inputFirstName" class="font-weight-bold">First Name</label>
+                <input type="text" class="form-control" id="inputFirstName" placeholder="Enter first name" required>
+              </div>
+              <div class="form-group">
+                <label for="inputLastName" class="font-weight-bold">Last Name</label>
+                <input type="text" class="form-control" id="inputLastName" placeholder="Enter last name" required>
+              </div>
+              <div class="form-group">
+                <label for="inputEmail" class="font-weight-bold">Email Address</label>
+                <input type="email" class="form-control" id="inputEmail" placeholder="Enter e-mail address" required>
+              </div>
+              <div class="form-group">
+                <label for="selectCountry" class="font-weight-bold">Country</label>
+                <select class="form-control" id="selectCountry">
+                  <option selected disabled>-- Select your country --</option>
+                </select>
+              </div>
+              <button type="submit" class="btn btn-primary mt-3">Submit</button>
+            </form>
+        </div>
     </div>
 </div>
 
-<script src="{{ base.url | prepend: site.url }}/theme/js/countries.js"></script>
+<script src="{{ site.baseurl }}/theme/js/countries.js"></script>
