@@ -1,9 +1,9 @@
-<a href="{{ post.url | absolute_url }}">
-  <div class="card" style="width: 18rem;">
-    <img class="card-img-top" src="{{ site.baseurl }}{{ post.thumb }}" alt="Card image cap">
+  <a class="card" style="width: 16.25rem;" href="{{ post.url | absolute_url }}">
+    <img class="card-img-top" src="{{ site.baseurl }}/post_assets/{{ post.directory }}/{{ post.thumb }}" alt="Card image cap">
     <div class="card-body">
-      <h5 class="card-title">{{ post.title }}</h5>
+      <h5 class="card-title" title="{{ post.title }}">{{ post.title }}</h5>
       <p class="card-text">{{ post.description }}</p>
+      <hr>
+      <p class="mb-0">{{ post.date | date: "%-d %B %Y" }}</p>
     </div>
-  </div>
-</a>
+  </a>

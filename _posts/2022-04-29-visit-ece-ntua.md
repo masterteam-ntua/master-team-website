@@ -1,10 +1,11 @@
 ---
-thumb: /theme/img/news/visit-ece-ntua/thumb.jpg
 title: Visit ECE-NTUA
 description: Academic Year 2021-2022
+directory: visit-ece-ntua
+thumb: thumb.jpg
 images:
-  - /theme/img/news/visit-ece-ntua/img-1.jpg
-  - /theme/img/news/visit-ece-ntua/img-2.jpg
+  - img-1.jpg
+  - img-2.jpg
 ---
 As the local public health situation has improved, the School of Electrical and Computer Engineering of the National Technical University of Athens (ECE-NTUA) is once again allowing Senior high school (Lykeion) group visits.
 
