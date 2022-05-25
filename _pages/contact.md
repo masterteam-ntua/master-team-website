@@ -27,17 +27,17 @@ show_sidebar: false
                         <h3 class="my-3 colored-main">Secretariat of the Master Program</h3>
                         <hr/>
                     </div>
-                    <p class="col-12">Unknown Yet</p>
+                    <p class="col-12">Maria Kleanthi</p>
                     <div class="col-12">
                         <p>
                             <i class="fa-solid fa-location-dot fa-lg mr-2"></i>
-                            1st Floor, Room Γ.1.1, Electrical and Comp. Engineering
+                            Office Γ.1.3, 1st Floor, Electrical and Comp. Engineering
                         </p>
                     </div>
                     <div class="col-12">
                         <p>
                             <i class="fa-solid fa-phone fa-lg mr-2"></i>
-                            <a href="tel:+302107720000">+30 (210) 772-xxxx</a>
+                            <a href="tel:+302107724317">+30 (210) 772-4317</a>
                         </p>
                     </div>
                     <div class="col-12">
@@ -94,18 +94,18 @@ show_sidebar: false
             <h3 class="my-3 colored-main">Transport Services</h3>
             <hr/>
         </div>
-        <h3 class="colored-main">Bus</h3>
+        <h4>Bus</h4>
         <p>
             Line 242 (Katechaki - Polytehneioupoli) enters from the Gate "Katechaki" and goes around the campus. Line 140 (Polygono-Glyfada) stops outside the Gate "Katechaki". Lines 230 (Acropolis - Polytechnioupoli) and 608 (Galatsi - Academy - Zografou)
             stop near the Gate "Zografou". Please consult the website of OASA (Athens Urban Transport Organization) for complete
             itineraries.
         </p>
-        <h3 class="colored-main">Metro</h3>
+        <h4>Metro</h4>
         <p>
             The nearest station is “Katechaki”. From there you can get the bus lines 140 and 242. On weekdays during 8.00-9.30, the
             university is accessible from the station "Katechaki" with bus granted by the rectory
         </p>
-        <h3 class="colored-main">Car</h3>
+        <h4>Car</h4>
         <p>
             Cars enter the campus mainly from gates “Katechaki” and “Kokkinopoulou”. The gate “Zografou” in Iroon Polytechniou street is
             open for cars only from 07:00 to 09:00 and from 14:00 to 16:00. Inside the premises there are sufficient parking places for the
@@ -113,7 +113,10 @@ show_sidebar: false
         </p>
     </div>
     <div class="row flex-column">
-        <h3 class="my-3 colored-main">Map</h3>
+        <div>
+            <h3 class="my-3 colored-main">Map</h3>
+            <hr/>
+        </div>
         <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d6289.929409574721!2d23.783272000000004!3d37.977953!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14a197f449261011%3A0x7a5866ef6ff78274!2sSchool%20of%20Electrical%20and%20Computer%20Engineering!5e0!3m2!1sen!2sus!4v1653039216849!5m2!1sen!2sus" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
     </div>
 </div>
