@@ -1,7 +1,7 @@
 ---
 layout: defaults/page
 permalink: /overview
-narrow: true
+narrow: false
 header0: MASTER
 header1: TEAM
 header2:
