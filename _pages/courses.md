@@ -11,10 +11,10 @@ header3: Courses
     <!-- Courses overview -->
     <div class="row my-3">
         <div class="col">
-            <table class="table table-bordered">
+            <table class="table table-bordered text-center">
                 <thead>
                     <tr>
-                        <th scope="col" colspan="2" class="t-head text-center">Winter Semester</th>
+                        <th scope="col" colspan="2" class="t-head">Winter Semester</th>
                     </tr>
                     <tr>
                         <th scope="col" class="t-subhead">Course</th>
@@ -24,44 +24,44 @@ header3: Courses
                 <tbody>
                     <tr>
                         <td class="compulsory"><a class="table-link" href="#life-sciences">Life Sciences for Engineering <sup>(1)</sup></a></td>
-                        <td class="text-right">5</td>
+                        <td>5</td>
                     </tr>
                     <tr>
                         <td class="compulsory"><a class="table-link" href="#engineering-biomedicine">Engineering for Biomedicine <sup>(2)</sup></a></td>
-                        <td class="text-right">5</td>
+                        <td>5</td>
                     </tr>
                     <tr>
                         <td class="compulsory"><a class="table-link" href="#biostatistics-ml">Biostatistics and Machine Learning</a></td>
-                        <td class="text-right">5</td>
+                        <td>5</td>
                     </tr>
                     <tr>
                         <td class="compulsory"><a class="table-link" href="#biosignals-processing">Biosignal acquisition and processing</a></td>
-                        <td class="text-right">5</td>
+                        <td>5</td>
                     </tr>
                     <tr>
                         <td class="compulsory"><a class="table-link" href="#research-methodology">Research methodology</a></td>
-                        <td class="text-right">5</td>
+                        <td>5</td>
                     </tr>
                     <tr>
                         <td class="elective"><a class="table-link" href="#translational-bioinformatics">Translational bioinformatics</a></td>
-                        <td class="text-right">5</td>
+                        <td>5</td>
                     </tr>
                     <tr>
                         <td class="elective"><a class="table-link" href="#biomechanics">Biomechanics</a></td>
-                        <td class="text-right">5</td>
+                        <td>5</td>
                     </tr>
                     <tr>
                         <td class="elective"><a class="table-link" href="#biodesign-fundamentals">Biodesign Fundamentals</a></td>
-                        <td class="text-right">5</td>
+                        <td>5</td>
                     </tr>
                 </tbody>
             </table>
         </div>
         <div class="col">
-            <table class="table table-bordered">
+            <table class="table table-bordered text-center">
                 <thead>
                     <tr>
-                        <th scope="col" colspan="2" class="t-head text-center">Spring Semester</th>
+                        <th scope="col" colspan="2" class="t-head">Spring Semester</th>
                     </tr>
                     <tr>
                         <th scope="col" class="t-subhead">Course</th>
@@ -71,31 +71,31 @@ header3: Courses
                 <tbody>
                     <tr>
                         <td class="compulsory"><a class="table-link" href="#medical-imaging">Medical imaging and image analysis</a></td>
-                        <td class="text-right">5</td>
+                        <td>5</td>
                     </tr>
                     <tr>
                         <td class="compulsory"><a class="table-link" href="#computational-medicine">Computational modeling and simulation for medicine</a></td>
-                        <td class="text-right">5</td>
+                        <td>5</td>
                     </tr>
                     <tr>
                         <td class="compulsory"><a class="table-link" href="#ai-healthcare">Artificial Intelligence in healthcare</a></td>
-                        <td class="text-right">5</td>
+                        <td>5</td>
                     </tr>
                     <tr>
                         <td class="elective"><a class="table-link" href="#biomems">BioMEMS</a></td>
-                        <td class="text-right">5</td>
+                        <td>5</td>
                     </tr>
                     <tr>
                         <td class="elective"><a class="table-link" href="#introduction-neuroscience">Introduction to neuroscience and neural engineering</a></td>
-                        <td class="text-right">5</td>
+                        <td>5</td>
                     </tr>
                     <tr>
                         <td class="elective"><a class="table-link" href="#healthcare-robotics">Healthcare robotics</a></td>
-                        <td class="text-right">5</td>
+                        <td>5</td>
                     </tr>
                     <tr>
                         <td class="elective"><a class="table-link" href="#biodesign-advanced">Biodesign Innovation Process <sup>(3)</sup></a></td>
-                        <td class="text-right">5</td>
+                        <td>5</td>
                     </tr>
                 </tbody>
             </table>
