@@ -78,7 +78,7 @@ show_sidebar: false
         </div>
     </div>
     <div class="row mt-4">
-        <div>
+        <div class="col-12 px-0">
             <h3 class="my-3 colored-main">Access to Zografou Campus</h3>
             <hr/>
         </div>
@@ -94,18 +94,18 @@ show_sidebar: false
             <h3 class="my-3 colored-main">Transport Services</h3>
             <hr/>
         </div>
-        <h4>Bus</h4>
+        <h5>Bus</h5>
         <p>
             Line 242 (Katechaki - Polytehneioupoli) enters from the Gate "Katechaki" and goes around the campus. Line 140 (Polygono-Glyfada) stops outside the Gate "Katechaki". Lines 230 (Acropolis - Polytechnioupoli) and 608 (Galatsi - Academy - Zografou)
             stop near the Gate "Zografou". Please consult the website of OASA (Athens Urban Transport Organization) for complete
             itineraries.
         </p>
-        <h4>Metro</h4>
+        <h5>Metro</h5>
         <p>
             The nearest station is “Katechaki”. From there you can get the bus lines 140 and 242. On weekdays during 8.00-9.30, the
             university is accessible from the station "Katechaki" with bus granted by the rectory
         </p>
-        <h4>Car</h4>
+        <h5>Car</h5>
         <p>
             Cars enter the campus mainly from gates “Katechaki” and “Kokkinopoulou”. The gate “Zografou” in Iroon Polytechniou street is
             open for cars only from 07:00 to 09:00 and from 14:00 to 16:00. Inside the premises there are sufficient parking places for the
