@@ -24,43 +24,36 @@ show_sidebar: false
         </p>
         <h2 class="my-3" >Application Material</h2>
         <label class="col-12 pl-0">The application consists of the following elements:</label>
-        <ul>
+        <ol>
             <li class="mb-3">
-                Copy of all university degrees/diplomas received.<br/>
-                In case of degrees from foreign Universities, they must have been accompanied by a certification issued by the Hellenic
-                NARIC organization (<a href="http://www.doatap.gr/en/index.php" target="_blank" class="font-weight-bold">DOATAP</a>). The recognition of the degree or certificate of completion
-                of studies by the Hellenic NARIC (which can be submitted by the end of the program) is a precondition for obtaining the M.Sc.
-                degree.
+                Copy of all university degrees/diplomas received. In case of degrees from foreign Universities, they must have been accompanied by a certification issued by the Hellenic NARIC organization (<a href="http://www.doatap.gr/en/index.php" target="_blank" class="font-weight-bold">DOATAP</a>). The recognition of the degree or certificate of completion of studies by the Hellenic NARIC (which can be submitted by the end of the program) is a precondition for obtaining the M.Sc. degree. Recognised Foreign Educational Institutions can be found in the following <a href="http://www.doatap.gr/en/index.php" target="_blank" class="font-weight-bold">list</a>.
             </li>
             <li class="mb-3">
-                Certificate of equivalence for degrees from foreign Universities, issued by DOATAP/Hellenic NARIC (or proof that an
-                application for certification has been filed -- admission is contingent on submission of certificate by the Program
-                enrollment date)
+                Copy of transcripts of grades from all previous universities attended (in Greek or English). Accepted candidates must submit official transcripts.
             </li>
             <li class="mb-3">
-                Copy of transcripts of grades in Greek or English. Accepted candidates must submit official transcripts.
+                Certificate of Proficiency in English (at least level B2), as evidenced by a degree from an English-speaking country's Educational Body or a Certificate of Proficiency in English (Toefl, IELTS, University of Michigan, University of Cambridge, a National Certificate of Language Proficiency, etc.). If selected for an interview, candidates will be expected to demonstrate a solid understanding of the English language.
             </li>
             <li class="mb-3">
-                Certificate of Proficiency in English (at least level B2)
+                Two Letters of Recommendation. Letters of recommendation must be submitted electronically through the Online Application. Do not send hard copies or have them sent. Within the application you will be asked to provide the name, institution, and email address for each of your desired recommenders. For the majority of candidates this means two references from academic staff at their previous institution(s) who have taught them at degree level, and who, preferably, can comment on subjects or skills relevant to the M.Sc. program. If the candidate has been out of higher education for more than four years, they can provide a professional reference instead.
             </li>
             <li class="mb-3">
-                Two Letters of Recommendation
+                Resume/CV in English (max. 2 pages), which will include all information about the candidate’s education, research or professional activity and interests.
             </li>
             <li class="mb-3">
-                Resume/CV in English, which will include all information about the candidate's education, research of professional activity
-                and interests.
+                One-page Personal Statement in English, which will state the candidate’s reasons and motives to apply to the specific Master Program in relation to his/her interests.
             </li>
             <li class="mb-3">
-                Personal Statement.
+                Evidence of research experience (if any). Candidates may submit copies of journal or conference publications and/or a one-page summary of their Undergraduate Research Thesis in English (pdf).
             </li>
             <li class="mb-3">
                 Evidence of research experience (if any). Candidates may submit a list of journal or conference publications (if any) and/or
                 a one-page summary of their Undergraduate Research Thesis in English (if any) (pdf).
             </li>
             <li class="mb-3">
-                A photocopy of both sides of your identity card (pdf).
+                A photocopy of both sides of the candidate’s identity card (ID) or passport (pdf).
             </li>
-        </ul>
+        </ol>
         <h2 class="my-3">Selection Criteria</h2>
         <p>
             We welcome students from all over the world and consider all applicants on an individual basis. The admissions committee
