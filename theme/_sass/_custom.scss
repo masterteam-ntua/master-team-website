@@ -317,3 +317,15 @@ a.map-section {
     }
   }
 }
+
+.post-hero-img {
+  width: inherit;
+}
+
+.post-images {
+  &:hover {
+    cursor: pointer;
+    text-decoration: none;
+    box-shadow: 0 4px 12px 0 rgba(0, 0, 0, 0.4);
+  }
+}

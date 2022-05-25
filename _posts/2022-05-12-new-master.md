@@ -1,4 +1,8 @@
 ---
+header0: MASTER
+header1: TEAM
+header2:
+header3: News
 title: New International M.Sc. Program “Translational Engineering in Health and Medicine” jointly organized by the School of Electrical and Computer Engineering and the School of Mechanical Engineering
 description: The call for applications for the 2022-2023 academic year will be announced in June 2022
 directory: new-master

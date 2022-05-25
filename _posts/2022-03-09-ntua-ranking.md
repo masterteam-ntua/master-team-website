@@ -1,4 +1,8 @@
 ---
+header0: MASTER
+header1: TEAM
+header2:
+header3: News
 title: Members of ECE-NTUA appear in international list of top-ranking researchers
 description: Top-ranking scientists in Greece
 directory: ntua-ranking
