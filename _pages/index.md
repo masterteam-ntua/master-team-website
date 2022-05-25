@@ -115,7 +115,7 @@ show_sidebar: false
     <div class="row mt-5 pl-2">
         <h2>To learn more about what we're building, sign up for our newsletter!</h2>
         <div class="form-container">
-            <form class="mt-4">
+            <form>
               <div class="form-group">
                 <label for="inputFirstName" class="font-weight-bold">First Name</label>
                 <input type="text" class="form-control" id="inputFirstName" placeholder="Enter first name" required>
