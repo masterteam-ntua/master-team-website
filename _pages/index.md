@@ -113,7 +113,7 @@ show_sidebar: false
         </div>
     </div>
     <div class="row mt-5">
-        <div class="carousel slide" data-ride="carousel" id="postsCarousel">
+        <div class="carousel slide" data-ride="false" data-interval="false" id="postsCarousel">
             <div class="row align-items-center">
                 <div class="col-lg-10">
                     <h2>News Feed</h2>
@@ -134,7 +134,7 @@ show_sidebar: false
                     {% for slide in (1..numberOfSlides) %}
                         <div class='{% if slide == 1 %}carousel-item active{% else %}carousel-item{% endif %}'>
                             <div class="card-deck news-cards-container">
-                                {% assign off = slide | minus: 1 | times: 4 %} 
+                                {% assign off = slide | minus: 1 | times: 4 %}
                                 {% for post in site.posts limit: 4 offset: off %}
                                     {% include components/news-card.html %}
                                 {% endfor %}
