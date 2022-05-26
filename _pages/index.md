@@ -135,7 +135,6 @@ show_sidebar: false
                         <div class='{% if slide == 1 %}carousel-item active{% else %}carousel-item{% endif %}'>
                             <div class="card-deck news-cards-container">
                                 {% assign off = slide | minus: 1 | times: 4 %} 
-                                {{ off }}
                                 {% for post in site.posts limit: 4 offset: off %}
                                     {% include components/news-card.html %}
                                 {% endfor %}
