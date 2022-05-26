@@ -24,6 +24,9 @@ sass:
   sass_dir: theme/_sass
   style: compressed
 
+plugins:
+    - jekyll-seo-tag
+
 # Turn the projects into a collection.
 collections:
   projects:
