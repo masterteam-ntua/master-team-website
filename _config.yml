@@ -7,8 +7,9 @@ highlighter:      rouge
 excerpt_separator: <!--more-->
 
 # Config for your profile.
-title:            Translational Engineering in Health and Medicine            # Site title
+# title:            Translational Engineering in Health and Medicine            # Site title
 name:             NTUA            # Your name
+description:      Master in Translational Engineering in Health and Medicine of National Technical University of Athens
 avatar:           /theme/img/avatar.jpg   # Path to an avatar image
 
 # The theme uses the baseurl throughout, which is useful for running the entire
