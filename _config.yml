@@ -16,6 +16,7 @@ avatar:           /theme/img/avatar.jpg   # Path to an avatar image
 # site under a subdir, like for this GitHub Pages deployment as a project site.
 # Use "" when runnign the site out of the root of a domain.
 baseurl: ""
+url: "https://masterteam.ntua.gr"
 
 # Add a directory to hold misc pages, just to keep the root directory clean.
 include: ["_pages", "_portfolio"]
@@ -27,6 +28,7 @@ sass:
 
 plugins:
     - jekyll-seo-tag
+    - jekyll-sitemap
 
 # Turn the projects into a collection.
 collections:

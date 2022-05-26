@@ -7,6 +7,7 @@ gem "rouge", "~> 3.26"
 gem "kramdown-parser-gfm", "~> 1.1"
 gem "jekyll", "~> 4.2"
 gem 'jekyll-seo-tag'
+gem 'jekyll-sitemap'
 
 group :development do
     gem "jekyll-watch", "~> 2.2"
