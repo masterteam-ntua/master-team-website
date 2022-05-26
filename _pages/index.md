@@ -116,7 +116,7 @@ show_sidebar: false
         <div class="carousel slide w-100" data-ride="false" data-interval="false" id="postsCarousel">
             <div class="row align-items-center">
                 <div class="col-lg-10">
-                    <h2>News Feed</h2>
+                    <h2>Latest news</h2>
                 </div>
                 <div class="col-lg-2 text-md-right lead">
                     <a class="btn btn-carousel prev" title="go back">
