@@ -129,13 +129,13 @@ show_sidebar: false
             </div>
             <div class="row pt-0 mt-2">
                 <div class="carousel-inner">
-                    {% assign numberOfSlidesFloat = site.posts.size | divided_by: 4 %}
-                    {% assign numberOfSlides = numberOfSlidesFloat | ceil %}
+                    {% capture numberOfSlidesFloat %}{{ site.posts.size | divided_by: 4.0 }}{% endcapture %}
+                    {% capture numberOfSlides %}{{ numberOfSlidesFloat | ceil }}{% endcapture %}
                     {% for slide in (1..numberOfSlides) %}
                         <div class='{% if slide == 1 %}carousel-item active{% else %}carousel-item{% endif %}'>
                             <div class="card-deck news-cards-container">
                                 {% assign off = slide | minus: 1 | times: 4 %} 
-                                <p>{{slide}}</p>
+                                {{ off }}
                                 {% for post in site.posts limit: 4 offset: off %}
                                     {% include components/news-card.html %}
                                 {% endfor %}
