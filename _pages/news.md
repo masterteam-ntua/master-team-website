@@ -8,7 +8,33 @@ header2:
 header3: News
 ---
 <div class="news-cards-container">
-    {% for post in site.posts %}
-        {% include components/news-card.html %}
+    {% capture numberOfSlidesFloat %}{{ site.posts.size | divided_by: 4.0 }}{% endcapture %}
+    {% capture numberOfSlides %}{{ numberOfSlidesFloat | ceil }}{% endcapture %}
+    {% for batch in (1..numberOfSlides) %}
+        <div id='batch-{{batch}}' class='{% if batch == 1 %}d-flex{% else %}hidden{% endif %}'>
+            {% assign off = batch | minus: 1 | times: 4 %}
+            {% for post in site.posts limit: 4 offset: off %}
+                {% include components/news-card.html %}
+            {% endfor %}
+        </div>
     {% endfor %}
 </div>
+<div class="text-center">
+    <button id="btn-loadmore" type="button" class="btn btn-primary" onClick="loadMore()">Load More</button>
+</div>
+<script>
+    var batchNum = 1;
+    const totalBatches = {{ numberOfSlides }};
+
+    function loadMore() {
+        batchNum++;
+        let elem = document.getElementById(`batch-${batchNum}`);
+        elem.classList.add('d-flex');
+        elem.classList.remove('hidden');
+        if (batchNum == totalBatches) {
+            let btn = document.getElementById(`btn-loadmore`);
+            btn.classList.add('hidden');
+        }
+    }
+
+</script>
