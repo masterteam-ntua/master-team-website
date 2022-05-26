@@ -12,7 +12,7 @@ show_sidebar: false
     <div class="row">
         <div class="col-lg-8 col-sm-12 pl-0 pr-0">
             <div class="col-12">
-                <h2>Welcome to our Master TEAM!</h2>
+                <h2>Welcome to our Master TEAM</h2>
                 <p>
                     Translational Engineering is the process of translating engineering research findings
                     and discoveries into innovations and functional products. Applications of Translational
@@ -112,6 +112,40 @@ show_sidebar: false
             </div>
         </div>
     </div>
+    <div class="row mt-5">
+        <div class="carousel slide" data-ride="carousel" id="postsCarousel">
+            <div class="row align-items-center">
+                <div class="col-lg-10">
+                    <h2>News Feed</h2>
+                </div>
+                <div class="col-lg-2 text-md-right lead">
+                    <a class="btn btn-carousel prev" title="go back">
+                        <i class="fa-solid fa-chevron-left fa-lg colored-main"></i>
+                    </a>
+                    <a class="btn btn-carousel next" title="more">
+                        <i class="fa-solid fa-chevron-right fa-lg colored-main"></i>
+                    </a>
+                </div>
+            </div>
+            <div class="row pt-0 mt-2">
+                <div class="carousel-inner">
+                    {% capture numberOfSlidesFloat %}{{ site.posts.size | divided_by: 4.0 }}{% endcapture %}
+                    {% capture numberOfSlides %}{{ numberOfSlidesFloat | ceil }}{% endcapture %}
+                    {% for slide in (1..numberOfSlides) %}
+                        <div class='{% if slide == 1 %}carousel-item active{% else %}carousel-item{% endif %}'>
+                            <div class="card-deck news-cards-container">
+                                {% capture off %}{{ slide }} | times: 4{% endcapture %}
+                                <p>{{slide}}</p>
+                                {% for post in site.posts limit: 4 offset: off %}
+                                    {% include components/news-card.html %}
+                                {% endfor %}
+                            </div>
+                        </div>
+                    {% endfor %}
+                </div>
+            </div>
+        </div>
+    </div>
     <div class="row mt-5 pl-2">
         <h2>To learn more about what we're building, sign up for our newsletter!</h2>
         <div class="form-container">
@@ -141,3 +175,9 @@ show_sidebar: false
 </div>
 
 <script src="{{ site.baseurl }}/theme/js/countries.js"></script>
+
+<script>
+    // manual carousel controls
+    $('.next').click(function(){ $('.carousel').carousel('next');return false; });
+    $('.prev').click(function(){ $('.carousel').carousel('prev');return false; });
+</script>
