@@ -113,7 +113,7 @@ show_sidebar: false
         </div>
     </div>
     <div class="row mt-5">
-        <div class="carousel slide" data-ride="false" data-interval="false" id="postsCarousel">
+        <div class="carousel slide w-100" data-ride="false" data-interval="false" id="postsCarousel">
             <div class="row align-items-center">
                 <div class="col-lg-10">
                     <h2>News Feed</h2>
