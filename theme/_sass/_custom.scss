@@ -167,6 +167,7 @@ ul.navbar-nav.ml-auto {
   .modal-content {
     .modal-header {
       border: 0;
+      height: 2rem;
     }
     .modal-body {
       margin-bottom: 1.5rem;
@@ -179,9 +180,13 @@ ul.navbar-nav.ml-auto {
           flex-direction: column;
           align-items: center;
           .modal-image {
-            width: 80% !important;
             text-align: center;
             padding-bottom: 1.5rem;
+            min-width: 260px;
+            img {
+              height: 200px;
+              width: 200px;
+            }
           }
         }
       }
@@ -382,5 +387,40 @@ a.map-section {
   @media(max-width: 991px) {
     justify-content: center;
     width: 100%
+  }
+}
+
+.people-selector {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  background-color: $light-grey;
+  border-radius: 0.5rem;
+  padding: 2rem 0.5rem;
+  @media(max-width: 991px) {
+    text-align: center;
+    ul {
+      padding-left: 0 !important;
+    }
+  }
+  ul {
+    list-style: none;
+    margin-bottom: 0;
+    padding-left: 1rem;
+    li {
+      line-height: 2rem;
+      padding: 0.5rem;
+      .btn {
+        border: none;
+        background-color: $light-grey;
+        &:hover {
+          background-color: $grey-blue;
+        }
+        &.selected {
+          color: $white;
+          background-color: $main-color-light;
+        }
+      }
+    }
   }
 }
