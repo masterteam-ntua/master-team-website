@@ -336,13 +336,30 @@ a.map-section {
   }
 }
 
+.carousel {
+  &.carousel-desktop {
+    display: block;
+    @media(max-width: 991px) {
+      display: none;
+    }
+  }
+  &.carousel-mobile {
+    display: none;
+    @media(max-width: 991px) {
+      display: block;
+    }
+    .carousel-item {
+      justify-content: center;
+    }
+  }
+}
 .carousel-inner {
   padding: 0 1rem;
 }
 .carousel-item-prev,
 .carousel-item-next,
 .carousel-item.active {
-    display:flex;
+    display: flex;
 }
 /* control image height */
 .card-img-top-250 {
@@ -358,5 +375,12 @@ a.map-section {
   font-weight: bold;
   &:hover {
     background: $main-color-lighter;
+  }
+}
+
+.card-batch-container {
+  @media(max-width: 991px) {
+    justify-content: center;
+    width: 100%
   }
 }

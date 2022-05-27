@@ -113,16 +113,16 @@ show_sidebar: false
         </div>
     </div>
     <div class="row mt-5">
-        <div class="carousel slide w-100" data-ride="false" data-interval="false" id="postsCarousel">
+        <div class="carousel carousel-desktop slide w-100" data-ride="false" data-interval="false" id="postsCarouselDesktop">
             <div class="row align-items-center">
-                <div class="col-lg-10">
+                <div class="col-lg-10 col-8">
                     <h2>Latest news</h2>
                 </div>
-                <div class="col-lg-2 text-md-right lead">
-                    <a class="btn btn-carousel prev" title="go back">
+                <div class="col-lg-2 col-4 text-md-right lead d-flex justify-content-end">
+                    <a class="btn btn-carousel prev-desk" title="go back">
                         <i class="fa-solid fa-chevron-left fa-lg colored-main"></i>
                     </a>
-                    <a class="btn btn-carousel next" title="more">
+                    <a class="btn btn-carousel next-desk" title="more">
                         <i class="fa-solid fa-chevron-right fa-lg colored-main"></i>
                     </a>
                 </div>
@@ -136,6 +136,35 @@ show_sidebar: false
                             <div class="card-deck news-cards-container">
                                 {% assign off = slide | minus: 1 | times: 4 %}
                                 {% for post in site.posts limit: 4 offset: off %}
+                                    {% include components/news-card.html %}
+                                {% endfor %}
+                            </div>
+                        </div>
+                    {% endfor %}
+                </div>
+            </div>
+        </div>
+        <div class="carousel carousel-mobile slide w-100" data-ride="false" data-interval="false" id="postsCarouselMobile">
+            <div class="row align-items-center">
+                <div class="col-lg-10 col-8">
+                    <h2>Latest news</h2>
+                </div>
+                <div class="col-lg-2 col-4 text-md-right lead d-flex justify-content-end">
+                    <a class="btn btn-carousel prev-mob" title="go back">
+                        <i class="fa-solid fa-chevron-left fa-lg colored-main"></i>
+                    </a>
+                    <a class="btn btn-carousel next-mob" title="more">
+                        <i class="fa-solid fa-chevron-right fa-lg colored-main"></i>
+                    </a>
+                </div>
+            </div>
+            <div class="row pt-0 mt-2">
+                <div class="carousel-inner">
+                    {% for slide in (1..site.posts.size) %}
+                        <div class='{% if slide == 1 %}carousel-item active{% else %}carousel-item{% endif %}'>
+                            <div class="card-deck news-cards-container">
+                                {% assign off = slide | minus: 1 %}
+                                {% for post in site.posts limit: 1 offset: off %}
                                     {% include components/news-card.html %}
                                 {% endfor %}
                             </div>
@@ -176,7 +205,10 @@ show_sidebar: false
 <script src="{{ site.baseurl }}/theme/js/countries.js"></script>
 
 <script>
-    // manual carousel controls
-    $('.next').click(function(){ $('.carousel').carousel('next');return false; });
-    $('.prev').click(function(){ $('.carousel').carousel('prev');return false; });
+    // desktop carousel controls
+    $('.next-desk').click(function(){ $('.carousel-desktop').carousel('next');return false; });
+    $('.prev-desk').click(function(){ $('.carousel-desktop').carousel('prev');return false; });
+    // mobile carousel controls
+    $('.next-mob').click(function(){ $('.carousel-mobile').carousel('next');return false; });
+    $('.prev-mob').click(function(){ $('.carousel-mobile').carousel('prev');return false; });
 </script>

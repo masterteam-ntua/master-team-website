@@ -11,7 +11,7 @@ header3: News
     {% capture numberOfSlidesFloat %}{{ site.posts.size | divided_by: 4.0 }}{% endcapture %}
     {% capture numberOfSlides %}{{ numberOfSlidesFloat | ceil }}{% endcapture %}
     {% for batch in (1..numberOfSlides) %}
-        <div id='batch-{{batch}}' class='{% if batch == 1 %}d-flex{% else %}hidden{% endif %}'>
+        <div id='batch-{{batch}}' class='card-batch-container {% if batch == 1 %}row{% else %}hidden{% endif %}'>
             {% assign off = batch | minus: 1 | times: 4 %}
             {% for post in site.posts limit: 4 offset: off %}
                 {% include components/news-card.html %}
@@ -19,7 +19,7 @@ header3: News
         </div>
     {% endfor %}
 </div>
-<div class="text-center mt-3 mr-4">
+<div class="text-center mt-3 mr-5">
     <button id="btn-loadmore" type="button" class="btn btn-primary" onClick="loadMore()">Load More</button>
 </div>
 
@@ -30,7 +30,7 @@ header3: News
     function loadMore() {
         batchNum++;
         let elem = document.getElementById(`batch-${batchNum}`);
-        elem.classList.add('d-flex');
+        elem.classList.add('row');
         elem.classList.remove('hidden');
         if (batchNum == totalBatches) {
             let btn = document.getElementById('btn-loadmore');
