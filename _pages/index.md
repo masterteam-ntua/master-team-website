@@ -60,7 +60,7 @@ show_sidebar: false
                 <a href="{{ site.baseurl }}/admissions" role="button" class="btn btn-custom apply-btn">
                     <i class="fa-regular fa-pen-to-square fa-lg mr-2"></i>Apply
                 </a>
-                <a href="{{ site.baseurl }}/files/brochure.pdf" role="button" class="btn btn-custom mt-3" download>
+                <a href="{{ site.baseurl }}/files/MasterTEAM-Brochure.pdf" role="button" class="btn btn-custom mt-3" download>
                     <i class="fa-solid fa-download fa-lg mr-2"></i>Brochure
                 </a>
             </div>
