@@ -19,7 +19,7 @@ show_sidebar: false
           description= person.Title2
           website= person.Website
           phone= person.Phone
-          email= perosn.Email
+          email= person.Email
           cv= person.Bio
           modalId= person.modalId
         %}

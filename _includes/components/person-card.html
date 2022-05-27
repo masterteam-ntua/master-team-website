@@ -26,18 +26,40 @@
               <div>
                 {{ include.description }}
               </div>
+              {% if include.phone != null %}
+              <div>
+                <p>
+                  <i class="fa-solid fa-phone fa-lg mr-2"></i>
+                  <a href="tel:+30{{ include.phone}}">(+30) {{ include.phone }}</a>
+                </p>
+              </div>
+              {% endif %}
+              {% if include.email != null %}
+              <div>
+                <p>
+                  <i class="fa-solid fa-envelope fa-lg mr-2"></i>
+                  <a href="mailto:{{ include.email }}">{{ include.email }}</a>
+                </p>
+              </div>
+              {% endif %}
+              {% if include.website != null %}
               <div>
                 <a href="{{ include.website }}" target="_blank">
                   <i class="fa-solid fa-globe mr-2"></i>Website
                 </a>
               </div>
+              {% endif %}
+
             </div>
-            <div class="row flex-column mt-4">
-              <h3>Bio</h3>
-              <p>
-                {{ include.cv }}
-              </p>
-            </div>
+            {% if include.cv != null %}
+              <div class="row flex-column mt-4">
+                <h3>Bio</h3>
+                <p>
+                  {{ include.cv }}
+                </p>
+              </div>
+            {% endif %}
+
           </div>
         </div>
       </div>
