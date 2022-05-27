@@ -146,7 +146,7 @@ show_sidebar: false
         </div>
     </div>
     <div class="row mt-5 pl-2">
-        <h2>To learn more about what we're building, sign up for our newsletter!</h2>
+        <h2>To learn more about what we're building, sign up for our newsletter</h2>
         <div class="form-container">
             <form>
               <div class="form-group">

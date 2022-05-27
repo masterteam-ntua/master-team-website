@@ -19,9 +19,10 @@ header3: News
         </div>
     {% endfor %}
 </div>
-<div class="text-center">
+<div class="text-center mt-3 mr-4">
     <button id="btn-loadmore" type="button" class="btn btn-primary" onClick="loadMore()">Load More</button>
 </div>
+
 <script>
     var batchNum = 1;
     const totalBatches = {{ numberOfSlides }};
@@ -32,9 +33,8 @@ header3: News
         elem.classList.add('d-flex');
         elem.classList.remove('hidden');
         if (batchNum == totalBatches) {
-            let btn = document.getElementById(`btn-loadmore`);
+            let btn = document.getElementById('btn-loadmore');
             btn.classList.add('hidden');
         }
     }
-
 </script>
