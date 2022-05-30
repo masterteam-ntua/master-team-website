@@ -205,3 +205,29 @@
   Bio: null
   Office: Office 21.28, 2nd Floor, Old Electrical and Comp. Engineering
   modalId: stamatakos-modal
+
+- Image: /theme/img/team/stamou.jpg
+  Name: Stamou Giorgos
+  Category: Professors
+  Title1: Professor
+  Title2: Faculty of Electrical and Computer Engineering, NTUA
+  School: Electrical and Computer Engineering, NTUA
+  Email: gstam@cs.ntua.gr
+  Phone: 2107723040
+  Website: https://www.ails.ece.ntua.gr/people/gstam
+  Bio: Dr Giorgos Stamou is currently a Professor in the School of Electrical and Computer Engineering Department, National Technical University of Athens, in the area of Artificial Intelligence and Machine Learning. His research interests include description logics, logic programming, fuzzy logic, neural networks, ontologies, digital archives, semantic annotation and semantic interoperability. He has published more than 150 papers in scientific Journals and Conference Proceedings, co-edited a books ('Multimedia Content and the Semantic Web' published by Wiley) and two Conference Proceedings (Proceedings of the 4th International Workshop on OWL Reasoner Evaluation (ORE-2015) CEUR Workshop Proceedings 1387, Reasoning on the Web in the Big Data Era - 10th International Summer School 2014, Lecture Notes in Computer Science 8714, Springer 2014) and one monograph (Ontological Knowledge Representation and Reasoning, in greek), served as organiser or member of the organisation committees of Conferences, and has been working in more than 50 research projects, in the above areas. He was the W3C AC rep of NTUA in Rule Interchange Format WG, Web Ontology Language WG, Uncertainty Reasoning for the Web (URW3) XG and a Steering Committee member of RuleML co-chairing the Fuzzy RuleML Technical Group. From September 2011 to March 2012 he was an academic visitor of Oxford University, Information Systems Laboratory. He has >4500 citation and a 32 h-index (according to Google Scholar).
+  Office: Office 1.1.7, 1st Floor, Old Electrical and Comp. Engineering
+  modalId: stamou-modal
+
+- Image: /theme/img/team/voulodimos.jpg
+  Name: Voulodimos Athanasios
+  Category: Professors
+  Title1: Assistant Professor
+  Title2: Faculty of Electrical and Computer Engineering, NTUA
+  School: Electrical and Computer Engineering, NTUA
+  Email: thanosv@mail.ntua.gr
+  Phone: null
+  Website: https://www.ails.ece.ntua.gr/people/thanosv
+  Bio: Athanasios (Thanos) Voulodimos received his Dipl.-Ing., MSc and PhD degrees from the School of Electrical and Computer Engineering of the National Technical University of Athens (NTUA) with the highest honor. Since December 2021 he is an Assistant Professor at the School of Electrical and Computer Engineering (Division of Computer Science) of the National Technical University of Athens. From 2018 to 2021 he was an Assistant Professor at the Department of Informatics and Computer Engineering of the University of West Attica, where he served as Director of the Division of Software and Information Systems and as Pedagogical Director of the joint MSc program in “Artificial Intelligence and Visual Computing” co-organized with the University of Limoges (France). He has received several awards for his academic performance and scientific achievements by the Greek State Scholarships Foundation (IKY), the National Technical University of Athens (NTUA), the Hellenic Mathematical Society (HMS) and the European Neural Network Society (ENNS). His research interests lie in the areas of machine learning, artificial intelligence, image and signal processing, multimedia, and multimodal data fusion, management and analysis. He has participated in more than 15 European and national research & development projects, as researcher, senior researcher, and/or technical manager. Dr. Voulodimos has co-authored more than 130 papers in refereed international journals, conference proceedings and books. His work has received more than 3000 citations (as reported in Google Scholar). He has served as Organizing and Program Committee member in several international conferences and workshops, and has guest edited collective book volumes and special issues in international journals. He is a member of IEEE and ACM.
+  Office: null
+  modalId: voulodimos-modal

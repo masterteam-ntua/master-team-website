@@ -393,17 +393,18 @@ a.map-section {
 .people-selector {
   display: flex;
   justify-content: center;
-  flex-direction: column;
   background-color: $light-grey;
   border-radius: 0.5rem;
-  padding: 2rem 0.5rem;
+  padding: 0.5rem 0;
   @media(max-width: 991px) {
     text-align: center;
     ul {
       padding-left: 0 !important;
+      flex-direction: column;
     }
   }
   ul {
+    display: flex;
     list-style: none;
     margin-bottom: 0;
     padding-left: 1rem;

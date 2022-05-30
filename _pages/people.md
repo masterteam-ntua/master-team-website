@@ -9,10 +9,9 @@ header3: People
 show_sidebar: false
 ---
 <div class="container mt-5">
-  <div class="row">
-    <div class="col-12 col-lg-3">
+  <div class="row mb-5">
+    <div class="col-12">
       <div class="people-selector">
-        <h3 class="text-center">Category</h3>
         <ul>
           <li>
             <button type="button" id="professors" class="btn btn-light" onclick="chooseCategory(this, 'Professors')">
@@ -37,10 +36,12 @@ show_sidebar: false
         </ul>
       </div>
     </div>
-    <div class="col-12 col-lg-9">
+  </div>
+  <div class="row">
+    <div class="col-12">
       <div class="row">
         {% for person in site.data.people %}
-          <div class="person {{ person.Category }} col-sm-4">
+          <div class="person {{ person.Category }} col-12 col-sm-6 col-md-6 col-lg-4">
             {% include components/person-card.html
               name = person.Name
               image = person.Image
