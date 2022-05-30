@@ -16,16 +16,13 @@ layout: default
   <div class="col-12">
     <h5>Share: </h5>
     <a id="facebook-btn" target="_blank" role="button" class="btn btn-social btn-facebook mr-2">
-      <i class="fa-brands fa-facebook-f fa-lg"></i>
+      <i class="fa-brands fa-facebook-f"></i>
     </a>
     <a id="twitter-btn" target="_blank" role="button" class="btn btn-social btn-twitter mr-2">
-      <i class="fa-brands fa-twitter fa-lg"></i>
+      <i class="fa-brands fa-twitter"></i>
     </a>
-    <a id="linkedin-btn1" target="_blank" role="button" class="btn btn-social btn-linkedin">
-      <i class="fa-brands fa-linkedin fa-lg"></i>
-    </a>
-    <a id="linkedin-btn2" target="_blank" role="button" class="btn btn-social btn-linkedin">
-      <i class="fa-brands fa-linkedin fa-lg"></i>
+    <a id="linkedin-btn" target="_blank" role="button" class="btn btn-social btn-linkedin">
+      <i class="fa-brands fa-linkedin"></i>
     </a>
   </div>
 </div>
@@ -59,10 +56,8 @@ layout: default
     facebookBtn.href = `https://www.facebook.com/sharer/sharer.php?u=${currentUrl}`;
     let twitterBtn = document.getElementById('twitter-btn');
     twitterBtn.href = `https://twitter.com/intent/tweet?original_referer=${hostname}&ref_src=twsrc%5Etfw%7Ctwcamp%5Ebuttonembed%7Ctwterm%5Eshare%7Ctwgr%5E&text={{ page.title }}&url=${currentUrl}`;
-    let linkedinBtn1 = document.getElementById('linkedin-btn1');
-    linkedinBtn1.href = `https://www.linkedin.com/shareArticle?mini=true&url=${currentUrl}&title={{ page.title }}&summary={{ page.description }}&source=${hostname}`;
-    let linkedinBtn2 = document.getElementById('linkedin-btn2');
-    linkedinBtn2.href = `https://www.linkedin.com/sharing/share-offsite/?url=${currentUrl}`;
+    let linkedinBtn = document.getElementById('linkedin-btn');
+    linkedinBtn.href = `https://www.linkedin.com/sharing/share-offsite/?url=${currentUrl}`;
     // Modal functionality
     $('#imagePreviewModal').on('show.bs.modal', function (event) {
       var button = $(event.relatedTarget)
