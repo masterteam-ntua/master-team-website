@@ -12,6 +12,29 @@ layout: default
   </div>
 </div>
 
+<div class="row mt-4">
+  <div class="col-12">
+    <h5>Share: </h5>
+    <a href="https://www.facebook.com/sharer/sharer.php?u={{ site.baseurl }}{{ page.url }}" target="_blank" role="button" class="btn btn-social btn-facebook mr-2">
+      <i class="fa-brands fa-facebook-f fa-lg"></i>
+    </a>
+    <a
+      href="https://twitter.com/intent/tweet?original_referer={{ site.baseurl }}&ref_src=twsrc%5Etfw%7Ctwcamp%5Ebuttonembed%7Ctwterm%5Eshare%7Ctwgr%5E&text={{ page.title }}&url={{ site.baseurl }}{{ page.url }}"
+      target="_blank" role="button" class="btn btn-social btn-twitter mr-2"
+    >
+      <i class="fa-brands fa-twitter fa-lg"></i>
+    </a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url={{ site.baseurl }}{{ page.url }}&title={{ page.title }}&summary={{ page.description }}&source={{ site.baseurl }}" target="_blank" role="button" class="btn btn-social btn-linkedin">
+      <i class="fa-brands fa-linkedin fa-lg"></i>
+    </a>
+    <a href="https://www.linkedin.com/sharing/share-offsite/?url={{ site.baseurl }}{{ page.url }}" target="_blank" role="button" class="btn btn-social btn-linkedin">
+      <i class="fa-brands fa-linkedin fa-lg"></i>
+    </a>
+    <script src="https://platform.linkedin.com/in.js" type="text/javascript">lang: en_US</script>
+    <script type="IN/Share" data-url="https://www.linkedin.com"></script>
+  </div>
+</div>
+
 <div class="card-columns mt-5 pt-3">
     {% for img in page.images %}
     <div class="card post-images" data-toggle="modal" data-target="#imagePreviewModal" data-img="{{ site.baseurl }}/post_assets/{{ page.directory }}/{{ img }}">
