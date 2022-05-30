@@ -19,10 +19,23 @@
   School: Mechanical Engineering, NTUA
   Email: managno@central.ntua.gr
   Phone: 2107722912
-  Website: http://null
+  Website: null
   Bio: null
   Office: "School of Mechanical Engineering, Section of Nuclear\nEngineering, Building K"
   modalId: anagnostakis-modal
+
+- Image: /theme/img/team/bastounis.png
+  Name: Bastounis Effie
+  Category: Researchers
+  Title1: Junior Group Leader
+  Title2: Head of “Infection Biomechanics“ group, Interfaculty Institute of Microbiology &Infection Medicine, University of Tübingen, Germany
+  School: University of Tübingen, Germany
+  Email: effie.bastounis@uni-tuebingen.de
+  Phone: null
+  Website: http://www.bastounislab.org
+  Bio: Effie studied Electrical & Computer Engineering at the National Technical University of Athens followed by a Ph.D. in Bioengineering at UC San Diego on single cell motility and biomechanics. During her postdoc at Stanford Biochemistry, she focused on how intracellular bacterial pathogens infect and spread through vascular endothelial cells. She has been leading a junior research group in the CMFI Cluster of Excellence since March 2021. Her group combines engineering, microscopy, cell biology, and microbiology to understand basic cell mechanobiology and the biomechanical signals that influence interactions between host cells and pathogens.
+  Office: null
+  modalId: bastounis-modal
 
 - Image: /theme/img/team/Caloghirou.jpg
   Name: Caloghirou Yannis
@@ -37,18 +50,31 @@
   Office: null
   modalId: caloghirou-modal
 
-- Image: /theme/img/team/davos.jpg
-  Name: Davos Constantinos
-  Category: Researchers
-  Title1: Research Associate Professor
-  Title2: Associate Professor Cardiovascular Diseases, Biomedical Research Foundation Academy of Athens (BRFAA)
-  School: Biomedical Research Foundation Academy of Athens (BRFAA)
-  Email: cdavos@bioacademy.gr
-  Phone: 2106597392
-  Website: http://http://www.bioacademy.gr/lab/davos
-  Bio: null
+- Image: /theme/img/team/chronis.jpg
+  Name: Chronis Nikos
+  Category: Professors
+  Title1: Professor
+  Title2: Faculty of Chemical Engineering, NTUA
+  School: Chemical Engineering, NTUA
+  Email: chronis@materials.uoc.gr
+  Phone: null
+  Website: https://www.materials.uoc.gr/el/general/personnel/chronis.html
+  Bio: Professor Chronis received a Bachelor in Engineering (B.E.) in mechanical engineering in 1998, from the Aristotle University of Thessaloniki with honors (graduated 1st out of 145 students in his class). He completed his Ph.D. in mechanical engineering from the University of California at Berkeley (USA) in 2004. In 2000 he joined the Berkeley Sensor and Actuator Center at the University of California at Berkeley as a graduate student researcher under the supervision of Luke Lee. From 2004-2006, he held a post-doctoral research position at Cori Bargmann's lab at Rockefeller University, New York, (USA), where he developed microfluidic tools for studying neural networks in the nematode C. elegans. In August 2006, he joined the faculty of Mechanical Engineering at the University of Michigan as an assistant professor. In 2015, he joined the Department of Materials Science and Technology at the University of Crete. He is also a visiting Professor at the National Center for Scientific Research 'Demokritos'. He is the co-author of more 60 journal and peer-reviewed conference publications and inventor in 3 patents. His research interests include BioMEMS, microfluidics, optical MEMS for lab-on-chip applications, and in-vivo imaging of neural circuits in C. elegans. Dr. Chronis is the recipient of the prestigious NIH Director's New Innovator Award.
   Office: null
-  modalId: davos-modal
+  modalId: chronis-modal
+
+# - Image: /theme/img/team/davos.jpg
+#   Name: Davos Constantinos
+#   Category: Researchers
+#   Title1: Research Associate Professor
+#   Title2: Associate Professor Cardiovascular Diseases, Biomedical Research Foundation Academy of Athens (BRFAA)
+#   School: Biomedical Research Foundation Academy of Athens (BRFAA)
+#   Email: cdavos@bioacademy.gr
+#   Phone: 2106597392
+#   Website: http://http://www.bioacademy.gr/lab/davos
+#   Bio: null
+#   Office: null
+#   modalId: davos-modal
 
 - Image: /theme/img/team/golemati.jpg
   Name: Golemati Spyretta
@@ -71,13 +97,13 @@
   School: null
   Email: mariakle@central.ntua.gr
   Phone: 2107724317
-  Website: http://null
+  Website: null
   Bio: null
   Office: null
   modalId: kleanthi-modal
 
 - Image: /theme/img/team/kyriakopoulos.jpeg
-  Name: Kiriakopoulos Konstantinos
+  Name: Kyriakopoulos Konstantinos
   Category: Professors
   Title1: Professor
   Title2: "Professor of Robotics, Mechatronics & Control, Control Systems Laboratory Director\nFaculty of Mechanical Engineering, NTUA"
@@ -136,7 +162,7 @@
   School: null
   Email: null
   Phone: null
-  Website: http://null
+  Website: null
   Bio: null
   Office: null
   modalId: papakonstantinou-modal
@@ -149,7 +175,7 @@
   School: null
   Email: null
   Phone: null
-  Website: http://null
+  Website: null
   Bio: null
   Office: null
   modalId: protonotarios-modal
@@ -231,3 +257,16 @@
   Bio: Athanasios (Thanos) Voulodimos received his Dipl.-Ing., MSc and PhD degrees from the School of Electrical and Computer Engineering of the National Technical University of Athens (NTUA) with the highest honor. Since December 2021 he is an Assistant Professor at the School of Electrical and Computer Engineering (Division of Computer Science) of the National Technical University of Athens. From 2018 to 2021 he was an Assistant Professor at the Department of Informatics and Computer Engineering of the University of West Attica, where he served as Director of the Division of Software and Information Systems and as Pedagogical Director of the joint MSc program in “Artificial Intelligence and Visual Computing” co-organized with the University of Limoges (France). He has received several awards for his academic performance and scientific achievements by the Greek State Scholarships Foundation (IKY), the National Technical University of Athens (NTUA), the Hellenic Mathematical Society (HMS) and the European Neural Network Society (ENNS). His research interests lie in the areas of machine learning, artificial intelligence, image and signal processing, multimedia, and multimodal data fusion, management and analysis. He has participated in more than 15 European and national research & development projects, as researcher, senior researcher, and/or technical manager. Dr. Voulodimos has co-authored more than 130 papers in refereed international journals, conference proceedings and books. His work has received more than 3000 citations (as reported in Google Scholar). He has served as Organizing and Program Committee member in several international conferences and workshops, and has guest edited collective book volumes and special issues in international journals. He is a member of IEEE and ACM.
   Office: null
   modalId: voulodimos-modal
+
+- Image: /theme/img/team/zarkogianni.jpg
+  Name: Zarkogianni Konstantia
+  Category: Researchers
+  Title1: Laboratory Teaching Staff
+  Title2: Faculty of Electrical and Computer Engineering, NTUA
+  School: Electrical and Computer Engineering, NTUA
+  Email: kzarkog@biosim.ntua.gr
+  Phone: 2107722149
+  Website: https://www.biosim.ntua.gr/en/people/kzarkog
+  Bio: Konstantia Zarkogianni received the diploma in Electrical and Computer Engineering (2003) from the Aristotle University of Thessaloniki, Greece, the MSc Degree in Electronic and Computer Engineering (2005) from the Technical University of Crete, Greece, and the PhD degree (2011) from the NTUA, Greece. Since 2005, she is a member of the BIOmedical Simulations and IMaging Laboratory of NTUA. In October 2017, she was appointed as permanent laboratory teaching staff at the School of Electrical and Computer Engineering of the NTUA. Her current research interests include clinical decision support systems, control systems, physiological systems modelling, diabetes management, multiscale modelling and serious games design in health. She has authored or coauthored 11 papers in refereed international journals, one chapter in book, and 19 papers in international conference proceedings. She has participated as research associate and principle investigator in national and EU funded projects. She has been a guest editor of the special issue on Emerging Technologies for the Management of Diabetes Mellitus (Springer Journal of Medical and Biological Engineering and Computing [MBEC], 2015). She has been a member of the Editorial Board of the SpringerPlus journal in 2016 and reviewer for international scientific journals (IEEE Transactions on Biomedical Engineering, IEEE Journal of Biomedical and Health Informatics, Springer Medical & Biological Engineering & Computing, Elsevier Journal of Biomedical Informatics, and JSM Diabetology and Management). She is a member of the Institute of Electrical and Electronics Engineers (ΙΕΕΕ) and the Technical Chamber of Greece.
+  Office: null
+  modalId: zarkogianni-modal

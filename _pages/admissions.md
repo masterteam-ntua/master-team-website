@@ -17,7 +17,7 @@ show_sidebar: false
             Molecular Biology, Biochemistry, Pharmacy, Dentistry, Biotechnology, (Bio)informatics, Nursing and other relevant disciplines)
             are eligible, upon selection, provided that they meet all the necessary requirements for successful attendance of the courses.
             The program is open to graduates of domestic institutions or equivalent foreign institutions recognized by the Hellenic
-            National Academic Recognition and Information Center - NARIC (<a href="http://www.doatap.gr/en/index.php" target="_blank" class="font-weight-bold">DOATAP</a>), according to Law ν.3685/2008.
+            National Academic Recognition and Information Center - NARIC (<a href="http://www.doatap.gr/en/index.php" target="_blank" class="font-weight-bold">DOATAP</a>), according to Law 3685/2008.
         </p>
         <p>
             For the academic year 2022-2023, a maximum of 40 students will be selected and enrolled in the M.Sc. program.
@@ -80,11 +80,10 @@ show_sidebar: false
             Applications should be submitted online at: <a href="https://www.ece.ntua.gr/gradapply/masterteam" target="_blank"><strong>www.ece.ntua.gr/gradapply/masterteam</strong></a>.
         </p>
         <p>
-            The application deadline for the MSc in Translational Engineering in Health and Medicine for the academic year 2022-2023 is
-            July XXth, 2022.
+            The application deadline for the MSc in Translational Engineering in Health and Medicine for the academic year 2022-2023 is <strong>July 3rd, 2022</strong>.
         </p>
         <p>
-            Acceptance letters will be sent out at the latest by June 30th, 2022.
+            Acceptance letters will be sent out at the latest by July 20th, 2022.
         </p>
         <p>
             All materials must be received by the applicable deadline to be considered. Successful candidates will be required to present
