@@ -180,22 +180,16 @@ show_sidebar: false
             <form action="https://ntua.us12.list-manage.com/subscribe/post?u=2294fad3462396a281ff35e61&amp;id=edfa3a462d" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
                 <div id="mc_embed_signup_scroll">
                     <div class="mc-field-group form-group">
-                        <label for="mce-EMAIL" class="font-weight-bold">Email Address</label>
+                        <label for="mce-EMAIL" class="font-weight-bold">Email Address <span class="asterisk colored-main">*</span></label>
                         <input type="email" value="" name="EMAIL" class="required email form-control" id="mce-EMAIL" placeholder="Enter e-mail address" required>
                     </div>
                     <div class="mc-field-group form-group">
-                        <label for="mce-FNAME" class="font-weight-bold">First Name</label>
+                        <label for="mce-FNAME" class="font-weight-bold">First Name <span class="asterisk colored-main">*</span></label>
                         <input type="text" value="" name="FNAME" class="required form-control" id="mce-FNAME" placeholder="Enter first name" required>
                     </div>
                     <div class="mc-field-group form-group">
-                        <label for="mce-LNAME" class="font-weight-bold">Last Name</label>
+                        <label for="mce-LNAME" class="font-weight-bold">Last Name <span class="asterisk colored-main">*</span></label>
                         <input type="text" value="" name="LNAME" class="required form-control" id="mce-LNAME" placeholder="Enter first name" required>
-                    </div>
-                    <div class="mc-field-group form-group">
-                      <label for="selectCountry" class="font-weight-bold">Country</label>
-                      <select class="form-control" id="selectCountry">
-                        <option selected disabled>-- Select your country --</option>
-                      </select>
                     </div>
                     <div id="mce-responses" class="clear foot">
                         <div class="response" id="mce-error-response" style="display:none"></div>
@@ -205,39 +199,15 @@ show_sidebar: false
                     <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_2294fad3462396a281ff35e61_edfa3a462d" tabindex="-1" value=""></div>
                     <div class="optionalParent">
                         <div class="clear foot">
-                            <button type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="btn btn-primary mt-3">Submit</button>
+                            <button type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="btn btn-primary">Submit</button>
+                            <span class="indicates-required float-right font-italic pt-2"><span class="asterisk colored-main font-weight-bold">*</span> indicates required</span>
                         </div>
                     </div>
                 </div>
             </form>
         </div>
-        <!-- <div class="form-container"> -->
-            <!-- <form>
-              <div class="form-group">
-                <label for="inputFirstName" class="font-weight-bold">First Name</label>
-                <input type="text" class="form-control" id="inputFirstName" placeholder="Enter first name" required>
-              </div>
-              <div class="form-group">
-                <label for="inputLastName" class="font-weight-bold">Last Name</label>
-                <input type="text" class="form-control" id="inputLastName" placeholder="Enter last name" required>
-              </div>
-              <div class="form-group">
-                <label for="inputEmail" class="font-weight-bold">Email Address</label>
-                <input type="email" class="form-control" id="inputEmail" placeholder="Enter e-mail address" required>
-              </div>
-              <div class="form-group">
-                <label for="selectCountry" class="font-weight-bold">Country</label>
-                <select class="form-control" id="selectCountry">
-                  <option selected disabled>-- Select your country --</option>
-                </select>
-              </div>
-              <button type="submit" class="btn btn-primary mt-3">Submit</button>
-            </form> -->
-        <!-- </div> -->
     </div>
 </div>
-
-<script src="{{ site.baseurl }}/theme/js/countries.js"></script>
 
 <script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script>
 <script type='text/javascript'>

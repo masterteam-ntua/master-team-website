@@ -305,6 +305,17 @@ a.map-section {
   background-color: $light-grey;
   padding: 2rem 0.5rem;
 }
+.form-control  {
+  @media(min-width: 992px) {
+    min-width: 400px;
+  }
+}
+.indicates-required {
+  @media(max-width: 991px) {
+    max-width: 84px;
+    padding-top: 0 !important;
+  }
+}
 
 .news-cards-container {
   display: flex;
