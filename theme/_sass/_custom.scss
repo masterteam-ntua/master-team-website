@@ -90,6 +90,11 @@ ul.navbar-nav.ml-auto {
   @media (max-width: 1180px) {
     height: 5.3rem;
   }
+  &.ntua-logo {
+    @media (max-width: 408px) {
+      display: none;
+    }
+  }
 }
 
 .site-banner {
@@ -422,6 +427,38 @@ a.map-section {
           background-color: $main-color-light;
         }
       }
+    }
+  }
+}
+
+.btn-social {
+  width: 3rem;
+  height: 3rem;
+  border-radius: 3rem;
+  color: $white;
+  display: inline-flex;
+  flex-direction: column;
+  justify-content: center;
+  &:hover {
+    color: $white;
+    font-weight: 500;
+  }
+  &.btn-facebook {
+    background-color: #4267B2;
+    &:hover {
+      background-color: #143A85;
+    }
+  }
+  &.btn-twitter {
+    background-color: #1DA1F2;
+    &:hover {
+      background-color: #088FDF;
+    }
+  }
+  &.btn-linkedin {
+    background-color: #0a66c2;
+    &:hover {
+      background-color: #074C8E;
     }
   }
 }
