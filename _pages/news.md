@@ -27,6 +27,13 @@ header3: News
     var batchNum = 1;
     const totalBatches = {{ numberOfSlides }};
 
+    window.onload = function() {
+        if (batchNum == totalBatches) {
+            let btn = document.getElementById('btn-loadmore');
+            btn.classList.add('hidden');
+        }
+    }
+
     function loadMore() {
         batchNum++;
         let elem = document.getElementById(`batch-${batchNum}`);

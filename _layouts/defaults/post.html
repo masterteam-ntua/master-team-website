@@ -8,7 +8,9 @@ layout: default
     {{ content }}
   </div>
   <div class="col-lg-6 col-sm-12">
-    <img src="{{ site.baseurl }}/post_assets/{{ page.directory }}/{{ page.thumb }}" class="post-hero-img">
+    <div class="post-images" data-toggle="modal" data-target="#imagePreviewModal" data-img="{{ site.baseurl }}/post_assets/{{ page.directory }}/{{ page.thumb }}">
+      <img src="{{ site.baseurl }}/post_assets/{{ page.directory }}/{{ page.thumb }}" class="post-hero-img">
+    </div>
   </div>
 </div>
 
