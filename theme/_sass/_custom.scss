@@ -141,6 +141,12 @@ ul.navbar-nav.ml-auto {
   background-color: $medium-grey;
 }
 
+.grey-box {
+  color: $main-color;
+  background-color: $light-grey;
+}
+
+
 .team-member {
   margin-bottom: 3rem;
   text-align: center;
@@ -258,7 +264,7 @@ a.map-section {
   width: 100%;
   margin-left: 0;
   margin-right: 0;
-  background-color: $main-color-lighter;
+  background-color: $light-grey;
   text-align: center;
   padding: 0.5rem;
   @media(max-width: 991px) {

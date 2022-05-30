@@ -104,9 +104,9 @@ header3: Courses
     <div class="row mb-5 pb-3">
         <div class="col">
             <div>
-                (1) Compulsory course for Engineers<br/>
-                (2) Compulsory course for health scientists<br/>
-                (3) Prerequisite: Biodesign Fundamentals
+                <sup>(1)</sup> Compulsory course for Engineers<br/>
+                <sup>(2)</sup> Compulsory course for health scientists<br/>
+                <sup>(3)</sup> Prerequisite: Biodesign Fundamentals
             </div>
         </div>
         <div class="col">

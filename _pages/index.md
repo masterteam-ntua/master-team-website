@@ -20,7 +20,7 @@ show_sidebar: false
                     improve the public and individual health.
                 </p>
                 <p>
-                    The M.Sc. in Translational Engineering in Health and Medicine, organized by the <a href="https://www.ece.ntua.gr">School of Electrical and Computer Engineering</a> of the <a href="https://www.ntua.gr">National Technical University of Athens</a>, in collaboration with the <a href="https://www.mech.ntua.gr">School of Mechanical Engineering</a>, is designed to prepare students to pioneer the transformation of innovative technologies into commercial devices and services with a significant socioeconomic impact in the field of Health. The program builds on NTUA's decades of foundational work in biomedical engineering and science and focuses on cultivating deep knowledge and catalyzing interdisciplinary efforts to address urgent healthcare challenges.
+                    The M.Sc. in Translational Engineering in Health and Medicine, organized by the <a href="https://www.ece.ntua.gr"><strong>School of Electrical and Computer Engineering</strong></a> of the <a href="https://www.ntua.gr"><strong>National Technical University of Athens</strong></a>, in collaboration with the <a href="https://www.mech.ntua.gr"><strong>School of Mechanical Engineering</strong></a>, is designed to prepare students to pioneer the transformation of innovative technologies into commercial devices and services with a significant socioeconomic impact in the field of Health. The program builds on NTUA's decades of foundational work in biomedical engineering and science and focuses on cultivating deep knowledge and catalyzing interdisciplinary efforts to address urgent healthcare challenges.
                 </p>
                 <p>
                     Students study and work on cutting-edge topics in biomedical data science and artificial
@@ -44,10 +44,10 @@ show_sidebar: false
             </div>
         </div>
         <div class="col-lg-4 col-sm-12 pl-3 pr-0">
-            <div class="card text-white background-color-main">
-                <div class="card-body">
+            <div class="card text-white background-color-main border-0">
+                <div class="card-body grey-box">
                     <h5 class="card-title text-center">KEY INFORMATION</h5>
-                    <div class="d-flex flex-column card-text text-left">
+                    <div class="d-flex flex-column card-text text-center">
                         <label class="mb-0"><strong>Duration:</Strong> 12 months</label>
                         <label class="mb-0"><strong>Start Date:</Strong> October 2022</label>
                         <label class="mb-0"><strong>Location:</Strong> NTUA Campus</label>
@@ -57,7 +57,7 @@ show_sidebar: false
                 </div>
             </div>
             <div class="col-12 mt-4 px-0">
-                <a href="{{ site.baseurl }}/admissions" role="button" class="btn btn-custom apply-btn">
+                <a href="{{ site.baseurl }}/admissions" role="button" class="btn btn-custom">
                     <i class="fa-regular fa-pen-to-square fa-lg mr-2"></i>Apply
                 </a>
                 <a href="{{ site.baseurl }}/files/MasterTEAM-Brochure.pdf" role="button" class="btn btn-custom mt-3" download>
