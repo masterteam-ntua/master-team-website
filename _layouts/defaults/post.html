@@ -15,23 +15,18 @@ layout: default
 <div class="row mt-4">
   <div class="col-12">
     <h5>Share: </h5>
-    <a href="https://www.facebook.com/sharer/sharer.php?u={{ site.baseurl }}{{ page.url }}" target="_blank" role="button" class="btn btn-social btn-facebook mr-2">
+    <a id="facebook-btn" target="_blank" role="button" class="btn btn-social btn-facebook mr-2">
       <i class="fa-brands fa-facebook-f fa-lg"></i>
     </a>
-    <a
-      href="https://twitter.com/intent/tweet?original_referer={{ site.baseurl }}&ref_src=twsrc%5Etfw%7Ctwcamp%5Ebuttonembed%7Ctwterm%5Eshare%7Ctwgr%5E&text={{ page.title }}&url={{ site.baseurl }}{{ page.url }}"
-      target="_blank" role="button" class="btn btn-social btn-twitter mr-2"
-    >
+    <a id="twitter-btn" target="_blank" role="button" class="btn btn-social btn-twitter mr-2">
       <i class="fa-brands fa-twitter fa-lg"></i>
     </a>
-    <a href="https://www.linkedin.com/shareArticle?mini=true&url={{ site.baseurl }}{{ page.url }}&title={{ page.title }}&summary={{ page.description }}&source={{ site.baseurl }}" target="_blank" role="button" class="btn btn-social btn-linkedin">
+    <a id="linkedin-btn1" target="_blank" role="button" class="btn btn-social btn-linkedin">
       <i class="fa-brands fa-linkedin fa-lg"></i>
     </a>
-    <a href="https://www.linkedin.com/sharing/share-offsite/?url={{ site.baseurl }}{{ page.url }}" target="_blank" role="button" class="btn btn-social btn-linkedin">
+    <a id="linkedin-btn2" target="_blank" role="button" class="btn btn-social btn-linkedin">
       <i class="fa-brands fa-linkedin fa-lg"></i>
     </a>
-    <script src="https://platform.linkedin.com/in.js" type="text/javascript">lang: en_US</script>
-    <script type="IN/Share" data-url="https://www.linkedin.com"></script>
   </div>
 </div>
 
@@ -54,7 +49,21 @@ layout: default
 </div>
 
 <script type="text/javascript">
+  const currentUrl = window.location.href;
+  const hostname = window.location.hostname;
+
   $(document).ready(function() {
+    console.log(window.location);
+    // Set-up social-share buttons' urls
+    let facebookBtn = document.getElementById('facebook-btn');
+    facebookBtn.href = `https://www.facebook.com/sharer/sharer.php?u=${currentUrl}`;
+    let twitterBtn = document.getElementById('twitter-btn');
+    twitterBtn.href = `https://twitter.com/intent/tweet?original_referer=${hostname}&ref_src=twsrc%5Etfw%7Ctwcamp%5Ebuttonembed%7Ctwterm%5Eshare%7Ctwgr%5E&text={{ page.title }}&url=${currentUrl}`;
+    let linkedinBtn1 = document.getElementById('linkedin-btn1');
+    linkedinBtn1.href = `https://www.linkedin.com/shareArticle?mini=true&url=${currentUrl}&title={{ page.title }}&summary={{ page.description }}&source=${hostname}`;
+    let linkedinBtn2 = document.getElementById('linkedin-btn2');
+    linkedinBtn2.href = `https://www.linkedin.com/sharing/share-offsite/?url=${currentUrl}`;
+    // Modal functionality
     $('#imagePreviewModal').on('show.bs.modal', function (event) {
       var button = $(event.relatedTarget)
       var img = button.data('img')
