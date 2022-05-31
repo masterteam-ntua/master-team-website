@@ -1,4 +1,4 @@
-# Website for TEAM Master NTUA.
+# Website for TEAM Master NTUA
 
 This website was created by [Spyros Bekiaris](https://github.com/spyrosbek) and [Panagiotis Tzortzis](https://github.com/tzortzispanagiotis), researchers - software engineers @ AILS Lab, NTUA, with the guidance and coordination of [Nikolas Papadopoulos](https://github.com/nikolo555) of BioSim NTUA.
 
@@ -15,7 +15,7 @@ clone code - make changes - commit - push on master
 
 In order to add - remove - edit people from the faculty page, you just have to modify the _data/people.yml. This is a yaml list, whose each item need the following fields (with * we mark the required fields):
 
-- *Image: absolute path of the image displayed for the person. All images of people exist under theme/img/team.
+- *Image: absolute path of the image displayed for the person. All images of people exist under /theme/img/team.
 - *Name: full name to be displayed
 - *Category: this field serves the purpose of dividing people in categories. Choose one of the following values: Professors, Staff, Collaborators, Researchers
 - *Title1: Title of person (e.g. secretariat, researcher, professor, associate professor etc)
