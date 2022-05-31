@@ -39,7 +39,12 @@ show_sidebar: false
   </div>
   <div class="row">
     <div class="col-12">
-      <div class="row">
+      <div id="spinner-container" class="row justify-content-center d-none">
+        <div class="spinner-border text-primary" role="status">
+          <span class="sr-only">Loading...</span>
+        </div>
+      </div>
+      <div id="people-grid" class="row d-none">
         {% for person in site.data.people %}
           <div class="person {{ person.Category }} col-12 col-sm-6 col-md-6 col-lg-4">
             {% include components/person-card.html
@@ -67,6 +72,12 @@ show_sidebar: false
   }
 
   function chooseCategory(elem, category) {
+    let spinner = document.getElementById('spinner-container');
+    let peopleGrid = document.getElementById('people-grid');
+
+    spinner.classList.remove('d-none');
+    peopleGrid.classList.add('d-none');
+
     let btns = document.getElementsByClassName('selected');
     for (const btn of btns) {
       btn.classList.remove('selected');
@@ -82,5 +93,8 @@ show_sidebar: false
     for (const person of chosen_ones) {
       person.classList.remove('d-none');
     }
+
+    spinner.classList.add('d-none');
+    peopleGrid.classList.remove('d-none');
   }
 </script>
