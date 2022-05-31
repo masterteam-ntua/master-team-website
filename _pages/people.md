@@ -14,6 +14,11 @@ show_sidebar: false
       <div class="people-selector">
         <ul>
           <li>
+            <button type="button" id="all" class="btn btn-light" onclick="chooseCategory(this, 'All')">
+              All
+            </button>
+          </li>
+          <li>
             <button type="button" id="professors" class="btn btn-light" onclick="chooseCategory(this, 'Professors')">
               Professors
             </button>
@@ -67,8 +72,8 @@ show_sidebar: false
 
 <script>
   window.onload = function() {
-    let btn = document.getElementById('professors');
-    this.chooseCategory(btn, 'Professors');
+    let btn = document.getElementById('all');
+    this.chooseCategory(btn, 'All');
   }
 
   function chooseCategory(elem, category) {
@@ -85,13 +90,19 @@ show_sidebar: false
     elem.classList.add('selected');
 
     let persons = document.getElementsByClassName('person');
-    for (const person of persons) {
-      person.classList.add('d-none');
+    if (category === 'All') {
+      for (const person of persons) {
+        person.classList.remove('d-none');
+      }
     }
-
-    let chosen_ones = document.getElementsByClassName(category);
-    for (const person of chosen_ones) {
-      person.classList.remove('d-none');
+    else {
+      for (const person of persons) {
+        person.classList.add('d-none');
+      }
+      let chosen_ones = document.getElementsByClassName(category);
+      for (const person of chosen_ones) {
+        person.classList.remove('d-none');
+      }
     }
 
     spinner.classList.add('d-none');
