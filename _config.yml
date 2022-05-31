@@ -56,6 +56,10 @@ defaults:
     scope:
       path: "_posts"
     values:
+      header0: MASTER
+      header1: TEAM
+      header2:
+      header3: News
       show_profile: false
       layout: defaults/post
   -

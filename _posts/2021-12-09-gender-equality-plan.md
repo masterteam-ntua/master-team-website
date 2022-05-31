@@ -1,8 +1,4 @@
 ---
-header0: MASTER
-header1: TEAM
-header2:
-header3: News
 title: Gender Equality Plan of the School of Electrical and Computer Engineering of the NTUA
 description: The School was supported during the development of the plan by the CALIPER - Gender Equality in STEM Research project (Horizon 2020).
 directory: gender-equality-plan

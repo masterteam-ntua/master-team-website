@@ -1,8 +1,4 @@
 ---
-header0: MASTER
-header1: TEAM
-header2:
-header3: News
 title: Visit ECE-NTUA
 description: Academic Year 2021-2022
 directory: visit-ece-ntua
