@@ -1,6 +1,6 @@
 # Website for TEAM Master NTUA.
 
-This website was created by [Spyros Bekiaris](https://masterteam.ntua.gr/) and [Panagiotis Tzortzis](https://github.com/tzortzispanagiotis), researchers - software engineers @ AILS Lab, NTUA, with the guidance and coordination of Nikolas Papadopoulos of BioSim NTUA.
+This website was created by [Spyros Bekiaris](https://github.com/spyrosbek) and [Panagiotis Tzortzis](https://github.com/tzortzispanagiotis), researchers - software engineers @ AILS Lab, NTUA, with the guidance and coordination of [Nikolas Papadopoulos](https://github.com/nikolo555) of BioSim NTUA.
 
 We leveraged the power of Jekyll static site generator to power the functionality of the site, which was built using sass and html.
 
