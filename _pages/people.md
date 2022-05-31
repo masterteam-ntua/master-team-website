@@ -39,7 +39,7 @@ show_sidebar: false
   </div>
   <div class="row">
     <div class="col-12">
-      <div id="spinner-container" class="row justify-content-center d-none">
+      <div id="spinner-container" class="row justify-content-center">
         <div class="spinner-border text-primary" role="status">
           <span class="sr-only">Loading...</span>
         </div>
