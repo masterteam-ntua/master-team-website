@@ -58,7 +58,7 @@ show_sidebar: false
                     <div class="col-12">
                         <p>
                             <i class="fa-solid fa-location-dot fa-lg mr-2"></i>
-                            Office 1.1.17, 1st Floor, Old Electrical and Comp. Engineering
+                            Office 1.1.17, 1st Floor, Old Electrical and Comp. Engineering Building
                         </p>
                     </div>
                     <div class="col-12">
