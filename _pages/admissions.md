@@ -40,7 +40,7 @@ show_sidebar: false
                 Certificate of Proficiency in English (at least level B2), as evidenced by a degree from an English-speaking country's Educational Body or a Certificate of Proficiency in English (Toefl, IELTS, University of Michigan, University of Cambridge, a National Certificate of Language Proficiency, etc.). If selected for an interview, candidates will be expected to demonstrate a solid understanding of the English language.
             </li>
             <li class="mb-3">
-                Two Letters of Recommendation. Letters of recommendation must be submitted electronically through the Online Application. Do not send hard copies or have them sent. Within the application you will be asked to provide the name, institution, and email address for each of your desired recommenders. For the majority of candidates this means two references from academic staff at their previous institution(s) who have taught them at degree level, and who, preferably, can comment on subjects or skills relevant to the M.Sc. program. If the candidate has been out of higher education for more than four years, they can provide a professional reference instead.
+                Two Letters of Recommendation. Letters of recommendation must be submitted electronically through the Online Application platform (see below). Do not send hard copies or have them sent. Within the application you will be asked to provide the name, institution, and email address for each of your desired recommenders. For the majority of candidates this means two references from academic staff at their previous institution(s) who have taught them at degree level, and who, preferably, can comment on subjects or skills relevant to the M.Sc. program. If the candidate has been out of higher education for more than four years, they can provide a professional reference instead.
             </li>
             <li class="mb-3">
                 Resume/CV in English (max. 2 pages), which will include all information about the candidate’s education, research or professional activity and interests.
@@ -50,10 +50,6 @@ show_sidebar: false
             </li>
             <li class="mb-3">
                 Evidence of research experience (if any). Candidates may submit copies of journal or conference publications and/or a one-page summary of their Undergraduate Research Thesis in English (pdf).
-            </li>
-            <li class="mb-3">
-                Evidence of research experience (if any). Candidates may submit a list of journal or conference publications (if any) and/or
-                a one-page summary of their Undergraduate Research Thesis in English (if any) (pdf).
             </li>
             <li class="mb-3">
                 A photocopy of both sides of the candidate’s identity card (ID) or passport (pdf).
@@ -78,7 +74,7 @@ show_sidebar: false
         <p>
             The program does not discriminate on the basis of race, color, religion, national origin, sex, sexual orientation, gender identity,
             age or disability. Our non-discrimination policy applies to all phases of the admission and scholarship process, and to all
-            aspects of the educational programs and activities
+            aspects of the educational programs and activities.
         </p>
         <h2 class="my-3">Application Process</h2>
         <p>
