@@ -16,7 +16,7 @@ show_sidebar: false
                 <hr/>
             </div>
             <label class="col-12">National Technical University of Athens</label>
-            <label class="col-12">School of Electrical and Computer Engineering</label>
+            <label class="col-12">School of Electrical and Computer Engineering Building</label>
             <label class="col-12">9, Iroon Polytechniou St</label>
             <label class="col-12">Athens, Postal Code 15780</label>
         </div>
@@ -31,7 +31,7 @@ show_sidebar: false
                     <div class="col-12">
                         <p>
                             <i class="fa-solid fa-location-dot fa-lg mr-2"></i>
-                            Office Γ.1.3, 1st Floor, Electrical and Comp. Engineering
+                            Office Γ.1.3, 1st Floor, Electrical and Comp. Engineering Building
                         </p>
                     </div>
                     <div class="col-12">
