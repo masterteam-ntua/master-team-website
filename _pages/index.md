@@ -16,11 +16,11 @@ show_sidebar: false
                 <p>
                     Translational Engineering is the process of translating engineering research findings
                     and discoveries into innovations and functional products. Applications of Translational
-                    Engineering in Health and Medicine focus on the developmentof devices and services to
+                    Engineering in Health and Medicine focus on the development of devices and services to
                     improve the public and individual health.
                 </p>
                 <p>
-                    The M.Sc. in Translational Engineering in Health and Medicine, organized by the <a href="https://www.ece.ntua.gr"><strong>School of Electrical and Computer Engineering</strong></a> of the <a href="https://www.ntua.gr"><strong>National Technical University of Athens</strong></a>, in collaboration with the <a href="https://www.mech.ntua.gr"><strong>School of Mechanical Engineering</strong></a>, is designed to prepare students to pioneer the transformation of innovative technologies into commercial devices and services with a significant socioeconomic impact in the field of Health. The program builds on NTUA's decades of foundational work in biomedical engineering and science and focuses on cultivating deep knowledge and catalyzing interdisciplinary efforts to address urgent healthcare challenges.
+                    The M.Sc. in Translational Engineering in Health and Medicine, organized by the <a href="https://www.ece.ntua.gr/en"><strong>School of Electrical and Computer Engineering</strong></a> of the <a href="https://www.ntua.gr/en/"><strong>National Technical University of Athens</strong></a> (NTUA), in collaboration with the <a href="http://www.mech.ntua.gr/en/"><strong>School of Mechanical Engineering</strong></a>, is designed to prepare students to pioneer the transformation of innovative technologies into commercial devices and services with a significant socioeconomic impact in the field of Health. The program builds on NTUA's decades of foundational work in biomedical engineering and science and focuses on cultivating deep knowledge and catalyzing interdisciplinary efforts to address urgent healthcare challenges.
                 </p>
                 <p>
                     Students study and work on cutting-edge topics in biomedical data science and artificial
@@ -48,7 +48,7 @@ show_sidebar: false
                 <div class="card-body grey-box">
                     <h5 class="card-title text-center">KEY INFORMATION</h5>
                     <div class="d-flex flex-column card-text text-center">
-                        <label class="mb-0"><strong>Duration:</Strong> 12 months</label>
+                        <label class="mb-0"><strong>Duration:</Strong> 18 months</label>
                         <label class="mb-0"><strong>Start Date:</Strong> October 2022</label>
                         <label class="mb-0"><strong>Location:</Strong> NTUA Campus</label>
                         <label class="mb-0"><strong>Language:</Strong> English</label>
@@ -74,7 +74,7 @@ show_sidebar: false
                         FACULTY
                     </label>
                     <p class="text">
-                        Learn from professors and researchers from top-ranking engineering Schools at a world-class technical university.
+                        Learn from professors and researchers from top-ranking engineering Schools at a world-class technical University.
                     </p>
                 </div>
                 <div class="information-box-component col">
@@ -87,10 +87,10 @@ show_sidebar: false
                 </div>
                 <div class="information-box-component col">
                     <label class="title">
-                        ENTERPREUNERSHIP
+                        ENTREPRENEURSHIP
                     </label>
                     <p class="text">
-                        Cultivate enterpreneurial skills to deliver high-impact solutions powered by deep science and technology.                   
+                        Cultivate entrepreneurial skills to deliver high-impact solutions powered by deep science and technology.                   
                     </p>
                 </div>
                 <div class="information-box-component col">
