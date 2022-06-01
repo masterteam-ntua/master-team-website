@@ -19,14 +19,15 @@ header3: Program Overview
             Program Goals
         </h2>
         <p>
-            The rapidly evolving interdisciplinary field of Translational Engineering in Health and Medicine has created a
-            demand for scientists with biomedical and basic engineering science backgrounds who will be pioneers in
-            translating innovative technologies into commercial devices and services with a significant socioeconomic
-            impact in the field of health.
+            While funding for biomedical research has increased exponentially in recent years, there has been no corresponding increase 
+            in the development of practical solutions to clinical needs. Engineering and Life Sciences graduates need advanced and 
+            interdisciplinary training towards this direction. The M.Sc. in Translational Engineering in Health and Medicine at the National 
+            Technical University of Athens (NTUA) aims to bridge that gap by preparing students to pioneer the transformation of innovative 
+            technologies into commercial devices and services with a significant socioeconomic impact in the field of health.
         </p>
         <p>
-            The interdisciplinarity and interculturalism of staff, students, and learning subjects are the key features of the
-            Master in Translational Engineering in Health and Medicine at the National Technical University of Athens.
+            The interdisciplinarity of staff, students, and learning subjects are the key features of the
+            M.Sc. in Translational Engineering in Health and Medicine at NTUA.
             The goal of this Master's program is to provide students with:
         </p>
         <ul>
@@ -44,19 +45,10 @@ header3: Program Overview
         </h2>
         <p>
             This program is offered full-time and includes two semesters of coursework and one semester of Master thesis
-            research. The courses of the program are taught in English. The maximum study period is two years.
-        </p>
-        <p>
-           To earn the M.Sc. degree, students must: [a] attend and successfully pass 7 compulsory and 5 elective courses,
-            corresponding to a total of 60 credits (30 per semester) and [b] complete and successfully defend their M.Sc. thesis (30
-            credits).
-        </p>
-        <h2 class="my-3">
-            Master Thesis
-        </h2>
-        <p>
-            The enrollment in the 3rd semester of studies and the assignment of the Master Thesis can take place at the end of
-            the first year of studies, provided that the student has successfully completed at least half of the MSc program
+            research. The maximum study period is two years.To earn the M.Sc. degree, students must: [a] attend and successfully pass 
+            7 compulsory and 5 elective courses, corresponding to a total of 60 credits (30 per semester) and [b] complete and successfully 
+            defend their M.Sc. thesis (30 credits). The enrollment in the third semester of studies and the assignment of the Master Thesis can take 
+            place at the end of the first year of studies, provided that the student has successfully completed at least half of the MSc program
             courses by that time. The writing language of the MSc thesis is English.
         </p>
         <h2 class="my-3">
