@@ -19,7 +19,7 @@ header3: Program Overview
             Program Goals
         </h2>
         <p>
-            the rapidly evolving interdisciplinary field of Translational Engineering in Health and Medicine has created a
+            The rapidly evolving interdisciplinary field of Translational Engineering in Health and Medicine has created a
             demand for scientists with biomedical and basic engineering science backgrounds who will be pioneers in
             translating innovative technologies into commercial devices and services with a significant socioeconomic
             impact in the field of health.
@@ -30,7 +30,7 @@ header3: Program Overview
             The goal of this Master's program is to provide students with:
         </p>
         <ul>
-            <li class="mb-3">The scientific, technological, regulatory, and business skills necessary to translate scientific discoveries into
+            <li class="mb-3">the scientific, technological, regulatory, and business skills necessary to translate scientific discoveries into
                 public health benefits</li>
             <li class="mb-3">advanced research abilities so that they can conduct independent research and contribute to the creation
                 of new knowledge in the field of Translational Engineering in Health and Medicine</li>
