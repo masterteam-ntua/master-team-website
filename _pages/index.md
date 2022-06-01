@@ -74,7 +74,7 @@ show_sidebar: false
                         FACULTY
                     </label>
                     <p class="text">
-                        Learn from professors and researchers from top-ranking engineering Schools at a world-class technical University.
+                        Learn from professors and researchers from top-ranking engineering Schools at a world-class Technical University.
                     </p>
                 </div>
                 <div class="information-box-component col">
