@@ -189,7 +189,7 @@ show_sidebar: false
                     </div>
                     <div class="mc-field-group form-group">
                         <label for="mce-LNAME" class="font-weight-bold">Last Name <span class="asterisk colored-main">*</span></label>
-                        <input type="text" value="" name="LNAME" class="required form-control" id="mce-LNAME" placeholder="Enter first name" required>
+                        <input type="text" value="" name="LNAME" class="required form-control" id="mce-LNAME" placeholder="Enter last name" required>
                     </div>
                     <div id="mce-responses" class="clear foot">
                         <div class="response" id="mce-error-response" style="display:none"></div>
