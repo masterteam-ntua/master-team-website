@@ -2,7 +2,7 @@
   Name: Alexopoulos Leonidas
   Category: Professors
   Title1: Associate Professor
-  Title2: "Head of the Systems Bioengineering Lab,\nCo-founder of ProtATonce (biotech company),\nFaculty of Mechanical Engineering, NTUA"
+  Title2: "Head of the Systems Bioengineering Lab,\nCo-founder of ProtATonce (biotech company),\nSchool of Mechanical Engineering, NTUA"
   School: Mechanical Engineering, NTUA
   Email: leo@mail.ntua.gr
   Phone: 2107721666
@@ -15,7 +15,7 @@
   Name: Anagnostakis Marios
   Category: Professors
   Title1: Professor
-  Title2: Faculty of Mechanical Engineering, NTUA
+  Title2: School of Mechanical Engineering, NTUA
   School: Mechanical Engineering, NTUA
   Email: managno@central.ntua.gr
   Phone: 2107722912
@@ -54,12 +54,12 @@
   Name: Chronis Nikos
   Category: Professors
   Title1: Professor
-  Title2: Faculty of Chemical Engineering, NTUA
+  Title2: School of Chemical Engineering, NTUA
   School: Chemical Engineering, NTUA
   Email: chronis@materials.uoc.gr
   Phone: null
   Website: https://www.materials.uoc.gr/el/general/personnel/chronis.html
-  Bio: Professor Chronis received a Bachelor in Engineering (B.E.) in mechanical engineering in 1998, from the Aristotle University of Thessaloniki with honors (graduated 1st out of 145 students in his class). He completed his Ph.D. in mechanical engineering from the University of California at Berkeley (USA) in 2004. In 2000 he joined the Berkeley Sensor and Actuator Center at the University of California at Berkeley as a graduate student researcher under the supervision of Luke Lee. From 2004-2006, he held a post-doctoral research position at Cori Bargmann's lab at Rockefeller University, New York, (USA), where he developed microfluidic tools for studying neural networks in the nematode C. elegans. In August 2006, he joined the faculty of Mechanical Engineering at the University of Michigan as an assistant professor. In 2015, he joined the Department of Materials Science and Technology at the University of Crete. He is also a visiting Professor at the National Center for Scientific Research 'Demokritos'. He is the co-author of more 60 journal and peer-reviewed conference publications and inventor in 3 patents. His research interests include BioMEMS, microfluidics, optical MEMS for lab-on-chip applications, and in-vivo imaging of neural circuits in C. elegans. Dr. Chronis is the recipient of the prestigious NIH Director's New Innovator Award.
+  Bio: Professor Chronis received a Bachelor in Engineering (B.E.) in mechanical engineering in 1998, from the Aristotle University of Thessaloniki with honors (graduated 1st out of 145 students in his class). He completed his Ph.D. in mechanical engineering from the University of California at Berkeley (USA) in 2004. In 2000 he joined the Berkeley Sensor and Actuator Center at the University of California at Berkeley as a graduate student researcher under the supervision of Luke Lee. From 2004-2006, he held a post-doctoral research position at Cori Bargmann's lab at Rockefeller University, New York, (USA), where he developed microfluidic tools for studying neural networks in the nematode C. elegans. In August 2006, he joined the School of Mechanical Engineering at the University of Michigan as an assistant professor. In 2015, he joined the Department of Materials Science and Technology at the University of Crete. He is also a visiting Professor at the National Center for Scientific Research 'Demokritos'. He is the co-author of more 60 journal and peer-reviewed conference publications and inventor in 3 patents. His research interests include BioMEMS, microfluidics, optical MEMS for lab-on-chip applications, and in-vivo imaging of neural circuits in C. elegans. Dr. Chronis is the recipient of the prestigious NIH Director's New Innovator Award.
   Office: null
   modalId: chronis-modal
 
@@ -80,7 +80,7 @@
   Name: Golemati Spyretta
   Category: Professors
   Title1: Associate Professor
-  Title2: "Biomedical Engineering,\nFaculty of Medical School of the University of Athens"
+  Title2: "Biomedical Engineering,\nSchool of Medical School of the University of Athens"
   School: Medical School of the University of Athens
   Email: sgolemati@med.uoa.gr
   Phone: null
@@ -106,7 +106,7 @@
   Name: Kyriakopoulos Konstantinos
   Category: Professors
   Title1: Professor
-  Title2: "Professor of Robotics, Mechatronics & Control, Control Systems Laboratory Director\nFaculty of Mechanical Engineering, NTUA"
+  Title2: "Professor of Robotics, Mechatronics & Control, Control Systems Laboratory Director\nSchool of Mechanical Engineering, NTUA"
   School: Mechanical Engineering, NTUA
   Email: kkyria@central.ntua.gr
   Phone: 2107723595
@@ -119,12 +119,12 @@
   Name: Manopoulos Christos
   Category: Professors
   Title1: Assistant Professor
-  Title2: "Director of Biofluid Mechanics Laboratory\nFluids Section, Faculty of Mechanical Engineering, NTUA"
+  Title2: "Director of Biofluid Mechanics Laboratory\nFluids Section, School of Mechanical Engineering, NTUA"
   School: Mechanical Engineering, NTUA
   Email: manopoul@fluid.mech.ntua.gr
   Phone: 2107721026
   Website: http://www.linkedin.com/in/christos-manopoulos-37a41151
-  Bio: "Christos Manopoulos received a Diploma degree in Mechanical Engineering from the School of Engineering at the University of Patras, Greece, in 1995, the M.Sc. and the Ph.D. degrees in Biomedical Engineering in 1999 and 2009, respectively, through a European Postgraduate Programme from the University of Patras, (School of Health Sciences, Faculty of Medicine) and the National Technical University of Athens, (School of Mechanical Engineering, School of Electrical & Computer Engineering), Greece.\nIn parallel with his postgraduate studies he worked in the R&D department of the micrel SA company, which designs and manufactures medical pumps. Moreover, he has been a Biomedical-Mechanical Engineer in the VIODOMI SA company, as a construction project supervisor. He has participated as a Mechanical Engineer and completed 14 European and National R&D projects in his research area.\nHe is currently Assistant Professor and Director of the Fluids Section’s Biofluid Mechanics Laboratory of the School of Mechanical Engineering at the National Technical University of Athens, Greece. He has authored or coauthored more than 75 journal and conference papers and holds one patent. His research interests include theoretical, computational and experimental methods on biofluid mechanics, unsteady oscillating flows, fluid analysis, investigation and design of biomedical systems, devices and equipment related to biofluid mechanics technology, development of biofluid mechanics models in technology and living organisms (normal and pathological conditions), valveless pumping, peristaltic pumps, simulation and prototyping of medical devices and machines.\nChristos Manopoulos is a reviewer in more than 15 scientific journals. He has participated in several scientific committees and he is a member of several scientific societies. He has received a scholarship by the State Scholarships Foundation of Greece for his PhD, a Doctoral Research award in 2009 and several awards for some of his research publications."
+  Bio: "Christos Manopoulos received a Diploma degree in Mechanical Engineering from the School of Engineering at the University of Patras, Greece, in 1995, the M.Sc. and the Ph.D. degrees in Biomedical Engineering in 1999 and 2009, respectively, through a European Postgraduate Programme from the University of Patras, (School of Health Sciences, School of Medicine) and the National Technical University of Athens, (School of Mechanical Engineering, School of Electrical & Computer Engineering), Greece.\nIn parallel with his postgraduate studies he worked in the R&D department of the micrel SA company, which designs and manufactures medical pumps. Moreover, he has been a Biomedical-Mechanical Engineer in the VIODOMI SA company, as a construction project supervisor. He has participated as a Mechanical Engineer and completed 14 European and National R&D projects in his research area.\nHe is currently Assistant Professor and Director of the Fluids Section’s Biofluid Mechanics Laboratory of the School of Mechanical Engineering at the National Technical University of Athens, Greece. He has authored or coauthored more than 75 journal and conference papers and holds one patent. His research interests include theoretical, computational and experimental methods on biofluid mechanics, unsteady oscillating flows, fluid analysis, investigation and design of biomedical systems, devices and equipment related to biofluid mechanics technology, development of biofluid mechanics models in technology and living organisms (normal and pathological conditions), valveless pumping, peristaltic pumps, simulation and prototyping of medical devices and machines.\nChristos Manopoulos is a reviewer in more than 15 scientific journals. He has participated in several scientific committees and he is a member of several scientific societies. He has received a scholarship by the State Scholarships Foundation of Greece for his PhD, a Doctoral Research award in 2009 and several awards for some of his research publications."
   Office: Building of “Aerodynamics, Naval Architecture & Hydraulic Turbomachines (A.N.Y.M.)”, 1st floor
   modalId: manopoulos-modal
 
@@ -132,7 +132,7 @@
   Name: Matsopoulos George
   Category: Professors
   Title1: Professor
-  Title2: Division of Information Transmission Systems and Material Technology, Faculty of Electrical and Computer Engineering, NTUA
+  Title2: Division of Information Transmission Systems and Material Technology, School of Electrical and Computer Engineering, NTUA
   School: Electrical and Computer Engineering, NTUA
   Email: gmatso@esd.ece.ntua.gr
   Phone: 2107722288
@@ -145,7 +145,7 @@
   Name: Nikita Konstantina
   Category: Professors
   Title1: Professor
-  Title2: "Director of Biomedical Simulations and Imaging Lab,\nFaculty of Electrical and Computer Engineering, NTUA"
+  Title2: "Director of Biomedical Simulations and Imaging Lab,\nSchool of Electrical and Computer Engineering, NTUA"
   School: Electrical and Computer Engineering, NTUA
   Email: knikita@ece.ntua.gr
   Phone: 2107722285
@@ -184,7 +184,7 @@
   Name: Provatidis Christophoros
   Category: Professors
   Title1: Professor
-  Title2: Faculty of Mechanical Engineering, NTUA
+  Title2: School of Mechanical Engineering, NTUA
   School: Mechanical Engineering, NTUA
   Email: cprovat@central.ntua.gr
   Phone: 2107721520
@@ -210,7 +210,7 @@
   Name: Spitas Vassilis
   Category: Professors
   Title1: Associate Professor
-  Title2: Faculty of Mechanical Engineering, NTUA
+  Title2: School of Mechanical Engineering, NTUA
   School: Mechanical Engineering, NTUA
   Email: vspitas@central.ntua.gr
   Phone: 2107721665
@@ -236,7 +236,7 @@
   Name: Stamou Giorgos
   Category: Professors
   Title1: Professor
-  Title2: Faculty of Electrical and Computer Engineering, NTUA
+  Title2: Artificial Intelligence and Learning Systems Laboratory, School of Electrical and Computer Engineering, NTUA
   School: Electrical and Computer Engineering, NTUA
   Email: gstam@cs.ntua.gr
   Phone: 2107723040
@@ -249,7 +249,7 @@
   Name: Voulodimos Athanasios
   Category: Professors
   Title1: Assistant Professor
-  Title2: Faculty of Electrical and Computer Engineering, NTUA
+  Title2: Artificial Intelligence and Learning Systems Laboratory, School of Electrical and Computer Engineering, NTUA
   School: Electrical and Computer Engineering, NTUA
   Email: thanosv@mail.ntua.gr
   Phone: null
@@ -262,7 +262,7 @@
   Name: Zarkogianni Konstantia
   Category: Researchers
   Title1: Laboratory Teaching Staff
-  Title2: Faculty of Electrical and Computer Engineering, NTUA
+  Title2: School of Electrical and Computer Engineering, NTUA
   School: Electrical and Computer Engineering, NTUA
   Email: kzarkog@biosim.ntua.gr
   Phone: 2107722149
