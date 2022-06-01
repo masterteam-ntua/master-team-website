@@ -14,7 +14,7 @@ header3: Courses
             <table class="table table-bordered text-center">
                 <thead>
                     <tr>
-                        <th scope="col" colspan="2" class="t-head">Winter Semester</th>
+                        <th scope="col" colspan="2" class="t-head">Fall Semester</th>
                     </tr>
                     <tr>
                         <th scope="col" class="t-subhead">Course</th>
