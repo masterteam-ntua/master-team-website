@@ -26,7 +26,7 @@ show_sidebar: false
         <label class="col-12 pl-0">The application consists of the following elements:</label>
         <ol>
             <li class="mb-3">
-                Copy of all university degrees/diplomas received. Degrees from foreign universities must be accompanied by a certificate 
+                Copy of all University degrees/diplomas received. Degrees from foreign Universities must be accompanied by a certificate 
                 issued by the Hellenic NARIC organization 
                 (<a href="http://www.doatap.gr/en/index.php" target="_blank" class="font-weight-bold">DOATAP</a>).
                 The recognition of the degree or certificate of completion of studies by the Hellenic NARIC (which can be submitted by the 
@@ -34,13 +34,13 @@ show_sidebar: false
                 in the following <a href="https://www.doatap.gr/home_english/foreign_hei/" target="_blank" class="font-weight-bold">list</a>.
             </li>
             <li class="mb-3">
-                Copy of transcripts of grades from all previous universities attended (in Greek or English). Accepted candidates must submit official transcripts.
+                Copy of transcripts of grades from all previous Universities attended (in Greek or English). Accepted candidates must submit official transcripts.
             </li>
             <li class="mb-3">
                 Certificate of Proficiency in English (at least level B2), as evidenced by a degree from an English-speaking country's Educational Body or a Certificate of Proficiency in English (Toefl, IELTS, University of Michigan, University of Cambridge, a National Certificate of Language Proficiency, etc.). If selected for an interview, candidates will be expected to demonstrate a solid understanding of the English language.
             </li>
             <li class="mb-3">
-                Two Letters of Recommendation. Letters of recommendation must be submitted electronically through the Online Application platform (see <a href="#Application_Process_Section"><strong>Application Process</strong></a> below). Do not send hard copies or have them sent. Within the application you will be asked to provide the name, institution, and email address for each of your desired recommenders. For the majority of candidates this means two references from academic staff at their previous institution(s) who have taught them at degree level, and who, preferably, can comment on subjects or skills relevant to the M.Sc. program. If the candidate has been out of higher education for more than four years, they can provide a professional reference instead.
+                Two Letters of Recommendation. Letters of recommendation must be submitted electronically through the Online Application platform (see <a href="#Application_Process_Section"><strong>Application Process</strong></a> below). Within the application candidates will be asked to provide the name, institution, and email address for each of the desired recommenders. For the majority of candidates this means two references from academic staff at their previous institution(s) who have taught them at degree level, and who, preferably, can comment on subjects or skills relevant to the M.Sc. program. If the candidate has been out of higher education for more than four years, they can provide a professional reference instead.
             </li>
             <li class="mb-3">
                 Resume/CV in English (max. 2 pages), which will include all information about the candidate’s education, research or professional activity and interests.
@@ -57,7 +57,7 @@ show_sidebar: false
         </ol>
         <h2 class="my-3">Selection Criteria</h2>
         <p>
-            We welcome students from all over the world and consider all applicants on an individual basis. The admissions committee
+            We welcome students from all over the world and consider all candidates on an individual basis. The admissions committee
             considers the totality of a candidate’s experience, skills, personality and potential, aiming for a diverse class of motivated
             students who can most benefit from and contribute to our rigorous curriculum.
         </p>
