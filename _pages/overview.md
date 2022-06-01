@@ -48,8 +48,8 @@ header3: Program Overview
             research. The maximum study period is two years.To earn the M.Sc. degree, students must: [a] attend and successfully pass 
             7 compulsory and 5 elective courses, corresponding to a total of 60 credits (30 per semester) and [b] complete and successfully 
             defend their M.Sc. thesis (30 credits). The enrollment in the third semester of studies and the assignment of the Master Thesis can take 
-            place at the end of the first year of studies, provided that the student has successfully completed at least half of the MSc program
-            courses by that time. The writing language of the MSc thesis is English.
+            place at the end of the first year of studies, provided that the student has successfully completed at least half of the M.Sc. program
+            courses by that time. The writing language of the Master thesis is English.
         </p>
         <h2 class="my-3">
             Language of instruction
