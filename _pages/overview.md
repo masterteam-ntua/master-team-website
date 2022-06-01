@@ -63,7 +63,7 @@ header3: Program Overview
         <p>
             The M.Sc. in Translational Engineering in Health and Medicine is organized and offered by the School of Electrical and
             Computer Engineering of the National Technical University of Athens, in collaboration with the School of Mechanical
-            Engineering. The Master program is taught by faculty from NTUA and collaborating universities and research centers.
+            Engineering. The Master program is taught by faculty from NTUA and collaborating Universities and research centers.
             Distinguished guest speakers from industry, the clinical sector, and regulatory authorities are also invited to deliver
             lectures and interact with students.
         </p>
