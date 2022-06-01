@@ -58,7 +58,7 @@ header3: Program Overview
             The courses of the program are taught in English.
         </p>
         <h2 class="my-3">
-            Organizers
+            Organizers & Collaborators
         </h2>
         <p>
             The M.Sc. in Translational Engineering in Health and Medicine is organized and offered by the School of Electrical and
