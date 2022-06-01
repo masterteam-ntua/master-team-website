@@ -19,7 +19,7 @@ header3: Program Overview
             Program Goals
         </h2>
         <p>
-            The rapidly evolving interdisciplinary field of Translational Engineering in Health and Medicine has created a
+            the rapidly evolving interdisciplinary field of Translational Engineering in Health and Medicine has created a
             demand for scientists with biomedical and basic engineering science backgrounds who will be pioneers in
             translating innovative technologies into commercial devices and services with a significant socioeconomic
             impact in the field of health.
@@ -36,7 +36,7 @@ header3: Program Overview
                 of new knowledge in the field of Translational Engineering in Health and Medicine</li>
             <li class="mb-3">professional skills that will enable them to serve as healthcare executives with specialized knowledge in
                 the scientific areas of this program and meet the growing needs of private and public enterprises,
-                agencies, and services in Greece and abroad
+                agencies, and services in Greece and abroad.
             </li>
         </ul>
         <h2 class="my-3">
