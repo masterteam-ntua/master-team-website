@@ -80,11 +80,11 @@
   Name: Golemati Spyretta
   Category: Professors
   Title1: Associate Professor
-  Title2: "Biomedical Engineering,\nSchool of Medical School of the University of Athens"
-  School: Medical School of the University of Athens
+  Title2: "Biomedical Engineering,\Medical School, National and Kapodistrian University of Athens"
+  School: Medical School, National and Kapodistrian University of Athens
   Email: sgolemati@med.uoa.gr
   Phone: null
-  Website: http://www.scholar.uoa.gr/sgolemati/home
+  Website: http://scholar.uoa.gr/sgolemati/home
   Bio: Spyretta Golemati is Associate Professor in Biomedical Engineering in the Medical School of the University of Athens. She holds a Diploma in Mechanical Engineering from the National Technical University of Athens and M.Sc. and Ph.D. degrees in Bioengineering from Imperial College London. Her research interests include (a) medical image  /theme/img/team/analysis, with emphasis on vascular ultrasound image  /theme/img/team/analysis, (b) biosignal processing, and (c) vascular physiology and pathophysiology. She has co-authored 37 papers published in international scientific peer-reviewed journals, 12 book chapters, and 45 papers published in international scientific peer-reviewed conference proceedings. She has participated in 7 funded national and international research projects (in one, as coordinator). Dr Golemati has acted as reviewer of national and international research proposals as well as of papers submitted to international scientific journals and conferences. She is a member of the Advisory Editorial Board of Ultrasound in Medicine and Biology. She is a member of the IEEE Engineering in Medicine and Biology Society (IEEE-EMBS), the IEEE Ultrasonics, Ferroelectrics and Frequency Control Society (IEEE-UFFC), the Technical Chamber of Greece, and the Hellenic Atherosclerosis Society.
   Office: null
   modalId: golemati-modal
@@ -106,7 +106,7 @@
   Name: Kyriakopoulos Konstantinos
   Category: Professors
   Title1: Professor
-  Title2: "Professor of Robotics, Mechatronics & Control, Control Systems Laboratory Director\nSchool of Mechanical Engineering, NTUA"
+  Title2: "Professor of Robotics, Mechatronics & Control, Director of Control Systems Laboratory, \nSchool of Mechanical Engineering, NTUA"
   School: Mechanical Engineering, NTUA
   Email: kkyria@central.ntua.gr
   Phone: 2107723595
@@ -160,10 +160,10 @@
   Title1: Vice Chairman, MIT Enterprise Forum Greece
   Title2: null
   School: null
-  Email: null
+  Email: vassilis@papakonstantinou.gr
   Phone: null
-  Website: null
-  Bio: null
+  Website: https://www.linkedin.com/in/vassilisp/
+  Bio: Vassilis is a technology entrepreneur with over 25 years of hands-on experience across various industry sectors. He likes building things, exploring ideas, and connecting people. He is a co-founder and partner of Blue Dome Capital, an investment manager seeking to capture emerging opportunities in technology transfer and innovation-driven ventures in Central &amp; South- Eastern Europe. He is the co-founder of Mobiltron, Inc, a technology company developing a next- generation user authentication platform using behavioral biometrics for mobile applications. He is a partner of Sylipsis, Inc, a company helping researchers move their ideas from the lab to the market and providing managed technology development as a service. Vassilis consults the Boards of various organizations on issues related to technology and innovation. He currently sits on the Board of Fasmatech, a startup developing mass spectroscopy technology, and VIORYL, a chemical engineering company. Previously, he was on the Board of Metis Cybertechnologies, a company developing vessel performance solutions, and helped the investors achieve a 3X exit. He is the co-founder and Vice-Chairman of the MIT Enterprise Forum Greece, the Greek chapter of an MIT-inspired global network, enabling technology entrepreneurs to rapidly transform ideas into world-changing companies. He is the co-founder and Treasurer of the Hellenic Innovation Network, Inc, a Boston-based charity that supports the entrepreneurial growth of the Greek and Cypriot tech ecosystem. He holds degrees in Mechanical Engineering from NTUA and Ocean Systems Management from MIT. He has conducted research in fluid mechanics, control systems, risk management, and system dynamics.
   Office: null
   modalId: papakonstantinou-modal
 
@@ -173,10 +173,10 @@
   Title1: Research Associate
   Title2: Research Associate at the Department of Applied Mathematics and Theoretical Physics (DAMTP), University of Cambridge, Postdoctoral Researcher, Academy of Athens
   School: null
-  Email: null
+  Email: np558@cam.ac.uk
   Phone: null
   Website: null
-  Bio: null
+  Bio: Nicholas Protonotarios is a visiting Research Associate with the Department of Applied Mathematics and Theoretical Physics (DAMTP), University of Cambridge, and a postdoctoral researcher at the Mathematics Research Center (MaRC) of the Academy of Athens. He holds an MEng in Naval Architecture and Marine Engineering, an MBA in Engineering Economics, and a PhD in Applied Mathematics from the National Technical University of Athens (NTUA). His current research interests include inverse problems in biomedicine, and medical image reconstruction techniques for PET, SPECT, and MRI.
   Office: null
   modalId: protonotarios-modal
 
