@@ -36,6 +36,19 @@
   Bio: Effie studied Electrical & Computer Engineering at the National Technical University of Athens followed by a Ph.D. in Bioengineering at UC San Diego on single cell motility and biomechanics. During her postdoc at Stanford Biochemistry, she focused on how intracellular bacterial pathogens infect and spread through vascular endothelial cells. She has been leading a junior research group in the CMFI Cluster of Excellence since March 2021. Her group combines engineering, microscopy, cell biology, and microbiology to understand basic cell mechanobiology and the biomechanical signals that influence interactions between host cells and pathogens.
   Office: null
   modalId: bastounis-modal
+  
+- Image: /theme/img/team/bonatsos.jpeg
+  Name: Bonatsos Niko
+  Category: Collaborators
+  Title1: Managing Director, General Catalyst
+  Title2: null
+  School: null
+  Email: nbonatsos@generalcatalyst.com
+  Phone: null
+  Website: https://www.linkedin.com/in/bonatsos/
+  Bio: Niko Bonatsos is a managing director at General Catalyst, a venture capital firm with approximately $5 billion in total capital raised. Working from the firm’s San Francisco Bay Area offices, Niko focuses his investment strategy on finding first-time technology founders with strong product instincts, a robust appetite for learning, and a desire to create innovations with the potential to benefit millions. In his nine years with GC, Niko has been instrumental in the firm’s investments in Atrium, Audius, Cover, Hive, HubHaus, ClassDojo, Paribus (acquired by CapitalOne), Sleeper, and Snap (NYSE: SNAP) among others. Prior to joining General Catalyst, Niko attended Stanford University as a Fulbright Scholar earning an MS in Management Science and Engineering. He has studied in several countries earning additional degrees in Manufacturing Engineering & Management (University of Cambridge) and Electrical Engineering & Computer Science (National Technical University of Athens) and worked as a part of the R&D team for Yokogawa Electric Corporation in Japan.
+  Office: null
+  modalId: bonatsos-modal
 
 - Image: /theme/img/team/Caloghirou.jpg
   Name: Caloghirou Yannis
@@ -101,6 +114,19 @@
   Bio: null
   Office: null
   modalId: kleanthi-modal
+  
+- Image: /theme/img/team/konofagou.jpg
+  Name: Konofagou Elisa
+  Category: Collaborators
+  Title1: Professor
+  Title2: "Robert and Margaret Hariri Professor of Biomedical Engineering and Professor of Radiology (Physics), \nDept of Biomedical Engineering, \nColumbia University"
+  School: null
+  Email: ek2191@columbia.edu
+  Phone: null
+  Website: https://ueil.bme.columbia.edu/
+  Bio: Prof. Konofagou received her B.Sc. (Licence) in chemical physics from the Paris VI University (Université de Pierre et Marie Curie; Paris, France) and her M.Sc. in biomedical engineering from Imperial College (London, UK) in 1992 and 1993, respectively. In 1999, Prof. Konofagou received her Ph.D. in biomedical engineering from the University of Houston (Houston, TX, USA) for her work in elastography at the University of Texas Medical School. She then carried out postdoctoral work in elasticity-based monitoring of focused ultrasound therapy at Brigham and Women's Hospital (Boston, MA, USA), an affiliate of the Harvard Medical School. Prof. Konofagou is currently a Professor of Biomedical Engineering and Radiology and is also the Director of the Ultrasound and Elasticity Imaging Laboratory at Columbia University. She is a member of the IEEE Ultrasonics, Ferroelectrics and Frequency Control group; the Acoustical Society of America; and the American Institute of Ultrasound in Medicine. Prof. Konofagou's main interests are in the development of novel elasticity imaging techniques and applications, such as breast elastography, ligament elastography, electromechanical wave imaging (EWI), myocardial elastography, harmonic motion imaging (HMI), pulse wave imaging (PWI), and focused ultrasound therapy, in particular research on the blood-brain barrier opening. Prof. Konofagou maintains several close clinical collaborations in the Columbia Presbyterian Medical Center.
+  Office: null
+  modalId: konofagou-modal
 
 - Image: /theme/img/team/kyriakopoulos.jpeg
   Name: Kyriakopoulos Konstantinos
