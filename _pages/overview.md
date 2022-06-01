@@ -45,7 +45,7 @@ header3: Program Overview
         </h2>
         <p>
             This program is offered full-time and includes two semesters of coursework and one semester of Master thesis
-            research. The maximum study period is two years.To earn the M.Sc. degree, students must: [a] attend and successfully pass 
+            research. The maximum study period is two years. To earn the M.Sc. degree, students must: [a] attend and successfully pass 
             7 compulsory and 5 elective courses, corresponding to a total of 60 credits (30 per semester) and [b] complete and successfully 
             defend their M.Sc. thesis (30 credits). The enrollment in the third semester of studies and the assignment of the Master Thesis can take 
             place at the end of the first year of studies, provided that the student has successfully completed at least half of the M.Sc. program
