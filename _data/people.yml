@@ -128,7 +128,7 @@
   Office: null
   modalId: konofagou-modal
 
-- Image: /theme/img/team/kyriakopoulos.jpeg
+- Image: /theme/img/team/kyriakopoulos.png
   Name: Kyriakopoulos Konstantinos
   Category: Professors
   Title1: Professor
@@ -137,7 +137,7 @@
   Email: kkyria@central.ntua.gr
   Phone: 2107723595
   Website: http://www.controlsystemslab.gr/kkyria/
-  Bio: null
+  Bio: 'Kostas J. Kyriakopoulos was born in Athens, Greece in 1962 and received a Diploma in Mechanical Eng (Honors) from the National Technical University of Athens (NTUA), in 1985 and the MS & Ph.D. in Computer & Systems Engineering from Rensselaer - ECSE, Troy, NY in 1987 and 1991, respectively. From 1988 to 1991 he did research at the NASA Center for Intelligent Robotic Systems for Space Exploration. Between 1991-93 he was an Assistant Prof. at ECSE - RPI and the NY State CAT in Automation and Robotics. Since 1994 he has been with the Mechanical Engineering Department at NTUA, Greece, where he serves as a Professor, Director of the Post-Graduate Program on "Automation Systems", Director of the Control Systems Lab and Director of the Departmental Computation Lab. His interests are in Nonlinear Control and Embedded Systems applications in Sensor Based Motion Planning & Control of multi-Robotic Systems: Manipulators & Vehicles (Mobile, Marine and Aerial). He was awarded the G.Samaras award of academic excellence (NTUA), the Bodossakis Foundation Fellowship (1986-1989), the Alexander Onassis Foundation Fellowship (1989-1990) and an Alexander Von Humboldt Fellowship (1993). Dr. Kyriakopoulos has published more than 320 papers in journals and refereed conferences; he is Specialty Chief Editor for "Frontiers in Robotics and AI", Senior Editor of "ΙΕΕΕ/ASME Transactions on Mechatronics" and he serves in the editorial committees of a number of journals and conferences, while he has served as an administrative member of a number of international conferences. He has acted as a PI in 35 R&D projects, half of which were funded by the European Commission. He is an IEEE Fellow.'
   Office: "School of Mechanical Engineering, Section of Mechanical\nDesign & Automatic Control, Building Ε, Office 309"
   modalId: kiriakopoulos-modal
 
