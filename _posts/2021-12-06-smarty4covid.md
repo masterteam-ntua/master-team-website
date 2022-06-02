@@ -1,5 +1,5 @@
 ---
-title: smarty4covid - BIOSIM join forces with AHEPA and launches the first clinical pilot involving hospitalized COVID-19 patients with the aim to identify novel biomarkers of infection and disease progression
+title: smarty4covid - BIOSIM joins forces with AHEPA and launches the first clinical pilot involving hospitalized COVID-19 patients with the aim to identify novel biomarkers of infection and disease progression
 description: Smarty4covid aspires to discover novel biomarkers with high prognostic value regarding the onset and the progress of COVID-19.
 directory: smarty4covid
 thumb: thumb.jpg
