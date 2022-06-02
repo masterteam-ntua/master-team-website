@@ -88,7 +88,7 @@ show_sidebar: false
         </p>
         <p>
             All materials must be received by the applicable deadline to be considered. Successful candidates will be required to present
-            on the day of their registration, hard copies of all the supporting materials submitted electronically, as well as a copy of their
+            on the day of their registration, certified copies of all the supporting materials submitted electronically, as well as a copy of their
             electronic application form.
         </p>
         <p>
