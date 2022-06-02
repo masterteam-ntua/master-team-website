@@ -32,7 +32,7 @@ header3: Program Overview
         </p>
         <ul>
             <li class="mb-3">the scientific, technological, regulatory, and business skills necessary to translate scientific discoveries into
-                public health benefits</li>
+                public and individual health benefits</li>
             <li class="mb-3">advanced research abilities so that they can conduct independent research and contribute to the creation
                 of new knowledge in the field of Translational Engineering in Health and Medicine</li>
             <li class="mb-3">professional skills that will enable them to serve as healthcare executives with specialized knowledge in
