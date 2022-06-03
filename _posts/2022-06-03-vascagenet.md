@@ -1,5 +1,5 @@
 ---
-title: Professor Konstantina S. Nikita and Associate Professor Spyretta Golemati participate in the COST Action VascAgeNet
+title: Participation in the VascAgeNet
 description: VascAgeNet is an international network working towards refining, harmonising and promoting the use of vascular ageing measures to reduce the burden of cardiovascular disease globally.
 directory: vascagenet
 thumb: vascagenet-logo.webp
