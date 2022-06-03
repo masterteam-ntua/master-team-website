@@ -10,11 +10,10 @@ thumb: vascagenet-logo.webp
   participate in the COST Action VascAgeNet. VascAgeNet is an international network working towards refining, harmonising and promoting the use of vascular ageing measures to reduce 
   the burden of cardiovascular disease globally. VascAgeNet aims at:
   
-  - identifying new **risk factors** for vascular ageing and, thus, enriching the understanding of the **underlying mechanisms** of vascular ageing
-  - validating, standardising and harmonising existing and new **computational models** and **devices** for the assessment of vascular ageing
-  - creating a **big data registry** for harmonising available data
-  - harmonising available studies and enabling **multicentre research** initiatives. 
+  - identifying new <strong>risk factors</strong> for vascular ageing and, thus, enriching the understanding of the <strong>underlying mechanisms</strong> of vascular ageing
+  - validating, standardising and harmonising existing and new <strong>computational models</strong> and <strong>devices</strong> for the assessment of vascular ageing
+  - creating a <strong>big data registry</strong> for harmonising available data
+  - harmonising available studies and enabling <strong>multicentre research</strong> initiatives. 
  </p>
  
- <p>Link: <a href="https://vascagenet.eu/">www.vascagenet.eu</a></p>
- <p>Poster for the general public: <a href="http://vascagenet.eu/public-engagement"> www.vascagenet.eu/public-engagement</a></p>
+<p>More information is available on the VascAgeNet <a href="https://vascagenet.eu/">website</a>, as well as in this <a href="http://vascagenet.eu/public-engagement">poster</a> for the general public.</p>
