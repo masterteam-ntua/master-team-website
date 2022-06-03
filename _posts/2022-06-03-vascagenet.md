@@ -19,4 +19,4 @@ images:
   <li>harmonising available studies and enabling <strong>multicentre research</strong> initiatives.</li>
  </ul>
  
-<p>More information is available on the VascAgeNet <a href="https://vascagenet.eu/">website</a> and in the general public engagement poster below.</p>
+<p>More information is available on the VascAgeNet <a href="https://vascagenet.eu/">website</a> and in the public engagement poster below.</p>
