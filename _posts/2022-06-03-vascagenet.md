@@ -3,6 +3,8 @@ title: Participation in the VascAgeNet
 description: VascAgeNet is an international network working towards refining, harmonising and promoting the use of vascular ageing measures to reduce the burden of cardiovascular disease globally.
 directory: vascagenet
 thumb: vascagenet-logo.webp
+images:
+  - poster.webp
 ---
 
 <p>
@@ -17,4 +19,4 @@ thumb: vascagenet-logo.webp
   <li>harmonising available studies and enabling <strong>multicentre research</strong> initiatives.</li>
  </ul>
  
-<p>More information is available on the VascAgeNet <a href="https://vascagenet.eu/">website</a>, as well as in this <a href="http://vascagenet.eu/public-engagement">poster</a> for the general public.</p>
+<p>More information is available on the VascAgeNet <a href="https://vascagenet.eu/">website</a> and in the general public engagement poster below.</p>
