@@ -8,7 +8,7 @@ images:
 ---
 
 <p>
- Professor Konstantina S. Nikita (founder and head of BIOSIM-NTUA, coordinator of Master TEAM) and Associate Professor Spyretta Golemati (Medical School-NKUA, faculty Master TEAM) 
+ Professor Konstantina S. Nikita (founder and head of BIOSIM-NTUA, coordinator of Master TEAM) and Associate Professor Spyretta Golemati (Medical School-NKUA, faculty of Master TEAM) 
   participate in the COST Action VascAgeNet. VascAgeNet is an international network working towards refining, harmonising and promoting the use of vascular ageing measures to reduce 
   the burden of cardiovascular disease globally. VascAgeNet aims at:
  
