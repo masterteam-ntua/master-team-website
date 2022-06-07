@@ -17,7 +17,7 @@ show_sidebar: false
             Molecular Biology, Biochemistry, Pharmacy, Dentistry, Biotechnology, (Bio)informatics, Nursing and other relevant disciplines)
             are eligible, upon selection, provided that they meet all the necessary requirements for successful attendance of the courses.
             The program is open to graduates of domestic institutions or equivalent foreign institutions recognized by the Hellenic
-            National Academic Recognition and Information Center - NARIC (<a href="http://www.doatap.gr/en/index.php" target="_blank" class="font-weight-bold">DOATAP</a>), according to Law 3685/2008.
+            National Academic Recognition and Information Center - NARIC (<a href="http://www.doatap.gr/en/index.php" target="_blank" class="font-weight-bold">DOATAP</a>), according to Law 4485/2017.
         </p>
         <p>
             For the academic year 2022-2023, a maximum of 40 students will be selected and enrolled in the M.Sc. program.
