@@ -78,7 +78,7 @@ show_sidebar: false
         </p>
         <h2 class="my-3"><a id= "Application_Process_Section">Application Process</a></h2>
         <p>
-            Interested candidates are invited to submit their application online <strong>between 10 June and 3 July 2022</strong>. Prospective graduate students must register as users at <a href ="gradapply.ece.ntua.gr/register" target="_blank"><strong>gradapply.ece.ntua.gr/register</strong></a> and then submit their application by the deadline at <a href ="gradapply.ece.ntua.gr" target="_blank"><strong>gradapply.ece.ntua.gr</strong></a> with the necessary supporting documents.
+            Interested candidates are invited to submit their application online <strong>between 10 June and 3 July 2022</strong>. Prospective graduate students must register as users at <a href ="https://gradapply.ece.ntua.gr/register" target="_blank"><strong>gradapply.ece.ntua.gr/register</strong></a> and then submit their application by the deadline at <a href ="https://gradapply.ece.ntua.gr/" target="_blank"><strong>gradapply.ece.ntua.gr</strong></a> with the necessary supporting documents.
         </p>
         <p>
             The application deadline for the MSc in Translational Engineering in Health and Medicine for the academic year 2022-2023 is <strong>July 3rd, 2022</strong>.
