@@ -26,12 +26,14 @@ show_sidebar: false
         <label class="col-12 pl-0">The application consists of the following elements:</label>
         <ol>
             <li class="mb-3">
-                Copy of all University degrees/diplomas received. Degrees from foreign Universities must be accompanied by a certificate 
-                issued by the Hellenic NARIC organization 
-                (<a href="http://www.doatap.gr/en/index.php" target="_blank" class="font-weight-bold">DOATAP</a>).
-                The recognition of the degree or certificate of completion of studies by the Hellenic NARIC (which can be submitted by the 
-                end of the program) is a precondition for obtaining the M.Sc. degree. Recognised Foreign Educational Institutions can be found 
-                in the following <a href="https://www.doatap.gr/home_english/foreign_hei/" target="_blank" class="font-weight-bold">list</a>.
+                Copy of all university degrees/diplomas received. In case of degrees from foreign Universities, they must have been accompanied by a
+                certification issued by the Hellenic NARIC organization 
+                (<a href="http://www.doatap.gr/en/index.php" target="_blank" class="font-weight-bold">DOATAP</a>). Recognized Foreign Educational 
+                Institutions can be found in the following
+                <a href="https://www.doatap.gr/home_english/foreign_hei/" target="_blank" class="font-weight-bold">list</a>. 
+                In case of a university degree/diploma that has not yet been conferred but is about to
+                be awarded, the candidate should submit a statement accompanied with letters from the university personnel that indicate (i) what degree
+                requirements are pending and (ii)that the degree can be fully completed by September 30, 2022.
             </li>
             <li class="mb-3">
                 Copy of transcripts of grades from all previous Universities attended (in Greek or English). Accepted candidates must submit official transcripts.
