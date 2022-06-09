@@ -67,5 +67,21 @@ header3: Program Overview
             Distinguished guest speakers from industry, the clinical sector, and regulatory authorities are also invited to deliver
             lectures and interact with students.
         </p>
+        
+        <h2 class="my-3">Relevant documents</h2>
+        <p>
+            Relevant documents concerning and/or describing the regulatory framework of the Postgraduate Studies Program are given below:
+        </p>
+        <ul>
+            <li class="mb-3">
+                <a href="{{ site.baseurl }}/files/ΦΕΚ-1231-Έγκριση Κανονισμού Λειτουργίας ΔΠΜΣ.pdf"><strong>Program Handbook-Rules and Regulations as 
+                    published in Government Gazette issue 1231/B/17.03.2022 (in Greek)</strong></a>
+            </li>
+            <li class="mb-3">
+                <a href="{{ site.baseurl }}/files/ΦΕΚ-1338-Ίδρυση ΔΠΜΣ.pdf"><strong>Program Foundation Act as published in Government Gazette issue 
+                    1338/B/23.03.2022 (in Greek)</strong></a>
+            </li>
+        </ul>
+        
     </div>
 </div>
