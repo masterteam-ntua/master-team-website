@@ -22,7 +22,7 @@ show_sidebar: false
         <p>
             For the academic year 2022-2023, a maximum of 40 students will be selected and enrolled in the M.Sc. program.
         </p>
-        <h2 class="my-3" >Application Material</h2>
+        <h2 class="my-3" ><a id= "Application_Material_Section">Application Material</a></h2>
         <label class="col-12 pl-0">The application consists of the following elements:</label>
         <ol>
             <li class="mb-3">
@@ -92,7 +92,8 @@ show_sidebar: false
             <a href ="https://gradapply.ece.ntua.gr/register" target="_blank"><strong>gradapply.ece.ntua.gr/register</strong></a> 
             and then submit their application by the deadline at 
             <a href ="https://gradapply.ece.ntua.gr/" target="_blank"><strong>gradapply.ece.ntua.gr</strong></a> 
-            with the necessary supporting documents.
+            with the necessary supporting documents (see 
+                <a href="#Application_Material_Section"><strong>Application Material</strong></a> below).
         </p>
         <p>
             The application deadline for the MSc in Translational Engineering in Health and Medicine for the academic year 2022-2023 is 
