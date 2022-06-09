@@ -74,7 +74,7 @@ header3: Program Overview
         </p>
         <ul>
             <li class="mb-3">
-                <a href="{{ site.baseurl }}/files/ΦΕΚ-1231-Έγκριση Κανονισμού Λειτουργίας ΔΠΜΣ.pdf"><strong>Program Handbook-Rules and Regulations as 
+                <a href="{{ site.baseurl }}/files/ΦΕΚ-1231-Έγκριση Κανονισμού Λειτουργίας ΔΠΜΣ.pdf"><strong>Program Rules and Regulations as 
                     published in Government Gazette issue 1231/B/17.03.2022 (in Greek)</strong></a>
             </li>
             <li class="mb-3">
