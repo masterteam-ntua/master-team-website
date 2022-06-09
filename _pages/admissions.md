@@ -117,21 +117,7 @@ show_sidebar: false
         <p>
             For clarifications and any other information, interested parties may contact the Secretariat or the Director of the M.Sc.
             program via email or phone. Contact information can be found at <a href="{{site.baseurl}}/contact"><strong>Contact</strong></a> page.
-        </p>
-        
-        <h2 class="my-3">Relevant documents Criteria</h2>
-        <p>
-            Relevant documents concerning and/or describing the regulatory framework of the Postgraduate Studies Program are given below:
-        </p>
-        <ol>
-            <li class="mb-3">
-                <a href="{{ site.baseurl }}/files/ΦΕΚ-1231-Έγκριση Κανονισμού Λειτουργίας ΔΠΜΣ.pdf"><strong>Brochure</strong></a>
-            </li>
-        </ol>
-
-        
-        
-        
+        </p>   
     </div>
 
 </div>
