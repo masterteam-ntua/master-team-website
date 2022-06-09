@@ -92,8 +92,7 @@ show_sidebar: false
             <a href ="https://gradapply.ece.ntua.gr/register" target="_blank"><strong>gradapply.ece.ntua.gr/register</strong></a> 
             and then submit their application by the deadline at 
             <a href ="https://gradapply.ece.ntua.gr/" target="_blank"><strong>gradapply.ece.ntua.gr</strong></a> 
-            with the necessary supporting documents (see 
-                <a href="#Application_Material_Section"><strong>Application Material</strong></a> below).
+            with the necessary supporting documents (see <a href="#Application_Material_Section"><strong>Application Material</strong></a> above).
         </p>
         <p>
             The application deadline for the MSc in Translational Engineering in Health and Medicine for the academic year 2022-2023 is 
