@@ -76,18 +76,18 @@
   Office: null
   modalId: chronis-modal
 
-# - Image: /theme/img/team/davos.jpg
-#   Name: Davos Constantinos
-#   Category: Researchers
-#   Title1: Research Associate Professor
-#   Title2: Associate Professor Cardiovascular Diseases, Biomedical Research Foundation Academy of Athens (BRFAA)
-#   School: Biomedical Research Foundation Academy of Athens (BRFAA)
-#   Email: cdavos@bioacademy.gr
-#   Phone: 2106597392
-#   Website: http://http://www.bioacademy.gr/lab/davos
-#   Bio: null
-#   Office: null
-#   modalId: davos-modal
+- Image: /theme/img/team/davos.jpg
+  Name: Davos Constantinos
+  Category: Researchers
+  Title1: Research Associate Professor
+  Title2: Associate Professor Cardiovascular Diseases, Biomedical Research Foundation Academy of Athens (BRFAA)
+  School: Biomedical Research Foundation Academy of Athens (BRFAA)
+  Email: cdavos@bioacademy.gr
+  Phone: 2106597392
+  Website: http://www.bioacademy.gr/faculty-details/FQ/constantinos
+  Bio: Constantinos H. Davos graduated from Medical School, University of Patras (1989) and obtained his Doctorate Thesis 'suma cum laude' from the University of Athens (1998). He completed his training in Cardiology (1998) and was employed as Clinical Research Fellow at the Departments of Clinical Cardiology, Royal Brompton Hospital and Cardiac Medicine, National Heart and Lung Institute, London, UK from 1999 until 2001. He has experience in both basic and clinical research. His basic research expertise includes studies on myocardial hypertrophy, ischaemia and cardiomyopathies in animal models. His clinical research experience includes a broad spectrum of studies in the fields of chronic heart failure, cardiac cachexia and adult congenital heart diseases. His research interests include the study of the autonomic nervous system, the skeletal muscle contribution and the impact of exercise training in these conditions. He was responsible for the design and completion of international clinical trials, metanalyses and registries regarding chronic heart failure therapy in collaboration with the Clinical Trials and Evaluation Unit of the Royal Brompton Hospital and the Hellenic Society of Cardiology. He received the Young Cardiologists Grant from the Hellenic Society of Cardiology (2000), the Clinical Research Committee Grant from the Imperial College School of Medicine (2001), research grants from the Hellenic Society of Cardiology (2005, 2006) and the Greek General Secretariat of Research and Technology (2006-8). He received awards for his research in Congenital Heart Disease by the Hellenic Society of Cardiology (2003) and in Heart Failure by the European Society of Cardiology (2003). He is a Fellow of the European Society of Cardiology, the European Associations of Echocardiography, Heart Failure and Cardiac Prevention and Rehabilitation. He is also nucleus member of the Hellenic Society of Cardiology Working Group of Heart Failure. He has also worked as a Consultant Cardiologist in major Pharmaceutical Companies and Clinical Research Organizations.
+  Office: null
+  modalId: davos-modal
 
 - Image: /theme/img/team/golemati.jpg
   Name: Golemati Spyretta
