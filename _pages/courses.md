@@ -151,7 +151,7 @@ header3: Courses
             include an introduction to (i) Matlab, as a standard tool to the fundamentals of computer programming and (ii)
             Python, via Google’s Colaboratory (Colab) and DataCamp, focusing on the analysis and visualization of biomedical
             data. The course will empower those with non-engineering backgrounds with the knowledge required to critically
-            evaluate and use these technologies in healthcare and medicine
+            evaluate and use these technologies in healthcare and medicine.
         </p>
     </div>
     <div class="row subject-block" id="biostatistics-ml">
@@ -310,7 +310,7 @@ header3: Courses
             data. Metrics unique to healthcare, as well as best practices for designing, building, and evaluating AI-based approaches in
             healthcare will be presented. Advanced topics on open challenges of integrating AI in healthcare, including interpretability,
             robustness, privacy and fairness will also be covered. The course aims to provide students from diverse backgrounds with both
-            conceptual understanding and practical grounding of cutting-edge research on AI in healthcare
+            conceptual understanding and practical grounding of cutting-edge research on AI in healthcare.
         </p>
     </div>
     <div class="row subject-block" id="healthcare-robotics">
