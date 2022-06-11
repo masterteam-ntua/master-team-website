@@ -171,7 +171,7 @@ header3: Courses
     </div>
     <div class="row subject-block" id="biosignals-processing">
         <h2>
-            Biosignal acquisition and processing
+            Biosignal Acquisition and Processing
         </h2>
         <p>
             In this course, students learn about different physiological signals of electrical type such as Electrocardiography
@@ -263,7 +263,7 @@ header3: Courses
     </div>
     <div class="row subject-block" id="computational-medicine">
         <h2>
-            Computational modeling and simulation for Medicine
+            Computational Modeling and Simulation for Medicine
         </h2>
         <p>
             Primary focus is on quantitative and computational methods to understand and/or model the pathophysiology of complex
@@ -277,7 +277,7 @@ header3: Courses
     </div>
     <div class="row subject-block" id="introduction-neuroscience">
         <h2>
-            Introduction to neuroscience and neural engineering
+            Introduction to Neuroscience and Neural Engineering
         </h2>
         <p>
             This course examines a range of neural engineering approaches to investigating and intervening in the nervous system,
@@ -315,7 +315,7 @@ header3: Courses
     </div>
     <div class="row subject-block" id="healthcare-robotics">
         <h2>
-            Healthcare robotics
+            Healthcare Robotics
         </h2>
         <p>
             The course intends to explore human robot interaction (HRI) in healthcare and cover the entire continuum of care from
