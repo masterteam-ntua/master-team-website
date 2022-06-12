@@ -44,28 +44,24 @@ header3: Program Overview
             Program Structure
         </h2>
         <p>
-            This program is offered full-time and includes two semesters of coursework and one semester of Master's (M.Sc.) thesis
-            research. The maximum study period is two years. To earn the M.Sc. degree, students must: (i) attend and successfully pass 
-            7 compulsory and 5 elective courses, corresponding to a total of 60 credits (30 per semester) and (ii) complete and successfully 
-            defend their M.Sc. thesis (30 credits). The enrollment in the third semester of studies and the assignment of the M.Sc. thesis can take 
-            place at the end of the first year of studies, provided that the student has successfully completed at least half of the M.Sc. program
-            courses by that time. The writing language of the M.Sc. thesis is English.
+            The program is offered full-time and includes two semesters of coursework and one semester of Master's (M.Sc.) thesis research. The minimum
+            duration for completing the M.Sc. program is three (3) academic semesters. The maximum study period is two (2) years. The language of
+            instruction is English. Attendance of lectures and laboratory sessions is mandatory. Courses for the academic year 2022-2023 will start in
+            October 2022.
+        </p>
+        <p>
+            To earn the M.Sc. degree, students must: (i) attend and successfully pass seven (7) compulsory and five (5) elective courses, corresponding
+            to a total of 60 credits (30 per semester) and (ii) complete and successfully defend their M.Sc. thesis (30 credits). The enrollment in the
+            third semester of studies and the assignment of the M.Sc. thesis can take place at the end of the first year of studies, provided that the
+            student has successfully completed at least half of the M.Sc. program courses by that time. The M.Sc. thesis is written in English.
         </p>
         <h2 class="my-3">
-            Language of instruction
+            Faculty & Collaborators
         </h2>
         <p>
-            The courses of the program are taught in English.
-        </p>
-        <h2 class="my-3">
-            Organizers & Collaborators
-        </h2>
-        <p>
-            The M.Sc. in Translational Engineering in Health and Medicine is organized and offered by the School of Electrical and
-            Computer Engineering of the National Technical University of Athens, in collaboration with the School of Mechanical
-            Engineering. The Master program is taught by faculty from NTUA and collaborating Universities and research centers.
-            Distinguished guest speakers from industry, the clinical sector, and regulatory authorities are also invited to deliver
-            lectures and interact with students.
+            The M.Sc. in Translational Engineering in Health and Medicine is taught by faculty from NTUA and collaborating Universities and research
+            centers.Distinguished guest speakers from industry, the clinical sector, and regulatory authorities are also invited to deliver lectures and
+            interact with students.
         </p>
         
         <h2 class="my-3">Relevant documents</h2>
