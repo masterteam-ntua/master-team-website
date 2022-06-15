@@ -44,7 +44,7 @@ header3: Program Overview
             Program Structure
         </h2>
         <p>
-            The program is offered full-time and includes two semesters of coursework and one semester of Master's (M.Sc.) thesis research. The minimum
+            The program is offered full-time and includes two semesters of coursework and one semester of Master's (M.Sc.) thesis research. The regular
             duration for completing the M.Sc. program is three (3) academic semesters. The maximum study period is two (2) years. The language of
             instruction is English. Attendance of lectures and laboratory sessions is mandatory. Courses for the academic year 2022-2023 will start in
             October 2022.
