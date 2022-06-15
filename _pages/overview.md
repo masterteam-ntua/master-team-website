@@ -70,7 +70,7 @@ header3: Program Overview
         </p>
         <ul>
             <li class="mb-3">
-                <a href="{{ site.baseurl }}/files/MasterTEAM-Student Handbook 2022-2023.pdf"><strong>Student Handbook 2022-2023</strong></a>
+                <a href="{{ site.baseurl }}/files/MasterTEAM-Student Handbook 2022-2023.pdf"><strong>Student Handbook 2022-2023</strong></a> (in English)
             </li>
             <li class="mb-3">
                 <a href="{{ site.baseurl }}/files/ΦΕΚ-1231-Έγκριση Κανονισμού Λειτουργίας ΔΠΜΣ.pdf"><strong>Program Rules and Regulations</strong></a> 
