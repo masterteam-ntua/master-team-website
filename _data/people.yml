@@ -1,4 +1,4 @@
-- Image: /theme/img/team/alexopoulos.jpeg
+- Image: /theme/img/team/alexopoulos.webp
   Name: Alexopoulos Leonidas
   Category: Professors
   Title1: Associate Professor
@@ -11,7 +11,7 @@
   Office: "Department of Mechanical Engineering\nBuilding E, Room 320"
   modalId: alexopoulos-modal
 
-- Image: /theme/img/team/anagnostakis.jpg
+- Image: /theme/img/team/anagnostakis.webp
   Name: Anagnostakis Marios
   Category: Professors
   Title1: Professor
@@ -24,7 +24,7 @@
   Office: "School of Mechanical Engineering, Section of Nuclear\nEngineering, Building K"
   modalId: anagnostakis-modal
 
-- Image: /theme/img/team/bastounis.png
+- Image: /theme/img/team/bastounis.webp
   Name: Bastounis Effie
   Category: Researchers
   Title1: Junior Group Leader
@@ -37,7 +37,7 @@
   Office: null
   modalId: bastounis-modal
   
-- Image: /theme/img/team/bonatsos.jpg
+- Image: /theme/img/team/bonatsos.webp
   Name: Bonatsos Niko
   Category: Collaborators
   Title1: Managing Director, General Catalyst
@@ -50,7 +50,7 @@
   Office: null
   modalId: bonatsos-modal
 
-- Image: /theme/img/team/Caloghirou.jpg
+- Image: /theme/img/team/Caloghirou.webp
   Name: Caloghirou Yannis
   Category: Professors
   Title1: Emeritus Professor
@@ -63,7 +63,7 @@
   Office: null
   modalId: caloghirou-modal
 
-- Image: /theme/img/team/chronis.jpg
+- Image: /theme/img/team/chronis.webp
   Name: Chronis Nikos
   Category: Professors
   Title1: Professor
@@ -76,7 +76,7 @@
   Office: null
   modalId: chronis-modal
 
-- Image: /theme/img/team/davos.jpg
+- Image: /theme/img/team/davos.webp
   Name: Davos Constantinos
   Category: Researchers
   Title1: Research Associate Professor
@@ -89,7 +89,7 @@
   Office: null
   modalId: davos-modal
 
-- Image: /theme/img/team/golemati.jpg
+- Image: /theme/img/team/golemati.webp
   Name: Golemati Spyretta
   Category: Professors
   Title1: Associate Professor
@@ -102,7 +102,7 @@
   Office: null
   modalId: golemati-modal
 
-- Image: /theme/img/team/kleanthi.png
+- Image: /theme/img/team/kleanthi.webp
   Name: Kleanthi Maria
   Category: Staff
   Title1: Secretariat of the Master Program
@@ -115,7 +115,7 @@
   Office: null
   modalId: kleanthi-modal
   
-- Image: /theme/img/team/konofagou.jpg
+- Image: /theme/img/team/konofagou.webp
   Name: Konofagou Elisa
   Category: Collaborators
   Title1: Professor
@@ -128,7 +128,7 @@
   Office: null
   modalId: konofagou-modal
 
-- Image: /theme/img/team/kyriakopoulos.png
+- Image: /theme/img/team/kyriakopoulos.webp
   Name: Kyriakopoulos Konstantinos
   Category: Professors
   Title1: Professor
@@ -141,7 +141,7 @@
   Office: "School of Mechanical Engineering, Section of Mechanical\nDesign & Automatic Control, Building Ε, Office 309"
   modalId: kiriakopoulos-modal
 
-- Image: /theme/img/team/manopoulos.jpg
+- Image: /theme/img/team/manopoulos.webp
   Name: Manopoulos Christos
   Category: Professors
   Title1: Assistant Professor
@@ -154,7 +154,7 @@
   Office: Building of “Aerodynamics, Naval Architecture & Hydraulic Turbomachines (A.N.Y.M.)”, 1st floor
   modalId: manopoulos-modal
 
-- Image: /theme/img/team/matsopoulos.png
+- Image: /theme/img/team/matsopoulos.webp
   Name: Matsopoulos George
   Category: Professors
   Title1: Professor
@@ -167,7 +167,7 @@
   Office: Office 1.1.5, 1st Floor, Old Electrical and Comp. Engineering Building
   modalId: matsopoulos-modal
 
-- Image: /theme/img/team/nikita.jpg
+- Image: /theme/img/team/nikita.webp
   Name: Nikita Konstantina
   Category: Professors
   Title1: Professor
@@ -180,7 +180,7 @@
   Office:    Office 1.1.17, 1st Floor, Old Electrical and Comp. Engineering Building
   modalId: nikita-modal
 
-- Image: /theme/img/team/papakonstantinou.jpg
+- Image: /theme/img/team/papakonstantinou.webp
   Name: Papakonstantinou Vassilis
   Category: Collaborators
   Title1: Vice Chairman, MIT Enterprise Forum Greece
@@ -193,7 +193,7 @@
   Office: null
   modalId: papakonstantinou-modal
 
-- Image: /theme/img/team/protonotarios.jpg
+- Image: /theme/img/team/protonotarios.webp
   Name: Protonotarios Nikolas
   Category: Researchers
   Title1: Research Associate
@@ -206,7 +206,7 @@
   Office: null
   modalId: protonotarios-modal
 
-- Image: /theme/img/team/provatidis.jpg
+- Image: /theme/img/team/provatidis.webp
   Name: Provatidis Christophoros
   Category: Professors
   Title1: Professor
@@ -219,7 +219,7 @@
   Office: "School of Mechanical Engineering, Section of Mechanical\nDesign & Automatic Control, Building Ε, Office 315"
   modalId: provatidis-modal
 
-- Image: /theme/img/team/siokas.jpg
+- Image: /theme/img/team/siokas.webp
   Name: Siokas Evangelos
   Category: Collaborators
   Title1: Research Fellow
@@ -232,7 +232,7 @@
   Office: null
   modalId: siokas-modal
 
-- Image: /theme/img/team/spitas.jpeg
+- Image: /theme/img/team/spitas.webp
   Name: Spitas Vasilios
   Category: Professors
   Title1: Associate Professor
@@ -245,7 +245,7 @@
   Office: "School of Mechanical Engineering, Section of Mechanical\nDesign & Automatic Control"
   modalId: spitas-modal
 
-- Image: /theme/img/team/stamatakos.png
+- Image: /theme/img/team/stamatakos.webp
   Name: Stamatakos Georgios
   Category: Researchers
   Title1: Research Professor
@@ -258,7 +258,7 @@
   Office: Office 21.28, 2nd Floor, Old Electrical and Comp. Engineering Building
   modalId: stamatakos-modal
 
-- Image: /theme/img/team/stamou.jpg
+- Image: /theme/img/team/stamou.webp
   Name: Stamou Giorgos
   Category: Professors
   Title1: Professor
@@ -271,7 +271,7 @@
   Office: Office 1.1.7, 1st Floor, Old Electrical and Comp. Engineering Building
   modalId: stamou-modal
 
-- Image: /theme/img/team/voulodimos.jpg
+- Image: /theme/img/team/voulodimos.webp
   Name: Voulodimos Athanasios
   Category: Professors
   Title1: Assistant Professor
@@ -284,7 +284,7 @@
   Office: null
   modalId: voulodimos-modal
 
-- Image: /theme/img/team/zarkogianni.jpg
+- Image: /theme/img/team/zarkogianni.webp
   Name: Zarkogianni Konstantia
   Category: Researchers
   Title1: Laboratory Teaching Staff
