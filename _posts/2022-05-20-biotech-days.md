@@ -1,5 +1,5 @@
 ---
-title: Biotech Days in May @ NTUA
+title: Biotech Days in May @ NTUA (Part 1/2)
 description: The first part of Biotech Days were a success!
 directory: biotech-days
 thumb: biotech_days_1.webp
