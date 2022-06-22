@@ -28,9 +28,9 @@ show_sidebar: false
                         <hr/>
                     </div>
                     <p class="col-12">Maria Kleanthi</p> 
-                    <br /> 
                     <div class="col-12">
                         <p>
+                            <br>
                             <i class="fa-solid fa-location-dot fa-lg mr-2"></i>
                             Office Γ.1.3, 1st Floor, Electrical & Comp. Engineering Building
                         </p>
@@ -60,6 +60,7 @@ show_sidebar: false
                     <br /> 
                     <div class="col-12">
                         <p>
+                            <br>
                             <i class="fa-solid fa-location-dot fa-lg mr-2"></i>
                             Office 1.1.17, 1st Floor, Old Electrical & Comp. Engineering Building
                         </p>
