@@ -60,7 +60,7 @@ header3: Program Overview
         </h2>
         <p>
             The M.Sc. in Translational Engineering in Health and Medicine is taught by faculty from NTUA and collaborating Universities and research
-            centers.Distinguished guest speakers from industry, the clinical sector, and regulatory authorities are also invited to deliver lectures and
+            centers. Distinguished guest speakers from industry, the clinical sector, and regulatory authorities are also invited to deliver lectures and
             interact with students.
         </p>
         
