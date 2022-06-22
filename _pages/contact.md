@@ -27,7 +27,7 @@ show_sidebar: false
                         <h3 class="my-3 colored-main">Secretariat of the Master Program</h3>
                         <hr/>
                     </div>
-                    <p class="col-12">Maria Kleanthi<br /> 
+                    <p class="col-12">Maria Kleanthi</p> 
                     <br /> 
                     <div class="col-12">
                         <p>
@@ -56,7 +56,7 @@ show_sidebar: false
                         <hr/>
                     </div>
                     <p class="col-12">Konstantina Nikita, MD, PhD,</p>
-                    <p class="col-12">Professor, School of Electrical and Computer Engineering<br /> 
+                    <p class="col-12">Professor, School of Electrical and Computer Engineering</p> 
                     <br /> 
                     <div class="col-12">
                         <p>
