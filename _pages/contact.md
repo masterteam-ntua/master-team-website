@@ -54,7 +54,7 @@ show_sidebar: false
                         <h3 class="my-3 colored-main">Director of the Master Program</h3>
                         <hr/>
                     </div>
-                    <p class="col-12">Konstantina Nikita</p>
+                    <p class="col-12">Konstantina Nikita, MD, PhD, Professor, School of Electrical and Computer Engineering</p>
                     <div class="col-12">
                         <p>
                             <i class="fa-solid fa-location-dot fa-lg mr-2"></i>
