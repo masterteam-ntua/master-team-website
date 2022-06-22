@@ -28,7 +28,7 @@ show_sidebar: false
                         <hr/>
                     </div>
                     <p class="col-12">Maria Kleanthi</p>
-                    <p class="col-12"></p>
+                    <br>
                     <div class="col-12">
                         <p>
                             <i class="fa-solid fa-location-dot fa-lg mr-2"></i>
@@ -57,7 +57,7 @@ show_sidebar: false
                     </div>
                     <p class="col-12">Konstantina Nikita, MD, PhD,</p>
                     <p class="col-12">Professor, School of Electrical and Computer Engineering</p>
-                    <p class="col-12"></p>
+                    <br>
                     <div class="col-12">
                         <p>
                             <i class="fa-solid fa-location-dot fa-lg mr-2"></i>
