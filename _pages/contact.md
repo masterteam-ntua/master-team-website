@@ -28,10 +28,11 @@ show_sidebar: false
                         <hr/>
                     </div>
                     <p class="col-12">Maria Kleanthi</p>
+                    <p class="col-12"></p>
                     <div class="col-12">
                         <p>
                             <i class="fa-solid fa-location-dot fa-lg mr-2"></i>
-                            Office Γ.1.3, 1st Floor, Electrical and Comp. Engineering Building
+                            Office Γ.1.3, 1st Floor, Electrical & Comp. Engineering Building
                         </p>
                     </div>
                     <div class="col-12">
@@ -54,12 +55,13 @@ show_sidebar: false
                         <h3 class="my-3 colored-main">Director of the Master Program</h3>
                         <hr/>
                     </div>
-                    <h6 class="col-12">Konstantina Nikita, MD, PhD</h6>
-                    <h6 class="col-12">Professor, School of Electrical and Computer Engineering</h6>
+                    <p class="col-12">Konstantina Nikita, MD, PhD,</p>
+                    <p class="col-12">Professor, School of Electrical and Computer Engineering</p>
+                    <p class="col-12"></p>
                     <div class="col-12">
                         <p>
                             <i class="fa-solid fa-location-dot fa-lg mr-2"></i>
-                            Office 1.1.17, 1st Floor, Old Electrical and Comp. Engineering Building
+                            Office 1.1.17, 1st Floor, Old Electrical & Comp. Engineering Building
                         </p>
                     </div>
                     <div class="col-12">
