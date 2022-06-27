@@ -70,56 +70,102 @@ show_sidebar: false
         <p>
           The M.Sc. program "Translational Engineering in Health and Medicine" will be coordinated by the School of Electrical and Computer Engineering (ECE) of the National Technical University of Athens (NTUA), in collaboration with the School of Mechanical Engineering (ME) of NTUA. The administrative support of the program is provided by the School of Electrical and Computer Engineering of NTUA.
         </p>
-        <h4>
+        <h4 class="mt-4">
           Dean of ECE NTUA
         </h4>
-        <span> Nectarios Koziris, Professor, School of Electrical and Computer Engineering, NTUA <span>
-        <h4>
+        <p>
+          <a href="" data-toggle="modal" data-target="#koziris-modal">Nectarios Koziris</a>, Professor, School of Electrical and Computer Engineering, NTUA
+        </p>
+
+        <h4 class="mt-4">
           Special Interdepartmental Committee (SIC)
         </h4>
         <p>
-        - Konstantina Nikita, Professor, School of Electrical and Computer Engineering, NTUA
-        - George Matsopoulos, Professor, School of Electrical and Computer Engineering, NTUA
-        - Giorgos Stamou, Professor, School of Electrical and Computer Engineering, NTUA
-        - Leonidas Alexopoulos, Professor, School of Mechanical Engineering, NTUA
-        - Christos Manopoulos, Professor, School of Mechanical Engineering, NTUA
+          <a href="" data-toggle="modal" data-target="#nikita-modal">Konstantina Nikita</a>, Professor, School of Electrical and Computer Engineering, NTUA
+        </p>
+        <p>
+          <a href="" data-toggle="modal" data-target="#matsopoulos-modal">George Matsopoulos</a>, Professor, School of Electrical and Computer Engineering, NTUA
+        </p>
+        <p>
+          <a href="" data-toggle="modal" data-target="#stamou-modal">Giorgos Stamou</a>, Professor, School of Electrical and Computer Engineering, NTUA
+        </p>
+        <p>
+          <a href="" data-toggle="modal" data-target="#alexopoulos-modal">Leonidas Alexopoulos</a>, Professor, School of Mechanical Engineering, NTUA
+        </p>
+        <p>
+          <a href="" data-toggle="modal" data-target="#manopoulos-modal">Christos Manopoulos</a>, Professor, School of Mechanical Engineering, NTUA
         </p>
 
-        President of SIC
+        <h4 class="mt-4">
+          President of SIC
+        </h4>
+        <p>
+          <a href="" data-toggle="modal" data-target="#nikita-modal">Konstantina Nikita</a>, Professor, School of Electrical and Computer Engineering, NTUA
+        </p>
 
-        - Konstantina Nikita, Professor, School of Electrical and Computer Engineering, NTUA
+        <h4 class="mt-4">
+          Steering Committee (SC)
+        </h4>
+        <p>
+          <a href="" data-toggle="modal" data-target="#nikita-modal">Konstantina Nikita</a>, Professor, School of Electrical and Computer Engineering, NTUA
+        </p>
+        <p>
+          <a href="" data-toggle="modal" data-target="#matsopoulos-modal">George Matsopoulos</a>, Professor, School of Electrical and Computer Engineering, NTUA
+        </p>
+        <p>
+          <a href="" data-toggle="modal" data-target="#stamou-modal">Giorgos Stamou</a>, Professor, School of Electrical and Computer Engineering, NTUA
+        </p>
+        <p>
+          <a href="" data-toggle="modal" data-target="#alexopoulos-modal">Leonidas Alexopoulos</a>, Professor, School of Mechanical Engineering, NTUA
+        </p>
+        <p>
+          <a href="" data-toggle="modal" data-target="#manopoulos-modal">Christos Manopoulos</a>, Professor, School of Mechanical Engineering, NTUA
+        </p>
 
+        <h4 class="mt-4">
+          Director of the Master Program
+        </h4>
+        <p>
+          <a href="" data-toggle="modal" data-target="#nikita-modal">Konstantina Nikita</a>, Professor, School of Electrical and Computer Engineering, NTUA
+        </p>
 
-        Steering Committee (SC)
+        <h4 class="mt-4">
+          Deputy Director of the Master Program
+        </h4>
+        <p>
+          <a href="" data-toggle="modal" data-target="#alexopoulos-modal">Leonidas Alexopoulos</a>, Professor, School of Mechanical Engineering, NTUA
+        </p>
 
-        - Konstantina Nikita, Professor, School of Electrical and Computer Engineering, NTUA
-        - George Matsopoulos, Professor, School of Electrical and Computer Engineering, NTUA
-        - Giorgos Stamou, Professor, School of Electrical and Computer Engineering, NTUA
-        - Leonidas Alexopoulos, Professor, School of Mechanical Engineering, NTUA
-        - Christos Manopoulos, Professor, School of Mechanical Engineering, NTUA
+        <h4 class="mt-4">
+          Secretariat of the Master Program
+        </h4>
+        <p>
+          <a href="" data-toggle="modal" data-target="#kleanthi-modal">Maria Kleanthi</a>, Administrative Staff, School of Electrical and Computer Engineering, NTUA
+        </p>
 
-
-        Director of the Master Program
-
-        - Konstantina Nikita, Professor, School of Electrical and Computer Engineering, NTUA
-
-
-        Deputy Director of the Master Program
-
-        - Leonidas Alexopoulos, Professor, School of Mechanical Engineering, NTUA
-
-
-        Secretariat of the Master Program
-
-        - Maria Kleanthi, Administrative Staff, School of Electrical and Computer Engineering, NTUA
-
-
-        Secretariat of ECE NTUA
-
-        - Effrosyni Kanta, Administrative Staff, School of Electrical and Computer Engineering, NTUA
+        <h4 class="mt-4">
+          Secretariat of ECE NTUA
+        </h4>
+        <p>
+          <a href="" data-toggle="modal" data-target="#kleanthi-modal">Effrosyni Kanta</a>, Administrative Staff, School of Electrical and Computer Engineering, NTUA
+        </p>
       </div>
     </div>
   </div>
+  <!-- Modals -->
+  {% for person in site.data.people %}
+    {% include components/person-modal.html
+      name = person.Name
+      image = person.Image
+      title = person.Title1
+      description = person.Title2
+      website = person.Website
+      phone = person.Phone
+      email = person.Email
+      cv = person.Bio
+      modalId = person.modalId
+    %}
+  {% endfor %}
 </div>
 
 <script>
@@ -151,7 +197,10 @@ show_sidebar: false
       staff.classList.add('d-none');
     }
     else if (category == "Staff") {
-      peopleGrid.classList.add('d-none');
+      for (const person of persons) {
+        person.classList.add('d-none');
+      }
+      peopleGrid.classList.remove('d-none');
       staff.classList.remove('d-none');
     }
     else {
