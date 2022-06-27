@@ -102,6 +102,19 @@
   Office: null
   modalId: golemati-modal
 
+- Image: /theme/img/team/kanta.webp
+  Name: Kanta Effrosyni
+  Category: Other
+  Title1: Secretariat of ECE NTUA
+  Title2: null
+  School: null
+  Email: efikanta@central.ntua.gr
+  Phone: 2107723997
+  Website: null
+  Bio: null
+  Office: null
+  modalId: kanta-modal
+
 - Image: /theme/img/team/kleanthi.webp
   Name: Kleanthi Maria
   Category: Staff
@@ -127,6 +140,19 @@
   Bio: Prof. Konofagou received her B.Sc. (Licence) in chemical physics from the Paris VI University (Université de Pierre et Marie Curie; Paris, France) and her M.Sc. in biomedical engineering from Imperial College (London, UK) in 1992 and 1993, respectively. In 1999, Prof. Konofagou received her Ph.D. in biomedical engineering from the University of Houston (Houston, TX, USA) for her work in elastography at the University of Texas Medical School. She then carried out postdoctoral work in elasticity-based monitoring of focused ultrasound therapy at Brigham and Women's Hospital (Boston, MA, USA), an affiliate of the Harvard Medical School. Prof. Konofagou is currently a Professor of Biomedical Engineering and Radiology and is also the Director of the Ultrasound and Elasticity Imaging Laboratory at Columbia University. She is a member of the IEEE Ultrasonics, Ferroelectrics and Frequency Control group; the Acoustical Society of America; and the American Institute of Ultrasound in Medicine. Prof. Konofagou's main interests are in the development of novel elasticity imaging techniques and applications, such as breast elastography, ligament elastography, electromechanical wave imaging (EWI), myocardial elastography, harmonic motion imaging (HMI), pulse wave imaging (PWI), and focused ultrasound therapy, in particular research on the blood-brain barrier opening. Prof. Konofagou maintains several close clinical collaborations in the Columbia Presbyterian Medical Center.
   Office: null
   modalId: konofagou-modal
+
+- Image: /theme/img/team/koziris.webp
+  Name: Koziris Nectarios
+  Category: Other
+  Title1: Dean
+  Title2: School of Electrical and Computer Engineering, NTUA
+  School: Electrical and Computer Engineering, NTUA
+  Email: nkoziris@cslab.ece.ntua.gr
+  Phone: 2107721531
+  Website: http://www.cslab.ntua.gr/~nkoziris/
+  Bio: Nectarios Koziris is a Professor of Computer Science and the Dean of the School of Electrical and Computer Engineering at the National Technical University of Athens. His research interests include parallel and distributed systems, interaction between compilers, OS and architectures, datacenter hyperconvergence, scalable data management and large scale storage systems. He has co-authored more than 180 research papers with more than 5000 citations. From 1998 he has been involved in the organization of many international scientific conferences including IPDPS, ICPP, SC, SPAA, etc. He is a recipient of several research awards and has received honorary recognition from Intel (Santa Clara, 2015) for his research and insightful contributions in transactional memory (TSX). From 2004 to 2014 he has served as the vice-chair of GRNET. In 2008 he co-founded the Open Technologies Alliance (GFOSS/ELLAK), a non-profit organization having as stakeholders 37 Universities and Research Centers in Greece, to promote the open source software and technologies. In 2010 he introduced the Government Cloud initiative (G-Cloud) in Greece. From 2019 he is serving as the Chair of the Advisory Board at GRNET (National Infrastructures for Research and Technology), contributing to the digital transformation of the Greek public sector. He was the founder of the ~okeanos public Cloud IaaS infrastructure (2013), among the biggest ones in the European public sector (topping out beyond 10.000 active VMs). He is also serving as the national delegate at the European High Performance Joint Undertaking (EuroHPC JU), where he is a member of the governing board. He has also served (2013-2014) as a member of the BoD for the Athena Research and Innovation Center in Information, Communication and Knowledge Technologies.
+  Office: null
+  modalId: koziris-modal
 
 - Image: /theme/img/team/kyriakopoulos.webp
   Name: Kyriakopoulos Konstantinos
@@ -348,29 +374,3 @@
   Bio: Konstantia Zarkogianni received the diploma in Electrical and Computer Engineering (2003) from the Aristotle University of Thessaloniki, Greece, the MSc Degree in Electronic and Computer Engineering (2005) from the Technical University of Crete, Greece, and the PhD degree (2011) from the NTUA, Greece. Since 2005, she is a member of the BIOmedical Simulations and IMaging Laboratory of NTUA. In October 2017, she was appointed as permanent laboratory teaching staff at the School of Electrical and Computer Engineering of the NTUA. Her current research interests include clinical decision support systems, control systems, physiological systems modelling, diabetes management, multiscale modelling and serious games design in health. She has authored or coauthored 11 papers in refereed international journals, one chapter in book, and 19 papers in international conference proceedings. She has participated as research associate and principle investigator in national and EU funded projects. She has been a guest editor of the special issue on Emerging Technologies for the Management of Diabetes Mellitus (Springer Journal of Medical and Biological Engineering and Computing [MBEC], 2015). She has been a member of the Editorial Board of the SpringerPlus journal in 2016 and reviewer for international scientific journals (IEEE Transactions on Biomedical Engineering, IEEE Journal of Biomedical and Health Informatics, Springer Medical & Biological Engineering & Computing, Elsevier Journal of Biomedical Informatics, and JSM Diabetology and Management). She is a member of the Institute of Electrical and Electronics Engineers (ΙΕΕΕ) and the Technical Chamber of Greece.
   Office: null
   modalId: zarkogianni-modal
-
-- Image: /theme/img/team/koziris.webp
-  Name: Koziris Nectarios
-  Category: Other
-  Title1: Dean
-  Title2: School of Electrical and Computer Engineering, NTUA
-  School: Electrical and Computer Engineering, NTUA
-  Email: nkoziris@cslab.ece.ntua.gr
-  Phone: 2107721531
-  Website: http://www.cslab.ntua.gr/~nkoziris/
-  Bio: Nectarios Koziris is a Professor of Computer Science and the Dean of the School of Electrical and Computer Engineering at the National Technical University of Athens. His research interests include parallel and distributed systems, interaction between compilers, OS and architectures, datacenter hyperconvergence, scalable data management and large scale storage systems. He has co-authored more than 180 research papers with more than 5000 citations. From 1998 he has been involved in the organization of many international scientific conferences including IPDPS, ICPP, SC, SPAA, etc. He is a recipient of several research awards and has received honorary recognition from Intel (Santa Clara, 2015) for his research and insightful contributions in transactional memory (TSX). From 2004 to 2014 he has served as the vice-chair of GRNET. In 2008 he co-founded the Open Technologies Alliance (GFOSS/ELLAK), a non-profit organization having as stakeholders 37 Universities and Research Centers in Greece, to promote the open source software and technologies. In 2010 he introduced the Government Cloud initiative (G-Cloud) in Greece. From 2019 he is serving as the Chair of the Advisory Board at GRNET (National Infrastructures for Research and Technology), contributing to the digital transformation of the Greek public sector. He was the founder of the ~okeanos public Cloud IaaS infrastructure (2013), among the biggest ones in the European public sector (topping out beyond 10.000 active VMs). He is also serving as the national delegate at the European High Performance Joint Undertaking (EuroHPC JU), where he is a member of the governing board. He has also served (2013-2014) as a member of the BoD for the Athena Research and Innovation Center in Information, Communication and Knowledge Technologies.
-  Office: null
-  modalId: koziris-modal
-
-- Image: /theme/img/team/kanta.webp
-  Name: Kanta Effrosyni
-  Category: Other
-  Title1: Secretariat of ECE NTUA
-  Title2: null
-  School: null
-  Email: efikanta@central.ntua.gr
-  Phone: 2107723997
-  Website: null
-  Bio: null
-  Office: null
-  modalId: kanta-modal
