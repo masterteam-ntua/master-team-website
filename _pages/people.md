@@ -66,7 +66,7 @@ show_sidebar: false
           </div>
         {% endfor %}
       </div>
-      <div id="text-stuff" class="d-none">
+      <div id="text-staff" class="d-none">
         <p>
           The M.Sc. program "Translational Engineering in Health and Medicine" will be coordinated by the School of Electrical and Computer Engineering (ECE) of the National Technical University of Athens (NTUA), in collaboration with the School of Mechanical Engineering (ME) of NTUA. The administrative support of the program is provided by the School of Electrical and Computer Engineering of NTUA.
         </p>
@@ -131,6 +131,7 @@ show_sidebar: false
   function chooseCategory(elem, category) {
     let spinner = document.getElementById('spinner-container');
     let peopleGrid = document.getElementById('people-grid');
+    let staff = document.getElementById('text-staff');
 
     spinner.classList.remove('d-none');
     peopleGrid.classList.add('d-none');
@@ -147,12 +148,11 @@ show_sidebar: false
         person.classList.remove('d-none');
       }
       peopleGrid.classList.remove('d-none');
+      staff.classList.add('d-none');
     }
     else if (category == "Staff") {
       peopleGrid.classList.add('d-none');
-      let stuff = document.getElementById('text-stuff');
-      stuff.classList.remove('d-none');
-
+      staff.classList.remove('d-none');
     }
     else {
       for (const person of persons) {
@@ -163,10 +163,8 @@ show_sidebar: false
         person.classList.remove('d-none');
       }
       peopleGrid.classList.remove('d-none');
-
+      staff.classList.add('d-none');
     }
-
     spinner.classList.add('d-none');
-    // peopleGrid.classList.remove('d-none');
   }
 </script>
