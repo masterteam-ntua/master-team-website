@@ -66,6 +66,58 @@ show_sidebar: false
           </div>
         {% endfor %}
       </div>
+      <div id="text-stuff" class="d-none">
+        <p>
+          The M.Sc. program "Translational Engineering in Health and Medicine" will be coordinated by the School of Electrical and Computer Engineering (ECE) of the National Technical University of Athens (NTUA), in collaboration with the School of Mechanical Engineering (ME) of NTUA. The administrative support of the program is provided by the School of Electrical and Computer Engineering of NTUA.
+        </p>
+        <h4>
+          Dean of ECE NTUA
+        </h4>
+        <span> Nectarios Koziris, Professor, School of Electrical and Computer Engineering, NTUA <span>
+        <h4>
+          Special Interdepartmental Committee (SIC)
+        </h4>
+        <p>
+        - Konstantina Nikita, Professor, School of Electrical and Computer Engineering, NTUA
+        - George Matsopoulos, Professor, School of Electrical and Computer Engineering, NTUA
+        - Giorgos Stamou, Professor, School of Electrical and Computer Engineering, NTUA
+        - Leonidas Alexopoulos, Professor, School of Mechanical Engineering, NTUA
+        - Christos Manopoulos, Professor, School of Mechanical Engineering, NTUA
+        </p>
+
+        President of SIC
+
+        - Konstantina Nikita, Professor, School of Electrical and Computer Engineering, NTUA
+
+
+        Steering Committee (SC)
+
+        - Konstantina Nikita, Professor, School of Electrical and Computer Engineering, NTUA
+        - George Matsopoulos, Professor, School of Electrical and Computer Engineering, NTUA
+        - Giorgos Stamou, Professor, School of Electrical and Computer Engineering, NTUA
+        - Leonidas Alexopoulos, Professor, School of Mechanical Engineering, NTUA
+        - Christos Manopoulos, Professor, School of Mechanical Engineering, NTUA
+
+
+        Director of the Master Program
+
+        - Konstantina Nikita, Professor, School of Electrical and Computer Engineering, NTUA
+
+
+        Deputy Director of the Master Program
+
+        - Leonidas Alexopoulos, Professor, School of Mechanical Engineering, NTUA
+
+
+        Secretariat of the Master Program
+
+        - Maria Kleanthi, Administrative Staff, School of Electrical and Computer Engineering, NTUA
+
+
+        Secretariat of ECE NTUA
+
+        - Effrosyni Kanta, Administrative Staff, School of Electrical and Computer Engineering, NTUA
+      </div>
     </div>
   </div>
 </div>
@@ -94,6 +146,13 @@ show_sidebar: false
       for (const person of persons) {
         person.classList.remove('d-none');
       }
+      peopleGrid.classList.remove('d-none');
+    }
+    else if (category == "Staff") {
+      peopleGrid.classList.add('d-none');
+      let stuff = document.getElementById('text-stuff');
+      stuff.classList.remove('d-none');
+
     }
     else {
       for (const person of persons) {
@@ -103,9 +162,11 @@ show_sidebar: false
       for (const person of chosen_ones) {
         person.classList.remove('d-none');
       }
+      peopleGrid.classList.remove('d-none');
+
     }
 
     spinner.classList.add('d-none');
-    peopleGrid.classList.remove('d-none');
+    // peopleGrid.classList.remove('d-none');
   }
 </script>
