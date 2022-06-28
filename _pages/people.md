@@ -66,8 +66,106 @@ show_sidebar: false
           </div>
         {% endfor %}
       </div>
+      <div id="text-staff" class="d-none">
+        <p>
+          The M.Sc. program "Translational Engineering in Health and Medicine" will be coordinated by the School of Electrical and Computer Engineering (ECE) of the National Technical University of Athens (NTUA), in collaboration with the School of Mechanical Engineering (ME) of NTUA. The administrative support of the program is provided by the School of Electrical and Computer Engineering of NTUA.
+        </p>
+        <h4 class="mt-4">
+          Dean of ECE NTUA
+        </h4>
+        <p>
+          <a href="" data-toggle="modal" data-target="#koziris-modal">Nectarios Koziris</a>, Professor, School of Electrical and Computer Engineering, NTUA
+        </p>
+
+        <h4 class="mt-4">
+          Special Interdepartmental Committee (SIC)
+        </h4>
+        <p>
+          <a href="" data-toggle="modal" data-target="#nikita-modal">Konstantina Nikita</a>, Professor, School of Electrical and Computer Engineering, NTUA
+        </p>
+        <p>
+          <a href="" data-toggle="modal" data-target="#matsopoulos-modal">George Matsopoulos</a>, Professor, School of Electrical and Computer Engineering, NTUA
+        </p>
+        <p>
+          <a href="" data-toggle="modal" data-target="#stamou-modal">Giorgos Stamou</a>, Professor, School of Electrical and Computer Engineering, NTUA
+        </p>
+        <p>
+          <a href="" data-toggle="modal" data-target="#alexopoulos-modal">Leonidas Alexopoulos</a>, Professor, School of Mechanical Engineering, NTUA
+        </p>
+        <p>
+          <a href="" data-toggle="modal" data-target="#manopoulos-modal">Christos Manopoulos</a>, Professor, School of Mechanical Engineering, NTUA
+        </p>
+
+        <h4 class="mt-4">
+          President of SIC
+        </h4>
+        <p>
+          <a href="" data-toggle="modal" data-target="#nikita-modal">Konstantina Nikita</a>, Professor, School of Electrical and Computer Engineering, NTUA
+        </p>
+
+        <h4 class="mt-4">
+          Steering Committee (SC)
+        </h4>
+        <p>
+          <a href="" data-toggle="modal" data-target="#nikita-modal">Konstantina Nikita</a>, Professor, School of Electrical and Computer Engineering, NTUA
+        </p>
+        <p>
+          <a href="" data-toggle="modal" data-target="#matsopoulos-modal">George Matsopoulos</a>, Professor, School of Electrical and Computer Engineering, NTUA
+        </p>
+        <p>
+          <a href="" data-toggle="modal" data-target="#stamou-modal">Giorgos Stamou</a>, Professor, School of Electrical and Computer Engineering, NTUA
+        </p>
+        <p>
+          <a href="" data-toggle="modal" data-target="#alexopoulos-modal">Leonidas Alexopoulos</a>, Professor, School of Mechanical Engineering, NTUA
+        </p>
+        <p>
+          <a href="" data-toggle="modal" data-target="#manopoulos-modal">Christos Manopoulos</a>, Professor, School of Mechanical Engineering, NTUA
+        </p>
+
+        <h4 class="mt-4">
+          Director of the Master Program
+        </h4>
+        <p>
+          <a href="" data-toggle="modal" data-target="#nikita-modal">Konstantina Nikita</a>, Professor, School of Electrical and Computer Engineering, NTUA
+        </p>
+
+        <h4 class="mt-4">
+          Deputy Director of the Master Program
+        </h4>
+        <p>
+          <a href="" data-toggle="modal" data-target="#alexopoulos-modal">Leonidas Alexopoulos</a>, Professor, School of Mechanical Engineering, NTUA
+        </p>
+
+        <h4 class="mt-4">
+          Secretariat of the Master Program
+        </h4>
+        <p>
+          <a href="" data-toggle="modal" data-target="#kleanthi-modal">Maria Kleanthi</a>, Administrative Staff, School of Electrical and Computer Engineering, NTUA
+        </p>
+
+        <h4 class="mt-4">
+          Secretariat of ECE NTUA
+        </h4>
+        <p>
+          <a href="" data-toggle="modal" data-target="#kleanthi-modal">Effrosyni Kanta</a>, Administrative Staff, School of Electrical and Computer Engineering, NTUA
+        </p>
+      </div>
     </div>
   </div>
+  <!-- Modals -->
+  {% for person in site.data.people %}
+    {% include components/person-modal.html
+      name = person.Name
+      image = person.Image
+      title = person.Title1
+      description = person.Title2
+      website = person.Website
+      phone = person.Phone
+      email = person.Email
+      cv = person.Bio
+      modalId = person.modalId
+    %}
+  {% endfor %}
 </div>
 
 <script>
@@ -79,6 +177,7 @@ show_sidebar: false
   function chooseCategory(elem, category) {
     let spinner = document.getElementById('spinner-container');
     let peopleGrid = document.getElementById('people-grid');
+    let staff = document.getElementById('text-staff');
 
     spinner.classList.remove('d-none');
     peopleGrid.classList.add('d-none');
@@ -94,6 +193,15 @@ show_sidebar: false
       for (const person of persons) {
         person.classList.remove('d-none');
       }
+      peopleGrid.classList.remove('d-none');
+      staff.classList.add('d-none');
+    }
+    else if (category == "Staff") {
+      for (const person of persons) {
+        person.classList.add('d-none');
+      }
+      peopleGrid.classList.remove('d-none');
+      staff.classList.remove('d-none');
     }
     else {
       for (const person of persons) {
@@ -103,9 +211,9 @@ show_sidebar: false
       for (const person of chosen_ones) {
         person.classList.remove('d-none');
       }
+      peopleGrid.classList.remove('d-none');
+      staff.classList.add('d-none');
     }
-
     spinner.classList.add('d-none');
-    peopleGrid.classList.remove('d-none');
   }
 </script>

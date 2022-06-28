@@ -1,0 +1,52 @@
+<div class="modal fade" id="{{ include.modalId }}" tabindex="-1" role="dialog" aria-labelledby="person-modal" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered person-modal" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <i class="fa-solid fa-xmark"></i>
+        </button>
+      </div>
+      <div class="modal-body">
+        <div class="row">
+          <div class="col-4 modal-image">
+            <img src="{{ site.baseurl}}{{ include.image }}" alt="{{ include.name }}">
+          </div>
+          <div class="col-8 text-left pr-4">
+            <div class="row flex-column">
+              <h2>{{ include.name }}</h2>
+              <p>
+                {{ include.description }}
+              </p>
+              {% if include.phone != null %}
+                <div class="w-100 mb-1">
+                  <i class="fa-solid fa-phone fa-lg mr-2"></i>
+                  <a href="tel:+30{{ include.phone}}">(+30) {{ include.phone }}</a>
+                </div>
+              {% endif %}
+              {% if include.email != null %}
+                <div class="w-100 mb-1">
+                  <i class="fa-solid fa-envelope fa-lg mr-2"></i>
+                  <a href="mailto:{{ include.email }}">{{ include.email }}</a>
+                </div>
+              {% endif %}
+              {% if include.website != null %}
+                <div class="w-100 mb-1">
+                  <i class="fa-solid fa-globe fa-lg mr-2"></i>
+                  <a href="{{ include.website }}" target="_blank">Website</a>
+                </div>
+              {% endif %}
+            </div>
+            {% if include.cv != null %}
+              <div class="row flex-column mt-4">
+                <h3>Bio</h3>
+                <p>
+                  {{ include.cv }}
+                </p>
+              </div>
+            {% endif %}
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
