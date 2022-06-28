@@ -10,6 +10,7 @@
   Bio: Leonidas Alexopoulos is an Associate Professor at the National Technical University of Athens, head of the Systems Bioengineering Lab, and co-founder of ProtATonce a biotech company that offers proteomic solutions for biomarker discovery. Leonidas received his PhD in 2004 from the Department of Biomedical Engineering at Duke University and he continued his postdoctoral studies at MIT (Dept of Biological Eng) and Harvard Medical School (Dept of Systems Biology). He combines a strong academic record with industrial expertise. He has served in several organizations for empowering research translation to startup companies including the MIT Enterprise Forum (Greek chapter), Mindspace and to an international strategy committee for the establishment of a novel biotechnology cluster in Seoul, Korea.
   Office: "Department of Mechanical Engineering\nBuilding E, Room 320"
   modalId: alexopoulos-modal
+  showOnlyInAdministration: false
 
 - Image: /theme/img/team/anagnostakis.webp
   Name: Anagnostakis Marios
@@ -23,6 +24,7 @@
   Bio: 'He has a Diploma in Mechanical Engineering, Ph.D from NTUA in the field of radionuclide metrology "γ-spectroscopic analysis of low-activity samples in the low-energy region" and he was trained at the Argonne National Laboratory in USA, in Nuclear Analytical Techniques. He has been a member of the Nuclear Engineering Department of NTUA since 1992. His research interests include: ionizing radiation metrology, nuclear analytical techniques (INAA, XRF), natural radioactivity, Naturally Occurring Radioactive Materials (NORM), radioactive atmospheric aerosols, medical applications of ionizing radiation and Monte-Carlo simulation. He teaches at the undergraduate and postgraduate level a series of courses: "Interactions of Radiation with Matter – Dosimetry - Radiation Protection", "Nuclear Measurements", "Engineering Measurements & Statistics", "Medical Imaging and Radiotherapy" and "Radioactivity in the Environment". He has been teaching in the International Atomic Energy Agency (IAEA) PGEC (Postgraduate Educational Course in Radiation Protection and the Safety of Radiation Sources) since 2005 and in several (IAEA) courses and seminars in Greece and abroad, as well as in a series of Erasmus+ Intensive Courses. He has more than 40 scientific publications in international scientific journals, dozens of presentations in international conferences, more than 600 references and he is a reviewer in a number of international scientific journals. He has participated in EU Programs and Actions, represented Greece in a number of IAEA Regional Programs, OECD-NEA (Nuclear Energy Agency) meetings and the EURATOM Fission Program. He is NTUA delegate to ICRM (International Committee for Radionuclide Metrology), Member of CHERNE Network, Member of NTUA Senate Committees, Director of the Nuclear Engineering Department of NTUA, Member of the Deanery of the NTUA School of Mechanical Engineering and since 2018 member of the Board of the Greek Atomic Energy Commission.'
   Office: "School of Mechanical Engineering, Section of Nuclear\nEngineering, Building K"
   modalId: anagnostakis-modal
+  showOnlyInAdministration: false
 
 - Image: /theme/img/team/bastounis.webp
   Name: Bastounis Effie
@@ -36,7 +38,8 @@
   Bio: Effie studied Electrical & Computer Engineering at the National Technical University of Athens followed by a Ph.D. in Bioengineering at UC San Diego on single cell motility and biomechanics. During her postdoc at Stanford Biochemistry, she focused on how intracellular bacterial pathogens infect and spread through vascular endothelial cells. She has been leading a junior research group in the CMFI Cluster of Excellence since March 2021. Her group combines engineering, microscopy, cell biology, and microbiology to understand basic cell mechanobiology and the biomechanical signals that influence interactions between host cells and pathogens.
   Office: null
   modalId: bastounis-modal
-  
+  showOnlyInAdministration: false
+
 - Image: /theme/img/team/bonatsos.webp
   Name: Bonatsos Niko
   Category: Collaborators
@@ -49,6 +52,7 @@
   Bio: "Niko Bonatsos is a managing director at General Catalyst, a venture capital firm with approximately $5 billion in total capital raised. Working from the firm’s San Francisco Bay Area offices, Niko focuses his investment strategy on finding first-time technology founders with strong product instincts, a robust appetite for learning, and a desire to create innovations with the potential to benefit millions. In his nine years with GC, Niko has been instrumental in the firm’s investments in Atrium, Audius, Cover, Hive, HubHaus, ClassDojo, Paribus (acquired by CapitalOne), Sleeper, and Snap (NYSE: SNAP) among others. Prior to joining General Catalyst, Niko attended Stanford University as a Fulbright Scholar earning an MS in Management Science and Engineering. He has studied in several countries earning additional degrees in Manufacturing Engineering & Management (University of Cambridge) and Electrical Engineering & Computer Science (National Technical University of Athens) and worked as a part of the R&D team for Yokogawa Electric Corporation in Japan."
   Office: null
   modalId: bonatsos-modal
+  showOnlyInAdministration: false
 
 - Image: /theme/img/team/Caloghirou.webp
   Name: Caloghirou Yannis
@@ -62,6 +66,7 @@
   Bio: "Yannis Caloghirou is Emeritus Professor of Technological Economic & Industrial Strategy at NTUA, former Director of the Laboratory of Industrial and Energy Economics (2015 – 2019) and former Director of the Department of Analysis, Development and Planning of Systems of Systems and Systems), Scientific Officer of the Innovation and Entrepreneurship Unit of NTUA and the interdisciplinary team INFOSTRAG (Research Team for Technological, Economic and Strategic Analysis of the Information Society) operating within the Laboratory of Industrial and Energy Economics.\n\nHe is also a research partner in the Laboratory of Management and Optimal Network Design of the School of Electrical and Computer Engineering of NTUA. He has participated in the Council of the European Network of Excellence DIME (2005-2012) dealing with the effects of globalization and the emergence of the knowledge economy and was a member of the Scientific and Management Committee of the integrated large-scale research project (EU funded FP7 large-scale integrated project (2009-2012) on the interconnection of knowledge and innovation with entrepreneurship and economic growth. He is an evaluator of DG Research and Innovation European Research Programs and has chaired the Scientific Council of the National Documentation Center (2011-2014) and the Advisory Council for the Development of Public Information Technology administration of the Ministry of Foreign Affairs (2010-2011) as well as scientific advisor of KEDKE (2004-2012) for the formulation and implementation of a strategy for the utilization of information and communication technologies by the local government.\n\nIn addition to the above, he has served as Secretary General of Industry (2000-2002) and Special Secretary for the Information Society (2002-2004), where he was particularly involved in the design and implementation of operational programs for the industry and the Information Society."
   Office: null
   modalId: caloghirou-modal
+  showOnlyInAdministration: false
 
 - Image: /theme/img/team/chronis.webp
   Name: Chronis Nikos
@@ -75,6 +80,7 @@
   Bio: Professor Chronis received a Bachelor in Engineering (B.E.) in mechanical engineering in 1998, from the Aristotle University of Thessaloniki with honors (graduated 1st out of 145 students in his class). He completed his Ph.D. in mechanical engineering from the University of California at Berkeley (USA) in 2004. In 2000 he joined the Berkeley Sensor and Actuator Center at the University of California at Berkeley as a graduate student researcher under the supervision of Luke Lee. From 2004-2006, he held a post-doctoral research position at Cori Bargmann's lab at Rockefeller University, New York, (USA), where he developed microfluidic tools for studying neural networks in the nematode C. elegans. In August 2006, he joined the School of Mechanical Engineering at the University of Michigan as an assistant professor. In 2015, he joined the Department of Materials Science and Technology at the University of Crete. He is also a visiting Professor at the National Center for Scientific Research 'Demokritos'. He is the co-author of more 60 journal and peer-reviewed conference publications and inventor in 3 patents. His research interests include BioMEMS, microfluidics, optical MEMS for lab-on-chip applications, and in-vivo imaging of neural circuits in C. elegans. Dr. Chronis is the recipient of the prestigious NIH Director's New Innovator Award.
   Office: null
   modalId: chronis-modal
+  showOnlyInAdministration: false
 
 - Image: /theme/img/team/davos.webp
   Name: Davos Constantinos
@@ -88,6 +94,7 @@
   Bio: Constantinos H. Davos graduated from Medical School, University of Patras (1989) and obtained his Doctorate Thesis 'suma cum laude' from the University of Athens (1998). He completed his training in Cardiology (1998) and was employed as Clinical Research Fellow at the Departments of Clinical Cardiology, Royal Brompton Hospital and Cardiac Medicine, National Heart and Lung Institute, London, UK from 1999 until 2001. He has experience in both basic and clinical research. His basic research expertise includes studies on myocardial hypertrophy, ischaemia and cardiomyopathies in animal models. His clinical research experience includes a broad spectrum of studies in the fields of chronic heart failure, cardiac cachexia and adult congenital heart diseases. His research interests include the study of the autonomic nervous system, the skeletal muscle contribution and the impact of exercise training in these conditions. He was responsible for the design and completion of international clinical trials, metanalyses and registries regarding chronic heart failure therapy in collaboration with the Clinical Trials and Evaluation Unit of the Royal Brompton Hospital and the Hellenic Society of Cardiology. He received the Young Cardiologists Grant from the Hellenic Society of Cardiology (2000), the Clinical Research Committee Grant from the Imperial College School of Medicine (2001), research grants from the Hellenic Society of Cardiology (2005, 2006) and the Greek General Secretariat of Research and Technology (2006-8). He received awards for his research in Congenital Heart Disease by the Hellenic Society of Cardiology (2003) and in Heart Failure by the European Society of Cardiology (2003). He is a Fellow of the European Society of Cardiology, the European Associations of Echocardiography, Heart Failure and Cardiac Prevention and Rehabilitation. He is also nucleus member of the Hellenic Society of Cardiology Working Group of Heart Failure. He has also worked as a Consultant Cardiologist in major Pharmaceutical Companies and Clinical Research Organizations.
   Office: null
   modalId: davos-modal
+  showOnlyInAdministration: false
 
 - Image: /theme/img/team/golemati.webp
   Name: Golemati Spyretta
@@ -101,10 +108,11 @@
   Bio: Spyretta Golemati is Associate Professor in Biomedical Engineering in the Medical School of the University of Athens. She holds a Diploma in Mechanical Engineering from the National Technical University of Athens and M.Sc. and Ph.D. degrees in Bioengineering from Imperial College London. Her research interests include (a) medical image  /theme/img/team/analysis, with emphasis on vascular ultrasound image  /theme/img/team/analysis, (b) biosignal processing, and (c) vascular physiology and pathophysiology. She has co-authored 37 papers published in international scientific peer-reviewed journals, 12 book chapters, and 45 papers published in international scientific peer-reviewed conference proceedings. She has participated in 7 funded national and international research projects (in one, as coordinator). Dr Golemati has acted as reviewer of national and international research proposals as well as of papers submitted to international scientific journals and conferences. She is a member of the Advisory Editorial Board of Ultrasound in Medicine and Biology. She is a member of the IEEE Engineering in Medicine and Biology Society (IEEE-EMBS), the IEEE Ultrasonics, Ferroelectrics and Frequency Control Society (IEEE-UFFC), the Technical Chamber of Greece, and the Hellenic Atherosclerosis Society.
   Office: null
   modalId: golemati-modal
+  showOnlyInAdministration: false
 
 - Image: /theme/img/team/kanta.webp
   Name: Kanta Effrosyni
-  Category: Other
+  Category: Administration
   Title1: Secretariat of ECE NTUA
   Title2: null
   School: null
@@ -114,10 +122,11 @@
   Bio: null
   Office: null
   modalId: kanta-modal
+  showOnlyInAdministration: true
 
 - Image: /theme/img/team/kleanthi.webp
   Name: Kleanthi Maria
-  Category: Staff
+  Category: Administration
   Title1: Secretariat of the Master Program
   Title2: null
   School: null
@@ -127,7 +136,8 @@
   Bio: null
   Office: null
   modalId: kleanthi-modal
-  
+  showOnlyInAdministration: true
+
 - Image: /theme/img/team/konofagou.webp
   Name: Konofagou Elisa
   Category: Professors
@@ -140,10 +150,11 @@
   Bio: Prof. Konofagou received her B.Sc. (Licence) in chemical physics from the Paris VI University (Université de Pierre et Marie Curie; Paris, France) and her M.Sc. in biomedical engineering from Imperial College (London, UK) in 1992 and 1993, respectively. In 1999, Prof. Konofagou received her Ph.D. in biomedical engineering from the University of Houston (Houston, TX, USA) for her work in elastography at the University of Texas Medical School. She then carried out postdoctoral work in elasticity-based monitoring of focused ultrasound therapy at Brigham and Women's Hospital (Boston, MA, USA), an affiliate of the Harvard Medical School. Prof. Konofagou is currently a Professor of Biomedical Engineering and Radiology and is also the Director of the Ultrasound and Elasticity Imaging Laboratory at Columbia University. She is a member of the IEEE Ultrasonics, Ferroelectrics and Frequency Control group; the Acoustical Society of America; and the American Institute of Ultrasound in Medicine. Prof. Konofagou's main interests are in the development of novel elasticity imaging techniques and applications, such as breast elastography, ligament elastography, electromechanical wave imaging (EWI), myocardial elastography, harmonic motion imaging (HMI), pulse wave imaging (PWI), and focused ultrasound therapy, in particular research on the blood-brain barrier opening. Prof. Konofagou maintains several close clinical collaborations in the Columbia Presbyterian Medical Center.
   Office: null
   modalId: konofagou-modal
+  showOnlyInAdministration: false
 
 - Image: /theme/img/team/koziris.webp
   Name: Koziris Nectarios
-  Category: Other
+  Category: Administration
   Title1: Dean
   Title2: School of Electrical and Computer Engineering, NTUA
   School: Electrical and Computer Engineering, NTUA
@@ -153,6 +164,7 @@
   Bio: Nectarios Koziris is a Professor of Computer Science and the Dean of the School of Electrical and Computer Engineering at the National Technical University of Athens. His research interests include parallel and distributed systems, interaction between compilers, OS and architectures, datacenter hyperconvergence, scalable data management and large scale storage systems. He has co-authored more than 180 research papers with more than 5000 citations. From 1998 he has been involved in the organization of many international scientific conferences including IPDPS, ICPP, SC, SPAA, etc. He is a recipient of several research awards and has received honorary recognition from Intel (Santa Clara, 2015) for his research and insightful contributions in transactional memory (TSX). From 2004 to 2014 he has served as the vice-chair of GRNET. In 2008 he co-founded the Open Technologies Alliance (GFOSS/ELLAK), a non-profit organization having as stakeholders 37 Universities and Research Centers in Greece, to promote the open source software and technologies. In 2010 he introduced the Government Cloud initiative (G-Cloud) in Greece. From 2019 he is serving as the Chair of the Advisory Board at GRNET (National Infrastructures for Research and Technology), contributing to the digital transformation of the Greek public sector. He was the founder of the ~okeanos public Cloud IaaS infrastructure (2013), among the biggest ones in the European public sector (topping out beyond 10.000 active VMs). He is also serving as the national delegate at the European High Performance Joint Undertaking (EuroHPC JU), where he is a member of the governing board. He has also served (2013-2014) as a member of the BoD for the Athena Research and Innovation Center in Information, Communication and Knowledge Technologies.
   Office: null
   modalId: koziris-modal
+  showOnlyInAdministration: true
 
 - Image: /theme/img/team/kyriakopoulos.webp
   Name: Kyriakopoulos Konstantinos
@@ -166,6 +178,7 @@
   Bio: 'Kostas J. Kyriakopoulos was born in Athens, Greece in 1962 and received a Diploma in Mechanical Eng (Honors) from the National Technical University of Athens (NTUA), in 1985 and the MS & Ph.D. in Computer & Systems Engineering from Rensselaer - ECSE, Troy, NY in 1987 and 1991, respectively. From 1988 to 1991 he did research at the NASA Center for Intelligent Robotic Systems for Space Exploration. Between 1991-93 he was an Assistant Prof. at ECSE - RPI and the NY State CAT in Automation and Robotics. Since 1994 he has been with the Mechanical Engineering Department at NTUA, Greece, where he serves as a Professor, Director of the Post-Graduate Program on "Automation Systems", Director of the Control Systems Lab and Director of the Departmental Computation Lab. His interests are in Nonlinear Control and Embedded Systems applications in Sensor Based Motion Planning & Control of multi-Robotic Systems: Manipulators & Vehicles (Mobile, Marine and Aerial). He was awarded the G.Samaras award of academic excellence (NTUA), the Bodossakis Foundation Fellowship (1986-1989), the Alexander Onassis Foundation Fellowship (1989-1990) and an Alexander Von Humboldt Fellowship (1993). Dr. Kyriakopoulos has published more than 320 papers in journals and refereed conferences; he is Specialty Chief Editor for "Frontiers in Robotics and AI", Senior Editor of "ΙΕΕΕ/ASME Transactions on Mechatronics" and he serves in the editorial committees of a number of journals and conferences, while he has served as an administrative member of a number of international conferences. He has acted as a PI in 35 R&D projects, half of which were funded by the European Commission. He is an IEEE Fellow.'
   Office: "School of Mechanical Engineering, Section of Mechanical\nDesign & Automatic Control, Building Ε, Office 309"
   modalId: kiriakopoulos-modal
+  showOnlyInAdministration: false
 
 - Image: /theme/img/team/manopoulos.webp
   Name: Manopoulos Christos
@@ -179,7 +192,8 @@
   Bio: "Christos Manopoulos received a Diploma degree in Mechanical Engineering from the School of Engineering at the University of Patras, Greece, in 1995, the M.Sc. and the Ph.D. degrees in Biomedical Engineering in 1999 and 2009, respectively, through a European Postgraduate Programme from the University of Patras, (School of Health Sciences, School of Medicine) and the National Technical University of Athens, (School of Mechanical Engineering, School of Electrical & Computer Engineering), Greece.\nIn parallel with his postgraduate studies he worked in the R&D department of the micrel SA company, which designs and manufactures medical pumps. Moreover, he has been a Biomedical-Mechanical Engineer in the VIODOMI SA company, as a construction project supervisor. He has participated as a Mechanical Engineer and completed 14 European and National R&D projects in his research area.\nHe is currently Assistant Professor and Director of the Fluids Section’s Biofluid Mechanics Laboratory of the School of Mechanical Engineering at the National Technical University of Athens, Greece. He has authored or coauthored more than 75 journal and conference papers and holds one patent. His research interests include theoretical, computational and experimental methods on biofluid mechanics, unsteady oscillating flows, fluid analysis, investigation and design of biomedical systems, devices and equipment related to biofluid mechanics technology, development of biofluid mechanics models in technology and living organisms (normal and pathological conditions), valveless pumping, peristaltic pumps, simulation and prototyping of medical devices and machines.\nChristos Manopoulos is a reviewer in more than 15 scientific journals. He has participated in several scientific committees and he is a member of several scientific societies. He has received a scholarship by the State Scholarships Foundation of Greece for his PhD, a Doctoral Research award in 2009 and several awards for some of his research publications."
   Office: Building of “Aerodynamics, Naval Architecture & Hydraulic Turbomachines (A.N.Y.M.)”, 1st floor
   modalId: manopoulos-modal
-  
+  showOnlyInAdministration: false
+
 - Image: /theme/img/team/maragos.webp
   Name: Maragos Petros
   Category: Professors
@@ -192,6 +206,7 @@
   Bio: "Petros Maragos (Fellow, IEEE) received the M.Eng. degree in electrical engineering from the National Technical University of Athens (NTUA), Athens, Greece, in 1980, and the M.Sc. and Ph.D. degrees from the Georgia Institute of Technology (Georgia Tech), Atlanta, GA, USA, in 1982 and 1985, respectively.,In 1985, he joined the Faculty of the Division of Applied Sciences, Harvard University, Boston, MA, USA, where he worked for eight years as a Professor of electrical engineering with the Harvard Robotics Laboratory. In 1993, he joined the Faculty of the School of Electrical and Computer Engineering (ECE), Georgia Tech, where he was with the Center for Signal and Image Processing. From 1996 to 1998, he had a joint appointment as the Director of Research at the Institute of Language and Speech Processing, Athens. Since 1999, he has been a Professor with the School of ECE, NTUA, where he is currently the Director of the Intelligent Robotics and Automation Laboratory. He has held visiting positions at the Massachusetts Institute of Technology, Cambridge, MA, USA, in 2012, and the University of Pennsylvania, Philadelphia, PA, USA, in 2016. His research and teaching interests include signal processing, systems theory, machine learning, image processing and computer vision, speech & language processing, and robotics. In these areas, he has published numerous articles and book chapters and has also coedited three Springer research books: one on multimodal processing and two on shape analysis.,Dr. Maragos has served as a member of the Greek National Council for Research and Technology. He has also served as a member of three IEEE SPS technical committees and, recently, the IEEE SPS Education Board. For his research contributions, he was elected as a Fellow of IEEE in 1995 and EURASIP in 2010. He was a recipient or co-recipient of several awards for his academic work, including the 1987–1992 US NSF Presidential Young Investigator Award, the 1988 IEEE ASSP Young Author Best Paper Award, the 1994 IEEE SPS Senior Best Paper Award, the 1995 IEEE W.R.G. Baker Prize for the most outstanding original paper, the 1996 Pattern Recognition Society’s Honorable Mention Best Paper Award, the Best Paper Award from the CVPR-2011 Workshop on Gesture Recognition, and the 2007 EURASIP Technical Achievement Award. He has served as an Associate Editor for IEEE Transactions on ASSP and IEEE Transactions on Pattern Analysis and Machine Intelligence. He has served as an editorial board member and a guest editor for several journals on signal processing, image analysis, and vision. He has served as a co-organizer of several conferences and workshops, including, recently, the 2017 European Signal Processing Conference (EUSIPCO) and the 2023 International Conference on Acoustics, Speech, and Signal Processing (ICASSP) as the General Chair. He was elected as the IEEE SPS Distinguished Lecturer for the term 2017–2018."
   Office: Office 2.1.24, 2nd Floor, Old Electrical and Comp. Engineering
   modalId: maragos-modal
+  showOnlyInAdministration: false
 
 - Image: /theme/img/team/matsopoulos.webp
   Name: Matsopoulos George
@@ -205,6 +220,7 @@
   Bio: 'George Matsopoulos is a Professor in the School of Electrical and Computer Engineering at the National Technical University of Athens (NTUA) with a specialization in "Biomedical Information and Biocomputing Technologies". He received the Diploma in Electrical Engineering in 1988 from NTUA. He holds a Master''s degree (M.Sc.) from the University of Strathclyde, Glasgow, specializing in Biomechanics and a Ph.D. from the same University. He is an expert in the development of techniques and algorithms for digital processing of medical data, fusion of data from different systems, design and development of information systems with emphasis on the management and processing of large volumes of medical data. Dr. Matsopoulos has more than 300 publications in international journals and conferences and has many years of experience in monitoring research projects both in the medical field and in other public and private sectors.'
   Office: Office 1.1.5, 1st Floor, Old Electrical and Comp. Engineering Building
   modalId: matsopoulos-modal
+  showOnlyInAdministration: false
 
 - Image: /theme/img/team/nikita.webp
   Name: Nikita Konstantina
@@ -218,6 +234,7 @@
   Bio: Konstantina Nikita, M.D., Ph.D., is a full Professor at the School of Electrical and Computer Engineering, National Technical University of Athens. She is director of the Mobile Radiocommunications Laboratory and founder and director of the Biomedical Simulations and Imaging (BIOSIM) Laboratory. Since 2015, she is Irene McCulloch Distinguished Adjunct Professor of Biomedical Engineering and Medicine at Keck School of Medicine and Viterbi School of Engineering, University of Southern California. She has been the technical manager of 60 European and National R&D projects on fundamental research and practical applications. She is the Editor-in-Chief of the IEEE Open Journal of Antennas and Propagation and a member of the Editorial Board of the IEEE Transactions on Biomedical Engineering, IEEE Journal of Biomedical and Health Informatics, IEEE Transactions on Antennas and Propagation. She has been Chair of the program/organizing committee of more than 50 international conferences and has served as keynote speaker at several international conferences and symposia. She has been the advisor of 28 completed Ph.D. theses, several of which have received various awards. She is a Fellow of the Institute of Electrical and Electronics Engineers (IEEE), a Founding Fellow of the European Association of Medical and Biological Engineering and Science (EAMBES), and a Fellow of the American Institute of Medical and Biological Engineering (AIMBE). She serves as chair of the LS7 Consolidator Grant Panel of the European Research Council (ERC), for granting investigator-driven frontier research in the domain of life sciences. She has published 200 journal articles and 350 conference proceedings papers, is the author or editor of 12 books, and holds several patents for her discoveries. She has received various awards, among which the Bodossakis Foundation Academic Prize (2003) for exceptional achievements in “Theory and Applications of Information Technology in Medicine”.
   Office:    Office 1.1.17, 1st Floor, Old Electrical and Comp. Engineering Building
   modalId: nikita-modal
+  showOnlyInAdministration: false
 
 - Image: /theme/img/team/epapadopoulos.webp
   Name: Papadopoulos Evangelos
@@ -231,6 +248,7 @@
   Bio: "Evangelos Papadopoulos (S’83–M’91–SM’97) received the Diploma degree from the National Technical University of Athens (NTUA), Athens, Greece, in 1981, and the M.S. and Ph.D. degrees from the Massachusetts Institute of Technology, Cambridge, MA, USA, in 1983 and 1991, respectively, all in mechanical engineering.,He was an Analyst with the Hellenic Navy, Athens, from 1985 to 1987. In 1991, he joined the Centre for Intelligent Machines, McGill University, Montréal, QC, Canada, as an Assistant Professor. He is currently a Professor with the Department of Mechanical Engineering, NTUA. He teaches courses in the areas of systems, controls, mechatronics, and robotics. He has authored over 200 technical articles in journals and refereed conference proceedings. His current research interests include robotics, modeling and control of dynamic systems, mechatronics, and design.,Dr. Papadopoulos is a Senior Member of American Institute of Aeronautics and Astronautics and a member of American Society of Mechanical Engineers (ASME), the Technical Chamber of Greece, and Sigma Xi. He served as an Associate Editor of the IEEE Transactions on Robotics and serves as an Associate Editor of the ASME Journal of Dynamic Systems, Measurement and Control, and the Machine and Mechanism Theory. He has served as a Guest Editor of the IEEE Transactions on Mechatronics/ASME Transactions on Mechatronics."
   Office: School of Mechanical Engineering, Section of Mechanical Design & Automatic Control, Building Ε, Office E.313
   modalId: papadopoulos-modal
+  showOnlyInAdministration: false
 
 - Image: /theme/img/team/papakonstantinou.webp
   Name: Papakonstantinou Vassilis
@@ -244,6 +262,7 @@
   Bio: Vassilis is a technology entrepreneur with over 25 years of hands-on experience across various industry sectors. He likes building things, exploring ideas, and connecting people. He is a co-founder and partner of Blue Dome Capital, an investment manager seeking to capture emerging opportunities in technology transfer and innovation-driven ventures in Central &amp; South- Eastern Europe. He is the co-founder of Mobiltron, Inc, a technology company developing a next- generation user authentication platform using behavioral biometrics for mobile applications. He is a partner of Sylipsis, Inc, a company helping researchers move their ideas from the lab to the market and providing managed technology development as a service. Vassilis consults the Boards of various organizations on issues related to technology and innovation. He currently sits on the Board of Fasmatech, a startup developing mass spectroscopy technology, and VIORYL, a chemical engineering company. Previously, he was on the Board of Metis Cybertechnologies, a company developing vessel performance solutions, and helped the investors achieve a 3X exit. He is the co-founder and Vice-Chairman of the MIT Enterprise Forum Greece, the Greek chapter of an MIT-inspired global network, enabling technology entrepreneurs to rapidly transform ideas into world-changing companies. He is the co-founder and Treasurer of the Hellenic Innovation Network, Inc, a Boston-based charity that supports the entrepreneurial growth of the Greek and Cypriot tech ecosystem. He holds degrees in Mechanical Engineering from NTUA and Ocean Systems Management from MIT. He has conducted research in fluid mechanics, control systems, risk management, and system dynamics.
   Office: null
   modalId: papakonstantinou-modal
+  showOnlyInAdministration: false
 
 - Image: /theme/img/team/protonotarios.webp
   Name: Protonotarios Nikolas
@@ -257,6 +276,7 @@
   Bio: Nicholas Protonotarios is a visiting Research Associate with the Department of Applied Mathematics and Theoretical Physics (DAMTP), University of Cambridge, and a postdoctoral researcher at the Mathematics Research Center (MaRC) of the Academy of Athens. He holds an MEng in Naval Architecture and Marine Engineering, an MBA in Engineering Economics, and a PhD in Applied Mathematics from the National Technical University of Athens (NTUA). His current research interests include inverse problems in biomedicine, and medical image reconstruction techniques for PET, SPECT, and MRI.
   Office: null
   modalId: protonotarios-modal
+  showOnlyInAdministration: false
 
 - Image: /theme/img/team/provatidis.webp
   Name: Provatidis Christophoros
@@ -270,6 +290,7 @@
   Bio: "Christopher Provatidis has a Diploma Degree in Mechanical-Electrical Engineering from the National Technical University of Athens 1979 and a PhD also in Mechanical Engineering from the NTUA, 1987. The author's major field of study is applied mechanics, and particularly in the modeling and design of metallic and composite material structures. He served the Greek Army (Technical Branch 1980-1981) and then worked in projects concerning mechanical equipment of large buildings and particularly hospitals (1981-1982). In 1982, he moved to the National Technical University of Athens (NTUA) to work at the 'Machine Elements & Dynamics Laboratory'. He was appointed as Lecturer (1989-1993), Assistant Professor (1994-2002), Associate Professor (2002-2009) and he is currently Full Professor in the School of Mechanical Engineering at NTUA, Greece. In the same school, he served as a Vice-Chairman (2005-2007). He has participated in about 40 European and national research projects. He has supervised over 160 diploma-works or MSc theses and nine completed PhD theses. He has written four books and three monographs in Greek and one Springer monograph in English. Over the past 40 years, he has worked across a wide discipline to include components of several sectors in mechanical simulation (elastostatics, crack and fatigue analysis, elastodynamics, acoustics, structural optimization, light-weight structures, textile micromechanics, thermal analysis, biomechanics: orthodontics, dental implants, orthopedics, inverse problems, system identification, gearless differentials, dynamics, CAD/CAE integration, etc) in conjunction with the finite element method, the boundary element method and other computational methods. As a result, he has more than 400 publications in refereed journals and conference proceedings. Current research interests include computational biomechanics as well as 3D-printing. He is a member of ASME, AIAA, European Society of Biomechanics (ESB), Greek Society of Biomechanics (Vice-president, 2008-2010), and Greek Association of Computational Mechanics (General Secretary, 2007-2009). In March 2011 he was elected as an active member (Class VI: Technical and Environmental Sciences) of the European Academy."
   Office: "School of Mechanical Engineering, Section of Mechanical\nDesign & Automatic Control, Building Ε, Office 315"
   modalId: provatidis-modal
+  showOnlyInAdministration: false
 
 - Image: /theme/img/team/siokas.webp
   Name: Siokas Evangelos
@@ -283,6 +304,7 @@
   Bio: Evangelos Siokas has a joint background in engineering and economics and he holds a Ph.D. in Economic and Strategic Analysis of Innovation and Technology. He is research fellow in two research groups- at the Laboratory of Industrial & Energy Economics of the National Technical University of Athens (LIEE-NTUA)- the first on “Innovation and Entrepreneurship Studies” and the second on the study of the “Information Society and the Knowledge-based Economy”. In this capacity he has participated in more than ten (European and national) research projects. His main research interests lie in the field of research/innovation networks, knowledge-based entrepreneurship, database management and social network analysis. He is also a teaching assistant in various economics and management courses for undergraduate engineering students at the NTUA. Currently, he is coordinator of the Incubator “Invent” of the Institute of Communication and Computer Systems of NTUA, which aims to mobilize, support and coach students and research groups in their effort to convert innovative ideas as well as their research results into new entrepreneurial ventures.
   Office: null
   modalId: siokas-modal
+  showOnlyInAdministration: false
 
 - Image: /theme/img/team/spitas.webp
   Name: Spitas Vasilios
@@ -296,6 +318,7 @@
   Bio: Vasilios Spitas holds a Diploma in Mechanical Engineering from the National Technical University of Athens (NTUA) since 1994 and a Ph.D. in Mechanical Engineering from the same University since 2001. His areas of expertise include analysis and design of machine elements, modeling of mechanical engineering structures and machines including bioengineering/ biomedical applications as well as their experimental validation. He is the author of more than 160 scientific and technical papers in refereed journals and conferences in pertinent fields. He has a teaching experience of nearly 20 years in undergraduate and postgraduate courses and he has been the director of the Machine Design Lab and the Reverse Engineering-Rapid Prototyping Lab of the NTUA and he is the leader of a research group numbering more than 15 members at Ph.D., graduate and undergraduate level at the Machine Design / RP Lab. Dr. Spitas has participated in more than 30 national and international research projects funded by the EC, ESA-ESTEC and CERN and coordinated 5 of them. As an engineer he has worked with major national and European industries mainly in the fields of automotive and aerospace.
   Office: "School of Mechanical Engineering, Section of Mechanical\nDesign & Automatic Control"
   modalId: spitas-modal
+  showOnlyInAdministration: false
 
 - Image: /theme/img/team/stamatakos.webp
   Name: Stamatakos Georgios
@@ -309,6 +332,7 @@
   Bio: Georgios S. Stamatakos (<a href="https://orcid.org/0000-0003-2054-477X" target="_blank" class="font-weight">ORCID</a>) is Research Professor of Analysis and Simulation of Biological Systems and their Interaction with Electromagnetic Radiation at the Institute of Communication and Computer Systems (ICCS), School of Electrical and Computer Engineering (ECE), National Technical University of Athens (NTUA). He has also been a Visiting Professor at the Medical School, University of Saarland Germany (1/7–15/9, 2019) and ECE-NTUA (2016-2019). He is the Founder and Director of the <a href="https://www.in-silico-oncology.iccs.ntua.gr/" target="_blank" class="font-weight">In Silico Oncology and In Silico Medicine Group</a>. He holds a Diploma degree in electrical engineering from NTUA, an MSc degree in bioengineering from the University of Strathclyde, Glasgow, UK, and a Ph.D. degree in physics (biophysics) from NTUA. He has also been a postdoctoral fellow in medical technology at ICCS-ECE-NTUA. His research interests revolve around <a href="https://en.wikipedia.org/wiki/In_silico_medicine" target="_blank" class="font-weight">in silico medicine</a>. Dr. Stamatakos has proposed the concept of in silico oncology as a precursor of broader in silico medicine and the concept of oncosimulator. Ηe has published more than 180 articles in international peer reviewed journals, conference proceedings and scientific books (books and book chapters). He was the EU co-editor, contributor and reviewer of the transatlantic multi-author textbook entitled "Multiscale Cancer Modeling" published by CRC Press in 2010/2011. He was the scientific and overall coordinator of the large scale EU-US integrating research project <a href="http://www.chic-vph.eu/" target="_blank" class="font-weight">CHIC</a> on in silico oncology, of which the outcome has been denoted as “great achievements” by the European Commission services. He has formulated, proposed and taught the globally first <a href="http://www.vph-institute.org/news/new-postgraduate-subject-on-multiscale-cancer-modelling-and-in-silico-medicine-mscm-ism.html" target="_blank" class="font-weight">postgraduate course</a> on in silico medicine. Dr. Stamatakos is a member of the Editorial Board of Cancer Informatics and a member of IEEE, the Virtual Physiological Human Institute (VPHi) and the Technical Chamber of Greece. Since 2019 he has been an elected member of the three member Board of Trustees of <a href="https://www.vph-institute.org/" target="_blank" class="font-weight">VPHi</a>.
   Office: Office 21.28, 2nd Floor, Old Electrical and Comp. Engineering Building
   modalId: stamatakos-modal
+  showOnlyInAdministration: false
 
 - Image: /theme/img/team/stamou.webp
   Name: Stamou Giorgos
@@ -322,6 +346,7 @@
   Bio: Dr Giorgos Stamou is currently a Professor in the School of Electrical and Computer Engineering Department, National Technical University of Athens, in the area of Artificial Intelligence and Machine Learning. His research interests include description logics, logic programming, fuzzy logic, neural networks, ontologies, digital archives, semantic annotation and semantic interoperability. He has published more than 150 papers in scientific Journals and Conference Proceedings, co-edited a books ('Multimedia Content and the Semantic Web' published by Wiley) and two Conference Proceedings (Proceedings of the 4th International Workshop on OWL Reasoner Evaluation (ORE-2015) CEUR Workshop Proceedings 1387, Reasoning on the Web in the Big Data Era - 10th International Summer School 2014, Lecture Notes in Computer Science 8714, Springer 2014) and one monograph (Ontological Knowledge Representation and Reasoning, in greek), served as organiser or member of the organisation committees of Conferences, and has been working in more than 50 research projects, in the above areas. He was the W3C AC rep of NTUA in Rule Interchange Format WG, Web Ontology Language WG, Uncertainty Reasoning for the Web (URW3) XG and a Steering Committee member of RuleML co-chairing the Fuzzy RuleML Technical Group. From September 2011 to March 2012 he was an academic visitor of Oxford University, Information Systems Laboratory. He has >4500 citation and a 32 h-index (according to Google Scholar).
   Office: Office 1.1.7, 1st Floor, Old Electrical and Comp. Engineering Building
   modalId: stamou-modal
+  showOnlyInAdministration: false
 
 - Image: /theme/img/team/tzafestas.webp
   Name: Tzafestas Costas
@@ -335,6 +360,7 @@
   Bio: "Costas S. Tzafestas is an Assistant Professor of Robotics at the School of Electrical and Computer Engineering, National Technical University of Athens. He holds an Electrical and Computer Engineering Degree from the National Technical University of Athens (1993), as well as a D.E.A. (1994) and Ph.D. (1998) Degrees on Robotics from the Université Pierre et Marie Curie (Paris 6), France. He has previously served as a Research Associate at the Institute of Informatics and Telecommunications of the National Center for Scientific Research “Demokritos”, Athens, Greece. His current research interests include human-robot interaction, haptics and telerobotics, as well as intelligent robot control and robot skill learning, with applications in the fields of medical and assistive robotics. He has also worked on robust, adaptive and neural control with applications in dextrous manipulation and walking/mobile robots. Dr. Costas Tzafestas serves as an Associate Editor of the Journal of Intelligent and Robotic Systems, and is a member of the IEEE Robotics and Automation Society and of the IEEE Technical Committee on Haptics."
   Office: Office 2.1.11, 2nd Floor, Old Electrical and Comp. Engineering
   modalId: tzafestas-modal
+  showOnlyInAdministration: false
 
 - Image: /theme/img/team/vlahakis.webp
   Name: Vlahakis Vassilios
@@ -348,6 +374,7 @@
   Bio: Dr. Vassilios Vlahakis is a Senior Innovation, IP and Patent Consultant, PQ EPO & USPTO Patent Attorney, and Patent Valuator with 25 years of experience. He holds a Ph.D. in Electrical Engineering and MSc in Biomedical Engineering, both from Imperial College, London, International MBA from the Athens University of Economics and Business, and BEng (Hons) in Electronics Engineering from UMIST, Manchester. He is the Founder and Director of KAINAGORA Innovation and IP Consultants, a boutique consultancy, based in Athens, Greece, and awarded global Best International Innovation Management and Intellectual Property Consultancy for 2018. His previous roles include the creation and direction of corporate IP departments for multinationals, management of large commercial and research projects, and applied research in academia and major multinationals like GE Medical Systems. Dr. Vlahakis and KAINAGORA pay meticulous attention to quality and have helped numerous clients to restructure their businesses and leverage their IP and patent portfolios for supporting their business goals. He follows a holistic approach combining technical/scientific, business and legal expertise, adapted to the specific client needs with the aim of creating a sustainable competitive advantage that is monetized by maximizing ROI, attracting investment at preferential terms, reducing the cost of capital, exploiting tax incentives, opening up new international markets, and attracting and retaining top talented individuals. Among his clients are startups in the fields of bio-medical devices, AI and software applied to medicine. He has implemented projects for Investment Funds, and European and American Governments. He also consults WIPO and has drafted publications for technology transfer and invention monetization, and implemented training programs for developing countries aiming at helping researchers and entrepreneurs to develop their inventions and product ideas into successful products. Currently, he serves as evaluator and mentor in the MIT Enterprise Forums in Greece and CEE, Cyprus Seeds and Hackathons.
   Office: null
   modalId: vlahakis-modal
+  showOnlyInAdministration: false
 
 - Image: /theme/img/team/voulodimos.webp
   Name: Voulodimos Athanasios
@@ -361,6 +388,7 @@
   Bio: Athanasios (Thanos) Voulodimos received his Dipl.-Ing., MSc and PhD degrees from the School of Electrical and Computer Engineering of the National Technical University of Athens (NTUA) with the highest honor. Since December 2021 he is an Assistant Professor at the School of Electrical and Computer Engineering (Division of Computer Science) of the National Technical University of Athens. From 2018 to 2021 he was an Assistant Professor at the Department of Informatics and Computer Engineering of the University of West Attica, where he served as Director of the Division of Software and Information Systems and as Pedagogical Director of the joint MSc program in “Artificial Intelligence and Visual Computing” co-organized with the University of Limoges (France). He has received several awards for his academic performance and scientific achievements by the Greek State Scholarships Foundation (IKY), the National Technical University of Athens (NTUA), the Hellenic Mathematical Society (HMS) and the European Neural Network Society (ENNS). His research interests lie in the areas of machine learning, artificial intelligence, image and signal processing, multimedia, and multimodal data fusion, management and analysis. He has participated in more than 15 European and national research & development projects, as researcher, senior researcher, and/or technical manager. Dr. Voulodimos has co-authored more than 130 papers in refereed international journals, conference proceedings and books. His work has received more than 3000 citations (as reported in Google Scholar). He has served as Organizing and Program Committee member in several international conferences and workshops, and has guest edited collective book volumes and special issues in international journals. He is a member of IEEE and ACM.
   Office: null
   modalId: voulodimos-modal
+  showOnlyInAdministration: false
 
 - Image: /theme/img/team/zarkogianni.webp
   Name: Zarkogianni Konstantia
@@ -374,3 +402,4 @@
   Bio: Konstantia Zarkogianni received the diploma in Electrical and Computer Engineering (2003) from the Aristotle University of Thessaloniki, Greece, the MSc Degree in Electronic and Computer Engineering (2005) from the Technical University of Crete, Greece, and the PhD degree (2011) from the NTUA, Greece. Since 2005, she is a member of the BIOmedical Simulations and IMaging Laboratory of NTUA. In October 2017, she was appointed as permanent laboratory teaching staff at the School of Electrical and Computer Engineering of the NTUA. Her current research interests include clinical decision support systems, control systems, physiological systems modelling, diabetes management, multiscale modelling and serious games design in health. She has authored or coauthored 11 papers in refereed international journals, one chapter in book, and 19 papers in international conference proceedings. She has participated as research associate and principle investigator in national and EU funded projects. She has been a guest editor of the special issue on Emerging Technologies for the Management of Diabetes Mellitus (Springer Journal of Medical and Biological Engineering and Computing [MBEC], 2015). She has been a member of the Editorial Board of the SpringerPlus journal in 2016 and reviewer for international scientific journals (IEEE Transactions on Biomedical Engineering, IEEE Journal of Biomedical and Health Informatics, Springer Medical & Biological Engineering & Computing, Elsevier Journal of Biomedical Informatics, and JSM Diabetology and Management). She is a member of the Institute of Electrical and Electronics Engineers (ΙΕΕΕ) and the Technical Chamber of Greece.
   Office: null
   modalId: zarkogianni-modal
+  showOnlyInAdministration: false

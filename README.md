@@ -27,6 +27,7 @@ In order to add - remove - edit people from the faculty page, you just have to m
 - Bio: bio of person
 - Office: deprecated, no need to fill this
 - *modalId: an id for the person, fill as you wish
+- *showOnlyInAdministration: true/false, whether you want to display the person only in the Administration tab
 
 When a field is null, it should be marked as null eg Phone: null, not to be left empty.
 

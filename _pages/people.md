@@ -34,8 +34,8 @@ show_sidebar: false
             </button>
           </li>
           <li>
-            <button type="button" id="staff" class="btn btn-light" onclick="chooseCategory(this, 'Staff')">
-              Staff
+            <button type="button" id="staff" class="btn btn-light" onclick="chooseCategory(this, 'Administration')">
+              Administration
             </button>
           </li>
         </ul>
@@ -50,7 +50,8 @@ show_sidebar: false
         </div>
       </div>
       <div id="people-grid" class="row d-none">
-        {% for person in site.data.people %}
+        {% assign persons = site.data.people | where: "showOnlyInAdministration", false %}
+        {% for person in persons %}
           <div class="person {{ person.Category }} col-12 col-sm-6 col-md-6 col-lg-4">
             {% include components/person-card.html
               name = person.Name
@@ -70,16 +71,16 @@ show_sidebar: false
         <p>
           The M.Sc. program "Translational Engineering in Health and Medicine" will be coordinated by the School of Electrical and Computer Engineering (ECE) of the National Technical University of Athens (NTUA), in collaboration with the School of Mechanical Engineering (ME) of NTUA. The administrative support of the program is provided by the School of Electrical and Computer Engineering of NTUA.
         </p>
-        <h4 class="mt-4">
+        <h3 class="mt-5 mb-3 colored-main">
           Dean of ECE NTUA
-        </h4>
+        </h3>
         <p>
           <a href="" data-toggle="modal" data-target="#koziris-modal">Nectarios Koziris</a>, Professor, School of Electrical and Computer Engineering, NTUA
         </p>
 
-        <h4 class="mt-4">
+        <h3 class="mt-5 mb-3 colored-main">
           Special Interdepartmental Committee (SIC)
-        </h4>
+        </h3>
         <p>
           <a href="" data-toggle="modal" data-target="#nikita-modal">Konstantina Nikita</a>, Professor, School of Electrical and Computer Engineering, NTUA
         </p>
@@ -96,16 +97,16 @@ show_sidebar: false
           <a href="" data-toggle="modal" data-target="#manopoulos-modal">Christos Manopoulos</a>, Professor, School of Mechanical Engineering, NTUA
         </p>
 
-        <h4 class="mt-4">
+        <h3 class="mt-5 mb-3 colored-main">
           President of SIC
-        </h4>
+        </h3>
         <p>
           <a href="" data-toggle="modal" data-target="#nikita-modal">Konstantina Nikita</a>, Professor, School of Electrical and Computer Engineering, NTUA
         </p>
 
-        <h4 class="mt-4">
+        <h3 class="mt-5 mb-3 colored-main">
           Steering Committee (SC)
-        </h4>
+        </h3>
         <p>
           <a href="" data-toggle="modal" data-target="#nikita-modal">Konstantina Nikita</a>, Professor, School of Electrical and Computer Engineering, NTUA
         </p>
@@ -122,32 +123,32 @@ show_sidebar: false
           <a href="" data-toggle="modal" data-target="#manopoulos-modal">Christos Manopoulos</a>, Professor, School of Mechanical Engineering, NTUA
         </p>
 
-        <h4 class="mt-4">
+        <h3 class="mt-5 mb-3 colored-main">
           Director of the Master Program
-        </h4>
+        </h3>
         <p>
           <a href="" data-toggle="modal" data-target="#nikita-modal">Konstantina Nikita</a>, Professor, School of Electrical and Computer Engineering, NTUA
         </p>
 
-        <h4 class="mt-4">
+        <h3 class="mt-5 mb-3 colored-main">
           Deputy Director of the Master Program
-        </h4>
+        </h3>
         <p>
           <a href="" data-toggle="modal" data-target="#alexopoulos-modal">Leonidas Alexopoulos</a>, Professor, School of Mechanical Engineering, NTUA
         </p>
 
-        <h4 class="mt-4">
+        <h3 class="mt-5 mb-3 colored-main">
           Secretariat of the Master Program
-        </h4>
+        </h3>
         <p>
           <a href="" data-toggle="modal" data-target="#kleanthi-modal">Maria Kleanthi</a>, Administrative Staff, School of Electrical and Computer Engineering, NTUA
         </p>
 
-        <h4 class="mt-4">
+        <h3 class="mt-5 mb-3 colored-main">
           Secretariat of ECE NTUA
-        </h4>
+        </h3>
         <p>
-          <a href="" data-toggle="modal" data-target="#kleanthi-modal">Effrosyni Kanta</a>, Administrative Staff, School of Electrical and Computer Engineering, NTUA
+          <a href="" data-toggle="modal" data-target="#kanta-modal">Effrosyni Kanta</a>, Administrative Staff, School of Electrical and Computer Engineering, NTUA
         </p>
       </div>
     </div>
@@ -193,14 +194,12 @@ show_sidebar: false
       for (const person of persons) {
         person.classList.remove('d-none');
       }
-      peopleGrid.classList.remove('d-none');
       staff.classList.add('d-none');
     }
-    else if (category == "Staff") {
+    else if (category == 'Administration') {
       for (const person of persons) {
         person.classList.add('d-none');
       }
-      peopleGrid.classList.remove('d-none');
       staff.classList.remove('d-none');
     }
     else {
@@ -211,9 +210,9 @@ show_sidebar: false
       for (const person of chosen_ones) {
         person.classList.remove('d-none');
       }
-      peopleGrid.classList.remove('d-none');
       staff.classList.add('d-none');
     }
     spinner.classList.add('d-none');
+    peopleGrid.classList.remove('d-none');
   }
 </script>
