@@ -82,7 +82,7 @@ show_sidebar: false
           Engineering, NTUA
         </p>
 
-        <h3 class="mt-4 mb-3 colored-main">
+        <h3 class="mt-5 mb-3 colored-main">
           Deputy Director of the Master Program
         </h3>
         <p>
