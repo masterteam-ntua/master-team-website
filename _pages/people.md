@@ -70,7 +70,7 @@ show_sidebar: false
       <div id="text-staff" class="d-none">
         <p>
           The M.Sc. in Translational Engineering in Health and Medicine at the National Technical University of Athens (NTUA) will be coordinated by the
-          School of Electrical and Computer Engineering (ECE) of the NTUA, in collaboration with the School of Mechanical Engineering (ME) of NTUA. The
+          School of Electrical and Computer Engineering (ECE) of NTUA, in collaboration with the School of Mechanical Engineering (ME) of NTUA. The
           administrative support of the program is provided by the School of Electrical and Computer Engineering of NTUA.
         </p>
         <h3 class="mt-5 mb-3 colored-main">
