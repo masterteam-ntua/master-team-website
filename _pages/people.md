@@ -69,85 +69,108 @@ show_sidebar: false
       </div>
       <div id="text-staff" class="d-none">
         <p>
-          The M.Sc. in Translational Engineering in Health and Medicine at the National Technical University of Athens (NTUA) will be coordinated by the
+          The M.Sc. in Translational Engineering in Health and Medicine at the National Technical University of Athens (NTUA) is organized by the
           School of Electrical and Computer Engineering (ECE) of NTUA, in collaboration with the School of Mechanical Engineering (ME) of NTUA. The
           administrative support of the program is provided by the School of Electrical and Computer Engineering of NTUA.
         </p>
-        <h3 class="mt-5 mb-3 colored-main">
-          Dean of ECE NTUA
-        </h3>
-        <p>
-          <a href="" data-toggle="modal" data-target="#koziris-modal">Nectarios Koziris</a>, Professor, School of Electrical and Computer Engineering, NTUA
-        </p>
-
-        <h3 class="mt-5 mb-3 colored-main">
-          Special Interdepartmental Committee (SIC)
-        </h3>
-        <p>
-          <a href="" data-toggle="modal" data-target="#nikita-modal">Konstantina Nikita</a>, Professor, School of Electrical and Computer Engineering, NTUA
-        </p>
-        <p>
-          <a href="" data-toggle="modal" data-target="#matsopoulos-modal">George Matsopoulos</a>, Professor, School of Electrical and Computer Engineering, NTUA
-        </p>
-        <p>
-          <a href="" data-toggle="modal" data-target="#stamou-modal">Giorgos Stamou</a>, Professor, School of Electrical and Computer Engineering, NTUA
-        </p>
-        <p>
-          <a href="" data-toggle="modal" data-target="#alexopoulos-modal">Leonidas Alexopoulos</a>, Professor, School of Mechanical Engineering, NTUA
-        </p>
-        <p>
-          <a href="" data-toggle="modal" data-target="#manopoulos-modal">Christos Manopoulos</a>, Professor, School of Mechanical Engineering, NTUA
-        </p>
-
-        <h3 class="mt-5 mb-3 colored-main">
-          President of SIC
-        </h3>
-        <p>
-          <a href="" data-toggle="modal" data-target="#nikita-modal">Konstantina Nikita</a>, Professor, School of Electrical and Computer Engineering, NTUA
-        </p>
-
-        <h3 class="mt-5 mb-3 colored-main">
-          Steering Committee (SC)
-        </h3>
-        <p>
-          <a href="" data-toggle="modal" data-target="#nikita-modal">Konstantina Nikita</a>, Professor, School of Electrical and Computer Engineering, NTUA
-        </p>
-        <p>
-          <a href="" data-toggle="modal" data-target="#matsopoulos-modal">George Matsopoulos</a>, Professor, School of Electrical and Computer Engineering, NTUA
-        </p>
-        <p>
-          <a href="" data-toggle="modal" data-target="#stamou-modal">Giorgos Stamou</a>, Professor, School of Electrical and Computer Engineering, NTUA
-        </p>
-        <p>
-          <a href="" data-toggle="modal" data-target="#alexopoulos-modal">Leonidas Alexopoulos</a>, Professor, School of Mechanical Engineering, NTUA
-        </p>
-        <p>
-          <a href="" data-toggle="modal" data-target="#manopoulos-modal">Christos Manopoulos</a>, Professor, School of Mechanical Engineering, NTUA
-        </p>
-
+        
         <h3 class="mt-5 mb-3 colored-main">
           Director of the Master Program
         </h3>
         <p>
-          <a href="" data-toggle="modal" data-target="#nikita-modal">Konstantina Nikita</a>, Professor, School of Electrical and Computer Engineering, NTUA
+          <a href="" data-toggle="modal" data-target="#nikita-modal">Konstantina Nikita</a>, MEng, MD, PhD, Professor, School of Electrical and Computer 
+          Engineering, NTUA
         </p>
 
         <h3 class="mt-5 mb-3 colored-main">
           Deputy Director of the Master Program
         </h3>
         <p>
-          <a href="" data-toggle="modal" data-target="#alexopoulos-modal">Leonidas Alexopoulos</a>, Professor, School of Mechanical Engineering, NTUA
+          <a href="" data-toggle="modal" data-target="#alexopoulos-modal">Leonidas Alexopoulos</a>, Associate Professor, School of Mechanical
+          Engineering, NTUA
         </p>
 
         <h3 class="mt-5 mb-3 colored-main">
           Secretariat of the Master Program
         </h3>
         <p>
-          <a href="" data-toggle="modal" data-target="#kleanthi-modal">Maria Kleanthi</a>, Administrative Staff, School of Electrical and Computer Engineering, NTUA
+          <a href="" data-toggle="modal" data-target="#kleanthi-modal">Maria Kleanthi</a>, Administrative Staff, School of Electrical and 
+          Computer Engineering, NTUA
         </p>
+        
+        
+        <h3 class="mt-5 mb-3 colored-main">
+          Special Interdepartmental Committee
+        </h3>
+        <p>
+          <a href="" data-toggle="modal" data-target="#alexopoulos-modal">Leonidas Alexopoulos</a>, Associate Professor, School of 
+          Mechanical Engineering, NTUA
+        </p>
+        <p>
+          <a href="" data-toggle="modal" data-target="#manopoulos-modal">Christos Manopoulos</a>, Assistant Professor, School of Mechanical 
+          Engineering, NTUA
+        </p>
+        <p>
+          <a href="" data-toggle="modal" data-target="#matsopoulos-modal">George Matsopoulos</a>, Professor, School of Electrical and 
+          Computer Engineering, NTUA
+        </p>
+        <p>
+          <a href="" data-toggle="modal" data-target="#nikita-modal">Konstantina Nikita</a>, Professor, School of Electrical and Computer 
+          Engineering, NTUA
+        </p>
+        <p>
+          <a href="" data-toggle="modal" data-target="#stamou-modal">Giorgos Stamou</a>, Professor, School of Electrical and Computer Engineering, NTUA
+        </p>
+        
+        
 
         <h3 class="mt-5 mb-3 colored-main">
-          Secretariat of ECE NTUA
+          Chair of the Special Interdepartmental Committee
+        </h3>
+        <p>
+          <a href="" data-toggle="modal" data-target="#nikita-modal">Konstantina Nikita</a>, MEng, MD, PhD, Professor, School of Electrical and Computer 
+          Engineering, NTUA
+        </p>
+
+        
+        
+        <h3 class="mt-5 mb-3 colored-main">
+          Steering Committee
+        </h3>
+         <p>
+          <a href="" data-toggle="modal" data-target="#alexopoulos-modal">Leonidas Alexopoulos</a>, Associate Professor, School of 
+          Mechanical Engineering, NTUA
+        </p>
+        <p>
+          <a href="" data-toggle="modal" data-target="#manopoulos-modal">Christos Manopoulos</a>, Assistant Professor, School of Mechanical 
+          Engineering, NTUA
+        </p>
+        <p>
+          <a href="" data-toggle="modal" data-target="#matsopoulos-modal">George Matsopoulos</a>, Professor, School of Electrical and 
+          Computer Engineering, NTUA
+        </p>
+        <p>
+          <a href="" data-toggle="modal" data-target="#nikita-modal">Konstantina Nikita</a>, Professor, School of Electrical and Computer 
+          Engineering, NTUA
+        </p>
+        <p>
+          <a href="" data-toggle="modal" data-target="#stamou-modal">Giorgos Stamou</a>, Professor, School of Electrical and Computer Engineering, NTUA
+        </p>
+        
+        
+        
+        <h3 class="mt-5 mb-3 colored-main">
+          Dean of the School of Electrical and Computer Engineering
+        </h3>
+        <p>
+          <a href="" data-toggle="modal" data-target="#koziris-modal">Nectarios Koziris</a>, Professor, School of Electrical and Computer 
+          Engineering, NTUA
+        </p>
+
+        
+
+        <h3 class="mt-5 mb-3 colored-main">
+          Secretariat of the School of Electrical and Computer Engineering
         </h3>
         <p>
           <a href="" data-toggle="modal" data-target="#kanta-modal">Effrosyni Kanta</a>, Administrative Staff, School of Electrical and Computer Engineering, NTUA
