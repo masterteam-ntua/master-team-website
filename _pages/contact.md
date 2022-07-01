@@ -108,7 +108,7 @@ show_sidebar: false
         <h5>Metro</h5>
         <p>
             The nearest station is “Katechaki”. From there you can get the bus lines 140 and 242. On weekdays during 8.00-9.30, the
-            university is accessible from the station "Katechaki" with bus granted by the rectory
+            university is accessible from the station "Katechaki" with bus granted by the rectory.
         </p>
         <h5>Car</h5>
         <p>
