@@ -60,7 +60,7 @@ show_sidebar: false
                 <a href="{{ site.baseurl }}/admissions" role="button" class="btn btn-custom">
                     <i class="fa-regular fa-pen-to-square fa-lg mr-2"></i>Apply
                 </a>
-                <a href="{{ site.baseurl }}/files/MasterTEAM-Brochure.pdf" role="button" class="btn btn-custom mt-3" download>
+                <a href="{{ site.baseurl }}/files/MasterTEAM-Brochure.pdf" role="button" class="btn btn-custom mt-3" target="_blank">
                     <i class="fa-solid fa-download fa-lg mr-2"></i>Brochure
                 </a>
             </div>
@@ -90,7 +90,7 @@ show_sidebar: false
                         ENTREPRENEURSHIP
                     </label>
                     <p class="text">
-                        Cultivate entrepreneurial skills to deliver high-impact solutions powered by deep science and technology.                   
+                        Cultivate entrepreneurial skills to deliver high-impact solutions powered by deep science and technology.
                     </p>
                 </div>
                 <div class="information-box-component col">
@@ -98,7 +98,7 @@ show_sidebar: false
                         GLOBAL NETWORK
                     </label>
                     <p class="text">
-                        Gain hands-on experience in the healthcare domain and build your professional network by interacting and connecting with a diverse community of experts from the industry, clinical sector, and regulatory bodies.                    
+                        Gain hands-on experience in the healthcare domain and build your professional network by interacting and connecting with a diverse community of experts from the industry, clinical sector, and regulatory bodies.
                     </p>
                 </div>
                 <div class="information-box-component col">

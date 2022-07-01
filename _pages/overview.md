@@ -6,11 +6,6 @@ header0: MASTER
 header1: TEAM
 header2:
 header3: Program Overview
-# title: More info about Friday Theme
-# images:
-#   - https://images.unsplash.com/photo-1421789665209-c9b2a435e3dc?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=5b1016b885e7438c4633109d77368d4d&auto=format&fit=crop&w=1651&q=80
-#   - https://images.unsplash.com/photo-1476514525535-07fb3b4ae5f1?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=468a8c18f5d811cf03c654b653b5089e&auto=format&fit=crop&w=1650&q=80
-#   - https://images.unsplash.com/photo-1504626835342-6b01071d182e?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=975855d515c9d56352ee3bfe74287f2b&auto=format&fit=crop&w=1651&q=80
 ---
 
 <div class="container">
@@ -19,10 +14,10 @@ header3: Program Overview
             Program Goals
         </h2>
         <p>
-            While funding for biomedical research has increased exponentially in recent years, there has been no corresponding increase 
-            in the development of practical solutions to clinical needs. Engineering and Life Sciences graduates need advanced and 
-            interdisciplinary training towards this direction. The M.Sc. in Translational Engineering in Health and Medicine at the National 
-            Technical University of Athens (NTUA) aims to bridge that gap by preparing students to pioneer the transformation of innovative 
+            While funding for biomedical research has increased exponentially in recent years, there has been no corresponding increase
+            in the development of practical solutions to clinical needs. Engineering and Life Sciences graduates need advanced and
+            interdisciplinary training towards this direction. The M.Sc. in Translational Engineering in Health and Medicine at the National
+            Technical University of Athens (NTUA) aims to bridge that gap by preparing students to pioneer the transformation of innovative
             technologies into commercial devices and services with a significant socioeconomic impact in the field of health.
         </p>
         <p>
@@ -63,24 +58,28 @@ header3: Program Overview
             centers. Distinguished guest speakers from industry, the clinical sector, and regulatory authorities are also invited to deliver lectures and
             interact with students.
         </p>
-        
+
         <h2 class="my-3">Relevant documents</h2>
         <p>
             Relevant documents concerning and/or describing the regulatory framework of the Postgraduate Studies Program are given below:
         </p>
         <ul>
             <li class="mb-3">
-                <a href="{{ site.baseurl }}/files/MasterTEAM-Student Handbook 2022-2023.pdf"><strong>Student Handbook 2022-2023</strong></a> (in English)
+                <a href="{{ site.baseurl }}/files/MasterTEAM-Student Handbook 2022-2023.pdf"  target="_blank">
+                  <strong>Student Handbook 2022-2023</strong>
+                </a> (in English)
             </li>
             <li class="mb-3">
-                <a href="{{ site.baseurl }}/files/ΦΕΚ-1231-Έγκριση Κανονισμού Λειτουργίας ΔΠΜΣ.pdf"><strong>Program Rules and Regulations</strong></a> 
-                as published in Government Gazette issue 1231/B/17.03.2022 (in Greek)
+                <a href="{{ site.baseurl }}/files/ΦΕΚ-1231-Έγκριση Κανονισμού Λειτουργίας ΔΠΜΣ.pdf" target="_blank">
+                  <strong>Program Rules and Regulations</strong>
+                </a> as published in Government Gazette issue 1231/B/17.03.2022 (in Greek)
             </li>
             <li class="mb-3">
-                <a href="{{ site.baseurl }}/files/ΦΕΚ-1338-Ίδρυση ΔΠΜΣ.pdf"><strong>Program Foundation Act</strong></a> 
-                as published in Government Gazette issue 1338/B/23.03.2022 (in Greek)
+                <a href="{{ site.baseurl }}/files/ΦΕΚ-1338-Ίδρυση ΔΠΜΣ.pdf" target="_blank">
+                  <strong>Program Foundation Act</strong>
+                </a> as published in Government Gazette issue 1338/B/23.03.2022 (in Greek)
             </li>
         </ul>
-        
+
     </div>
 </div>
