@@ -106,7 +106,7 @@ show_sidebar: false
                         STRATEGIC COLLABORATIONS
                     </label>
                     <p class="text">
-                        Opportunities for internships and a richer academic experience are available to students through a strategic collaboration with Columbia University and the support of the Bodossakis Foundation.
+                        Opportunities for internships and a richer academic experience are available to students through a strategic collaboration with Columbia University and the support of Bodossaki Foundation.
                     </p>
                 </div>
             </div>
