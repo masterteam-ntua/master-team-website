@@ -4,7 +4,7 @@ description: Some useful links for the services available to students.
 directory: announcements
 thumb: announcement.webp
 ---
-Some useful links for the services available to students regarding course managment, webmail, Academic IDs, VPN access etc.
+Some useful links for the services available to students regarding course management, webmail, Academic IDs, VPN access etc.
 
 *	[my.ntua.gr](http://my.ntua.gr/)
 
