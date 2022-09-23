@@ -15,7 +15,7 @@ Some useful links for the services available to students regarding course managm
 * [Webmail NTUA](https://webmail.ntua.gr/)
 
     Digital portal for NTUA’s webmail services.
-* [Digital Service for Academic ID Acquisition]()
+* [Digital Service for Academic ID Acquisition](https://submit-academicid.minedu.gov.gr/)
 
     Issue of Academic ID for ungergraduate and master’s students.
 * [NTUA’s Network Service](http://www.noc.ntua.gr/)
