@@ -6,6 +6,8 @@ thumb: thumb.jpg
 images:
   - img-1.jpg
   - img-2.jpg
+categories: other
+
 ---
 As the local public health situation has improved, the [School of Electrical and Computer Engineering](https://www.ece.ntua.gr/gr){:target="_blank"} of the [National Technical University of Athens](https://www.ntua.gr/el/){:target="_blank"} (**ECE-NTUA**) is once again allowing Senior high school (Lykeion) group visits.
 

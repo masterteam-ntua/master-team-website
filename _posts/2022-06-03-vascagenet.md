@@ -5,6 +5,7 @@ directory: vascagenet
 thumb: vascagenet-logo.webp
 images:
   - poster.webp
+categories: other
 ---
 
 <p>

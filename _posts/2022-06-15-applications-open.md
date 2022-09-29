@@ -3,6 +3,7 @@ title: Applications for the academic year 2022-2023 are now open!
 description: Prospective students can apply until July 3rd, 2022 
 directory: announcements
 thumb: announcement.webp
+categories: announcement
 ---
 
 Interested candidates are invited to submit their application online <strong>between 10 June and 3 July 2022</strong>. Prospective graduate

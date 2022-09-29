@@ -3,6 +3,7 @@ title: Gender Equality Plan of the School of Electrical and Computer Engineering
 description: The School was supported during the development of the plan by the CALIPER - Gender Equality in STEM Research project (Horizon 2020).
 directory: gender-equality-plan
 thumb: thumb.jpg
+categories: other
 ---
 The [School of Electrical and Computer Engineering](https://www.ece.ntua.gr/gr){:target="_blank"} of the [National Technical University of Athens](https://www.ntua.gr/el/){:target="_blank"} has developed a two-year Gender Equality Plan (covering the academic years 2021-2022, 2022-2023).
 

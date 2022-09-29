@@ -3,6 +3,7 @@ title: MoU between Columbia University and the National Technical University of 
 description: The Memorandum of Understanding (MoU) between Columbia University (CU) and the National Technical University of Athens for dual degree was officially signed on Wednesday, November 10th, 2021.
 directory: mou-columbia-ntua
 thumb: thumb.jpg
+categories: other
 ---
 The Memorandum of Understanding (MoU) between **Columbia University (CU)** and the **National Technical University of Athens** for **dual degree** was officially signed on Wednesday, November 10th, 2021. The signing ceremony was held online, in the presence of delegations consisted of representatives from the administrations and the Schools from both sides. The momentum was signed by Professor **Andreas G. Boudouvis**, Rector of NTUA, and Professor **Mary C. Boyce**, Provost of Columbia University.
 

@@ -5,6 +5,7 @@ directory: smarty4covid
 thumb: thumb.jpg
 images:
   - smarty-ahepa.jpg
+categories: other
 ---
 <p><strong>Smarty4covid</strong> aspires to discover novel biomarkers with high prognostic value regarding the onset and the progress of COVID-19. Τhe project advances the current state of the art by initiating innovative clinical pilots involving
   hospitalized patients with COVID-19 through a strategic partnership with the <strong>AHEPA Hospital</strong>. It is expected that the application of AI on the heterogeneous data (e.g. medical history, laboratory exams, audio recordings of breath,

@@ -3,6 +3,7 @@ title: Biotech Days in May @ NTUA (Part 2/2)
 description: The second part of Biotech Days was successfully completed!
 directory: biotech-days
 thumb: biotech_days_2.webp
+categories: other
 ---
 The second part of Biotech Days was successfully completed with two inspiring talks given by the NTUA alumni, Giannis Stoitsis and Despoina Moschou, 
 on the 25th of May and the 1st of June. The speakers shared their journey in the field of biomedical engineering and engaged in a lively discussion 

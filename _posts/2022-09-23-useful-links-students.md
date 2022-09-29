@@ -3,6 +3,7 @@ title: Useful Links for Newly Admitted Students
 description: Some useful links for the services available to students.
 directory: announcements
 thumb: announcement.webp
+categories: announcement
 ---
 Some useful links for the services available to students regarding course management, webmail, Academic IDs, VPN access etc.
 
