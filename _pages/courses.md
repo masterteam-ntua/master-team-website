@@ -137,6 +137,9 @@ header3: Courses
             different size and time scales. Guest lectures will include engineers and medical scientists to discuss the
             relationship between recent advances in biomedical engineering and the underlying anatomy and physiology.
         </p>
+        <p>
+            The course page on Helios platform can be found  <a href="https://helios.ntua.gr/course/view.php?id=5652" target="_blank"><strong>here</strong></a>.
+        </p>
     </div>
     <div class="row subject-block" id="engineering-biomedicine">
         <h2>
@@ -153,6 +156,9 @@ header3: Courses
             data. The course will empower those with non-engineering backgrounds with the knowledge required to critically
             evaluate and use these technologies in healthcare and medicine.
         </p>
+        <p>
+            The course page on Helios platform can be found  <a href="https://helios.ntua.gr/course/view.php?id=5653" target="_blank"><strong>here</strong></a>.
+        </p>
     </div>
     <div class="row subject-block" id="biostatistics-ml">
         <h2>
@@ -168,6 +174,9 @@ header3: Courses
             supervised learning, including Bayesian classifiers, decision trees, regression models, support vector machines
             (SVMs), as well as principles of unsupervised learning, including clustering and density estimation.
         </p>
+        <p>
+            The course page on Helios platform can be found  <a href="https://helios.ntua.gr/course/view.php?id=5654" target="_blank"><strong>here</strong></a>.
+        </p>
     </div>
     <div class="row subject-block" id="biosignals-processing">
         <h2>
@@ -182,6 +191,9 @@ header3: Courses
             are discussed, including preprocessing for the removal of artifacts, coding, feature extraction, and modeling. The
             course includes hands-on sessions aiming to program these techniques in Matlab/Python, apply them to
             biomedical signals, and critically evaluate their performance.
+        </p>
+        <p>
+            The course page on Helios platform can be found  <a href="https://helios.ntua.gr/course/view.php?id=5655" target="_blank"><strong>here</strong></a>.
         </p>
     </div>
     <div class="row subject-block" id="research-methodology">
@@ -200,6 +212,9 @@ header3: Courses
             in research, Selecting robust outcome measures, Qualitative research methods, Assessing the impact of research,
             Getting research funding, Disseminating research.
         </p>
+        <p>
+            The course page on Helios platform can be found  <a href="https://helios.ntua.gr/course/view.php?id=5656" target="_blank"><strong>here</strong></a>.
+        </p>
     </div>
     <div class="row subject-block" id="translational-bioinformatics">
         <h2>
@@ -216,6 +231,9 @@ header3: Courses
             bioinformatics data, etc.), d) utility and limitations of public biomedical resources, e) issues and opportunities in
             drug discovery, and mobile/digital health solutions.
         </p>
+        <p>
+            The course page on Helios platform can be found  <a href="https://helios.ntua.gr/course/view.php?id=5657" target="_blank"><strong>here</strong></a>.
+        </p>
     </div>
     <div class="row subject-block" id="biomechanics">
         <h2>
@@ -229,6 +247,9 @@ header3: Courses
             system levels, solid and fluid mechanics are introduced, and applications in the musculoskeletal, respiratory, cardiovascular
             and urinary systems are discussed.
         </p>
+        <p>
+            The course page on Helios platform can be found  <a href="https://helios.ntua.gr/course/view.php?id=5658" target="_blank"><strong>here</strong></a>.
+        </p>
     </div>
     <div class="row subject-block" id="biodesign-fundamentals">
         <h2>
@@ -241,6 +262,9 @@ header3: Courses
             by visiting clinical settings and interviewing end-users. Via a well-structured process that includes stakeholder analysis and
             market analysis, the students prioritize the ideas and select the ones that will be implemented in the subsequent semester in
             the course “Biodesign Innovation Process”.
+        </p>
+        <p>
+            The course page on Helios platform can be found  <a href="https://helios.ntua.gr/course/view.php?id=5659" target="_blank"><strong>here</strong></a>.
         </p>
     </div>
     <div class="row subject-block" id="medical-imaging">
@@ -260,6 +284,9 @@ header3: Courses
             visualization; Computer-assisted detection, diagnosis, and decision support; Access and utility of publicly available image data
             sources; Linking imaging data to clinical data and phenotypes.
         </p>
+        <p>
+            The course page on Helios platform can be found  <a href="https://helios.ntua.gr/course/view.php?id=5660" target="_blank"><strong>here</strong></a>.
+        </p>
     </div>
     <div class="row subject-block" id="computational-medicine">
         <h2>
@@ -273,6 +300,9 @@ header3: Courses
             cancer modeling and in silico oncology, construction of models to study cardiovascular system health. Modeling and
             simulation of medical devices such as artificial kidney, artificial heart and heart valves, are also covered, along with prototype
             manufacturing using 3D printing technology.
+        </p>
+        <p>
+            The course page on Helios platform can be found  <a href="https://helios.ntua.gr/course/view.php?id=5661" target="_blank"><strong>here</strong></a>.
         </p>
     </div>
     <div class="row subject-block" id="introduction-neuroscience">
@@ -288,6 +318,9 @@ header3: Courses
             neurons are also explored as spike processing machines for creating intelligent algorithms inspired by the brain’s complexity
             and self-organization.
         </p>
+        <p>
+            The course page on Helios platform can be found  <a href="https://helios.ntua.gr/course/view.php?id=5664" target="_blank"><strong>here</strong></a>.
+        </p>
     </div>
     <div class="row subject-block" id="biomems">
         <h2>
@@ -298,6 +331,9 @@ header3: Courses
             and lab-on-chip systems) and (2) expose students to the relevant biomedical and biological applications of BioMEMS. The
             course is divided into three main sections: (i) Microfabrication and Materials of BioMEMS, (ii) Design of BioMEMS sensors and
             actuators, and (iii) BioMEMS applications.
+        </p>
+        <p>
+            The course page on Helios platform can be found  <a href="https://helios.ntua.gr/course/view.php?id=5663" target="_blank"><strong>here</strong></a>.
         </p>
     </div>
     <div class="row subject-block" id="ai-healthcare">
@@ -311,6 +347,9 @@ header3: Courses
             healthcare will be presented. Advanced topics on open challenges of integrating AI in healthcare, including interpretability,
             robustness, privacy and fairness will also be covered. The course aims to provide students from diverse backgrounds with both
             conceptual understanding and practical grounding of cutting-edge research on AI in healthcare.
+        </p>
+        <p>
+            The course page on Helios platform can be found  <a href="https://helios.ntua.gr/course/view.php?id=5662" target="_blank"><strong>here</strong></a>.
         </p>
     </div>
     <div class="row subject-block" id="healthcare-robotics">
@@ -326,6 +365,9 @@ header3: Courses
             levels; autonomous robotic systems to assist with daily living activities; multi-modal robot interfaces; robotics-based
             rehabilitation technologies; upper limb rehabilitation robots; wearable exoskeletons and sensors; implanted neural interfaces.
         </p>
+        <p>
+            The course page on Helios platform can be found  <a href="https://helios.ntua.gr/course/view.php?id=5665" target="_blank"><strong>here</strong></a>.
+        </p>
     </div>
     <div class="row subject-block" id="biodesign-advanced">
         <h2>
@@ -339,6 +381,9 @@ header3: Courses
             their own business idea. Students will have the opportunity to discuss case studies based on other people’s experience of
             bringing medical devices to market and the specific challenges associated with the development of new products in the
             medical sector.
+        </p>
+        <p>
+            The course page on Helios platform can be found  <a href="https://helios.ntua.gr/course/view.php?id=5666" target="_blank"><strong>here</strong></a>.
         </p>
     </div>
 </div>
