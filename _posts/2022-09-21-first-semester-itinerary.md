@@ -2,7 +2,7 @@
 title: Weekly Schedule Fall Semester 2022-2023
 description: The weekly schedule of the fall semester courses has been announced!
 directory: announcements
-thumb: announcement.webp
+thumb: schedule.jpg
 images:
   - itinerary.webp
 categories: announcement
