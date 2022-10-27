@@ -292,6 +292,20 @@
   modalId: provatidis-modal
   showOnlyInAdministration: false
 
+- Image: /theme/img/team/raptis.webp
+  Name: Raptis Anastasios
+  Category: Researchers
+  Title1: Post-doctoral Researcher,<br/>Laboratory of Biofluid Mechanics
+  Title2: School of Mechanical Engineering, NTUA
+  School: Mechanical Engineering, NTUA
+  Email: raptis_anastasios@fluid.mech.ntua.gr
+  Phone: 2107721733
+  Website: null
+  Bio: "Anastasios Raptis received the Diploma of Engineering from the Department of Mechanical Engineering, University of Patras, Greece in 2012 and the PhD Degree from the Faculty of Medicine, University of Ioannina, Greece in 2016. He is currently a Post-Doctoral Researcher at the Laboratory of Biofluid Mechanics, Fluids Section, School of Mechanical Engineering, National Technical University of Athens, Greece, with a scholarship by the State Scholarships Foundation of Greece. He is also a Research Affiliate at the Institute of Vascular Diseases, Larissa, Greece. He is specialized in the following disciplines: Biofluid Dynamics, Hemodynamics, bioMagnetoHydrodynamics, Computational Cardiovascular Modelling and Simulation. Among his research interests are: large-scale patient-based hemodynamic simulations, multi-scale and multi-physics cardiovascular modelling, blood flow and vascular diseases (e.g. aortic aneurysms, carotid artery disease), morphological and hemodynamic characterization of pathological vascular anatomies and computational analysis of stent-graft systems used in complex surgical procedures (e.g. endovascular aneurysm repair, carotid artery endarterectomy and stenting). He has 14 peer-reviewed international Journal papers, and other publications including conference papers, editorials & letters, and book chapters, and is a reviewer for high-impact scientific Journals. He has international collaborations, including active joint research in the field of Computational Hemodynamics with Researchers from the Polito(BIO)Med Lab, Department of Mechanical and Aerospace Engineering, Politecnico di Torino, Italy. He is also collaborating with vascular surgeons and clinical doctors from University Departments of Vascular Surgery around Greece. His long-term goal is to contribute to the in silico revolution in healthcare which is above the horizon, bringing computational methods closer to their true aspiration of being adopted in the clinical practice."
+  Office: "School of Mechanical Engineering, Fluids Section, Building Ε, 3rd floor, Office E305"
+  modalId: raptis-modal
+  showOnlyInAdministration: false
+
 - Image: /theme/img/team/siokas.webp
   Name: Siokas Evangelos
   Category: Collaborators
