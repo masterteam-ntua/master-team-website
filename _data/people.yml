@@ -365,13 +365,13 @@
 - Image: /theme/img/team/tzafestas.webp
   Name: Tzafestas Costas
   Category: Professors
-  Title1: Assistant Professor
+  Title1: Associate Professor
   Title2: Intelligent Robotics and Human-Robot Interaction Group, School of Electrical and Computer Engineering, NTUA
   School: Electrical and Computer Engineering, NTUA
   Email: ktzaf@cs.ntua.gr
   Phone: 2107723687
   Website: https://robotics.ntua.gr/members/ktzaf/
-  Bio: "Costas S. Tzafestas is an Assistant Professor of Robotics at the School of Electrical and Computer Engineering, National Technical University of Athens. He holds an Electrical and Computer Engineering Degree from the National Technical University of Athens (1993), as well as a D.E.A. (1994) and Ph.D. (1998) Degrees on Robotics from the Université Pierre et Marie Curie (Paris 6), France. He has previously served as a Research Associate at the Institute of Informatics and Telecommunications of the National Center for Scientific Research “Demokritos”, Athens, Greece. His current research interests include human-robot interaction, haptics and telerobotics, as well as intelligent robot control and robot skill learning, with applications in the fields of medical and assistive robotics. He has also worked on robust, adaptive and neural control with applications in dextrous manipulation and walking/mobile robots. Dr. Costas Tzafestas serves as an Associate Editor of the Journal of Intelligent and Robotic Systems, and is a member of the IEEE Robotics and Automation Society and of the IEEE Technical Committee on Haptics."
+  Bio: "Costas S. Tzafestas is an Associate Professor of Robotics at the School of Electrical and Computer Engineering, National Technical University of Athens. He holds an Electrical and Computer Engineering Degree from the National Technical University of Athens (1993), as well as a D.E.A. (1994) and Ph.D. (1998) Degrees on Robotics from the Université Pierre et Marie Curie (Paris 6), France. He has previously served as a Research Associate at the Institute of Informatics and Telecommunications of the National Center for Scientific Research “Demokritos”, Athens, Greece. His current research interests include human-robot interaction, haptics and telerobotics, as well as intelligent robot control and robot skill learning, with applications in the fields of medical and assistive robotics. He has also worked on robust, adaptive and neural control with applications in dextrous manipulation and walking/mobile robots. Dr. Costas Tzafestas serves as an Associate Editor of the Journal of Intelligent and Robotic Systems, and is a member of the IEEE Robotics and Automation Society and of the IEEE Technical Committee on Haptics."
   Office: Office 2.1.11, 2nd Floor, Old Electrical and Comp. Engineering
   modalId: tzafestas-modal
   showOnlyInAdministration: false
