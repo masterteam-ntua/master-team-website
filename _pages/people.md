@@ -50,7 +50,7 @@ show_sidebar: false
         </div>
       </div>
       <div id="people-grid" class="row d-none">
-        {% assign persons = site.data.people | where: "showOnlyInAdministration", false %}
+        {% assign persons = site.data.people | where: "showOnlyInAdministration", false | sort: "Name" %}
         {% for person in persons %}
           <div class="person {{ person.Category }} col-12 col-sm-6 col-md-6 col-lg-4">
             {% include components/person-card.html
