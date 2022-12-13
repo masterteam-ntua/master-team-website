@@ -419,7 +419,7 @@
   showOnlyInAdministration: false
 
 - Image: /theme/img/team/Ipatia-Doussis-Anagnostopoulou.webp
-  Name: Ipatia Doussis-Anagnostopoulou
+  Name: Doussis-Anagnostopoulou Ipatia
   Category: Professors
   Title1: Associate Professor
   Title2: Laboratory of Histology and Embryology, NKUA Medical School
@@ -427,13 +427,13 @@
   Email: ipatiada@med.uoa.gr
   Phone: null
   Website: null
-  Bio: null 
+  Bio: Ipatia Doussis-Anagnostopoulou is an Associate Professor at the Laboratory of Histology and Embryology Medical School of the National and Kapodistrian University of Athens (NKUA) Medical School. Following a Medical Degree from the University of Ioannina, she trained in Histopathology at the “St Savvas” Anticancer Hospital, in Greece and at the Nuffield Department of Pathology, John Radcliffe Hospital, Oxford with a research interest in Hematopathology. She worked as a specialized pathologist for 7 years at the Division of Clinical Pathology, Medical School, Centre Medical Universitaire (CMU), Hopital Cantonal Universitaire in Geneva, before returning to Greece for an academic position at the NKUA Medical school. Ipatia has a special interest in medical education and is currently the NKUA representative at the HUB Health of the European Civic University, CIVIS. 
   Office: null
   modalId: ipatia-doussis-modal
   showOnlyInAdministration: false
 
 - Image: /theme/img/team/Dimosthenis-Chrysikos.webp
-  Name: Dimosthenis Chrysikos
+  Name: Chrysikos Dimosthenis
   Category: Collaborators
   Title1: Consultant Surgeon
   Title2: Scientific Collaborator, Department of Anatomy, Athens Medical School, NKUA
@@ -447,7 +447,7 @@
   showOnlyInAdministration: false
 
 - Image: /theme/img/team/Vassilis-Aidinis.webp
-  Name: Vassilis Aidinis
+  Name: Aidinis Vassilis
   Category: Researchers
   Title1: Researcher A
   Title2: Molecular Pathophysiology Lab, Biomedical Sciences Research Center Alexander Fleming
@@ -461,7 +461,7 @@
   showOnlyInAdministration: false
 
 - Image: /theme/img/team/Panagiotis-Vasileiou.webp
-  Name: Panagiotis Vasileiou
+  Name: Vasileiou Panagiotis
   Category: Researchers
   Title1: Post Doctoral Researcher
   Title2:  Consultant Cardiologist, Intensive Care Unit, Sotiria Thoracic Diseases General Hospital, Athens, Greece
@@ -475,7 +475,7 @@
   showOnlyInAdministration: false
 
 - Image: /theme/img/team/Kalliopi-Dalakleidi.webp
-  Name: Kalliopi Dalakleidi
+  Name: Dalakleidi Kalliopi
   Category: Researchers
   Title1: Post Doctoral Researcher
   Title2: Biomedical Simulations and Imaging (BIOSIM) Laboratory, School of Electrical and Computer Engineering, NTUA
