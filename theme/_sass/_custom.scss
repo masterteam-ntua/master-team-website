@@ -153,10 +153,10 @@ ul.navbar-nav.ml-auto {
   padding: 0.5rem;
   img {
     margin-top: 0.5rem;
-      width: 225px;
-      height: 225px;
-      border: 7px solid $grey-blue;
-      object-fit: cover;
+    width: 225px;
+    height: 225px;
+    border: 7px solid $grey-blue;
+    object-fit: cover;
   }
   &:hover {
     cursor: pointer;
@@ -477,5 +477,22 @@ a.map-section {
     &:hover {
       background-color: #074C8E;
     }
+  }
+}
+
+.testimonials-controls {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.testimonial-card {
+  margin-bottom: 3rem;
+  text-align: center;
+  padding: 0.5rem;
+  img {
+    margin-top: 0.5rem;
+    width: 160px;
+    height: 160px;
+    object-fit: cover;
   }
 }

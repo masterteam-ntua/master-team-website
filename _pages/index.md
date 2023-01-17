@@ -14,22 +14,24 @@ show_sidebar: false
             <div class="col-12">
                 <h2>Welcome to our Master TEAM</h2>
                 <p>
-                    Translational Engineering is the process of translating engineering research findings
-                    and discoveries into innovations and functional products. Applications of Translational
-                    Engineering in Health and Medicine focus on the development of devices and services to
-                    improve the public and individual health.
+                    Translational Engineering in Health and Medicine is the process of developing devices and services to 
+                    improve public and individual health. The M.Sc. in Translational Engineering in Health and Medicine, 
+                    organized by the <a href="https://www.ece.ntua.gr/en"><strong>School of Electrical and Computer 
+                    Engineering</strong></a> of the <a href="https://www.ntua.gr/en/"><strong>National Technical University 
+                    of Athens (NTUA)</strong></a>, in collaboration with the 
+                    <a href="http://www.mech.ntua.gr/en/"><strong>School of Mechanical Engineering</strong></a>, 
+                    is designed to prepare students to transform innovative technologies into commercial products 
+                    and services with a significant impact on health.
                 </p>
                 <p>
-                    The M.Sc. in Translational Engineering in Health and Medicine, organized by the <a href="https://www.ece.ntua.gr/en"><strong>School of Electrical and Computer Engineering</strong></a> of the <a href="https://www.ntua.gr/en/"><strong>National Technical University of Athens (NTUA)</strong></a>, in collaboration with the <a href="http://www.mech.ntua.gr/en/"><strong>School of Mechanical Engineering</strong></a>, is designed to prepare students to pioneer the transformation of innovative technologies into commercial devices and services with a significant socioeconomic impact in the field of Health. The program builds on NTUA's decades of foundational work in biomedical engineering and science and focuses on cultivating deep knowledge and catalyzing interdisciplinary efforts to address urgent healthcare challenges.
-                </p>
-                <p>
-                    Students study and work on cutting-edge topics in biomedical data science and artificial
-                    intelligence, neuroengineering, multiscale modeling, digital health, intelligent reality, healthcare
-                    robotics, and biomedical microelectromechanical systems (BioMEMs) among others. The curriculum focuses
-                    on instilling entrepreneurial and leadership skills in students as well as exposing them to all of the
-                    steps involved in translating research discoveries into innovative medical products and services.
-                    The program fosters a multidisciplinary and multisectoral approach through student internships in
-                    research labs, clinical departments, and industry.
+                    The program focuses on cultivating deep knowledge in students and catalyzing interdisciplinary efforts 
+                    to address urgent healthcare challenges. Students study and work on cutting-edge topics in biomedical 
+                    data science and artificial intelligence, neuroengineering, multiscale modeling, digital health, 
+                    intelligent reality, healthcare robotics, and BioMEMs. The curriculum focuses on instilling 
+                    entrepreneurial and leadership skills in students, as well as exposing them to all of the steps involved 
+                    in translating research discoveries into innovative medical products and services. The program fosters 
+                    a multidisciplinary and multisectoral approach through student internships in research labs, clinical 
+                    departments, and industry.                              
                 </p>
             </div>
             <div class="col-12">
@@ -63,6 +65,36 @@ show_sidebar: false
                 <a href="{{ site.baseurl }}/files/MasterTEAM-Brochure.pdf" role="button" class="btn btn-custom mt-3" target="_blank">
                     <i class="fa-solid fa-download fa-lg mr-2"></i>Brochure
                 </a>
+            </div>
+            <div class="carousel carousel-testimonials slide w-100 mt-5" data-ride="carousel" data-interval="5000" id="testimonialsCarousel">
+                <div class="row align-items-center">
+                    <div class="col-12 lead testimonials-controls">
+                        <a class="btn btn-carousel prev-tes" title="go back">
+                            <i class="fa-solid fa-chevron-left fa-lg colored-main"></i>
+                        </a>
+                        <a class="btn btn-carousel next-tes" title="more">
+                            <i class="fa-solid fa-chevron-right fa-lg colored-main"></i>
+                        </a>
+                    </div>
+                </div>
+                <div class="row pt-0 mt-2">
+                    <div class="carousel-inner">
+                        {% assign testimonials = site.data.testimonials %}
+                        {% for testimonial in testimonials %}
+                        {% assign loopIndex = {{forloop.index}} %}
+                            <div class='{% if loopIndex == 1 %}carousel-item active{% else %}carousel-item{% endif %} justify-content-center'>
+                                <div class="card-deck">
+                                    {% include components/testimonial.html
+                                        image = testimonial.Image
+                                        name = testimonial.Name
+                                        studies = testimonial.Studies
+                                        comment = testimonial.Comment
+                                    %}
+                                </div>
+                            </div>
+                        {% endfor %}
+                    </div>
+                </div>
             </div>
         </div>
     </div>
@@ -307,4 +339,7 @@ show_sidebar: false
     $('.prev-mob-announcement').click(function(){ $('.carousel-mobile-announcement').carousel('prev');return false; });
     $('.next-mob-news').click(function(){ $('.carousel-mobile-news').carousel('next');return false; });
     $('.prev-mob-news').click(function(){ $('.carousel-mobile-news').carousel('prev');return false; });
+    // testimonials carousel controls
+    $('.next-tes').click(function(){ $('.carousel-testimonials').carousel('next');return false; });
+    $('.prev-tes').click(function(){ $('.carousel-testimonials').carousel('prev');return false; });
 </script>
