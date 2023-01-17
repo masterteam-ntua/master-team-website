@@ -14,24 +14,29 @@ show_sidebar: false
             <div class="col-12">
                 <h2>Welcome to our Master TEAM</h2>
                 <p>
-                    Translational Engineering in Health and Medicine is the process of developing devices and services to 
-                    improve public and individual health. The M.Sc. in Translational Engineering in Health and Medicine, 
-                    organized by the <a href="https://www.ece.ntua.gr/en"><strong>School of Electrical and Computer 
-                    Engineering</strong></a> of the <a href="https://www.ntua.gr/en/"><strong>National Technical University 
-                    of Athens (NTUA)</strong></a>, in collaboration with the 
-                    <a href="http://www.mech.ntua.gr/en/"><strong>School of Mechanical Engineering</strong></a>, 
-                    is designed to prepare students to transform innovative technologies into commercial products 
-                    and services with a significant impact on health.
+                    Translational Engineering is the process of translating engineering research findings
+                    and discoveries into innovations and functional products. Applications of Translational
+                    Engineering in Health and Medicine focus on the development of devices and services to
+                    improve the public and individual health.
                 </p>
                 <p>
-                    The program focuses on cultivating deep knowledge in students and catalyzing interdisciplinary efforts 
-                    to address urgent healthcare challenges. Students study and work on cutting-edge topics in biomedical 
-                    data science and artificial intelligence, neuroengineering, multiscale modeling, digital health, 
-                    intelligent reality, healthcare robotics, and BioMEMs. The curriculum focuses on instilling 
-                    entrepreneurial and leadership skills in students, as well as exposing them to all of the steps involved 
-                    in translating research discoveries into innovative medical products and services. The program fosters 
-                    a multidisciplinary and multisectoral approach through student internships in research labs, clinical 
-                    departments, and industry.                              
+                    The M.Sc. in Translational Engineering in Health and Medicine, organized by the
+                    <a href="https://www.ece.ntua.gr/en"><strong>School of Electrical and Computer Engineering</strong></a>
+                    of the <a href="https://www.ntua.gr/en/"><strong>National Technical University of Athens (NTUA)</strong></a>,
+                    in collaboration with the <a href="http://www.mech.ntua.gr/en/"><strong>School of Mechanical Engineering</strong></a>,
+                    is designed to prepare students to pioneer the transformation of innovative technologies into commercial
+                    devices and services with a significant socioeconomic impact in the field of Health. The program builds
+                    on NTUA's decades of foundational work in biomedical engineering and science and focuses on cultivating
+                    deep knowledge and catalyzing interdisciplinary efforts to address urgent healthcare challenges.
+                </p>
+                <p>
+                    Students study and work on cutting-edge topics in biomedical data science and artificial
+                    intelligence, neuroengineering, multiscale modeling, digital health, intelligent reality, healthcare
+                    robotics, and biomedical microelectromechanical systems (BioMEMs) among others. The curriculum focuses
+                    on instilling entrepreneurial and leadership skills in students as well as exposing them to all of the
+                    steps involved in translating research discoveries into innovative medical products and services.
+                    The program fosters a multidisciplinary and multisectoral approach through student internships in
+                    research labs, clinical departments, and industry.
                 </p>
             </div>
             <div class="col-12">
