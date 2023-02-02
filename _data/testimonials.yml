@@ -1,3 +1,13 @@
+- Image: /theme/img/testimonials/vidakis.jpg
+  Name: Vidakis Thanos
+  Studies: Electrical and Computer Engineering
+  Comment: I was looking for an interdisciplinary curriculum that would give me the opportunity to investigate and innovate a healthier world for everybody.
+
+- Image: /theme/img/testimonials/kaperoni.jpg
+  Name: Kaperoni Freideriki
+  Studies: Electrical and Computer Engineering
+  Comment: I always had the dilemma of deciding between Medicine and Electrical Engineering. Hopefully this Master will lay the foundations and build a solid background for my future research I always dreamt of doing, combining Engineering with Medicine but in a practical and innovative way.
+
 - Image: /theme/img/testimonials/galaris.png
   Name: Galaris Evangelos
   Studies: Ph.D. in Machine Learning and Complex Systems
@@ -8,20 +18,10 @@
   Studies: Mechanical Engineering
   Comment: I chose Master TEAM to get a holistic and deeper view of the Biomedical Engineering research field and explore ways to establish innovative products out of it.
 
-- Image: /theme/img/testimonials/kaperoni.jpg
-  Name: Kaperoni Freideriki
-  Studies: Electrical and Computer Engineering
-  Comment: I always had the dilemma of deciding between Medicine and Electrical Engineering. Hopefully this Master will lay the foundations and build a solid background for my future research I always dreamt of doing, combining Engineering with Medicine but in a practical and innovative way.
-
 - Image: /theme/img/testimonials/tziavaras.jpg
   Name: Tziavaras Konstantinos
   Studies: Biological Applications & Technology
   Comment: I chose Master TEAM for its diverse and cutting-edge curriculum in biomedical engineering, and the opportunity to learn from exceptional professors and industry experts. The program also introduces me to new scientific approaches and laboratory methods.
-
-- Image: /theme/img/testimonials/vidakis.jpg
-  Name: Vidakis Thanos
-  Studies: Electrical and Computer Engineering
-  Comment: I was looking for an interdisciplinary curriculum that would give me the opportunity to investigate and innovate a healthier world for everybody.
 
 - Image: /theme/img/testimonials/spiliotis.png
   Name: Spiliotis Theodoros
