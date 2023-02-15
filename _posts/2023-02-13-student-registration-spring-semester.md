@@ -1,5 +1,5 @@
 ---
-title: Student Registration
+title: Spring Semester Student Registration
 description: Student registration for the Spring Semester 2023
 directory: announcements
 thumb: Registration.jpg
