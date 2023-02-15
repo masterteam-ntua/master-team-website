@@ -2,7 +2,7 @@
 title: Spring Semester Student Registration
 description: Student registration for the Spring Semester 2023
 directory: announcements
-thumb: registration_form_dalle.png
+thumb: registration_form_dalle.jpg
 categories: announcement
 ---
 We are pleased to announce that the registrations for the Spring Semester 2023 will be open from 20/02/2023 to 03/03/2023.
