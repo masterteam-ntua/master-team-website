@@ -1,3 +1,17 @@
+- Image: /theme/img/team/alexandridis-georgios.webp
+  Name: Alexandridis Georgios
+  Category: Researchers
+  Title1: Laboratory Teaching Staff
+  Title2: School of Electrical and Computer Engineering, NTUA
+  School: Electrical and Computer Engineering, NTUA
+  Email: gealexan@mail.ntua.gr
+  Phone: 2107722262
+  Website: https://www.ails.ece.ntua.gr/people/gealexandri
+  Bio: Dr. Georgios Alexandridis graduated from the School of Electrical and Computer Engineering of the University of Patras in 2005. In 2015 he received his PhD at the School of Electrical and Computer Engineering (ECE) of the National Technical University of Athens (NTUA), in the research area of recommender systems and social networks. Since 2018, he works as Laboratory and Teaching Staff at ECE NTUA, where he teaches in undergraduate and postgraduate courses related to machine learning, artificial intelligence and deep learning. He has also co-supervised more than 20 diploma theses related to machine learning applications. Dr. Alexandridis' research interests are in data science, artificial intelligence and machine learning. He has published several articles in peer-reviewed international journals and international peer-reviewed conference proceedings in the areas of recommender systems, social network analysis and natural language processing. His particular research interests include analyzing and extracting sentiment from text and applying deep learning techniques in image and video data.
+  Office: Office 1.1.24, 1st Floor, Old Electrical and Comp. Engineering Building
+  modalId: alexandridis-georgios-modal
+  showOnlyInAdministration: false
+
 - Image: /theme/img/team/alexopoulos.webp
   Name: Alexopoulos Leonidas
   Category: Professors
