@@ -2,9 +2,9 @@
 title: Weekly Schedule Spring Semester 2022-2023
 description: The weekly schedule of the spring semester courses has been announced!
 directory: announcements
-thumb: 2nd-semester-2022-2023.jpg
+thumb: 2nd-semester-2022-2023.webp
 images:
-  - 2nd-semester-2022-2023.jpg
+  - 2nd-semester-2022-2023.webp
 categories: announcement
 ---
 The weekly schedule of the spring semester courses has been announced!
