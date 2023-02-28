@@ -3,8 +3,6 @@ title: Internship in Columbia University
 description: Call for Expression of Interest
 directory: announcements
 thumb: columbia-logo.webp
-images:
-  - columbia-logo.webp
 categories: announcement
 ---
 Master TEAM-NTUA will offer selected students internship opportunities in the Department of Biomedical Engineering of Columbia University in the city of New York (CU), with the support of the Bodossakis Foundation. 
