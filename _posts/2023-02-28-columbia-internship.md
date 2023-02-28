@@ -2,7 +2,7 @@
 title: Internship in Columbia University
 description: Call for Expression of Interest
 directory: announcements
-thumb: columbia-logo.wepb
+thumb: columbia-logo.webp
 images:
   - columbia-logo.webp
 categories: announcement
