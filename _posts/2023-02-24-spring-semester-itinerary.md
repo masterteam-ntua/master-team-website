@@ -4,7 +4,7 @@ description: The weekly schedule of the spring semester courses has been announc
 directory: announcements
 thumb: 2nd-semester-2022-2023.jpg
 images:
-  - itinerary.webp
+  - 2nd-semester-2022-2023.jpg
 categories: announcement
 ---
 The weekly schedule of the spring semester courses has been announced!
