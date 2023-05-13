@@ -152,13 +152,13 @@
   modalId: kleanthi-modal
   showOnlyInAdministration: true
   
-  - Image:
+- Image: /theme/img/team/sample.jpg
   Name: Kougkoulou Aimilia
   Category: Administration
   Title1: Secretariat of the Master Program
   Title2: null
   School: null
-  Email: mariakle@central.ntua.gr
+  Email: masterteam-info@ece.ntua.gr
   Phone: 2107723859
   Website: null
   Bio: null
