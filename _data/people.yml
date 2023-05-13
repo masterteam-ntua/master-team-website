@@ -151,6 +151,20 @@
   Office: null
   modalId: kleanthi-modal
   showOnlyInAdministration: true
+  
+  - Image:
+  Name: Kougkoulou Aimilia
+  Category: Administration
+  Title1: Secretariat of the Master Program
+  Title2: null
+  School: null
+  Email: mariakle@central.ntua.gr
+  Phone: 2107723859
+  Website: null
+  Bio: null
+  Office: null
+  modalId: kougkoulou-modal
+  showOnlyInAdministration: true
 
 - Image: /theme/img/team/konofagou.webp
   Name: Konofagou Elisa
