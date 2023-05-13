@@ -27,19 +27,19 @@ show_sidebar: false
                         <h3 class="my-3 colored-main">Secretariat of the Master Program</h3>
                         <hr/>
                     </div>
-                    <h5 class="col-12">Maria Kleanthi</h5>
+                    <h5 class="col-12">Aimilia Kougkoulou</h5>
                     <p class="col-12">Administrative Staff, School of Electrical and Computer Engineering</p>
                     <div class="col-12">
                         <p>
                             <br>
                             <i class="fa-solid fa-location-dot fa-lg mr-2"></i>
-                            Office Γ.1.3, 1st Floor, Electrical & Comp. Engineering Building
+                            Office Γ.1.2, 1st Floor, Electrical & Comp. Engineering Building
                         </p>
                     </div>
                     <div class="col-12">
                         <p>
                             <i class="fa-solid fa-phone fa-lg mr-2"></i>
-                            <a href="tel:+302107724317">+30 (210) 772-4317</a>
+                            <a href="tel:+302107723859">+30 (210) 772-3859</a>
                         </p>
                     </div>
                     <div class="col-12">
