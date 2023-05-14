@@ -81,6 +81,14 @@ show_sidebar: false
           <a href="" data-toggle="modal" data-target="#nikita-modal">Konstantina Nikita</a>, MEng, MD, PhD, Professor, School of Electrical and Computer
           Engineering, NTUA
         </p>
+        
+        <h3 class="mt-5 mb-3 colored-main">
+          Deputy Director of the Master Program
+        </h3>
+        <p>
+          <a href="" data-toggle="modal" data-target="#alexopoulos-modal">Leonidas Alexopoulos</a>, Associate Professor, School of Mechanical
+          Engineering, NTUA
+        </p>
 
         <h3 class="mt-5 mb-3 colored-main">
           Secretariat of the Master Program
