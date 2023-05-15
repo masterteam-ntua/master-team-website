@@ -56,7 +56,7 @@ show_sidebar: false
                     <h5 class="card-title text-center">KEY INFORMATION</h5>
                     <div class="d-flex flex-column card-text text-center">
                         <label class="mb-0"><strong>Duration:</Strong> 18 months</label>
-                        <label class="mb-0"><strong>Start Date:</Strong> October 2022</label>
+                        <label class="mb-0"><strong>Start Date:</Strong> October 2023</label>
                         <label class="mb-0"><strong>Location:</Strong> NTUA Campus</label>
                         <label class="mb-0"><strong>Language:</Strong> English</label>
                         <label class="mb-0"><strong>ECTS:</Strong> 90 credits</label>
