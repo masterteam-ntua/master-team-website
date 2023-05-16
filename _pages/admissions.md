@@ -17,7 +17,7 @@ show_sidebar: false
             Molecular Biology, Biochemistry, Pharmacy, Dentistry, Biotechnology, (Bio)informatics, Nursing and other relevant disciplines)
             are eligible, upon selection, provided that they meet all the necessary requirements for successful attendance of the courses.
             The program is open to graduates of domestic institutions or equivalent foreign institutions recognized by the Hellenic
-            National Academic Recognition and Information Center - NARIC (<a href="http://www.doatap.gr/en/index.php" target="_blank" class="font-weight-bold">DOATAP</a>), according to Law 4485/2017.
+            National Academic Recognition and Information Center - NARIC (<a href="http://www.doatap.gr/en/index.php" target="_blank" class="font-weight-bold">DOATAP</a>), according to Law 4957/2022.
         </p>
         <p>
             For the academic year 2023-2024, a maximum of 40 students will be selected and enrolled in the M.Sc. program.
@@ -26,11 +26,9 @@ show_sidebar: false
         <label class="col-12 pl-0">The application consists of the following elements:</label>
         <ol>
             <li class="mb-3">
-                Copy of all university degrees/diplomas received. In case of degrees from foreign Universities, they must have been accompanied by a
-                certification issued by the Hellenic NARIC organization 
-                (<a href="http://www.doatap.gr/en/index.php" target="_blank" class="font-weight-bold">DOATAP</a>). Recognized Foreign Educational 
-                Institutions can be found in the following
-                <a href="https://www.doatap.gr/national-registry-of-foreign-recognized-higher-education-institutes/" target="_blank" class="font-weight-bold">list</a>. 
+                Copy of all university degrees/diplomas received. Candidates who have graduated from foreign universities will post their degrees and official
+                transcript. The relevant check will then be carried out according to criteria of the law 4957/2022 and the National Registry of Foreign 
+                Recognized Academic Title Types (<a href="http://www.doatap.gr/en/index.php" target="_blank" class="font-weight-bold">DOATAP</a>).
                 In case of a university degree/diploma that has not yet been conferred but is about to
                 be awarded, the candidate should submit a statement accompanied with letters from the university personnel that indicate (i) what degree
                 requirements are pending and (ii) that the degree can be fully completed by September 29, 2023.
