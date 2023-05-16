@@ -1,0 +1,17 @@
+---
+title: Applications are now Open
+description: Application Deadline and Interview Dates
+directory: announcements
+thumb: announcement.webp
+categories: announcement
+---
+We are pleased to announce the important dates for the application process of the M.Sc. program in Translational Engineering in Health and Medicine for the academic year 2023-2024. Please take note of the following deadlines:
+
+- Application Submission Period: May 15 to June 11, 2023
+- Interview Dates (if applicable): June 28, 2023
+- Final Selection Notification: July 10, 2023
+
+To access detailed information about the application requirements and materials, as well as the application process, please refer to the [Application Guidelines page](https://masterteam.ntua.gr/admissions).
+
+We welcome applicants from all over the world and encourage you to submit your applications within the specified timeframe. Should you have any questions or need further clarification, please do not hesitate to reach out to the Secretariat or the Director of the M.Sc. program via email or phone. 
+Contact information can be found on the [Contact page](https://masterteam.ntua.gr/contact).
