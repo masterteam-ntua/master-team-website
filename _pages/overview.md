@@ -65,7 +65,7 @@ header3: Program Overview
         </p>
         <ul>
             <li class="mb-3">
-                <a href="{{ site.baseurl }}/files/MasterTEAM-Student Handbook 2022-2023.pdf"  target="_blank">
+                <a href="{{ site.baseurl }}/files/MasterTEAM-Student Handbook.pdf"  target="_blank">
                   <strong>Student Handbook 2023-2024</strong>
                 </a> (in English)
             </li>
