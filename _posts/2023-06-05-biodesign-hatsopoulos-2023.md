@@ -2,6 +2,7 @@
 title: Biodesign Innovation Process hosted Marina Hatsopoulos
 description:
 directory: biodesign-hatsopoulos-2023
+thumb: biodesign-hatsopoulos-2023.webp
 categories: other
 ---
 The course "Biodesign Innovation Process" hosted an online talk regarding the creation of a successful start-up by Marina Hatsopoulos on Thursday, June 1st. The students had the opportunity to present the projects that they developed during the previous two semesters within the framework of the course series on Biodesign and receive valuable feedback from Marina Hatsopoulos.
