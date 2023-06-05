@@ -1,6 +1,6 @@
 ---
-title: Biodesign Innovation Process
-description: Biodesign Innovation Process hosted Marina Hatsopoulos
+title: Biodesign Innovation Process hosted Marina Hatsopoulos
+description: The course hosted an online talk regarding the creation of a successful start-up by Marina Hatsopoulos
 directory: biodesign-hatsopoulos-2023
 thumb: biodesign-hatsopoulos-2023.webp
 categories: other
