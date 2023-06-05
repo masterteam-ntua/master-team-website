@@ -1,6 +1,6 @@
 ---
-title: Internship in Columbia University
-description: Internship in Columbia University: Finalists
+title: Internships in Columbia University
+description: Finalists
 directory: announcements
 thumb: columbia-logo.webp
 categories: announcement
