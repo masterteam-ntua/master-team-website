@@ -33,7 +33,7 @@ show_sidebar: false
                         <p>
                             <br>
                             <i class="fa-solid fa-location-dot fa-lg mr-2"></i>
-                            Office Γ.1.2, 1st Floor, Electrical & Comp. Engineering Building
+                            Office Γ.2.3, 2nd Floor, Electrical & Comp. Engineering Building
                         </p>
                     </div>
                     <div class="col-12">
