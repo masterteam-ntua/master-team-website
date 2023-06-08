@@ -306,6 +306,17 @@ show_sidebar: false
             </form>
         </div>
     </div>
+    <div class="disclaimer-footer">
+        <div class="disclaimer-logos">
+            <a href="https://studyingreece.edu.gr/" target="_blank">
+                <img decoding="async" src="theme/img/logos/sig_logo_2.png">
+            </a>
+            <img decoding="async" src="theme/img/logos/epanadvm_footer_2.jpg">
+        </div>
+        <p>
+            This project "Support for Internationalization Actions of Postgraduate Studies of the National Technical University of Athens" (MIS 51461485)  is co-financed by Greece and the European Union (European Social Fund- ESF) through the Operational Programme "Human Resources Development, Education and Lifelong Learning 2014-2020"
+        </p>
+    </div>
 </div>
 
 <script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script>

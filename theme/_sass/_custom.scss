@@ -496,3 +496,22 @@ a.map-section {
     object-fit: cover;
   }
 }
+
+.disclaimer-footer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 5rem;
+  .disclaimer-logos {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 2rem;
+    img {
+      margin: 0 2rem;
+      height: 4rem;
+    }
+  }
+}
