@@ -1,6 +1,6 @@
 ---
 title: Application Deadline Extension 
-description: Application Deadline for Master TEAM extended untill June 18!
+description: Application Deadline for Master TEAM extended to June 18!
 directory: announcements
 thumb: announcement.webp
 categories: announcement
