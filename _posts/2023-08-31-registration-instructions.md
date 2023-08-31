@@ -12,11 +12,11 @@ According to the Postgraduate courses calendar for the academic year 2023-2024, 
 New students are requested to submit their registration application during the first week (25-29 September 2023) in order to activate their student account.
 
 Applications can be submitted daily from 11:00 - 13:00 in the Postgraduate Studies Secretariat, office C.1.2, First floor, New Building of the School of Electrical and Computer Engineering. Please contact the Secretary, Ms Aimilia Kougoulou (masterteam-info@ece.ntua.gr), to make an appointment for submitting your application which should include:
-•	Original Degree/ Diploma
-•	Original Graduate transcript
-•	Original English language degree
-•	Your original ID
-•	Two ID or passport type photos (black and white or color)
-•	Completed registration form.
+*	Original Degree/ Diploma
+*	Original Graduate transcript
+*	Original English language degree
+*	Your original ID
+*	Two ID or passport type photos (black and white or color)
+*	Completed registration form.
 
 Candidates who have completed their course requirements, have been examined in their thesis and have not yet received their degree/diploma should submit a certificate of completion of their studies from their School.
