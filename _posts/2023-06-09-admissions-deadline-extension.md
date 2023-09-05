@@ -2,7 +2,7 @@
 title: Application Deadline Extension 
 description: Application Deadline for Master TEAM extended to June 18!
 directory: announcements
-thumb: announcement.webp
+thumb: registration_05_09.bmp
 categories: announcement
 ---
 We are pleased to announce that the application deadline for Master TEAM has been extended to June 18, 2023.
