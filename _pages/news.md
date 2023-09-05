@@ -8,12 +8,12 @@ header2:
 header3: News
 ---
 <div class="news-cards-container">
-    {% capture numberOfSlidesFloat %}{{ site.posts.size | divided_by: 4.0 }}{% endcapture %}
+    {% capture numberOfSlidesFloat %}{{ site.categories["other"].size | divided_by: 4.0 }}{% endcapture %}
     {% capture numberOfSlides %}{{ numberOfSlidesFloat | ceil }}{% endcapture %}
     {% for batch in (1..numberOfSlides) %}
         <div id='batch-{{batch}}' class='card-batch-container {% if batch == 1 %}row{% else %}hidden{% endif %}'>
             {% assign off = batch | minus: 1 | times: 4 %}
-            {% for post in site.posts limit: 4 offset: off %}
+            {% for post in site.categories["other"] limit: 4 offset: off %}
                 {% include components/news-card.html %}
             {% endfor %}
         </div>
