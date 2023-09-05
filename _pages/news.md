@@ -10,7 +10,7 @@ header3: News
 <div class="news-cards-container">
     {% capture numberOfSlidesFloat %}{{ site.categories["other"].size | divided_by: 4.0 }}{% endcapture %}
     {% capture numberOfSlides %}{{ numberOfSlidesFloat | ceil }}{% endcapture %}
-    {% for batch in (1..numberOfSlides) %}
+    {% for batch in (2..numberOfSlides) %}
         <div id='batch-{{batch}}' class='card-batch-container {% if batch == 1 %}row{% else %}hidden{% endif %}'>
             {% assign off = batch | minus: 1 | times: 4 %}
             {% for post in site.categories["other"] limit: 4 offset: off %}
@@ -24,7 +24,7 @@ header3: News
 </div>
 
 <script>
-    var batchNum = 2;
+    var batchNum = 1;
     const totalBatches = {{ numberOfSlides }};
 
     window.onload = function() {
