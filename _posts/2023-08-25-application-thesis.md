@@ -2,7 +2,7 @@
 title: Application for M.Sc. thesis
 description: Details about the applications.
 directory: announcements
-thumb: registration_05_09.bmp
+thumb: 2_registration_05_09.jpg
 categories: announcement
 ---
 Upon completion of the first year of studies, students are required to submit an application with the proposed title and supervisor for their master thesis, provided that they have successfully completed at least half of the M.Sc. program courses.
