@@ -2,7 +2,7 @@
 title: Registration Instructions
 description: Details about the registration applications.
 directory: announcements
-thumb: announcement.webp
+thumb: 3_registration_05_09.jpg
 categories: announcement
 ---
 The courses of the Master “Translational Engineering in Health and Medicine” will start on October 2, 2023.
