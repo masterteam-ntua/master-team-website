@@ -24,7 +24,7 @@ header3: News
 </div>
 
 <script>
-    var batchNum = 1;
+    var batchNum = 2;
     const totalBatches = {{ numberOfSlides }};
 
     window.onload = function() {
