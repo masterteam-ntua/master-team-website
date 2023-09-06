@@ -194,6 +194,20 @@
   modalId: koziris-modal
   showOnlyInAdministration: true
 
+- Image: /theme/img/team/tsanakas.jpg
+  Name: Tsanakas Panayiotis
+  Category: Administration
+  Title1: Dean
+  Title2: School of Electrical and Computer Engineering, NTUA
+  School: Electrical and Computer Engineering, NTUA
+  Email: panag@cs.ntua.gr
+  Phone: 2107722541
+  Website: https://www.ece.ntua.gr/gr/staff/39
+  Bio: 
+  Office: null
+  modalId: tsanakas-modal
+  showOnlyInAdministration: true
+
 - Image: /theme/img/team/kyriakopoulos.webp
   Name: Kyriakopoulos Konstantinos
   Category: Professors
