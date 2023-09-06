@@ -180,20 +180,6 @@
   modalId: konofagou-modal
   showOnlyInAdministration: false
 
-- Image: /theme/img/team/koziris.webp
-  Name: Koziris Nectarios
-  Category: Administration
-  Title1: Dean
-  Title2: School of Electrical and Computer Engineering, NTUA
-  School: Electrical and Computer Engineering, NTUA
-  Email: nkoziris@cslab.ece.ntua.gr
-  Phone: 2107721531
-  Website: http://www.cslab.ntua.gr/~nkoziris/
-  Bio: Nectarios Koziris is a Professor of Computer Science and the Dean of the School of Electrical and Computer Engineering at the National Technical University of Athens. His research interests include parallel and distributed systems, interaction between compilers, OS and architectures, datacenter hyperconvergence, scalable data management and large scale storage systems. He has co-authored more than 180 research papers with more than 5000 citations. From 1998 he has been involved in the organization of many international scientific conferences including IPDPS, ICPP, SC, SPAA, etc. He is a recipient of several research awards and has received honorary recognition from Intel (Santa Clara, 2015) for his research and insightful contributions in transactional memory (TSX). From 2004 to 2014 he has served as the vice-chair of GRNET. In 2008 he co-founded the Open Technologies Alliance (GFOSS/ELLAK), a non-profit organization having as stakeholders 37 Universities and Research Centers in Greece, to promote the open source software and technologies. In 2010 he introduced the Government Cloud initiative (G-Cloud) in Greece. From 2019 he is serving as the Chair of the Advisory Board at GRNET (National Infrastructures for Research and Technology), contributing to the digital transformation of the Greek public sector. He was the founder of the ~okeanos public Cloud IaaS infrastructure (2013), among the biggest ones in the European public sector (topping out beyond 10.000 active VMs). He is also serving as the national delegate at the European High Performance Joint Undertaking (EuroHPC JU), where he is a member of the governing board. He has also served (2013-2014) as a member of the BoD for the Athena Research and Innovation Center in Information, Communication and Knowledge Technologies.
-  Office: null
-  modalId: koziris-modal
-  showOnlyInAdministration: true
-
 - Image: /theme/img/team/tsanakas.jpg
   Name: Tsanakas Panayiotis
   Category: Administration
