@@ -26,7 +26,7 @@ show_sidebar: false
   background-color: #555;
 }
 
-.content {
+.content_c {
   padding: 0 18px;
   max-height: 0;
   overflow: hidden;
@@ -45,7 +45,7 @@ show_sidebar: false
   {% assign persons = site.data.people | where: "showOnlyInAdministration", True | sort: "Name" %}
   {% for person in persons%}
     <button class="collapsible">{{person.Name}}</button>
-     <div class="content">
+     <div class="content_c">
        <p>{{person.Bio}}</p>
      </div>
   {% endfor %}
