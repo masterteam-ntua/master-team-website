@@ -12,6 +12,14 @@ show_sidebar: false
   <p>
     Hello from outer space.
   </p>
+ <h3 class="mt-5 mb-3 colored-main">
+    Secretariat of the Master Program
+  </h3>
+  <p>
+    <a href="" data-toggle="modal" data-target="#kougkoulou-modal">Aimilia Kougkoulou</a>, Administrative Staff, School of Electrical and
+    Computer Engineering, NTUA
+  </p>
+
   <!-- Modals -->
   {% for person in site.data.people %}
     {% include components/person-modal.html
