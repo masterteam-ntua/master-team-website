@@ -14,7 +14,7 @@ show_sidebar: false
   </h3>
   {% for person in site.data.people %}
     <p>
-      <a href="" data-toggle="modal" data-target="{{person.modalId}}">{{person.Name}}</a>, Administrative Staff, School of Electrical and
+      <a href="" data-toggle="modal" data-target={{person.modalId}}>{{person.Name}}</a>, Administrative Staff, School of Electrical and
       Computer Engineering, NTUA
     </p>
   {% endfor %}
