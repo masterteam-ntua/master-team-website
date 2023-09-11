@@ -8,20 +8,7 @@ header2:
 header3: People
 show_sidebar: false
 ---
-<div class="container mt-5">
-  <div class="row mb-5">
-    <div class="col-12">
-      <div class="people-selector">
-        <ul>
-          <li>
-            <button type="button" id="staff" class="btn btn-light" onclick="chooseCategory(this, 'Administration')">
-              Administration
-            </button>
-          </li>
-        </ul>
-      </div>
-    </div>
-  </div>
+<div class="container mt-5" onload="chooseCategory(this, 'Administration')">
   <div class="row">
     <div class="col-12">
       <div id="spinner-container" class="row justify-content-center">
