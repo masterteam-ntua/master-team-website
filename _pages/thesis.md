@@ -9,27 +9,9 @@ header3: Thesis
 show_sidebar: false
 ---
 <div class="container mt-5" onload="chooseCategory(this, 'Administration')">
-  <div class="row">
-    <div class="col-12">
-      <div id="people-grid" class="row d-none">
-        {% assign persons = site.data.people | where: "showOnlyInAdministration", True | sort: "Name" %}
-        {% for person in persons %}
-          <div class="person {{ person.Category }} col-12 col-sm-6 col-md-6 col-lg-4">
-            {% include components/person-card.html
-              name = person.Name
-              image = person.Image
-              title = person.Title1
-              description = person.Title2
-              website = person.Website
-              phone = person.Phone
-              email = person.Email
-              cv = person.Bio
-              modalId = person.modalId
-            %}
-          </div>
-        {% endfor %}
-      </div>
-     
+  <p>
+    Hello from outer space.
+  </p>
   <!-- Modals -->
   {% for person in site.data.people %}
     {% include components/person-modal.html
