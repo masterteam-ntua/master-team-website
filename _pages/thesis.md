@@ -8,7 +8,7 @@ header2:
 header3: Thesis
 show_sidebar: false
 ---
-<div class="container mt-5" onload="chooseCategory(this, 'Administration')">
+<div class="container mt-5">
  <h3 class="mt-5 mb-3 colored-main">
     Secretariat of the Master Program
   </h3>
@@ -36,14 +36,3 @@ show_sidebar: false
     %}
   {% endfor %}
 </div>
-
-<script>
-  function chooseCategory(elem, category) {
-    let staff = document.getElementById('text-staff');
-
-    let persons = document.getElementsByClassName('person');
-    for (const person of persons) {
-      person.classList.add('d-none');
-    }
-  }
-</script>
