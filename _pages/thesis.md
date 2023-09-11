@@ -14,7 +14,7 @@ show_sidebar: false
   </h3>
   {% for person in site.data.people %}
     <p>
-      <a href="" data-toggle="modal" data-target={{person.modalId}}>{{person.Name}}</a>, Administrative Staff, School of Electrical and
+      <a href="" data-toggle="modal" data-target="{{person.modalId}}">{{person.Name}}</a>, Administrative Staff, School of Electrical and
       Computer Engineering, NTUA
     </p>
   {% endfor %}
@@ -37,49 +37,14 @@ show_sidebar: false
 </div>
 
 <script>
-  window.onload = function() {
-    let btn = document.getElementById('all');
-    this.chooseCategory(btn, 'All');
-  }
-
   function chooseCategory(elem, category) {
-    let spinner = document.getElementById('spinner-container');
-    let peopleGrid = document.getElementById('people-grid');
     let staff = document.getElementById('text-staff');
-
-    spinner.classList.remove('d-none');
-    peopleGrid.classList.add('d-none');
-
-    let btns = document.getElementsByClassName('selected');
-    for (const btn of btns) {
-      btn.classList.remove('selected');
-    }
     elem.classList.add('selected');
 
     let persons = document.getElementsByClassName('person');
-    if (category === 'All') {
-      for (const person of persons) {
-        person.classList.remove('d-none');
-      }
-      staff.classList.add('d-none');
+    for (const person of persons) {
+      person.classList.add('d-none');
     }
-    else if (category == 'Administration') {
-      for (const person of persons) {
-        person.classList.add('d-none');
-      }
-      staff.classList.remove('d-none');
-    }
-    else {
-      for (const person of persons) {
-        person.classList.add('d-none');
-      }
-      let chosen_ones = document.getElementsByClassName(category);
-      for (const person of chosen_ones) {
-        person.classList.remove('d-none');
-      }
-      staff.classList.add('d-none');
-    }
-    spinner.classList.add('d-none');
-    peopleGrid.classList.remove('d-none');
+    staff.classList.remove('d-none');
   }
 </script>
