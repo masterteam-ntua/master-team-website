@@ -5,7 +5,7 @@ narrow: false
 header0: MASTER
 header1: TEAM
 header2:
-header3: Thesis
+header3: Theses
 show_sidebar: false
 ---
 <head>
@@ -39,7 +39,7 @@ show_sidebar: false
 <body>
 <div class="container mt-5">
  <h3 class="mt-5 mb-3 colored-main">
-    Secretariat of the Master Program
+    Theses available for the Master Program
   </h3>
   
   {% assign subjects = site.data.thesis%}
