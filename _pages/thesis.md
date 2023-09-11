@@ -42,11 +42,11 @@ show_sidebar: false
     Secretariat of the Master Program
   </h3>
   
-  {% assign persons = site.data.people | where: "showOnlyInAdministration", True | sort: "Name" %}
-  {% for person in persons%}
-    <button class="collapsible">{{person.Name}}</button>
+  {% assign subjects = site.data.thesis%}
+  {% for subject in subjects%}
+    <button class="collapsible">{{subject.Title}}</button>
      <div class="content_c">
-       <p>{{person.Bio}}</p>
+       <p>{{subject.Text}}</p>
      </div>
   {% endfor %}
 </div>
