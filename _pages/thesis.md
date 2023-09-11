@@ -12,7 +12,8 @@ show_sidebar: false
  <h3 class="mt-5 mb-3 colored-main">
     Secretariat of the Master Program
   </h3>
-  {% for person in site.data.people %}
+  {% assign persons = site.data.people | where: "showOnlyInAdministration", True | sort: "Name" %}
+  {% for person in persons%}
     <p>
       <a href="" data-toggle="modal" data-target="{{person.modalId}}">{{person.Name}}</a>, Administrative Staff, School of Electrical and
       Computer Engineering, NTUA
@@ -39,12 +40,10 @@ show_sidebar: false
 <script>
   function chooseCategory(elem, category) {
     let staff = document.getElementById('text-staff');
-    elem.classList.add('selected');
 
     let persons = document.getElementsByClassName('person');
     for (const person of persons) {
       person.classList.add('d-none');
     }
-    staff.classList.remove('d-none');
   }
 </script>
