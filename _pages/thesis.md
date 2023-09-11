@@ -36,10 +36,12 @@ show_sidebar: false
 </style>
 </head>
 
+<body>
 <div class="container mt-5">
  <h3 class="mt-5 mb-3 colored-main">
     Secretariat of the Master Program
   </h3>
+  
   {% assign persons = site.data.people | where: "showOnlyInAdministration", True | sort: "Name" %}
   {% for person in persons%}
     <button class="collapsible">{{person.Name}}</button>
@@ -48,3 +50,21 @@ show_sidebar: false
      </div>
   {% endfor %}
 </div>
+
+<script>
+var coll = document.getElementsByClassName("collapsible");
+var i;
+
+for (i = 0; i < coll.length; i++) {
+  coll[i].addEventListener("click", function() {
+    this.classList.toggle("active");
+    var content = this.nextElementSibling;
+    if (content.style.maxHeight){
+      content.style.maxHeight = null;
+    } else {
+      content.style.maxHeight = content.scrollHeight + "px";
+    } 
+  });
+}
+</script>
+</body>
