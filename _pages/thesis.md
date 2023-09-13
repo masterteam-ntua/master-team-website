@@ -37,6 +37,17 @@ show_sidebar: false
 </head>
 
 <body>
+  {% include components/person-card.html
+              name = person.Name
+              image = person.Image
+              title = person.Title1
+              description = person.Title2
+              website = person.Website
+              phone = person.Phone
+              email = person.Email
+              cv = person.Bio
+              modalId = person.modalId
+    %}
 <div class="container mt-5">
  <h3 class="mt-5 mb-3 colored-main">
     Theses available for the Master Program
