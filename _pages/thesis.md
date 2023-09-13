@@ -22,7 +22,7 @@ show_sidebar: false
   font-size: 15px;
 }
 
-.active, .collapsible:hover {
+.collapsible:hover {
   background-color: #555;
 }
 
