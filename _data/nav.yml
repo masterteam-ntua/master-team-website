@@ -2,11 +2,10 @@
   href: /
 
 - title: Program Overview
-  subfolderitems:
-    - page: Program Overview
-      href: /overview
-    - page: Diploma Theses
-      href: /thesis
+  href: /overview
+  
+- page: Diploma Theses
+  href: /thesis
 
 - title: Courses
   href: /courses
