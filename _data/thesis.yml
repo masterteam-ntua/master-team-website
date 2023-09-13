@@ -68,10 +68,10 @@
   Text: "Dementia is a neurodegenerative disease that significantly impacts cognitive functions, such as decline in memory, thinking, and reasoning abilities. Mild Cognitive Impairment (MCI) serves as an intermediate stage between normal cognitive aging and dementia. MCI is considered a significant risk factor for the development of dementia and identifying individuals with MCI who are at higher risk of progressing is essential for early intervention and treatment. This diploma thesis will investigate the progression of MCI by employing machine learning (ML) techniques for discriminating between healthy individuals that remain stable and healthy individuals that develop MCI and MCI patients that remain stable and MCI patients that develop dementia. Interpretable machine learning methods will be also used to highlight risk factors, clinical and genetic, that can lead to the progression of MCI."
   Related: null
   Area: null
-  Supervisor: '<a href="" data-toggle="modal" data-target="#dalakleidi-modal">Dalakleidi Kalliopi</a>, <a href="" data-toggle="modal" data-target="#nikita-modal">Konstantina Nikita</a>'
+  Supervisor: '<a href="" data-toggle="modal" data-target="#kalliopi-dalakleidi-modal">Dalakleidi Kalliopi</a>, <a href="" data-toggle="modal" data-target="#nikita-modal">Konstantina Nikita</a>'
 
 - Title: "Design and development of a counterfactual interpretable machine learning method towards robustness for clinical decision making"
   Text: "Clinical decision-making needs specialized knowledge from AI systems to ensure that their decisions are rational and comprehensive. Counterfactual explanations let XAI simulate alternative cases that never happened. It lets clinical decision makers answer “why” questions and imagine events that might have happened. This diploma thesis will investigate the development of a counterfactual algorithm that will address the needs of the several XAI stakeholders in a clinical decision making system as well as explanation effectiveness measures, such as explanatory power and robustness."
   Related: null
   Area: null
-  Supervisor: '<a href="" data-toggle="modal" data-target="#dalakleidi-modal">Dalakleidi Kalliopi</a>, <a href="" data-toggle="modal" data-target="#nikita-modal">Konstantina Nikita</a>'
+  Supervisor: '<a href="" data-toggle="modal" data-target="#kalliopi-dalakleidi-modal">Dalakleidi Kalliopi</a>, <a href="" data-toggle="modal" data-target="#nikita-modal">Konstantina Nikita</a>'
