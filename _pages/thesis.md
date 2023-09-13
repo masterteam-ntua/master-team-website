@@ -61,7 +61,7 @@ show_sidebar: false
   {% for subject in subjects%}
     <button class="collapsible">{{subject.Title}}</button>
      <div class="content_c">
-       {{subject.Supervisor}}
+       <p>Supervisor: {{subject.Supervisor}}</p>
        <p>{{subject.Text}}</p>
      </div>
   {% endfor %}
