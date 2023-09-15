@@ -63,7 +63,7 @@ show_sidebar: false
      <div class="content_c">
        <p>Supervisor: {{subject.Supervisor}}</p>
        <p>{{subject.Text}}</p>
-       <p>{{subject.Related</p>
+       <p>{{subject.Related}}</p>
      </div>
   {% endfor %}
 </div>
