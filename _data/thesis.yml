@@ -3,75 +3,89 @@
   Related: null
   Area: null
   Supervisor: '<a href="" data-toggle="modal" data-target="#stamatakos-modal">Stamatakos Georgios</a>'
+  Sort: stamatakos
   
 - Title: "Artificial intelligence based modeling in the psycho-oncology domain"
   Text: 'Artificial intelligence and statistics based models of the course of several psychological and psychiatric aspects of women with early breast cancer will be developed, based on the experience of <a href="https://www.in-silico-oncology.iccs.ntua.gr/"  target="_blank">In Silico Oncology and In Silico Medicine Group, ICCS, ECE, National Technical University of Athens</a> in the respective domains. Data from collaborating clinical centres across Europe and Israel will be used. The ultimate goal of the models is to predict the temporal trajectories of crucial psychological and psychiatric aspects (e.g. depression and anxiety) of women, following their early breast cancer treatment, and subsequently to provide suggestions regarding eventual interventions needed for the optimization of quality of life and resilience.'
   Related: null
   Area: null
   Supervisor: '<a href="" data-toggle="modal" data-target="#stamatakos-modal">Stamatakos Georgios</a>'
+  Sort: stamatakos
   
 - Title: 'In silico generation of 4D flow MRI data employing computational fluid dynamics simulations in patient-specific abdominal aortic aneurysm models'
   Text: 'There are only limited medical imaging methodologies to non-invasively and accurately assess the blood flow and its properties. The most advanced technique is 4D Flow Magnetic Resonance Imaging (MRI), that enables the calculation of hemodynamic fields across extended vascular regions and can be further processed to produce clinically relevant hemodynamic indices, such as wall shear stresses. The aim of the thesis is to in silico generate 4D flow MRI-like training data starting from computational hemodynamic simulations in patient-specific pathological vascular anatomies, particularly in abdominal aortic aneurysms. Several transformations will be implemented to bridge the gap between the computational fluid dynamics (CFD)- generated blood velocity field and actual imaging data derived from 4D Flow MRI scans. The candidate will collaborate with vascular surgeons and radiologists from the “Attikon” University Hospital who will provide real 4D MRI scans for validation purposes.'
   Related: null
   Area: null
   Supervisor: '<a href="" data-toggle="modal" data-target="#manopoulos-modal">Manopoulos Christos</a>'
+  Sort: manopoulos
    
 - Title: 'Inverse hemodynamic modelling in simplified vascular anatomies using computational fluid dynamics and physics-informed neural networks'
   Text: 'Hemodynamics, the study of blood flow in the circulatory system, is vital for understanding various physiological and pathological processes in the human body. Current non-invasive, high-resolution methods like computational fluid dynamics (CFD) face limitations, particularly in clinical applicability due to high resource demands. This study aims to introduce physics-informed neural networks (PINNs) as a novel approach for quantifying key hemodynamic parameters, specifically in vascular diseases like arterial stenoses and aneurysms. Training data will be generated using CFD to simulate pulsatile hemodynamics in simplified vascular anatomies, incorporating the injection and transport of contrast agents commonly used in medical imaging tests like computed tomography angiographies. Through PINNs, velocity and pressure fields, along with clinically important hemodynamic indices, can be inversely deduced from the contrast agent transport. The accuracy and generalizability of the PINNs methodology will be rigorously tested against CFD and its applicability for patient-specific 3D hemodynamic modeling.'
   Related: null
   Area: null
   Supervisor: '<a href="" data-toggle="modal" data-target="#manopoulos-modal">Manopoulos Christos</a>'
+  Sort: manopoulos
   
 - Title: Dissection mechanics of tissue components in human aorta
   Text: 'Aortic dissection frequently occurs and poses a clinical challenge; however, the underlying mechanics remain unclear. The present study will experimentally investigate ex-vivo the dissection properties of the media of human aortas through direct tension tests. The direct tension tests in the radial direction of cylindrical (coin-shaped) medial specimens will yield the radial failure stress. Furthermore, the research will involve histological analysis of specimens obtained at various stages of the process. This study aims to illuminate the mechanisms governing aortic dissection, primarily providing valuable insights into its initiation. This research has the potential to significantly enhance our understanding of aortic dissection, paving the way for more effective treatment strategies in the future. The candidate will collaborate with the Center of Clinical, Experimental Surgery & Translational Research of the Biomedical Research Foundation of the Academy of Athens (BRFAA).'
   Related: null
   Area: null
   Supervisor: '<a href="" data-toggle="modal" data-target="#manopoulos-modal">Manopoulos Christos</a>'
+  Sort: manopoulos
   
 - Title: Pumping effect of an Intra-Aortic Balloon Pump. A numerical non-linear model
   Text: "The Intra-Aortic Balloon Pump (IABP) is a reciprocating pump that operates in series with the heart. Currently, it is one of the most widespread and extensively used methods for temporarily providing mechanical support to the circulatory system, functioning on the principle of counterpulsation. This principle is based on the reduction of aortic pressure during left ventricular systole and an increase in aortic pressure during left ventricular dilation. These primary changes subsequently lead to an increase in coronary flow and oxygen supply to the myocardium, as well as a reduction in the heart's oxygen requirements and a decrease in the systolic workload of the left ventricle. IABP support involves placing a balloon on a catheter in the descending thoracic aorta and coordinating the expansion and contraction of the balloon with the cardiac cycle. In the proposed project, a net flow rate in the aorta will be simulated using an IABP positioned within the aorta vessel, which includes the aortic valve. The cross-sectional area of the aortic valve varies over time as needed. By applying continuity and momentum fluid equations, a first-order differential equation with respect to flow rate is derived, incorporating a nonlinear term responsible for net flow rate generation. This differential equation will be solved numerically using a fourth-order Runge-Kuta numerical scheme."
   Related: null
   Area: null
   Supervisor: '<a href="" data-toggle="modal" data-target="#manopoulos-modal">Manopoulos Christos</a>'
+  Sort: manopoulos
   
 - Title: 'Flow Rate Augmentation of Valveless Pumping Device via a Time-Dependent Stenosis: a numerical approach'
   Text: 'A valveless pump device consists of a closed hydraulic loop, including a flexible tube and a stiff tube with different elasticities. To achieve the pumping effect, three basic elements are essential: first, the tubes should have different elasticity; second, the excitation should be applied impulsively with relatively rapid acceleration and deceleration phases; and third, the compression point must not be midway along the more flexible tube (asymmetric excitation). Additionally, the installation of a time-dependent tube stenosis close to the pump’s pinching excitation can significantly increase the pumping effect. Flow rate augmentation results from the proper synchronization of the stenosis opening with the tube compression by the pincher. One potential application of this device could be as a blood flow booster in areas of the human body where the blood flow rate is abnormally low due to pathological reasons (ischemic episodes). The fact that this device does not require any external energy source is of paramount importance in this type of application. A device for flow rate augmentation will be simulated in a horizontal valveless closed loop pump using a time-dependent stenosis (convergent-divergent channel). The stenosis, integrated into the flexible tube of the pump, will be simulated as a local constriction attached to a compression spring with adjustable pretension, compressing the tube against a flat plate. Positioned on either side of the pump pincher, the shape of the stenosis changes over time, without any external power source, in response to the fluid pressure and the pretension of the spring. The spring pretension is a free parameter aimed at maximizing the net flow rate for each pinching frequency. Various pinching frequencies and compression ratios will be examined. Key parameters for flow enhancement will be evaluated, including the stenosis location along the loop, its opening, the compression ratio at the pincher area, and the pinching frequency.'
   Related: null
   Area: null
   Supervisor: '<a href="" data-toggle="modal" data-target="#manopoulos-modal">Manopoulos Christos</a>'
+  Sort: manopoulos
 
 - Title: "Online topological map creation with semantic information for robot-assisted indoor navigation"
   Text: 'Topological maps in robotics are an important tool used to represent the environment. These maps provide an abstract, topological representation of the environment, meaning they do not include details such as graphical representations of objects, but instead, include relationships between various locations or areas in the environment. In this diploma thesis, the online generation of a topological map will be investigated using the information produced by a local robot motion planner, such as the "Dynamic Window Arc-Line" (DWAL) planner [1]. DWAL produces spatiotemporally correlated clusters of motion, which contain both topological and metric information. It has been successfully applied in assisted navigation scenarios for people with motor or cognitive deficits, through the use of robotic Rollator platforms. A further investigation will concern the augmentation of the topological map with semantic information regarding movement directions for people within the space, which will be extracted based on the motion clusters provided by the motion planner algorithm. Experimental evaluation is envisaged to be conducted on the <a href="https://www.i-walk.gr/"  target="_blank">i-Walk intelligent Robotic Rollator platform</a>, which aims at providing mobility and cognitive assistance of elderly and motor-impaired people.'
-  Related: "[1] G. Moustris, C. S. Tzafestas, “Assistive Front-Following Control of an Intelligent Robotic Rollator based on a Modified Dynamic Window Planner”, 6th IEEE RAS & EMBS International Conference on Biomedical Robotics and Biomechatronics (BioRob 2016), Singapore, June 26-29, 2016.<br>[2] G. Moustris, N. Kardaris, A. Tsiami, G. Chalvatzaki, P. Koutras, A. Dometios, P. Oikonomou, C. Tzafestas, P. Maragos, E. Efthimiou, X. Papageorgiou, S.-E. Fotinea, Y. Koumpouros, A. Vacalopoulou, E. Papageorgiou, A. Karavasili, F. Koureta, D. Dimou, A. Nikolakakis, K. Karaiskos and P. Mavridis, “The i-Walk Lightweight Assistive Rollator: First Evaluation Study,” Frontiers in Robotics and AI, Biomedical Robotics Section, vol. 8, September 2021, DOI: 10.3389/frobt.2021.67754."
+  Related: "[1] G. Moustris, C. S. Tzafestas, “Assistive Front-Following Control of an Intelligent Robotic Rollator based on a Modified Dynamic Window Planner”, 6th IEEE RAS & EMBS International Conference on Biomedical Robotics and Biomechatronics (BioRob 2016), Singapore, June 26-29, 2016.</br>[2] G. Moustris, N. Kardaris, A. Tsiami, G. Chalvatzaki, P. Koutras, A. Dometios, P. Oikonomou, C. Tzafestas, P. Maragos, E. Efthimiou, X. Papageorgiou, S.-E. Fotinea, Y. Koumpouros, A. Vacalopoulou, E. Papageorgiou, A. Karavasili, F. Koureta, D. Dimou, A. Nikolakakis, K. Karaiskos and P. Mavridis, “The i-Walk Lightweight Assistive Rollator: First Evaluation Study,” Frontiers in Robotics and AI, Biomedical Robotics Section, vol. 8, September 2021, DOI: 10.3389/frobt.2021.67754."
   Area: "Assistive Robotics"
   Supervisor: '<a href="" data-toggle="modal" data-target="#tzafestas-modal">Tzafestas Costas</a>'
+  Sort: tzafestas
   
 - Title: "Optimized Real-Time Smartphone Sensor Data Collection for Diverse Applications"
   Text: "Embark on a pioneering master's thesis project that stands at the intersection of technology and practical utility. This initiative focuses on leveraging smartphone sensors such as accelerometers and gyros to collect real-time data, forming a detailed time series dataset with entries comprising timestamps and sensor readings. The data, captured at frequencies around 50 to 60 Hz over periods of a few seconds, will be pivotal in a myriad of applications. The project demands the development of a system capable of functioning both in the foreground and the background, ensuring uninterrupted data collection without draining substantial battery power or consuming excessive bandwidth. A distinctive feature to be integrated is the system’s ability to self-restart, guaranteeing continuous data acquisition even in adverse conditions. We invite aspiring graduate students to contribute to this groundbreaking endeavor, paving the way for innovations in real-time data analysis and setting a new benchmark in smartphone sensor data collection."
   Related: null
   Area: null
-  Supervisor: '<a href="" data-toggle="modal" data-target="#papakonstantinou-modal">Papakonstantinou Vassilis</a>'
+  Supervisor: '<a href="" data-toggle="modal" data-target="#papakonstantinou-modal">Papakonstantinou Vassilis</a>, <a href="" data-toggle="modal" data-target="#alexopoulos-modal">Alexopoulos Leonidas</a>'
+  Sort: papakonstantinou
   
 - Title: "Use of digital technologies in palliative care"
   Text: "Digital technologies are increasingly being used in delivery of palliative care, i.e. specialised care for patients with serious illnesses, including terminal conditions. Opportunities and barriers in integrating digital technologies in palliative care have been documented in recent studies. In collaboration with palliative care practitioners in Evangelismos hospital, the thesis aims to develop strategies and approaches to support palliative care."
   Related: null
   Area: null
   Supervisor: '<a href="" data-toggle="modal" data-target="#golemati-modal">Golemati Spyretta</a>'
+  Sort: golemati
   
 - Title: "Analysis of ultrasound images of the carotid artery"
   Text: "Ultrasound images of the carotid artery are widely used in the diagnosis of vascular disease. Image analysis methods allow estimation of morphological and mechanical tissue features, thus facilitating image interpretation. The purpose of the thesis is to develop novel methods for ultrasound image analysis, towards describing physiological phenomena."
   Related: null
   Area: null
   Supervisor: '<a href="" data-toggle="modal" data-target="#golemati-modal">Golemati Spyretta</a>'
+  Sort: golemati
 
 - Title: "Identifying risk factors for Mild Cognitive Impairment progression via Interpretable Machine Learning"
   Text: "Dementia is a neurodegenerative disease that significantly impacts cognitive functions, such as decline in memory, thinking, and reasoning abilities. Mild Cognitive Impairment (MCI) serves as an intermediate stage between normal cognitive aging and dementia. MCI is considered a significant risk factor for the development of dementia and identifying individuals with MCI who are at higher risk of progressing is essential for early intervention and treatment. This diploma thesis will investigate the progression of MCI by employing machine learning (ML) techniques for discriminating between healthy individuals that remain stable and healthy individuals that develop MCI and MCI patients that remain stable and MCI patients that develop dementia. Interpretable machine learning methods will be also used to highlight risk factors, clinical and genetic, that can lead to the progression of MCI."
   Related: null
   Area: null
   Supervisor: '<a href="" data-toggle="modal" data-target="#kalliopi-dalakleidi-modal">Dalakleidi Kalliopi</a>, <a href="" data-toggle="modal" data-target="#nikita-modal">Konstantina Nikita</a>'
+  Sort: dalakleidi
 
 - Title: "Design and development of a counterfactual interpretable machine learning method towards robustness for clinical decision making"
   Text: "Clinical decision-making needs specialized knowledge from AI systems to ensure that their decisions are rational and comprehensive. Counterfactual explanations let XAI simulate alternative cases that never happened. It lets clinical decision makers answer “why” questions and imagine events that might have happened. This diploma thesis will investigate the development of a counterfactual algorithm that will address the needs of the several XAI stakeholders in a clinical decision making system as well as explanation effectiveness measures, such as explanatory power and robustness."
   Related: null
   Area: null
   Supervisor: '<a href="" data-toggle="modal" data-target="#kalliopi-dalakleidi-modal">Dalakleidi Kalliopi</a>, <a href="" data-toggle="modal" data-target="#nikita-modal">Konstantina Nikita</a>'
+  Sort: dalakleidi
+  
