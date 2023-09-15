@@ -2,9 +2,9 @@
 title: Weekly Schedule Fall Semester 2023-2024
 description: The weekly schedule of the fall semester courses has been announced!
 directory: announcements
-thumb: 1st-semester-2023-2024.webp
+thumb: 1st-semester-2023-2024.png
 images:
-  - 1st-semester-2023-2024.webp
+  - 1st-semester-2023-2024.png
 categories: announcement
 ---
 The weekly schedule of the fall semester courses has been announced!
