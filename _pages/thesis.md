@@ -57,7 +57,7 @@ show_sidebar: false
     Theses available for the Master Program
   </h3>
   
-  {% assign subjects = site.data.thesis% | sort: "Sort"%}
+  {% assign subjects = site.data.thesis | sort: "Sort"%}
   {% for subject in subjects%}
     <button class="collapsible">{{subject.Title}}</button>
      <div class="content_c">
