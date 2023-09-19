@@ -88,4 +88,11 @@
   Area: null
   Supervisor: '<a href="" data-toggle="modal" data-target="#kalliopi-dalakleidi-modal">Dalakleidi Kalliopi</a>, <a href="" data-toggle="modal" data-target="#nikita-modal">Konstantina Nikita</a>'
   Sort: dalakleidi
+
+- Title: "Deep multimodal fusion of image and non-image data in identification of high-risk carotid atheromatous plaque"
+  Text: "Carotid atherosclerosis poses a significant clinical challenge due to its association with high mortality and disability rates. Accurate risk stratification of carotid atheromatous plaque is essential for effective patient management. In this diploma thesis, we aim to leverage the capabilities of deep learning to address this complex task, which inherently involves multiple data modalities. The primary objective is to develop and compare innovative strategies for seamlessly integrating both imaging and tabular non-image data into an end-to-end trainable framework. By doing so, we aim to enhance the precision and reliability of carotid atheromatous plaque risk assessment."
+  Related: null
+  Area: null
+  Supervisor: '<a href="" data-toggle="modal" data-target="#nikita-modal">Konstantina Nikita</a>'
+  Sort: nikita
   
