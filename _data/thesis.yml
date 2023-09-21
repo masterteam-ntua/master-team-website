@@ -95,4 +95,18 @@
   Area: null
   Supervisor: '<a href="" data-toggle="modal" data-target="#nikita-modal">Konstantina Nikita</a>'
   Sort: nikita
+
+- Title: "Development of interpretable machine learning models for the risk assessment of multimorbidity in patients with type 2 diabetes"
+  Text: "Patients with type 2 diabetes mellitus (T2DM) are at high risk of living with and developing multiple co-occurring conditions, namely multimorbidity. Common comorbidities in patients with T2DM include hypertension, lipid disorders, cardiovascular disease, microvascular conditions, chronic kidney disease, arthritis, and depression. T2DM-related multimorbidity impacts significantly clinical care and patient quality of life. Along these lines, the stratification of multimorbid T2DM patients based on the risk of negative health outcomes is critical for the timely identification of targets for treatment initiation and the development of personalized and cost-efficient care plans. This diploma thesis will focus on investigating the use of various machine learning methods towards the development of risk prediction models able to estimate the 5-year risk of the incidence of common morbidities in multimorbid T2DM patients. Emphasis will be placed on the integration of the concept of multimorbidity by exploring and accounting for potential phenotypic associations among multiple morbid conditions, and identifying previously unknown patterns in disease trajectories. Intrepretability techniques will also be applied in order to provide insights into influential risk factors, associated with higher multimorbidity risk scores."
+  Related: null
+  Area: null
+  Supervisor: '<a href="" data-toggle="modal" data-target="#nikita-modal">Konstantina Nikita</a>'
+  Sort: nikita
+
+- Title: "Procedural game content generation via machine learning in serious games for health"
+  Text: "Serious games constitute a research field that has attracted increasing research interest in the last decade, with the field health being one of the most prominent areas of application. Modern digital games often incorporate machine learning techniques with the capacity for dynamically generated content and dynamic difficulty adjustment. Serious games, as intervention tools, can take advantage of such approaches and tailor their content according to the needs of the user. In this manner, they enhance user engagement levels, while personalizing the intervention they provide. The aim of this thesis is the development of a machine learning approach for dynamic adaptation of content according to the needs of the user in a game with a serious purpose for health."
+  Related: null
+  Area: null
+  Supervisor: '<a href="" data-toggle="modal" data-target="#nikita-modal">Konstantina Nikita</a>'
+  Sort: nikita
   
