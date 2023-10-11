@@ -516,7 +516,7 @@
   modalId: kalliopi-dalakleidi-modal
   showOnlyInAdministration: false
 
-  - Image: /theme/img/team/nefeli-lagopati.jpg
+- Image: /theme/img/team/nefeli-lagopati.jpg
   Name: Lagopati Nefeli
   Category: Professors
   Title1: Assistant Professor
@@ -530,7 +530,7 @@
   modalId: nefeli-lagopati-modal
   showOnlyInAdministration: false
 
-  - Image: /theme/img/team/papaspyropoulos-angelos.jpg
+- Image: /theme/img/team/papaspyropoulos-angelos.jpg
   Name: Papaspyropoulos Angelos
   Category: Researchers
   Title1: Post Doctoral Researcher
