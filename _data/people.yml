@@ -515,3 +515,17 @@
   Office: null
   modalId: kalliopi-dalakleidi-modal
   showOnlyInAdministration: false
+
+  - Image: /theme/img/team/nefeli-lagopati.jpg
+  Name: Lagopati Nefeli
+  Category: Professors
+  Title1: Assistant Professor in Biology-Nanomedicine, Department of Biology, Athens Medical School, NKUA
+  Title2: null
+  School: Athens Medical School, NKUA
+  Email: nlagopati@med.uoa.gr
+  Phone: null
+  Website: null
+  Bio:  'Nefeli Lagopati is an Assistant Professor in Biology-Nanomedicine at the Department of Biology, at the School of Medicine of the National & Kapodistrian University of Athens (NKUA). She performed her PhD at the Faculty of Biology of the School of Science, NKUA  in cooperation with the Laboratory for the Research on Cell & Matrix Biochemistry / Pathobiology of the Institute of Biosciences and Applications and the Laboratory of Nanotechnology processes for solar energy conversion and environmental protection of the Institute of Nanoscience and Nanotechnology, of the National Center for Scientific Research "Demokritos" (N.C.S.R. “D”). She has graduated from the Faculty of Physics, of the School of Science, NKUA. She has received her first MSc in Medical Physics/ Radiation Physics from the School of Medicine, NKUA and the second MSc in Advanced Materials from the Department of Materials Science and Engineering at the School of Engineering of the University of Ioannina. Among her research interests is the multi-disciplinary field of nanomedicine in cancer treatment. Specifically, Dr. Nefeli Lagopati focuses on the oxidative stress induced apoptotic effect and the anticancer activity of nanomaterials. She has worked as a Research Fellow in various research projects, and had the honor to receive full national scholarships as a PhD candidate, as well as Postdoc researcher (IKY, Heraclitus II), through her continuous and strategic collaborations with NTUA, NCSR “D”, and School of Medicine NKUA.  Dr. Nefeli ‘s Lagopati work is reflected in a significant number of scientific publications. She has also served as a Substitute board member of the Hellenic National Public Health Organization and as a scientific collaborator of the General Secretariat for Research and Innovation, of the Ministry of Development and Investment of Greece. '
+  Office: null
+  modalId: nefeli-lagopati-modal
+  showOnlyInAdministration: false
