@@ -519,8 +519,8 @@
   - Image: /theme/img/team/nefeli-lagopati.jpg
   Name: Lagopati Nefeli
   Category: Professors
-  Title1: Assistant Professor in Biology-Nanomedicine, Department of Biology, Athens Medical School, NKUA
-  Title2: null
+  Title1: Assistant Professor
+  Title2: Biology-Nanomedicine, Department of Biology, Athens Medical School, NKUA
   School: Athens Medical School, NKUA
   Email: nlagopati@med.uoa.gr
   Phone: null
@@ -529,3 +529,18 @@
   Office: null
   modalId: nefeli-lagopati-modal
   showOnlyInAdministration: false
+
+  - Image: /theme/img/team/papaspyropoulos-angelos.jpg
+  Name: Papaspyropoulos Angelos
+  Category: Researchers
+  Title1: Post Doctoral Researcher
+  Title2: Laboratory of Histology and Embryology, NKUA Medical School
+  School: Athens Medical School, NKUA
+  Email: anpapasp@med.uoa.gr
+  Phone: null
+  Website: null
+  Bio: 'Dr Papaspyropoulos graduated with distinction from the School of Biology, Aristotle University of Thessaloniki in 2010, where he specialised in Molecular Biology, Genetics and Biotechnology. Dr Papaspyropoulos was subsequently admitted to the University of Oxford, UK under a competitive 4-year full Medical Research Council (MRC) studentship, where he successfully completed his DPhil thesis at the Department of Oncology (2010-2014). During his doctoral studies, he investigated the role of Hippo and Wnt key signalling pathways in tumourigenesis and stem cell biology. Between 2014-2015, Dr Papaspyropoulos worked as a postdoctoral fellow at the Oxford Institute for Radiation Oncology, having received an MRC DTP Postdoctoral Fellowship Award. In the cancer field, Dr Papaspyropoulos became involved with the transcriptional and epigenetic regulation of tumour suppressive genes and their role in cancer stem cell biology. In the stem cell field, his research in induced pluripotent stem cells (iPSC) and embryonic stem cells contributed to the elucidation of key mechanisms governing the transition from pluripotency to differentiation during embryogenesis. Between 2015-2018, Dr Papaspyropoulos moved to the Netherlands where he worked as a postdoctoral fellow at the Hubrecht Institute for Developmental Biology and Stem Cell Research, Utrecht University. His research was focused on the establishment and implementation of organoids as a personalised medicine platform against human disease, particularly lung and colorectal cancer. Since 2019, Dr Papaspyropoulos has been a senior postdoctoral fellow (recipient of an IKY fellowship) at the Department of Biochemistry, School of Chemistry, Aristotle University of Thessaloniki (2019-2020), and later (2020-present) at the Department of Histology-Embryology at the National and Kapodistrian University of Athens Medical School. Dr Papaspyropoulos’ current research activity involves the development and use of organoids in precision oncology.'
+  Office: null
+  modalId: papaspyropoulos-angelos-modal
+  showOnlyInAdministration: false
+
