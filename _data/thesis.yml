@@ -109,4 +109,25 @@
   Area: null
   Supervisor: '<a href="" data-toggle="modal" data-target="#nikita-modal">Konstantina Nikita</a>'
   Sort: nikita
+
+- Title: "Explainable AI (XAI) in the healthcare domain"
+  Text: "Artificial intelligence (AI) has revolutionized the healthcare landscape, offering remarkable diagnostic capabilities. However, the inherent black box nature of AI and machine learning (ML) models poses a significant challenge to their adoption, hindering trust and transparency in clinical decision-making. Explainable AI (XAI) emerges as a solution to the aforementioned problem, aiming to elucidate the inner workings of AI & ML models and provide human-interpretable justifications for their outputs. Τhe objective of this thesis is to explore and expand state-of-the-art XAI techniques in reference healthcare applications, with respect to enhancing transparency without compromising performance."
+  Related: null
+  Area: null
+  Supervisor: '<a href="" data-toggle="modal" data-target="#alexandridis-modal">Alexandridis Georgios</a>'
+  Sort: alexandridis
+
+- Title: "Deep-learning techniques for evaluating Parkinson’s Disease progression from voice recordings."
+  Text: "Parkinson's disease (PD) is a chronic neurodegenerative disorder manifesting not only in motor symptoms, but also in distinct changes to vocal patterns. Early diagnosis and accurate assessment of disease progression are crucial for effective treatment and management. The thesis will research the application of deep-learning (DL) techniques to evaluate PD progression using voice recordings. The objective is to evaluate current DL models, assess their performance in the task at hand and propose possible extensions that would further enhance their efficiency, thereby establishing more reliable, automated PD progression that would improve patient care and facilitate clinical research."
+  Related: null
+  Area: null
+  Supervisor: '<a href="" data-toggle="modal" data-target="#alexandridis-modal">Alexandridis Georgios</a>'
+  Sort: alexandridis
+
+- Title: "Large Language Models for clinical data"
+  Text: "The integration of large language models (LLMs) in the analysis of clinical data marks a transformative reality in healthcare research and practice. This thesis explores the applications of LLMs, on the extraction, interpretation and utilization of information within the vast realm of clinical data, such as electronic health records, medical literature or even patient notes. The objective would be to illustrate whether LLMs can be used in a way that helps revealing intricate patterns, identifying subtle correlations and deriving meaningful insights that may elude traditional clinical analysis methods, thereby aiding healthcare professionals in suggesting therapies, prescribing drugs and in overall decision-making."
+  Related: null
+  Area: null
+  Supervisor: '<a href="" data-toggle="modal" data-target="#alexandridis-modal">Alexandridis Georgios</a>'
+  Sort: alexandridis
   
