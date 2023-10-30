@@ -28,3 +28,5 @@ Format:
 
 Prof. Kellis' pioneering work in genomics, epigenomics, and genome interpretation has significantly advanced our understanding of complex genetic interactions and their implications on human health. His innovative algorithms and computational methods have propelled the field of genome analysis forward and showcased the boundless possibilities of AI in healthcare, education, exploration, and beyond.
 
+To better prepare the event and ensure we have a seat for you, please RSVP using this <a href="https://forms.gle/LNGmY5ZDUYNQbCbr7">form</a>.
+
