@@ -81,5 +81,18 @@ header3: Program Overview
             </li>
         </ul>
 
+        <h2 class="my-3">Quality Policy</h2>
+        <p>
+            Relevant documents concerning and/or describing the Quality Policy of the Postgraduate Studies Program are given below:
+        </p>
+        <ul>
+            <li class="mb-3">
+                <a href="{{ site.baseurl }}/files/MasterTEAM-QualityPolicy.pdf"  target="_blank">
+                  <strong>Quality Policy</strong>
+                </a> (in Greek)
+            </li>
+        </ul>
+
     </div>
+
 </div>
