@@ -208,3 +208,17 @@ show_sidebar: false
     peopleGrid.classList.remove('d-none');
   }
 </script>
+
+
+<h2 class="my-3">Support and Development Policy</h2>
+  <p>
+      Relevant documents concerning and/or describing the Support and Development Policy of the Postgraduate Studies Program are given below:
+  </p>
+  <ul>
+      <li class="mb-3">
+          <a href="{{ site.baseurl }}/files/MasterTEAM-SupportDevelopmentPolicy.pdf"  target="_blank">
+            <strong>Support and Development Policy (in Greek)</strong>
+          </a> (in Greek)
+      </li>
+  </ul>
+</h2>
