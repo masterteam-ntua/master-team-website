@@ -221,4 +221,3 @@ show_sidebar: false
           </a> (in Greek)
       </li>
   </ul>
-</h2>
