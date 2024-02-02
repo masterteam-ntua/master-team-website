@@ -308,14 +308,16 @@ show_sidebar: false
     </div>
     <div class="disclaimer-footer">
         <div class="disclaimer-logos">
+            <img decoding="async" src="theme/img/logos/mpodosaki.jpg">
             <a href="https://studyingreece.edu.gr/" target="_blank">
                 <img decoding="async" src="theme/img/logos/sig_logo_2.png">
             </a>
-            <img decoding="async" src="theme/img/logos/epanadvm_footer_2.jpg">
+            <img decoding="async" src="theme/img/logos/espa-logo.jpg">
         </div>
-        <p>
-            This project "Support for Internationalization Actions of Postgraduate Studies of the National Technical University of Athens" (MIS 51461485)  is co-financed by Greece and the European Union (European Social Fund- ESF) through the Operational Programme "Human Resources Development, Education and Lifelong Learning 2014-2020"
-        </p>
+        <div class="disclaimer-logos">
+            <p>The collaboration with Columbia University is supported by Bodosaki Foundation.</p>
+            <p>This project "Support for Internationalization Actions of Postgraduate Studies of the National Technical University of Athens" (MIS 51461485)  is co-financed by Greece and the European Union (European Social Fund- ESF) through the Operational Programme "Human Resources Development, Education and Lifelong Learning 2014-2020".</p>
+        </div>
     </div>
 </div>
 
