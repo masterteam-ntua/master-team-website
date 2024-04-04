@@ -75,7 +75,7 @@ header3: Program Overview
                 </a> as published in Government Gazette issue 1231/B/17.03.2022 (in Greek)
             </li>
             <li class="mb-3">
-                <a href="{{ site.baseurl }}/files/ΦΕΚ-1183-Επικαιροποίηση-Κανονισμού-Λειτουργίας-ΔΠΜΣ.pdf" target="_blank">
+                <a href="{{ site.baseurl }}/files/ΦΕΚ-1183-Επικαιροποιηση-Κανονισμου-Λειτουργιας-ΔΠΜΣ.pdf" target="_blank">
                   <strong>Program Rules and Regulations Update</strong>
                 </a> as published in Government Gazette issue 1183/B/19.02.2024 (in Greek)
             </li>
