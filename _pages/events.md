@@ -8,7 +8,7 @@ header2:
 header3: Courses
 ---
 <div class="container">
-        <style>
+    <style>
         .centered-tables {
             display: flex;
             justify-content: center;
@@ -17,12 +17,15 @@ header3: Courses
             text-align: left;
         }
         .custom-table {
+            width: 100%;
+        }
+        .table-container {
             width: 80%;
-                margin: auto;
+            margin: auto;
         }
     </style>
     <div class="row my-3 centered-tables">
-        <div class="row">
+        <div class="row table-container">
             <table class="table table-bordered text-center custom-table">
                 <thead>
                     <tr>
@@ -72,7 +75,7 @@ header3: Courses
                 </tbody>
             </table>
         </div>
-        <div class="row">
+        <div class="row table-container">
             <table class="table table-bordered text-center custom-table">
                 <thead>
                     <tr>
