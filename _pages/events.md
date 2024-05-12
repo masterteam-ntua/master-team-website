@@ -126,7 +126,7 @@ header3: Events
         </div>
     </div>
     <!-- Courses description -->
-        <div class="row subject-block">
+            <div class="row subject-block">
         <h3>
             Leonidas Alexopoulos
         </h3>
@@ -136,271 +136,104 @@ header3: Events
         <p>
             Leonidas Alexopoulos is an Associate Professor at the National Technical University of Athens, head of the Systems Bioengineering Lab, and co-founder of ProtATonce a biotech company that offers proteomic solutions for biomarker discovery. Leonidas received his PhD in 2004 from the Department of Biomedical Engineering at Duke University and he continued his postdoctoral studies at MIT (Dept of Biological Eng) and Harvard Medical School (Dept of Systems Biology). He combines a strong academic record with industrial expertise. He has served in several organizations for empowering research translation to startup companies including the MIT Enterprise Forum (Greek chapter), Mindspace and to an international strategy committee for the establishment of a novel biotechnology cluster in Seoul, Korea.   
         </p>
+    </div>
+    <div class="row subject-block">
+        <h3>
+            Ipatia Doussis-Anagnostopoulou
+        </h3>
         <p>
-            The course page on Helios platform can be found  <a href="https://helios.ntua.gr/course/view.php?id=5652" target="_blank"><strong>here</strong></a>.
+            Associate Professor, Laboratory of Histology and Embryology, Medical School, National and Kapodistrian University of Athens
+        </p>
+        <p>
+            Ipatia Doussis-Anagnostopoulou got her Medical Degree from the University of Ioannina Medical School (1988) and she trained in Histopathology at the “St Savvas” Anticancer Hospital in Athens (1988-1990) and at the Nuffield Department of Pathology, John Radcliffe Hospital, Oxford, UK (1990-1993). She then worked as a Cheffe de Clinique at the Division de Pathologie Clinique, Faculté de Médecine, Hopital Cantonal Universitaire in Geneva, Switzerland (1994-1998). She got her Ph. D. Thesis from the NKUA Medical School (1993). In 1999 she was elected Lecturer at the Laboratory of Histology and Embryology of the National and Kapodistrian University of Athens Medical School, where she currently holds a position of Associate Professor. Her major focus was Haematopathology and her research interest was Hodgkin’s lymphoma, with a number of scientific research publications on the field. In 2021 she was appointed Representative of the NKUA in the Hub Health Council of the newly founded European University Alliance CIVIS. In 2010, Dr. Doussis-Anagnostopoulou founded the NGO Mission ANTHROPOS, a non for profit medical and humanitarian organization that provides support to vulnerable populations in both Greece and abroad (Ethiopia and Tanzania) (www.missionanthropos.com). In the last 14 years the organization has materialized 105 Programs and Initiatives, with more than 33.000 beneficiaries. In the last 2 years, Mission ANTHROPOS in collaboration with the Postgraduate Program “Physiology of Aging and Geriatric Syndromes” of the NKUA Medical School has welcomed students to participate in the program “Improving the Life of Seniors”, organizing initiatives of service learning within the context of CIVIS.
         </p>
     </div>
-    <div class="row subject-block" id="life-sciences">
-        <h2>
-            Life Sciences for Engineering
-        </h2>
+    <div class="row subject-block">
+        <h3>
+            Spyretta Golemati
+        </h3>
         <p>
-            An introductory outline of the basic anatomy and physiology of the human body for engineers. The objective of this
-            course is to present the various levels of structural organization of the body, from chemical through cellular and
-            tissue organization to organ, system, and whole body structure and function. The role of physical principles and
-            phenomena as they are known to exist and apply to living systems will be highlighted in engineering terms. The
-            aim is to (i) develop a quantitative intuition of biological systems; (ii) understand how principles in engineering can
-            be used to study biological processes; and (iii) understand the relationships between structure and function at
-            different size and time scales. Guest lectures will include engineers and medical scientists to discuss the
-            relationship between recent advances in biomedical engineering and the underlying anatomy and physiology.
+            Associate Professor of Biomedical Engineering, Medical School, National and Kapodistrian University of Athens
         </p>
         <p>
-            The course page on Helios platform can be found  <a href="https://helios.ntua.gr/course/view.php?id=5652" target="_blank"><strong>here</strong></a>.
+            Spyretta Golemati is Associate Professor in Biomedical Engineering in the Medical School of the University of Athens. She holds a Diploma in Mechanical Engineering from the National Technical University of Athens and M.Sc. and Ph.D. degrees in Bioengineering from Imperial College London. Her research interests include (a) medical image /theme/img/team/analysis, with emphasis on vascular ultrasound image /theme/img/team/analysis, (b) biosignal processing, and (c) vascular physiology and pathophysiology. She has co-authored 37 papers published in international scientific peer-reviewed journals, 12 book chapters, and 45 papers published in international scientific peer-reviewed conference proceedings. She has participated in 7 funded national and international research projects (in one, as coordinator). Dr Golemati has acted as reviewer of national and international research proposals as well as of papers submitted to international scientific journals and conferences. She is a member of the Advisory Editorial Board of Ultrasound in Medicine and Biology. She is a member of the IEEE Engineering in Medicine and Biology Society (IEEE-EMBS), the IEEE Ultrasonics, Ferroelectrics and Frequency Control Society (IEEE-UFFC), the Technical Chamber of Greece, and the Hellenic Atherosclerosis Society.
         </p>
     </div>
-    <div class="row subject-block" id="engineering-biomedicine">
-        <h2>
-            Engineering for Biomedicine
-        </h2>
+    <div class="row subject-block">
+        <h3>
+            Elisa E. Konofagou
+        </h3>
         <p>
-            The course provides an overview of the fundamental concepts and principles of engineering as it applies to
-            medicine and healthcare. Basic principles of mathematics, computational thinking, physics, mechanics, and
-            electronics will be covered, along with medical use cases, so as to achieve an understanding of advanced
-            technological achievements in healthcare and medicine. A problem-based introduction to building algorithms and
-            data structures to solve problems in medicine and healthcare with a computer will also be provided. The course will
-            include an introduction to (i) Matlab, as a standard tool to the fundamentals of computer programming and (ii)
-            Python, via Google’s Colaboratory (Colab) and DataCamp, focusing on the analysis and visualization of biomedical
-            data. The course will empower those with non-engineering backgrounds with the knowledge required to critically
-            evaluate and use these technologies in healthcare and medicine.
+            Robert and Margaret Hariri Professor of Biomedical Engineering, Professor of Radiology (Physics), Department of Biomedical Engineering, Columbia University
         </p>
         <p>
-            The course page on Helios platform can be found  <a href="https://helios.ntua.gr/course/view.php?id=5653" target="_blank"><strong>here</strong></a>.
+            Elisa Konofagou is the Robert and Margaret Hariri Professor of Biomedical Engineering and Professor Radiology as well as Director of the Ultrasound and Elasticity Imaging Laboratory at Columbia University in New York City. Her main interests are in the development of novel theranostic and therapeutic ultrasound methods for the advancement of therapeutic ultrasound. Elisa has co-authored over 300 published articles in the aforementioned fields. Elisa Konofagou is the Robert and Margaret Hariri Professor of Biomedical Engineering. Elisa is a Member of the National Academy of Medicine (US), an Elected Fellow of the International Society of Electrical and Electronic Engineering (IEEE), the American Institute of Biological and Medical Engineering (AIMBE) and the Acoustical Society of America (ASA). Elisa is recipient of the CAREER award by the National Science Foundation (NSF), the Nagy award by the National Institutes of Health (NIH), the Technological Achievement Award by the IEEE Engineering in Medicine and Biology society (EMBS), the Carl Hellmuth Hertz Ultrasonics Award by the IEEE Society in Ultrasonics, Ferroelectrics and Frequency Control (UFFC), the Janette and Armen Avanessians Diversity Award by Columbia University and the Elisabeth Papazoglou Inspired Leadership Award by Drexel university as well as additional recognitions by the American Heart Association, the Acoustical Society of America, the American Institute of Ultrasound in Medicine, the American Association of Physicists in Medicine, the Wallace H. Coulter foundation, the Bodossaki foundation, the Society of Photo-optical Instrumentation Engineers (SPIE) and the Radiological Society of North America (RSNA). Elisa also serves as President-Elect of the International Society of Therapeutic Ultrasound.
         </p>
     </div>
-    <div class="row subject-block" id="biostatistics-ml">
-        <h2>
-            Biostatistics and Machine Learning
-        </h2>
+    <div class="row subject-block">
+        <h3>
+            Andrew F. Laine
+        </h3>
         <p>
-            This course provides an introduction to statistical methods used in biological and medical research. Elementary
-            probability theory, basic concepts of statistical inference, regression and correlation methods, and sample size
-            estimation are covered, with emphasis on applications to medical problems. New statistical techniques for both
-            predictive and descriptive learning as applied to the rapidly growing volume and complexity of data collected in
-            imaging, genomic, health registries, and wearables are also covered. Machine learning algorithms for classification
-            and prediction, particularly useful for big and complex data, will be presented. Topics include principles of
-            supervised learning, including Bayesian classifiers, decision trees, regression models, support vector machines
-            (SVMs), as well as principles of unsupervised learning, including clustering and density estimation.
+            Percy K. and Vida L. W. Hudson Professor, Department of Biomedical Engineering; Professor of Radiology (Physics), Department of Radiology; Director, Heffner Biomedical Imaging Laboratory, Columbia University.
         </p>
         <p>
-            The course page on Helios platform can be found  <a href="https://helios.ntua.gr/course/view.php?id=5654" target="_blank"><strong>here</strong></a>.
+            Andrew F. Laine received his D.Sc. degree from Washington University (St. Louis) School of Engineering and Applied Science in Computer Science, in 1989 and BS degree from Cornell University (Ithaca, NY).  He was a Professor in the Department of Computer and Information Sciences and Engineering at the University of Florida (Gainesville, FL) from 1990-1997.  He joined the Department of Biomedical Engineering in 1997 and served as Vice Chair of the Department of Biomedical Engineering at Columbia University since 2003 – 2011, and Chair of the Department of Biomedical Engineering (2012 – 2017).  He is currently Director of the Heffner Biomedical Imaging at Columbia University and the Percy K. and Vida L. W. Hudson Professor of Biomedical Engineering and Professor of Radiology (Physics). He has served on the program committee for the IEEE-EMBS Workshop on Wavelet Applications in Medicine in 1994, 1998, 1999, and 2004. He was the founding chair of the SPIE conference on “Mathematical Imaging: Wavelet Application in Signal and Image Processing” and served as co-chair during the years 1993-2003. Dr. Laine has served as Chair of Technical Committee (TC-BIIP) on Biomedical Imaging and Image Processing for IEEE EMBS 2004-2009 and has been a member of the TC of IEEE Signal Processing Society, TC-BISP (Biomedical Imaging and Signal Processing) 2003-present. Professor Laine served on the IEEE ISBI (International Symposium on Biomedical Imaging) steering committee, 2006-2009 and 2009 – 2012.  He was the Program Chair for the IEEE EMBS annual conference in 2006 held in New York City and served as Program Co-Chair for IEEE ISBI in 2008 (Paris, France). He served as Area Editor for IEEE Reviews in BME in Biomedical Imaging since 2007-2013. He was Program Chair for the EMBS annual conference for 2011 (Boston, MA). Professor Laine Chaired the Steering committee for IEEE ISBI, 2011-2013, and Chaired the Council of Societies for AIMBE (American Institute for Medical and Biological Engineers).  He was the General Co-Chair for IEEE ISBI in 2022. Finally, he served as the IEEE EMBS Vice President of Publications 2008 – 2012 and was the President of IEEE EMBS (Engineering in Biology and Medicine Society) 2015 and 2016.   He currently serves as the Chair of the Membership Committee for IAMBE (International Academy of Medical and Biological Engineers). He is a Fellow of IEEE, AIMBE and IFMBE.
         </p>
     </div>
-    <div class="row subject-block" id="biosignals-processing">
-        <h2>
-            Biosignal Acquisition and Processing
-        </h2>
+    <div class="row subject-block">
+        <h3>
+            Konstantina S. Nikita
+        </h3>
         <p>
-            In this course, students learn about different physiological signals of electrical type such as Electrocardiography
-            (ECG), Electroencephalography (EEG), Electromyography (EMG), and of non-electrical type such as blood pressure,
-            blood flow-rate, cardiac output, cardiac rate, heart sound, respiratory rate, blood PH, plethysmography, blood gas
-            analysis, etc. Students learn the origins of the biosignals, how they are collected and measured, what kind of sensor
-            technology is required, and how they are analyzed. Signal processing techniques for different types of biosignals
-            are discussed, including preprocessing for the removal of artifacts, coding, feature extraction, and modeling. The
-            course includes hands-on sessions aiming to program these techniques in Matlab/Python, apply them to
-            biomedical signals, and critically evaluate their performance.
+            Professor of Electrical and Computer Engineering, Founding Director of the MSc Programme “Translational Engineering in Health and Medicine”, NTUA
         </p>
         <p>
-            The course page on Helios platform can be found  <a href="https://helios.ntua.gr/course/view.php?id=5655" target="_blank"><strong>here</strong></a>.
+            Konstantina received the M.Eng. in Electrical Engineering and the Ph.D. degree from the National Technical University of Athens (NTUA), as well as the M.D. degree from the Medical School, University of Athens. She is a full professor at NTUA, the Irene McCulloch Distinguished Adjunct Professor of Biomedical Engineering and Medicine, at Keck School of Medicine and Viterbi School of Engineering, University of Southern California, and the 2022/2023 Global Chair at the University of Bath. She is the director of the Mobile Radiocommunications Laboratory and founder and director of the Biomedical Simulations and Imaging Laboratory at NTUA. Her current research interests include biomedical data science, mobile health, image computing and analysis, simulation of physiological and biological systems. Her published work consists of twelve books, more than 200 papers in refereed international journals, 48 chapters in books, over 400 papers in international conference proceedings, and three patents. She has been the technical manager of numerous European and National R&D projects. She is the founding director of the MSc Programme “Translational Engineering in Health and Medicine” and has been the advisor of 35 completed Ph.D. theses, several of which have received various awards. She is the Editor-in-Chief of the IEEE Transactions on Antennas and Propagation and Founding Editor-in-Chief of the IEEE Journal of Antennas and Propagation. She has served as chair of the LS7 Consolidator Grant Panel of the European Research Council (ERC), for granting investigator-driven frontier research in the domain of life sciences. She is a Fellow of the Institute of Electrical and Electronics Engineers (IEEE), the American Institute of Medical and Biological Engineering (AIMBE), and the European Association of Medical and Biological Engineering and Science (EAMBES). She has received various honors/awards, with the Bodossaki Foundation Academic Prize being one of them.
         </p>
     </div>
-    <div class="row subject-block" id="research-methodology">
-        <h2>
-            Research Methodology
-        </h2>
+    <div class="row subject-block">
+        <h3>
+            Vassilis Papakonstantinοu
+        </h3>
         <p>
-            This course provides an opportunity for students to establish or advance their understanding of research through
-            critical exploration of research language, ethics, and approaches. The course focuses on translational research and
-            provides the fundamentals towards the design and conduct of “use-inspired” research, by building upon basic
-            scientific research and synthesizing knowledge to develop a new or improved drug, device, diagnostic, or
-            behavioral intervention. The course introduces the language of research, ethical principles and challenges, and the
-            elements of the research process within quantitative, qualitative, and mixed methods approaches. Topics to be
-            covered include: Searching and critically analyzing the latest research, Understanding statistics in quantitative
-            research, Critical appraisal, Writing a research protocol, The setting up of a project, Patient and public involvement
-            in research, Selecting robust outcome measures, Qualitative research methods, Assessing the impact of research,
-            Getting research funding, Disseminating research.
+            Technology entrepreneur
         </p>
         <p>
-            The course page on Helios platform can be found  <a href="https://helios.ntua.gr/course/view.php?id=5656" target="_blank"><strong>here</strong></a>.
+            Vassilis is a technology entrepreneur with over 25 years of hands-on experience across various industry sectors. He likes building things, exploring ideas, and connecting people. He is a co-founder and partner of Blue Dome Capital, an investment manager seeking to capture emerging opportunities in technology transfer and innovation-driven ventures in Central & South- Eastern Europe. He is the co-founder of Mobiltron, Inc, a technology company developing a next- generation user authentication platform using behavioral biometrics for mobile applications. He is a partner of Sylipsis, Inc, a company helping researchers move their ideas from the lab to the market and providing managed technology development as a service. Vassilis consults the Boards of various organizations on issues related to technology and innovation. He currently sits on the Board of Fasmatech, a startup developing mass spectroscopy technology, and VIORYL, a chemical engineering company. Previously, he was on the Board of Metis Cybertechnologies, a company developing vessel performance solutions, and helped the investors achieve a 3X exit. He is the co-founder and Vice-Chairman of the MIT Enterprise Forum Greece, the Greek chapter of an MIT-inspired global network, enabling technology entrepreneurs to rapidly transform ideas into world-changing companies. He is the co-founder and Treasurer of the Hellenic Innovation Network, Inc, a Boston-based charity that supports the entrepreneurial growth of the Greek and Cypriot tech ecosystem. He holds degrees in Mechanical Engineering from NTUA and Ocean Systems Management from MIT. He has conducted research in fluid mechanics, control systems, risk management, and system dynamics.
         </p>
     </div>
-    <div class="row subject-block" id="translational-bioinformatics">
-        <h2>
-            Translational Bioinformatics
-        </h2>
+    <div class="row subject-block">
+        <h3>
+            Katerina Afentouli
+        </h3>
         <p>
-            The course aims at presenting both algorithms and technologies for the analysis of biomedical data at the cellular
-            and subcellular level (e.g. genomics and proteomics) and their translation into diagnostic, prognostic, and
-            therapeutic applications in medicine. The course presents: a) the principles of molecular biology related to cell
-            characteristics, DNA, RNA and gene analysis, focusing on the relation of biology with computer science, b) the basic
-            techniques and algorithms for sequence comparison and statistical data processing, c) the basic IT infrastructure in
-            which biological data is stored, with particular emphasis on online accessible databases along with the most
-            important software tools used for their analysis (processing, cross-referencing, sharing and archiving of
-            bioinformatics data, etc.), d) utility and limitations of public biomedical resources, e) issues and opportunities in
-            drug discovery, and mobile/digital health solutions.
+            Mechanical Engineer, MSc TEAM Student
         </p>
         <p>
-            The course page on Helios platform can be found  <a href="https://helios.ntua.gr/course/view.php?id=5657" target="_blank"><strong>here</strong></a>.
+            Katerina Afentouli, originally from Athens, Greece, earned her integrated Master's Diploma in Mechanical Engineering from the University of Thessaly specializing in Mechanics, Materials, and Manufacturing Processes. Currently, she is pursuing a Master's degree in Biomedical Engineering at the National Technical University of Athens. Her thesis project is a collaboration with Columbia University's Ultrasound & Elasticity Imaging Lab (UEIL), where she is working on refining 3D rendering algorithms for echocardiography views, aiming to enhance the accuracy and detail of medical imaging for diagnostic and therapeutic applications.
         </p>
     </div>
-    <div class="row subject-block" id="biomechanics">
-        <h2>
-            Biomechanics
-        </h2>
+    <div class="row subject-block">
+        <h3>
+            Konstantinos Tziavaras
+        </h3>
         <p>
-            This course introduces students to the mechanical principles that can be applied to study the structure-function relationship
-            at different scales, from the molecular and cellular to the tissue and system scales. At the molecular and cellular levels, the
-            course examines how mechanical quantities and processes such as force, motion and deformation influence molecular and
-            cell behavior and function, with an emphasis on the connection between mechanics and biochemistry. At the tissue and
-            system levels, solid and fluid mechanics are introduced, and applications in the musculoskeletal, respiratory, cardiovascular
-            and urinary systems are discussed.
+            Biologist, MSc TEAM Student
         </p>
         <p>
-            The course page on Helios platform can be found  <a href="https://helios.ntua.gr/course/view.php?id=5658" target="_blank"><strong>here</strong></a>.
+            Konstantinos received his integrated master’s degree in Biological Applications and Technology from the University of Ioannina, where he specialized in Biomolecular Sciences and Biotechnology. Continuing his academic journey, he enrolled in the MSc Translational Engineering in Health and Medicine program. His performance in the master’s program led to him receiving a travel scholarship from the Bodossaki Foundation, enabling him to undertake a summer internship at Columbia University's Department of Biomedical Engineering. During this internship, he worked in the Biomaterials and Interface Tissue Engineering Laboratory. Currently, he is completing his master's thesis in the Biomedical Simulations and Imaging (BioSIM) Laboratory at the National Technical University of Athens.
         </p>
     </div>
-    <div class="row subject-block" id="biodesign-fundamentals">
-        <h2>
-            Biodesign Fundamentals
-        </h2>
+    <div class="row subject-block">
+        <h3>
+            Thodoris Spiliotis
+        </h3>
         <p>
-            This is the first part of a two-semester course. Multidisciplinary teams of students identify real-world medical needs, evaluate
-            their potential health and commercial impact, invent new health technology products to address those needs, and plan their
-            full implementation into patient care. In this first course, the students either bring their own ideas or identify real-world needs
-            by visiting clinical settings and interviewing end-users. Via a well-structured process that includes stakeholder analysis and
-            market analysis, the students prioritize the ideas and select the ones that will be implemented in the subsequent semester in
-            the course “Biodesign Innovation Process”.
+            Electrical and Computer Engineer, MSc TEAM Student
         </p>
         <p>
-            The course page on Helios platform can be found  <a href="https://helios.ntua.gr/course/view.php?id=5659" target="_blank"><strong>here</strong></a>.
-        </p>
-    </div>
-    <div class="row subject-block" id="medical-imaging">
-        <h2>
-            Medical Imaging and Image Analysis
-        </h2>
-        <p>
-            The course is aimed to teach the principles of biomedical imaging and the foundation techniques required to process,
-            analyze, and use medical images for scientific discovery and applications The first part of the course will provide students with
-            the underlying principles of biomedical imaging including the basic physics and mathematics associated with each modality
-            (X-ray CT, SPECT, PET, ultrasound, and MRI). The second part of the course will introduce concepts of digital images and will
-            focus on analytic, storage, retrieval, and interpretive methods to optimally use the increasingly voluminous imaging data and
-            integrate and understand them in the context of complementary molecular and clinical information to improve diagnosis
-            and therapy in medicine. The use of Machine Learning to improve performance of sensing and imaging algorithms will be
-            covered along with principles and algorithms of deep learning to process and analyze biomedical images. Topics covered in
-            the course include: Types of imaging methods and how they are used in medicine; Image processing, enhancement, and
-            visualization; Computer-assisted detection, diagnosis, and decision support; Access and utility of publicly available image data
-            sources; Linking imaging data to clinical data and phenotypes.
-        </p>
-        <p>
-            The course page on Helios platform can be found  <a href="https://helios.ntua.gr/course/view.php?id=5660" target="_blank"><strong>here</strong></a>.
-        </p>
-    </div>
-    <div class="row subject-block" id="computational-medicine">
-        <h2>
-            Computational Modeling and Simulation for Medicine
-        </h2>
-        <p>
-            Primary focus is on quantitative and computational methods to understand and/or model the pathophysiology of complex
-            biological systems and develop efficient therapeutic interventions. Methods for multiscale/multilevel modeling and system
-            identification are covered as applied towards understanding and analyzing biology, from individual molecules in cells to entire
-            organs, organisms, and populations. Some examples include modeling of the glucose-insulin metabolic system, multi-scale
-            cancer modeling and in silico oncology, construction of models to study cardiovascular system health. Modeling and
-            simulation of medical devices such as artificial kidney, artificial heart and heart valves, are also covered, along with prototype
-            manufacturing using 3D printing technology.
-        </p>
-        <p>
-            The course page on Helios platform can be found  <a href="https://helios.ntua.gr/course/view.php?id=5661" target="_blank"><strong>here</strong></a>.
-        </p>
-    </div>
-    <div class="row subject-block" id="introduction-neuroscience">
-        <h2>
-            Introduction to Neuroscience and Neural Engineering
-        </h2>
-        <p>
-            This course examines a range of neural engineering approaches to investigating and intervening in the nervous system,
-            emphasizing quantitative understanding and fundamental engineering concepts. Modern neural engineering techniques to
-            measure and modulate neural activity and manipulate how an organism perceives, thinks, and acts are covered. The course
-            focuses on the computing essence of neural processes and explores the relationship with molecules, spikes and synapses.
-            Topics related to synaptic plasticity, learning and memory are examined. Based on the biophysics of brain computation,
-            neurons are also explored as spike processing machines for creating intelligent algorithms inspired by the brain’s complexity
-            and self-organization.
-        </p>
-        <p>
-            The course page on Helios platform can be found  <a href="https://helios.ntua.gr/course/view.php?id=5664" target="_blank"><strong>here</strong></a>.
-        </p>
-    </div>
-    <div class="row subject-block" id="biomems">
-        <h2>
-            BioMicroElectroMechanical Systems (BioMEMS)
-        </h2>
-        <p>
-            This course targets to: (1) introduce fundamental design and microfabrication concepts of BioMEMS (including microfluidics
-            and lab-on-chip systems) and (2) expose students to the relevant biomedical and biological applications of BioMEMS. The
-            course is divided into three main sections: (i) Microfabrication and Materials of BioMEMS, (ii) Design of BioMEMS sensors and
-            actuators, and (iii) BioMEMS applications.
-        </p>
-        <p>
-            The course page on Helios platform can be found  <a href="https://helios.ntua.gr/course/view.php?id=5663" target="_blank"><strong>here</strong></a>.
-        </p>
-    </div>
-    <div class="row subject-block" id="ai-healthcare">
-        <h2>
-            Artificial Intelligence in Healthcare
-        </h2>
-        <p>
-            This course involves a deep dive into recent advances in AI in healthcare, focusing in particular on deep learning approaches
-            for medicine and healthcare problems. The course will start from foundations of neural networks and will then cover cutting-edge deep learning models in the context of a variety of healthcare data including image, text, multimodal and time-series
-            data. Metrics unique to healthcare, as well as best practices for designing, building, and evaluating AI-based approaches in
-            healthcare will be presented. Advanced topics on open challenges of integrating AI in healthcare, including interpretability,
-            robustness, privacy and fairness will also be covered. The course aims to provide students from diverse backgrounds with both
-            conceptual understanding and practical grounding of cutting-edge research on AI in healthcare.
-        </p>
-        <p>
-            The course page on Helios platform can be found  <a href="https://helios.ntua.gr/course/view.php?id=5662" target="_blank"><strong>here</strong></a>.
-        </p>
-    </div>
-    <div class="row subject-block" id="healthcare-robotics">
-        <h2>
-            Healthcare Robotics
-        </h2>
-        <p>
-            The course intends to explore human robot interaction (HRI) in healthcare and cover the entire continuum of care from
-            hospital to home, by tackling robotic challenges in surgery, assistance, and rehabilitation — three domains where robots are
-            having the biggest impact. The course will also explore how artificial intelligence is used in surgical procedures, to improve
-            precision diagnostics, in exoskeleton technology, and for patient care. Topics to be covered include: medical imaging-guided
-            surgery; minimally-invasive surgery through miniaturization, novel actuation and sensing; robotic surgery at tissue and cell
-            levels; autonomous robotic systems to assist with daily living activities; multi-modal robot interfaces; robotics-based
-            rehabilitation technologies; upper limb rehabilitation robots; wearable exoskeletons and sensors; implanted neural interfaces.
-        </p>
-        <p>
-            The course page on Helios platform can be found  <a href="https://helios.ntua.gr/course/view.php?id=5665" target="_blank"><strong>here</strong></a>.
-        </p>
-    </div>
-    <div class="row subject-block" id="biodesign-advanced">
-        <h2>
-            Biodesign Innovation Process (prerequisite: Biodesign Fundamentals)
-        </h2>
-        <p>
-            In this course, students are introduced to various aspects of medical device entrepreneurship. The students acquire a very
-            diverse set of soft skills and are exposed to all steps required to bring a research discovery to a medical product or service.
-            Lectures will be centered around case studies and often given by guest speakers from start-ups, regulatory experts, patent
-            attorneys, clinical trial specialists, and investment firms to give students a sense of the process and challenges in developing
-            their own business idea. Students will have the opportunity to discuss case studies based on other people’s experience of
-            bringing medical devices to market and the specific challenges associated with the development of new products in the
-            medical sector.
-        </p>
-        <p>
-            The course page on Helios platform can be found  <a href="https://helios.ntua.gr/course/view.php?id=5666" target="_blank"><strong>here</strong></a>.
+            Thodoris Spiliotis has a Diploma in Electrical and Computer Engineering from the National Technical University of Athens (NTUA) and is currently working on his thesis for his Master's degree in Translational Engineering in Health and Medicine in NTUA. His thesis focuses on automated recognition of mental health status with the use of social media data through NLP and LLM techniques. He is committed to leveraging his knowledge through entrepreneurship. For this purpose, he founded Cordia, a company dedicated to developing innovative health solutions aimed at making a positive impact in the world.
         </p>
     </div>
 </div>
