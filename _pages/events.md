@@ -150,7 +150,7 @@ header3: Events
     </div>
     <div class="row subject-block">
         <h3>
-            Spyretta Golemati    
+            Spyretta Golemati
         </h3>
         <p>
             Associate Professor of Biomedical Engineering, Medical School, National and Kapodistrian University of Athens
@@ -218,9 +218,9 @@ header3: Events
         <h3>
             Konstantinos Tziavaras
         </h3>
-        <p>
+        <h4>
             Biologist, MSc TEAM Student
-        </p>
+        </h4>
         <p>
             Konstantinos received his integrated master’s degree in Biological Applications and Technology from the University of Ioannina, where he specialized in Biomolecular Sciences and Biotechnology. Continuing his academic journey, he enrolled in the MSc Translational Engineering in Health and Medicine program. His performance in the master’s program led to him receiving a travel scholarship from the Bodossaki Foundation, enabling him to undertake a summer internship at Columbia University's Department of Biomedical Engineering. During this internship, he worked in the Biomaterials and Interface Tissue Engineering Laboratory. Currently, he is completing his master's thesis in the Biomedical Simulations and Imaging (BioSIM) Laboratory at the National Technical University of Athens.
         </p>
