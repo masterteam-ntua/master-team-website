@@ -294,7 +294,7 @@ header3: Events
             Thodoris Spiliotis
         </h3>
         <div class="team-member">
-            <img class="team-member-img" src="/theme/img/testimonials/spiliotis.jpg" alt="Thodoris Spiliotis">
+            <img class="team-member-img" src="/theme/img/testimonials/spiliotis.png" alt="Thodoris Spiliotis">
             <div class="team-member-bio left-aligned">
                 <p>
                     Electrical and Computer Engineer, MSc TEAM Student
