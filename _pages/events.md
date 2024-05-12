@@ -8,16 +8,20 @@ header2:
 header3: Courses
 ---
 <div class="container">
-    <div class="row my-3">
+        <style>
+        .centered-tables {
+            display: flex;
+            justify-content: center;
+        }
+        .left-aligned {
+            text-align: left;
+        }
+        .custom-table {
+            width: 80%;
+        }
+    </style>
+    <div class="row my-3 centered-tables">
         <div class="row">
-            <style>
-                .left-aligned {
-                    text-align: left;
-                }
-                .table-width {
-                    width: 80%;
-                }
-            </style>
             <table class="table table-bordered text-center table-width">
                 <thead>
                     <tr>
@@ -96,27 +100,6 @@ header3: Courses
                     </tr>
                 </tbody>
             </table>
-        </div>
-    </div>
-    <div class="row mb-5 pb-3">
-        <div class="col">
-            <div>
-                <sup>(1)</sup> Compulsory course for Engineers<br/>
-                <sup>(2)</sup> Compulsory course for health scientists<br/>
-                <sup>(3)</sup> Prerequisite: Biodesign Fundamentals
-            </div>
-        </div>
-        <div class="col">
-            <div class="float-right">
-                <div class="row mb-2">
-                    <div class="table-legend compulsory"></div>
-                    <div class="d-inline-block">Compulsory</div>
-                </div>
-                <div class="row">
-                    <div class="table-legend elective"></div>
-                    <div class="d-inline-block">Elective</div>
-                </div>
-            </div>
         </div>
     </div>
     <!-- Courses description -->
