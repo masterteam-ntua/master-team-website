@@ -1,6 +1,6 @@
 ---
 layout: defaults/textpage
-permalink: /courses
+permalink: /events
 narrow: false
 header0: MASTER
 header1: TEAM
@@ -14,45 +14,48 @@ header3: Courses
             <table class="table table-bordered text-center">
                 <thead>
                     <tr>
-                        <th scope="col" colspan="2" class="t-head">Fall Semester</th>
-                    </tr>
-                    <tr>
-                        <th scope="col" class="t-subhead">Course</th>
-                        <th scope="col" class="t-subhead">ECTS</th>
+                        <th scope="col" colspan="2" class="t-head">Wednesday 29 May 2024</th>
                     </tr>
                 </thead>
                 <tbody>
-                    <tr>
-                        <td class="compulsory"><a class="table-link" href="#life-sciences">Life Sciences for Engineering <sup>(1)</sup></a></td>
-                        <td>5</td>
+                    <tr class="elective">
+                        <td>12:00 – 12:05</td>
+                        <td>Welcome, K. Nikita, National Technical University of Athens</td>
                     </tr>
-                    <tr>
-                        <td class="compulsory"><a class="table-link" href="#engineering-biomedicine">Engineering for Biomedicine <sup>(2)</sup></a></td>
-                        <td>5</td>
+                    <tr class="elective">
+                        <td>12:05 – 12:15</td>
+                        <td>Postgraduate studies: Educational Goals and Structure, K. Nikita, National Technical University of Athens</td>
                     </tr>
-                    <tr>
-                        <td class="compulsory"><a class="table-link" href="#biostatistics-ml">Biostatistics and Machine Learning</a></td>
-                        <td>5</td>
+                    <tr class="elective">
+                        <td>12:15 – 12:30</td>
+                        <td>Harnessing Deep Learning Approaches for Automated Electromechanical Imaging of the Cardiac Function with Clinical Ultrasound, E. Konofagou, Columbia University</td>
                     </tr>
-                    <tr>
-                        <td class="compulsory"><a class="table-link" href="#biosignals-processing">Biosignal acquisition and processing</a></td>
-                        <td>5</td>
+                    <tr class="elective">
+                        <td>12:30 – 12:45</td>
+                        <td>Harmonization and Airway Tree Subtyping on Large Cohorts of CT Images of the Lung for COPD Risk, A. Laine, Columbia University</td>
                     </tr>
-                    <tr>
-                        <td class="compulsory"><a class="table-link" href="#research-methodology">Research methodology</a></td>
-                        <td>5</td>
+                    <tr class="elective">
+                        <td>12:45 – 12:55</td>
+                        <td>Harnessing Internship opportunities: Student Perspective, K. Afentouli, K. Tziavaras</td>
                     </tr>
-                    <tr>
-                        <td class="elective"><a class="table-link" href="#translational-bioinformatics">Translational bioinformatics</a></td>
-                        <td>5</td>
+                    <tr class="elective">
+                        <td>12:55 – 13:05</td>
+                        <td>Building common Background: Life Sciences for Engineering, I. Doussis Anagnostopoulou, University of Athens</td>
                     </tr>
-                    <tr>
-                        <td class="elective"><a class="table-link" href="#biomechanics">Biomechanics</a></td>
-                        <td>5</td>
+                    <tr class="elective">
+                        <td>13:05 – 13:15</td>
+                        <td>Building Common Background: Engineering for Biomedicine, S. Golemati, University of Athens</td>
                     </tr>
-                    <tr>
-                        <td class="elective"><a class="table-link" href="#biodesign-fundamentals">Biodesign Fundamentals</a></td>
-                        <td>5</td>
+                    <tr class="elective">
+                        <td>13:15 – 13:25</td>
+                        <td>Promoting Innovation and Entrepreneurship, L. Alexopoulos, V. Papakonstantinou, National Technical University of Athens</td>
+                    </tr>
+                    <tr class="elective">
+                        <td>13:25 – 13:30</td>
+                        <td>Innovation and Entrepreneurship: Student Perspective, Th. Spiliotis, National Technical University of Athens</td>
+                    </tr>
+                    <tr class="compulsory">
+                        <td>Light Lunch, Music Library foyer</td>
                     </tr>
                 </tbody>
             </table>
