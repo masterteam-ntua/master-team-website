@@ -152,12 +152,14 @@ header3: Events
         <h3>
             Spyretta Golemati
         </h3>
-        <p>
-            Associate Professor of Biomedical Engineering, Medical School, National and Kapodistrian University of Athens
-        </p>
-        <p>
-            Spyretta Golemati is Associate Professor in Biomedical Engineering in the Medical School of the University of Athens. She holds a Diploma in Mechanical Engineering from the National Technical University of Athens and M.Sc. and Ph.D. degrees in Bioengineering from Imperial College London. Her research interests include (a) medical image /theme/img/team/analysis, with emphasis on vascular ultrasound image /theme/img/team/analysis, (b) biosignal processing, and (c) vascular physiology and pathophysiology. She has co-authored 37 papers published in international scientific peer-reviewed journals, 12 book chapters, and 45 papers published in international scientific peer-reviewed conference proceedings. She has participated in 7 funded national and international research projects (in one, as coordinator). Dr Golemati has acted as reviewer of national and international research proposals as well as of papers submitted to international scientific journals and conferences. She is a member of the Advisory Editorial Board of Ultrasound in Medicine and Biology. She is a member of the IEEE Engineering in Medicine and Biology Society (IEEE-EMBS), the IEEE Ultrasonics, Ferroelectrics and Frequency Control Society (IEEE-UFFC), the Technical Chamber of Greece, and the Hellenic Atherosclerosis Society.
-        </p>
+        <div>
+            <p>
+                Associate Professor of Biomedical Engineering, Medical School, National and Kapodistrian University of Athens
+            </p>
+            <p>
+                Spyretta Golemati is Associate Professor in Biomedical Engineering in the Medical School of the University of Athens. She holds a Diploma in Mechanical Engineering from the National Technical University of Athens and M.Sc. and Ph.D. degrees in Bioengineering from Imperial College London. Her research interests include (a) medical image /theme/img/team/analysis, with emphasis on vascular ultrasound image /theme/img/team/analysis, (b) biosignal processing, and (c) vascular physiology and pathophysiology. She has co-authored 37 papers published in international scientific peer-reviewed journals, 12 book chapters, and 45 papers published in international scientific peer-reviewed conference proceedings. She has participated in 7 funded national and international research projects (in one, as coordinator). Dr Golemati has acted as reviewer of national and international research proposals as well as of papers submitted to international scientific journals and conferences. She is a member of the Advisory Editorial Board of Ultrasound in Medicine and Biology. She is a member of the IEEE Engineering in Medicine and Biology Society (IEEE-EMBS), the IEEE Ultrasonics, Ferroelectrics and Frequency Control Society (IEEE-UFFC), the Technical Chamber of Greece, and the Hellenic Atherosclerosis Society.
+            </p>
+        </div>
     </div>
     <div class="row subject-block">
         <h3>
@@ -207,12 +209,14 @@ header3: Events
         <h3>
             Katerina Afentouli
         </h3>
-        <p>
-            Mechanical Engineer, MSc TEAM Student
-        </p>
-        <p>
-            Katerina Afentouli, originally from Athens, Greece, earned her integrated Master's Diploma in Mechanical Engineering from the University of Thessaly specializing in Mechanics, Materials, and Manufacturing Processes. Currently, she is pursuing a Master's degree in Biomedical Engineering at the National Technical University of Athens. Her thesis project is a collaboration with Columbia University's Ultrasound & Elasticity Imaging Lab (UEIL), where she is working on refining 3D rendering algorithms for echocardiography views, aiming to enhance the accuracy and detail of medical imaging for diagnostic and therapeutic applications.
-        </p>
+        <div>
+            <p>
+                Mechanical Engineer, MSc TEAM Student
+            </p>
+            <p>
+                Katerina Afentouli, originally from Athens, Greece, earned her integrated Master's Diploma in Mechanical Engineering from the University of Thessaly specializing in Mechanics, Materials, and Manufacturing Processes. Currently, she is pursuing a Master's degree in Biomedical Engineering at the National Technical University of Athens. Her thesis project is a collaboration with Columbia University's Ultrasound & Elasticity Imaging Lab (UEIL), where she is working on refining 3D rendering algorithms for echocardiography views, aiming to enhance the accuracy and detail of medical imaging for diagnostic and therapeutic applications.
+            </p>
+        </div>
     </div>
     <div class="row subject-block">
         <h3>
@@ -231,11 +235,12 @@ header3: Events
         <h3>
             Thodoris Spiliotis
         </h3>
-        <p>
-            Electrical and Computer Engineer, MSc TEAM Student
-        </p>
-        <p>
-            Thodoris Spiliotis has a Diploma in Electrical and Computer Engineering from the National Technical University of Athens (NTUA) and is currently working on his thesis for his Master's degree in Translational Engineering in Health and Medicine in NTUA. His thesis focuses on automated recognition of mental health status with the use of social media data through NLP and LLM techniques. He is committed to leveraging his knowledge through entrepreneurship. For this purpose, he founded Cordia, a company dedicated to developing innovative health solutions aimed at making a positive impact in the world.
-        </p>
+        <div>
+            <p>
+                Electrical and Computer Engineer, MSc TEAM Student
+            </p>
+            <p>
+                Thodoris Spiliotis has a Diploma in Electrical and Computer Engineering from the National Technical University of Athens (NTUA) and is currently working on his thesis for his Master's degree in Translational Engineering in Health and Medicine in NTUA. His thesis focuses on automated recognition of mental health status with the use of social media data through NLP and LLM techniques. He is committed to leveraging his knowledge through entrepreneurship. For this purpose, he founded Cordia, a company dedicated to developing innovative health solutions aimed at making a positive impact in the world.
+            </p>
+        </div>
     </div>
-</div>
