@@ -16,6 +16,9 @@ header3: Courses
         .left-aligned {
             text-align: left;
         }
+        .center-aligned {
+            text-align: center;
+        }
         .custom-table {
             width: 100%;
         }
@@ -24,18 +27,19 @@ header3: Courses
             margin: auto;
         }
     </style>
-    <div class="row subject-block" id="life-sciences">
+    <div class="row subject-block centered-tables">
         <h1>
             ISBI 2024 Satellite Event
         </h1>
         <h2>
             Translational Engineering in Health and Medicine: Education, Research, Innovation
         </h2>
-        <h3>
+        <p>
             Megaron Athens International Conference Centre - Giannis Marinos Hall
+        </p>
     </div>
     <div class="row my-3 centered-tables">
-        <h2>
+        <h2 class="left-aligned">
             Program Overview
         </h2>
         <div class="row table-container">
