@@ -16,8 +16,13 @@
 - title: Admissions
   href: /admissions
 
-- title: News
+- title: News and Events
   href: /news
+  subpages:
+    - title: News
+      href: /news
+    - title: Events
+      url: /events
 
 - title: Contact
   href: /contact
