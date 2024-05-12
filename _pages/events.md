@@ -306,9 +306,9 @@ header3: Events
         </div>
     </div>
         <div class="sponsor-logos team-member">
-            <img src="/theme/img/logos/Ntua-logo.svg" alt="Ntua logo">
-            <img src="/theme/img/logos/columbia.webp" alt="Columbia logo">
-            <img src="/theme/img/logos/ieee.webp" alt="IEEE logo">
-            <img src="/theme/img/logos/blod.webp" alt="Blod logo">
+            <img class="team-member-img" src="/theme/img/logos/NTUA-logo.svg" alt="NTUA logo">
+            <img class="team-member-img" src="/theme/img/logos/columbia.webp" alt="Columbia logo">
+            <img class="team-member-img" src="/theme/img/logos/ieee.webp" alt="IEEE logo">
+            <img class="team-member-img" src="/theme/img/logos/blod.webp" alt="Blod logo">
         </div>
 </div>
