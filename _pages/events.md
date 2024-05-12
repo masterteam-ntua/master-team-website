@@ -262,7 +262,7 @@ header3: Events
             Katerina Afentouli
         </h3>
         <div class="team-member">
-            <img class="team-member-img" src="/theme/img/testimonials/afentouli.webp" alt="Katerina Afentouli">
+            <img class="team-member-img" src="/theme/img/testimonials/afentouli.jpg" alt="Katerina Afentouli">
             <div class="team-member-bio left-aligned">
                 <p>
                     Mechanical Engineer, MSc TEAM Student
@@ -278,7 +278,7 @@ header3: Events
             Konstantinos Tziavaras
         </h3>
         <div class="team-member">
-            <img class="team-member-img" src="/theme/img/testimonials/tziavaras.webp" alt="Konstantinos Tziavaras">
+            <img class="team-member-img" src="/theme/img/testimonials/tziavaras.jpg" alt="Konstantinos Tziavaras">
             <div class="team-member-bio left-aligned">
                 <p>
                     Biologist, MSc TEAM Student
@@ -294,7 +294,7 @@ header3: Events
             Thodoris Spiliotis
         </h3>
         <div class="team-member">
-            <img class="team-member-img" src="/theme/img/testimonials/spiliotis.webp" alt="Thodoris Spiliotis">
+            <img class="team-member-img" src="/theme/img/testimonials/spiliotis.jpg" alt="Thodoris Spiliotis">
             <div class="team-member-bio left-aligned">
                 <p>
                     Electrical and Computer Engineer, MSc TEAM Student
