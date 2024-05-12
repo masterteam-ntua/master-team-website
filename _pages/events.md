@@ -150,7 +150,7 @@ header3: Events
     </div>
     <div class="row subject-block">
         <h3>
-            Spyretta Golemati
+            Spyretta Golemati    
         </h3>
         <p>
             Associate Professor of Biomedical Engineering, Medical School, National and Kapodistrian University of Athens
