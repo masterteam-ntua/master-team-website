@@ -11,14 +11,27 @@
     <div class="collapse navbar-collapse" id="navbarContent">
         <ul class="navbar-nav ml-auto">
         {% for item in site.data.nav %}
-            <li class="nav-item">
-                <a
-                  href='{% if item.href contains ":" %}{% else %}{{ site.baseurl }}{% endif %}{{ item.href }}'
-                  class='{% if page.url == item.href %}nav-link active{% else %}nav-link{% endif %}'
-                >
-                    {{ item.title }}
-                </a>
-            </li>
+            {% if item.subpages %}
+                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        {{ item.title }}
+                    </a>
+                    <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                        {% for subpage in item.subpages %}
+                            <a class="dropdown-item" href="{{ site.baseurl }}{{ subpage.href }}">{{ subpage.title }}</a>
+                        {% endfor %}
+                    </div>
+                </li>
+            {% else %}
+                <li class="nav-item">
+                    <a
+                      href='{% if item.href contains ":" %}{% else %}{{ site.baseurl }}{% endif %}{{ item.href }}'
+                      class='{% if page.url == item.href %}nav-link active{% else %}nav-link{% endif %}'
+                    >
+                        {{ item.title }}
+                    </a>
+                </li>
+            {% endif %}
         {% endfor %}
         </ul>
     </div>
