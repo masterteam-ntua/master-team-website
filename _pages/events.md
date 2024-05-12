@@ -31,10 +31,8 @@ header3: Courses
         <h1>
             ISBI 2024 Satellite Event
         </h1>
-        <h2 class="center-aligned">
-            Translational Engineering in Health and Medicine: Education, Research, Innovation
-        </h2>
         <p>
+            Translational Engineering in Health and Medicine: Education, Research, Innovation
             Megaron Athens International Conference Centre - Giannis Marinos Hall
         </p>
     </div>
