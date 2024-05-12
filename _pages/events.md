@@ -10,17 +10,20 @@ header3: Courses
 <div class="container">
     <div class="row my-3">
         <div class="row">
-            <table class="table table-bordered text-center">
+            <style>
+                .left-aligned {
+                    text-align: left;
+                }
+                .table-width {
+                    width: 80%;
+                }
+            </style>
+            <table class="table table-bordered text-center table-width">
                 <thead>
                     <tr>
                         <th scope="col" colspan="2" class="t-head">Wednesday 29 May 2024</th>
                     </tr>
                 </thead>
-                <style>
-                    .left-aligned {
-                        text-align: left;
-                    }
-                </style>
                 <tbody>
                     <tr class="elective">
                         <td style="width: 20%;">12:00 – 12:05</td>
@@ -65,7 +68,7 @@ header3: Courses
             </table>
         </div>
         <div class="row">
-            <table class="table table-bordered text-center">
+            <table class="table table-bordered text-center table-width">
                 <thead>
                     <tr>
                         <th scope="col" colspan="2" class="t-head">Thursday 30 May 2024</th>
