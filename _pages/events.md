@@ -22,7 +22,7 @@ header3: Courses
     </style>
     <div class="row my-3 centered-tables">
         <div class="row">
-            <table class="table table-bordered text-center table-width">
+            <table class="table table-bordered text-center custom-table">
                 <thead>
                     <tr>
                         <th scope="col" colspan="2" class="t-head">Wednesday 29 May 2024</th>
@@ -72,7 +72,7 @@ header3: Courses
             </table>
         </div>
         <div class="row">
-            <table class="table table-bordered text-center table-width">
+            <table class="table table-bordered text-center custom-table">
                 <thead>
                     <tr>
                         <th scope="col" colspan="2" class="t-head">Thursday 30 May 2024</th>
