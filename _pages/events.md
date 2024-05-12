@@ -18,6 +18,7 @@ header3: Courses
         }
         .custom-table {
             width: 80%;
+                margin: auto;
         }
     </style>
     <div class="row my-3 centered-tables">
