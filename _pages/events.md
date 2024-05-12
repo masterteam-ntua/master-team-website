@@ -31,7 +31,7 @@ header3: Courses
         <h1>
             ISBI 2024 Satellite Event
         </h1>
-        <h2>
+        <h2 class="center-aligned">
             Translational Engineering in Health and Medicine: Education, Research, Innovation
         </h2>
         <p>
@@ -39,7 +39,7 @@ header3: Courses
         </p>
     </div>
     <div class="row my-3 centered-tables">
-        <h2 class="left-aligned">
+        <h2>
             Program Overview
         </h2>
         <div class="row table-container">
