@@ -131,7 +131,7 @@ header3: Events
         Leonidas Alexopoulos
     </h3>
     <div style="display: flex;">
-            <img src="/theme/img/team/alexopoulos.webp" alt="Leonidas Alexopoulos" style="width:20%;">
+            <img src="/theme/img/team/alexopoulos.webp" alt="Leonidas Alexopoulos" style="max-width:20%; margin-right:20px;">
         <div>
             <p>
                 Head of the Systems Bioengineering Lab, School of Mechanical Engineering, NTUA; Co-founder of ProtATonce 
