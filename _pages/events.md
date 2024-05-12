@@ -39,6 +39,11 @@ header3: Events
             .team-member {
                 flex-direction: column;
             }
+            .team-member-img {
+                max-width: 80%;
+                margin-right: auto;
+                object-fit: cover;
+            }
         }
     </style>
     <div class="row subject-block centered-tables">
