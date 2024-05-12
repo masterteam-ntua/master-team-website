@@ -10,7 +10,7 @@ header3: Courses
 <div class="container">
     <!-- Courses overview -->
     <div class="row my-3">
-        <div class="col">
+        <div class="row">
             <table class="table table-bordered text-center">
                 <thead>
                     <tr>
@@ -55,12 +55,12 @@ header3: Courses
                         <td>Innovation and Entrepreneurship: Student Perspective, Th. Spiliotis, National Technical University of Athens</td>
                     </tr>
                     <tr class="compulsory">
-                        <td>Light Lunch, Music Library foyer</td>
+                        <td colspan="2">Light Lunch, Music Library foyer</td>
                     </tr>
                 </tbody>
             </table>
         </div>
-        <div class="col">
+        <div class="row">
             <table class="table table-bordered text-center">
                 <thead>
                     <tr>
