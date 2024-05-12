@@ -127,16 +127,21 @@ header3: Events
     </div>
     <!-- Courses description -->
             <div class="row subject-block">
-        <h3>
-            Leonidas Alexopoulos
-        </h3>
-        <p>
-            Head of the Systems Bioengineering Lab, School of Mechanical Engineering, NTUA; Co-founder of ProtATonce 
-        </p>
-        <p>
-            Leonidas Alexopoulos is an Associate Professor at the National Technical University of Athens, head of the Systems Bioengineering Lab, and co-founder of ProtATonce a biotech company that offers proteomic solutions for biomarker discovery. Leonidas received his PhD in 2004 from the Department of Biomedical Engineering at Duke University and he continued his postdoctoral studies at MIT (Dept of Biological Eng) and Harvard Medical School (Dept of Systems Biology). He combines a strong academic record with industrial expertise. He has served in several organizations for empowering research translation to startup companies including the MIT Enterprise Forum (Greek chapter), Mindspace and to an international strategy committee for the establishment of a novel biotechnology cluster in Seoul, Korea.   
-        </p>
+    <h3>
+        Leonidas Alexopoulos
+    </h3>
+    <div style="display: flex;">
+        <img src="/theme/img/team/alexopoulos.webp" alt="Leonidas Alexopoulos" style="margin-right: 20px;">
+        <div>
+            <p>
+                Head of the Systems Bioengineering Lab, School of Mechanical Engineering, NTUA; Co-founder of ProtATonce 
+            </p>
+            <p>
+                Leonidas Alexopoulos is an Associate Professor at the National Technical University of Athens, head of the Systems Bioengineering Lab, and co-founder of ProtATonce a biotech company that offers proteomic solutions for biomarker discovery. Leonidas received his PhD in 2004 from the Department of Biomedical Engineering at Duke University and he continued his postdoctoral studies at MIT (Dept of Biological Eng) and Harvard Medical School (Dept of Systems Biology). He combines a strong academic record with industrial expertise. He has served in several organizations for empowering research translation to startup companies including the MIT Enterprise Forum (Greek chapter), Mindspace and to an international strategy committee for the establishment of a novel biotechnology cluster in Seoul, Korea.   
+            </p>
+        </div>
     </div>
+</div>
     <div class="row subject-block">
         <h3>
             Ipatia Doussis-Anagnostopoulou
