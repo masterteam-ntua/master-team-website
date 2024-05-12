@@ -24,39 +24,39 @@ header3: Courses
                 <tbody>
                     <tr class="elective">
                         <td style="width: 20%;">12:00 – 12:05</td>
-                        <td>Welcome, K. Nikita, National Technical University of Athens</td>
+                        <td class="left-aligned">Welcome, K. Nikita, National Technical University of Athens</td>
                     </tr>
                     <tr class="elective">
                         <td style="width: 20%;">12:05 – 12:15</td>
-                        <td>Postgraduate studies: Educational Goals and Structure, K. Nikita, National Technical University of Athens</td>
+                        <td class="left-aligned">Postgraduate studies: Educational Goals and Structure, K. Nikita, National Technical University of Athens</td>
                     </tr>
                     <tr class="elective">
                         <td style="width: 20%;">12:15 – 12:30</td>
-                        <td>Harnessing Deep Learning Approaches for Automated Electromechanical Imaging of the Cardiac Function with Clinical Ultrasound, E. Konofagou, Columbia University</td>
+                        <td class="left-aligned">Harnessing Deep Learning Approaches for Automated Electromechanical Imaging of the Cardiac Function with Clinical Ultrasound, E. Konofagou, Columbia University</td>
                     </tr>
                     <tr class="elective">
                         <td style="width: 20%;">12:30 – 12:45</td>
-                        <td>Harmonization and Airway Tree Subtyping on Large Cohorts of CT Images of the Lung for COPD Risk, A. Laine, Columbia University</td>
+                        <td class="left-aligned">Harmonization and Airway Tree Subtyping on Large Cohorts of CT Images of the Lung for COPD Risk, A. Laine, Columbia University</td>
                     </tr>
                     <tr class="elective">
                         <td style="width: 20%;">12:45 – 12:55</td>
-                        <td>Harnessing Internship opportunities: Student Perspective, K. Afentouli, K. Tziavaras</td>
+                        <td class="left-aligned">Harnessing Internship opportunities: Student Perspective, K. Afentouli, K. Tziavaras</td>
                     </tr>
                     <tr class="elective">
                         <td style="width: 20%;">12:55 – 13:05</td>
-                        <td>Building common Background: Life Sciences for Engineering, I. Doussis Anagnostopoulou, University of Athens</td>
+                        <td class="left-aligned">Building common Background: Life Sciences for Engineering, I. Doussis Anagnostopoulou, University of Athens</td>
                     </tr>
                     <tr class="elective">
                         <td style="width: 20%;">13:05 – 13:15</td>
-                        <td>Building Common Background: Engineering for Biomedicine, S. Golemati, University of Athens</td>
+                        <td class="left-aligned">Building Common Background: Engineering for Biomedicine, S. Golemati, University of Athens</td>
                     </tr>
                     <tr class="elective">
                         <td style="width: 20%;">13:15 – 13:25</td>
-                        <td>Promoting Innovation and Entrepreneurship, L. Alexopoulos, V. Papakonstantinou, National Technical University of Athens</td>
+                        <td class="left-aligned">Promoting Innovation and Entrepreneurship, L. Alexopoulos, V. Papakonstantinou, National Technical University of Athens</td>
                     </tr>
                     <tr class="elective">
                         <td style="width: 20%;">13:25 – 13:30</td>
-                        <td>Innovation and Entrepreneurship: Student Perspective, Th. Spiliotis, National Technical University of Athens</td>
+                        <td class="left-aligned">Innovation and Entrepreneurship: Student Perspective, Th. Spiliotis, National Technical University of Athens</td>
                     </tr>
                     <tr class="compulsory">
                         <td colspan="2">Light Lunch, Music Library foyer</td>
@@ -74,7 +74,7 @@ header3: Courses
                 <tbody>
                     <tr class="elective">
                         <td style="width: 20%;">09:30 – 09:50</td>
-                        <td>Opening Remarks, K. Nikita, L. Alexopoulos, V. Papakonstantinou, National Technical University of Athens</td>
+                        <td class="left-aligned">Opening Remarks, K. Nikita, L. Alexopoulos, V. Papakonstantinou, National Technical University of Athens</td>
                     </tr>
                     <tr class="elective">
                         <td style="width: 20%;">09:50 – 11:00</td>
