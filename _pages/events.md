@@ -35,6 +35,16 @@ header3: Events
             margin-right: 20px;
             object-fit: cover;
         }
+        .sponsor-logos {
+            display: flex; /* Use Flexbox */
+            justify-content: space-around; /* Distribute logos evenly across the row */
+            align-items: center; /* Center logos vertically */
+            flex-direction: row;
+        }
+        .sponsor-logo-img {
+            max-width: 100%; /* Ensure the image is not larger than its container */
+            height: auto; /* Maintain aspect ratio */
+        }
         @media screen and (max-width: 600px) {
             .team-member {
                 flex-direction: column;
@@ -43,6 +53,9 @@ header3: Events
                 max-width: 80%;
                 margin-right: auto;
                 object-fit: cover;
+            }
+            .sponsor-logos {
+                flex-direction: column;
             }
         }
     </style>
@@ -262,7 +275,7 @@ header3: Events
             Katerina Afentouli
         </h3>
         <div class="team-member">
-            <img class="team-member-img" src="/theme/img/testimonials/afentouli.jpg" alt="Katerina Afentouli">
+            <img class="team-member-img" src="/theme/img/testimonials/afentouli.webp" alt="Katerina Afentouli">
             <div class="team-member-bio left-aligned">
                 <p>
                     Mechanical Engineer, MSc TEAM Student
@@ -278,7 +291,7 @@ header3: Events
             Konstantinos Tziavaras
         </h3>
         <div class="team-member">
-            <img class="team-member-img" src="/theme/img/testimonials/tziavaras.jpg" alt="Konstantinos Tziavaras">
+            <img class="team-member-img" src="/theme/img/testimonials/tziavaras.webp" alt="Konstantinos Tziavaras">
             <div class="team-member-bio left-aligned">
                 <p>
                     Biologist, MSc TEAM Student
@@ -294,7 +307,7 @@ header3: Events
             Thodoris Spiliotis
         </h3>
         <div class="team-member">
-            <img class="team-member-img" src="/theme/img/testimonials/spiliotis.png" alt="Thodoris Spiliotis">
+            <img class="team-member-img" src="/theme/img/testimonials/spiliotis.webp" alt="Thodoris Spiliotis">
             <div class="team-member-bio left-aligned">
                 <p>
                     Electrical and Computer Engineer, MSc TEAM Student
@@ -305,10 +318,10 @@ header3: Events
             </div>
         </div>
     </div>
-        <div class="sponsor-logos team-member">
-            <img class="team-member-img" src="/theme/img/logos/NTUA-logo.svg" alt="NTUA logo">
-            <img class="team-member-img" src="/theme/img/logos/columbia.webp" alt="Columbia logo">
-            <img class="team-member-img" src="/theme/img/logos/ieee.webp" alt="IEEE logo">
-            <img class="team-member-img" src="/theme/img/logos/blod.webp" alt="Blod logo">
-        </div>
+    <div class="sponsor-logos">
+        <img class="sponsor-logo-img" src="/theme/img/logos/NTUA-logo.svg" alt="NTUA logo">
+        <img class="sponsor-logo-img" src="/theme/img/logos/columbia.webp" alt="Columbia logo">
+        <img class="sponsor-logo-img" src="/theme/img/logos/ieee.webp" alt="IEEE logo">
+        <img class="sponsor-logo-img" src="/theme/img/logos/blod.webp" alt="Blod logo">
+    </div>
 </div>
