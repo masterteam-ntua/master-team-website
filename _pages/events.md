@@ -64,41 +64,28 @@ header3: Courses
             <table class="table table-bordered text-center">
                 <thead>
                     <tr>
-                        <th scope="col" colspan="2" class="t-head">Spring Semester</th>
-                    </tr>
-                    <tr>
-                        <th scope="col" class="t-subhead">Course</th>
-                        <th scope="col" class="t-subhead">ECTS</th>
+                        <th scope="col" colspan="2" class="t-head">Thursday 30 May 2024</th>
                     </tr>
                 </thead>
                 <tbody>
-                    <tr>
-                        <td class="compulsory"><a class="table-link" href="#medical-imaging">Medical imaging and image analysis</a></td>
-                        <td>5</td>
+                    <tr class="elective">
+                        <td style="width: 20%;">09:30 – 09:50</td>
+                        <td>Opening Remarks, K. Nikita, L. Alexopoulos, V. Papakonstantinou, National Technical University of Athens</td>
                     </tr>
-                    <tr>
-                        <td class="compulsory"><a class="table-link" href="#computational-medicine">Computational modeling and simulation for medicine</a></td>
-                        <td>5</td>
+                    <tr class="elective">
+                        <td style="width: 20%;">09:50 – 11:00</td>
+                        <td>
+                            Pitch Presentations and Discussion
+                            <ul>
+                                <li>Allerxy, N. Papazisimou, E. Stamos, E. Kanaki, K. Ronzi, D. Papanagnou</li>
+                                <li>D-stress, A. Arvaniti, I. Papacharalampous, P. Kalamara, V. Konsta, A. Panagiotarakos</li>
+                                <li>HealHopper, I. Tselios, G. Zografakis, T. Kopsidas, N. Kapsampelis</li>
+                                <li>TEAM-CAGE, K. Politopoulou, M. Kalogelopoulos</li>
+                            </ul>
+                        </td>
                     </tr>
-                    <tr>
-                        <td class="compulsory"><a class="table-link" href="#ai-healthcare">Artificial Intelligence in healthcare</a></td>
-                        <td>5</td>
-                    </tr>
-                    <tr>
-                        <td class="elective"><a class="table-link" href="#biomems">BioMEMS</a></td>
-                        <td>5</td>
-                    </tr>
-                    <tr>
-                        <td class="elective"><a class="table-link" href="#introduction-neuroscience">Introduction to neuroscience and neural engineering</a></td>
-                        <td>5</td>
-                    </tr>
-                    <tr>
-                        <td class="elective"><a class="table-link" href="#healthcare-robotics">Healthcare robotics</a></td>
-                        <td>5</td>
-                    </tr>
-                    <tr>
-                        <td class="elective"><a class="table-link" href="#biodesign-advanced">Biodesign Innovation Process <sup>(3)</sup></a></td>
-                        <td>5</td>
+                    <tr class="compulsory">
+                        <td colspan="2">Networking, Music Library foyer</td>
                     </tr>
                 </tbody>
             </table>
