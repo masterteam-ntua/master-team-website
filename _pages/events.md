@@ -8,7 +8,6 @@ header2:
 header3: Courses
 ---
 <div class="container">
-    <!-- Courses overview -->
     <div class="row my-3">
         <div class="row">
             <table class="table table-bordered text-center">
@@ -17,6 +16,11 @@ header3: Courses
                         <th scope="col" colspan="2" class="t-head">Wednesday 29 May 2024</th>
                     </tr>
                 </thead>
+                <style>
+                    .left-aligned {
+                        text-align: left;
+                    }
+                </style>
                 <tbody>
                     <tr class="elective">
                         <td style="width: 20%;">12:00 – 12:05</td>
@@ -74,7 +78,7 @@ header3: Courses
                     </tr>
                     <tr class="elective">
                         <td style="width: 20%;">09:50 – 11:00</td>
-                        <td>
+                        <td class="left-aligned">
                             Pitch Presentations and Discussion
                             <ul>
                                 <li>Allerxy, N. Papazisimou, E. Stamos, E. Kanaki, K. Ronzi, D. Papanagnou</li>
