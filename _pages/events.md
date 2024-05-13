@@ -68,9 +68,9 @@ header3: Events
             ISBI 2024 Satellite Event
         </h1>
         <div class="center-aligned">
-            <p>
+            <h3>
                 Translational Engineering in Health and Medicine: Education, Research, Innovation
-            </p>
+            </h3>
             <br>
             <p>
                 Megaron Athens International Conference Centre - Giannis Marinos Hall
@@ -247,7 +247,7 @@ header3: Events
             Konstantina S. Nikita
         </h3>
         <div class="team-member">
-            <img class="team-member-img" src="/theme/img/team/nikita.webp" alt="Konstantina S. Nikita">
+            <img class="team-member-img" src="/theme/img/team/nikita_1.webp" alt="Konstantina S. Nikita">
             <div class="team-member-bio left-aligned">
                 <p>
                     Professor of Electrical and Computer Engineering, Founding Director of the MSc Programme “Translational Engineering in Health and Medicine”, NTUA
