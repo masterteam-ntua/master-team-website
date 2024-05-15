@@ -144,12 +144,18 @@ header3: Events
                         <td class="left-aligned">Opening Remarks, K. Nikita, L. Alexopoulos, V. Papakonstantinou, National Technical University of Athens</td>
                     </tr>
                     <tr class="elective">
-                        <td style="width: 20%;">09:50 – 11:00</td>
+                        <td style="width: 20%;">09:50 – 10:00</td>
+                        <td class="left-aligned">
+                            A Student Project Journey: Airis, D. Brilli, S. Tsilivaki, E. Georgaras
+                        </td>
+                    </tr>
+                    <tr class="elective">
+                        <td style="width: 20%;">10:50 – 11:00</td>
                         <td class="left-aligned">
                             Pitch Presentations and Discussion
                             <ul>
                                 <li>Allerxy, N. Papazisimou, E. Stamos, E. Kanaki, K. Ronzi, D. Papanagnou</li>
-                                <li>D-stress, A. Arvaniti, I. Papacharalampous, P. Kalamara, V. Konsta, A. Panagiotarakos</li>
+                                <li>D-stress, Μ. Arvaniti, I. Charalampous, P. Kalamara, V. Konsta, A. Panagiotarakos</li>
                                 <li>HealHopper, I. Tselios, G. Zografakis, T. Kopsidas, N. Kapsampelis</li>
                                 <li>TEAM-CAGE, K. Politopoulou, M. Kalogelopoulos</li>
                             </ul>
