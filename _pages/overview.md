@@ -2,9 +2,9 @@
 layout: defaults/page
 permalink: /overview
 narrow: false
-header0: MASTER
-header1: TEAM
-header2:
+header0: 
+header1: Master of Science
+header2: Translational Engineering in Health and Medicine
 header3: Program Overview
 ---
 
