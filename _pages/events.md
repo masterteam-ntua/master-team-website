@@ -150,7 +150,7 @@ header3: Events
                         </td>
                     </tr>
                     <tr class="elective">
-                        <td style="width: 20%;">10:50 – 11:00</td>
+                        <td style="width: 20%;">10:00 – 11:00</td>
                         <td class="left-aligned">
                             Pitch Presentations and Discussion
                             <ul>
