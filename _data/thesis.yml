@@ -61,19 +61,19 @@
   Supervisor: '<a href="" data-toggle="modal" data-target="#papakonstantinou-modal">Papakonstantinou Vassilis</a>, <a href="" data-toggle="modal" data-target="#alexopoulos-modal">Alexopoulos Leonidas</a>'
   Sort: papakonstantinou
   
-- Title: "Use of digital technologies in palliative care"
-  Text: "Digital technologies are increasingly being used in delivery of palliative care, i.e. specialised care for patients with serious illnesses, including terminal conditions. Opportunities and barriers in integrating digital technologies in palliative care have been documented in recent studies. In collaboration with palliative care practitioners in Evangelismos hospital, the thesis aims to develop strategies and approaches to support palliative care."
-  Related: null
-  Area: null
-  Supervisor: '<a href="" data-toggle="modal" data-target="#golemati-modal">Golemati Spyretta</a>'
-  Sort: golemati
+# - Title: "Use of digital technologies in palliative care"
+#   Text: "Digital technologies are increasingly being used in delivery of palliative care, i.e. specialised care for patients with serious illnesses, including terminal conditions. Opportunities and barriers in integrating digital technologies in palliative care have been documented in recent studies. In collaboration with palliative care practitioners in Evangelismos hospital, the thesis aims to develop strategies and approaches to support palliative care."
+#   Related: null
+#   Area: null
+#   Supervisor: '<a href="" data-toggle="modal" data-target="#golemati-modal">Golemati Spyretta</a>'
+#   Sort: golemati
   
-- Title: "Analysis of ultrasound images of the carotid artery"
-  Text: "Ultrasound images of the carotid artery are widely used in the diagnosis of vascular disease. Image analysis methods allow estimation of morphological and mechanical tissue features, thus facilitating image interpretation. The purpose of the thesis is to develop novel methods for ultrasound image analysis, towards describing physiological phenomena."
-  Related: null
-  Area: null
-  Supervisor: '<a href="" data-toggle="modal" data-target="#golemati-modal">Golemati Spyretta</a>'
-  Sort: golemati
+# - Title: "Analysis of ultrasound images of the carotid artery"
+#   Text: "Ultrasound images of the carotid artery are widely used in the diagnosis of vascular disease. Image analysis methods allow estimation of morphological and mechanical tissue features, thus facilitating image interpretation. The purpose of the thesis is to develop novel methods for ultrasound image analysis, towards describing physiological phenomena."
+#   Related: null
+#   Area: null
+#   Supervisor: '<a href="" data-toggle="modal" data-target="#golemati-modal">Golemati Spyretta</a>'
+#   Sort: golemati
 
 - Title: "Identifying risk factors for Mild Cognitive Impairment progression via Interpretable Machine Learning"
   Text: "Dementia is a neurodegenerative disease that significantly impacts cognitive functions, such as decline in memory, thinking, and reasoning abilities. Mild Cognitive Impairment (MCI) serves as an intermediate stage between normal cognitive aging and dementia. MCI is considered a significant risk factor for the development of dementia and identifying individuals with MCI who are at higher risk of progressing is essential for early intervention and treatment. This diploma thesis will investigate the progression of MCI by employing machine learning (ML) techniques for discriminating between healthy individuals that remain stable and healthy individuals that develop MCI and MCI patients that remain stable and MCI patients that develop dementia. Interpretable machine learning methods will be also used to highlight risk factors, clinical and genetic, that can lead to the progression of MCI."
