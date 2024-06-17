@@ -85,7 +85,7 @@ show_sidebar: false
         </p>
         <h2 class="my-3"><a id= "Application_Process_Section">Application Process</a></h2>
         <p>
-            Interested candidates are invited to submit their application online <strong>between  15 May and 14 June 2024</strong>. Prospective graduate
+            Interested candidates are invited to submit their application online <strong>between  15 May and 22 June 2024</strong>. Prospective graduate
             students must register as users at 
             <a href ="https://gradapply.ece.ntua.gr/register" target="_blank"><strong>gradapply.ece.ntua.gr/register</strong></a> 
             and then submit their application by the deadline at 
@@ -94,7 +94,7 @@ show_sidebar: false
         </p>
         <p>
             The application deadline for the MSc in Translational Engineering in Health and Medicine for the academic year 2024-2025 is 
-            <strong>June 14th, 2024</strong>.
+            <strong>June 22nd, 2024</strong>.
         </p>
         <p>
             All materials must be received by the applicable deadline to be considered. Successful candidates will be required to present
