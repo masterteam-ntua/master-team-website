@@ -82,6 +82,34 @@
 #   Supervisor: '<a href="" data-toggle="modal" data-target="#golemati-modal">Golemati Spyretta</a>'
 #   Sort: golemati
 
+- Title: "Stress-strain curve of the carotid artery"
+  Text: "The stress-strain relationship illustrates the range of strains undergone by a given material under the effect of a range of stresses applied on it. If this relationship is linear, i.e. the material obeys Hooke's law, its slope can be used to estimate the elastic modulus, known as the Young's modulus. This modulus is an index of the stiffness of the material; the higher the modulus, the stiffer the material. The stress-strain relationship has been demonstrated to be feasible in noninvasively assessing regional carotid artery stiffness by way of ultrasound images and tonometry measurements. In this thesis, similar measurements will be used to assess the stress-strain curve and derive the Young's moduli. In particular, the diastolic part of the cardiac cycle will be investigated, and compared to the systolic part; the former having gained less attention than the latter.<br>The work will be carried out in collaboration with the Ultrasound Elasticity Imaging Laboratory of Columbia University."
+  Related: null
+  Area: null
+  Supervisor: '<a href="" data-toggle="modal" data-target="#golemati-modal">Golemati Spyretta</a>'
+  Sort: golemati
+
+- Title: "B-mode ultrasound elastography"
+  Text: "Ultrasound elastography is widely used for characterising tissue stiffness. The primary premises of elastography are that speckle kinematics reproduces underlying tissue kinematics and that tissue motion can be inferred from speckle tracking. Tissue motion can be assessed with a number of methods, including, for example, optical flow (OF) equations. This thesis focuses on the development of a novel motion-based elastography method devoted to B-mode data; traditional ultrasound elastography techniques rely on radiofrequency data. The method will allow computing axial and lateral displacement fields, as well as the 2-D strain tensor. The method will be applied to ultrasound images of the carotid arteries of normal and atherosclerotic subjects."
+  Related: null
+  Area: null
+  Supervisor: '<a href="" data-toggle="modal" data-target="#golemati-modal">Golemati Spyretta</a>'
+  Sort: golemati
+
+- Title: "Motion analysis of diaphragmatic ultrasound images"
+  Text: "The diaphragm is the main muscle of respiration, acting continuously and uninterruptedly to sustain the task of breathing. Diaphragmatic dysfunction can occur secondary to numerous pathological conditions. Diaphragmatic ultrasound can be used to assess diaphragmatic excursion and diaphragm thickening in the zone of apposition. Ultrasound diaphragmatic muscle motion characteristics may provide useful information about normal or abnormal diaphragmatic function and indicate diaphragmatic weakness, or paralysis. Such information is useful for assessing the status of critically ill patients, and those receiving mechanical ventilation. This thesis will develop an automated analysis method for the quantitative analysis of ultrasonic motion from ultrasound diaphragmatic videos.<br>The work will be carried out in collaboration with the First Intensive Care Unit of the National and Kapodistrian University of Athens."
+  Related: null
+  Area: null
+  Supervisor: '<a href="" data-toggle="modal" data-target="#golemati-modal">Golemati Spyretta</a>'
+  Sort: golemati
+
+- Title: "Automatic pleural effusion classification from lung ultrasound images"
+  Text: "Lung ultrasound is a well-established point-of-care diagnostic approach used in detecting pathological changes near the pleura of the lung. The main limitation to widespread use is its dependence on the operator training and experience. In this thesis, an automated system will be developed for the interpretation of lung ultrasound of pleural effusion.<br>The work will be carried out in collaboration with the First Intensive Care Unit of the National and Kapodistrian University of Athens."
+  Related: null
+  Area: null
+  Supervisor: '<a href="" data-toggle="modal" data-target="#golemati-modal">Golemati Spyretta</a>'
+  Sort: golemati
+
 - Title: "Identifying risk factors for Mild Cognitive Impairment progression via Interpretable Machine Learning"
   Text: "Dementia is a neurodegenerative disease that significantly impacts cognitive functions, such as decline in memory, thinking, and reasoning abilities. Mild Cognitive Impairment (MCI) serves as an intermediate stage between normal cognitive aging and dementia. MCI is considered a significant risk factor for the development of dementia and identifying individuals with MCI who are at higher risk of progressing is essential for early intervention and treatment. This diploma thesis will investigate the progression of MCI by employing machine learning (ML) techniques for discriminating between healthy individuals that remain stable and healthy individuals that develop MCI and MCI patients that remain stable and MCI patients that develop dementia. Interpretable machine learning methods will be also used to highlight risk factors, clinical and genetic, that can lead to the progression of MCI."
   Related: null
