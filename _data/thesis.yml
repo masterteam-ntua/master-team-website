@@ -60,6 +60,13 @@
   Area: null
   Supervisor: '<a href="" data-toggle="modal" data-target="#papakonstantinou-modal">Papakonstantinou Vassilis</a>, <a href="" data-toggle="modal" data-target="#alexopoulos-modal">Alexopoulos Leonidas</a>'
   Sort: papakonstantinou
+
+- Title: "Εnhancing Cardiology Diagnostics through Collaborative AI-Human Interaction"
+  Text: "Recent advances in artificial intelligence (AI) have opened new avenues for improving clinical diagnostics in specialized fields such as cardiology. This thesis will focus on exploring the dynamics of collaboration between human cardiologists and AI, specifically using Retrieval-Augmented Generation (RAG) enabled Large Language Models (LLMs) that incorporate dynamic access to medical knowledge bases. The study will assess how AI can augment human decision-making in real time during the diagnostic process."
+  Related: null
+  Area: null
+  Supervisor: '<a href="" data-toggle="modal" data-target="#papakonstantinou-modal">Papakonstantinou Vassilis</a>, <a href="" data-toggle="modal" data-target="#nikita-modal">Konstantina Nikita</a>'
+  Sort: papakonstantinou
   
 # - Title: "Use of digital technologies in palliative care"
 #   Text: "Digital technologies are increasingly being used in delivery of palliative care, i.e. specialised care for patients with serious illnesses, including terminal conditions. Opportunities and barriers in integrating digital technologies in palliative care have been documented in recent studies. In collaboration with palliative care practitioners in Evangelismos hospital, the thesis aims to develop strategies and approaches to support palliative care."
