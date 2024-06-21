@@ -144,3 +144,10 @@
   Area: null
   Supervisor: '<a href="" data-toggle="modal" data-target="#aidinis-modal">Aidinis Vassilis</a>'
   Sort: aidinis
+
+- Title: "Development of Antimicrobial Coatings Using Integrated Electric Micro-heaters"
+  Text: "The transmission of pathogenic microorganisms from contaminated surfaces to humans is a major threat to public health. The transparent and conductive material Indium Tin Oxide (ITO) can form the basis for the development of flexible coatings with antimicrobial activity, provided they are heated to the appropriate temperature by passing an electric current.<br>In this project, ITO surfaces, properly patterned with laser engraving, will be examined for their antimicrobial action through supply with electric current. Depending on the geometry of their morphology, obtained from laser engraving, the electrical resistance of the surfaces can be adjusted, impacting their temperature and heat distribution when electrically activated. The electrical and thermal properties of such surfaces will be examined and the conditions with optimal antimicrobial activity will be selected."
+  Related: null
+  Area: null
+  Supervisor: '<a href="" data-toggle="modal" data-target="#chronis-modal">Chronis Nikos</a>'
+  Sort: chronis
