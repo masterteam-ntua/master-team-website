@@ -11,6 +11,20 @@
   Area: null
   Supervisor: '<a href="" data-toggle="modal" data-target="#stamatakos-modal">Stamatakos Georgios</a>'
   Sort: stamatakos
+
+- Title: "Enhancing Diagnostic Accuracy with Deep Learning: A Study on MRI Image Segmentation for Brain Tumor Identification"
+  Text: 'The primary aim of this thesis is to develop a deep learning model that enhances the accuracy and efficiency of brain tumor identification through MRI image segmentation. This research will focus on employing and refining state-of-the-art deep learning techniques to segment brain tumors from MRI scans more precisely than current traditional and semi-automated methods.'
+  Related: null
+  Area: null
+  Supervisor: '<a href="" data-toggle="modal" data-target="#asvestas-modal">Asvestas Panteleimon</a>'
+  Sort: asvestas
+
+- Title: "Application of Convolutional Neural Networks in the Automated Detection of Pulmonary Tuberculosis from Chest X-Rays"
+  Text: 'The goal of this thesis is to develop a convolutional neural network (CNN) based model that can automatically detect pulmonary tuberculosis (TB) from chest X-ray images. This research aims to enhance the detection speed and accuracy, potentially aiding in quicker and more reliable TB screening, especially in under-resourced areas.'
+  Related: null
+  Area: null
+  Supervisor: '<a href="" data-toggle="modal" data-target="#asvestas-modal">Asvestas Panteleimon</a>'
+  Sort: asvestas
   
 - Title: 'In silico generation of 4D flow MRI data employing computational fluid dynamics simulations in patient-specific abdominal aortic aneurysm models'
   Text: 'There are only limited medical imaging methodologies to non-invasively and accurately assess the blood flow and its properties. The most advanced technique is 4D Flow Magnetic Resonance Imaging (MRI), that enables the calculation of hemodynamic fields across extended vascular regions and can be further processed to produce clinically relevant hemodynamic indices, such as wall shear stresses. The aim of the thesis is to in silico generate 4D flow MRI-like training data starting from computational hemodynamic simulations in patient-specific pathological vascular anatomies, particularly in abdominal aortic aneurysms. Several transformations will be implemented to bridge the gap between the computational fluid dynamics (CFD)- generated blood velocity field and actual imaging data derived from 4D Flow MRI scans. The candidate will collaborate with vascular surgeons and radiologists from the “Attikon” University Hospital who will provide real 4D MRI scans for validation purposes.'
