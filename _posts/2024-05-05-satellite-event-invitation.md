@@ -3,7 +3,7 @@ title: ISBI 2024 Satellite Event
 description: May 29th & 30th, 2024
 directory: satellite-event-invitation
 thumb: isbi.jpg
-categories: other
+categories: announcement
 ---
 Join us for our exclusive satellite event alongside ISBI 2024: "Translational Engineering in Health & Medicine: Education, Research, Innovation"
 
