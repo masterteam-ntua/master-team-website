@@ -2,7 +2,7 @@
 title: Optional preliminary lectures
 description: Optional preliminary lectures on Python for NTUA TEAM students
 directory: announcements
-thumb: announcement.webp
+thumb: python.jpeg
 categories: announcement
 ---
 
