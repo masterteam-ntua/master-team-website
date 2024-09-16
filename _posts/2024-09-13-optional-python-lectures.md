@@ -1,6 +1,6 @@
 ---
-title: Optional preliminary lectures
-description: Optional preliminary lectures on Python for NTUA TEAM students
+title: Optional introductory lectures
+description: Optional introductory lectures on Python for NTUA TEAM students
 directory: announcements
 thumb: python.jpeg
 categories: announcement
