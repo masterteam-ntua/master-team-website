@@ -80,7 +80,7 @@ youtubeId: nmKlqTZm_rg
     </div>
     <div class="embed-container">
       <iframe
-          src="https://www.youtube.com/embed/{{youtubeId}}"
+          src="https://www.youtube.com/embed/{%page.youtubeId%}"
           width="700"
           height="480"
           frameborder="0"
