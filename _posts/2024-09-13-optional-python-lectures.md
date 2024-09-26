@@ -15,4 +15,4 @@ The lectures will be given by Mr Thanos Voulodimos, Assistant Professor at the S
 
 Best wishes for a great start!
 
-{% include youtubePlayer.html id=page.youtubeId %}
+{% include utilities/youtubePlayer.html id=page.youtubeId %}
