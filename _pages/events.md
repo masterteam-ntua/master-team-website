@@ -78,7 +78,15 @@ youtubeId: nmKlqTZm_rg
             </p>
         </div>
     </div>
-    {% include youtubePlayer.html id=page.youtubeId %}
+    <div class="embed-container">
+      <iframe
+          src="https://www.youtube.com/embed/{{youtubeId}}"
+          width="700"
+          height="480"
+          frameborder="0"
+          allowfullscreen="true">
+      </iframe>
+    </div>
     <div class="row my-3 centered-tables">
         <h2>
             Program Overview
