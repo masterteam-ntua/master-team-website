@@ -6,6 +6,7 @@ header0:
 header1: Master of Science
 header2: Translational Engineering in Health and Medicine
 header3: Events
+youtubeId: nmKlqTZm_rg
 ---
 <div class="container">
     <style>
@@ -77,6 +78,7 @@ header3: Events
             </p>
         </div>
     </div>
+    {% include youtubePlayer.html id=page.youtubeId %}
     <div class="row my-3 centered-tables">
         <h2>
             Program Overview
