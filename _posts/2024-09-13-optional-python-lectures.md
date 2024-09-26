@@ -4,6 +4,7 @@ description: Optional introductory lectures on Python for NTUA TEAM students
 directory: announcements
 thumb: python.jpeg
 categories: announcement
+youtubeId: Z5iIhSBXOEA
 ---
 
 Dear students,
@@ -13,3 +14,5 @@ we would like to inform you about the opportunity to attend a small number of in
 The lectures will be given by Mr Thanos Voulodimos, Assistant Professor at the School of Electrical and Computer Engineering of NTUA and one of the co-instructors of the course "Biostatistics and Machine Learning" which you will be attending in the fall semester.
 
 Best wishes for a great start!
+
+{% include youtubePlayer.html id=page.youtubeId %}
