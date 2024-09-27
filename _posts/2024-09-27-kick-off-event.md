@@ -1,6 +1,6 @@
 ---
-title: Kick-off event
-description: for the new academic year
+title: Kick-off event!
+description: Kick-off event for the new academic year
 directory: announcements
 thumb: announcement.webp
 categories: announcement
