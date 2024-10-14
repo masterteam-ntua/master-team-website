@@ -1,5 +1,5 @@
 ---
-title: Declaration of interest
+title: Expression of interest
 description: ... for enrollment at the Joint Elective Course “Communication Skills for Engineers”
 directory: announcements
 thumb: announcement.webp
