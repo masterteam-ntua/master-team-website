@@ -41,8 +41,8 @@ header3: Program Overview
         <p>
             The program is offered full-time and includes two semesters of coursework and one semester of Master's (M.Sc.) thesis research. The regular
             duration for completing the M.Sc. program is three (3) academic semesters. The maximum study period is two (2) years. The language of
-            instruction is English. Attendance of lectures and laboratory sessions is mandatory. Courses for the academic year 2023-2024 will start in
-            October 2023.
+            instruction is English. Attendance of lectures and laboratory sessions is mandatory. Courses for the academic year 2024-2025 will start in
+            October 2024.
         </p>
         <p>
             To earn the M.Sc. degree, students must: (i) attend and successfully pass seven (7) compulsory and five (5) elective courses, corresponding
