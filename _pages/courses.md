@@ -70,7 +70,7 @@ header3: Courses
                 </thead>
                 <tbody>
                     <tr>
-                        <td class="compulsory"><a class="table-link" href="#medical-imaging">Medical imaging and image analysis</a></td>
+                        <td class="compulsory"><a class="table-link" href="#medical-imaging">Biomedical Imaging and Image Analysis</a></td>
                         <td>5</td>
                     </tr>
                     <tr>
