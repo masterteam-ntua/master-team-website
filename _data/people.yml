@@ -1,3 +1,31 @@
+- Image: /theme/img/team/mavragani-clio.jpg
+  Name: Mavragani Clio
+  Category: Professors
+  Title1: Professor
+  Title2: Head of Department of Physiology, Medical School, NKUA
+  School: Medical School, NKUA
+  Email: kmauragani@med.uoa.gr
+  Phone: null
+  Website: http://scholar.uoa.gr/kmauragan/home
+  Bio: "Dr. Clio P. Mavragani is Professor of Physiology/Clinical Physiology and Head of the Department of Physiology and serves as an Attending Rheumatologist in the Department of Pathophysiology in School of Medicine, National and Kapodistrian University of Athens (NKUA).  She received her MD and PhD degrees, both with honors, from NKUA (1995, 2001) and a Diploma Degree in Internal Medicine from Imperial College, University of London with distinction (2000). She was trained in Rheumatology at the Department of Pathophysiology, University of Athens (2000-2004). Following her clinical fellowship, she joined Hospital for Special Surgery in New York/Weill Cornell Medical College as Post Doctoral Research Fellow (2004-2008). Upon her return to Greece, she served for two years at the Rheumatology Department of the General Hospital of Athens as Αttending Rheumatologist (2008-2010) and subsequently elected as a faculty member in School of Medicine, NKUA. During 2013 and 2017, she served as Visiting Scientist at the Hospital for Special Surgery / Weill Cornell Medical College in New York and Visiting Professor at the Department of Rheumatology, University of Minnesota, both in USA. She teaches undergraduate and postgraduate health sciences students. Her research focuses on the role of autoantibodies and activation of the type I interferon system in systemic autoimmunity, as well as the underlying molecular pathways leading to comorbidities in the context of Sjogren’s syndrome, lupus and rheumatoid arthritis, including lymphoma and subclinical atherosclerosis. She is the author of more than 150 peer reviewed scientific papers and chapters in national and international medical journals and books and invited speaker in many Greek and international conferences, with an h-index of 47 and more than 7000 citations."
+  Office: null
+  modalId: mavragani-clio-modal
+  showOnlyInAdministration: false
+
+- Image: /theme/img/team/palikaras-konstantinos.jpg
+  Name: Palikaras Konstantinos
+  Category: Professors
+  Title1: Assistant Professor
+  Title2: Experimental Physiology, Medical School, NKUA
+  School: Medical School, NKUA
+  Email: palikarask@med.uoa.gr
+  Phone: 2107462552
+  Website: http://scholar.uoa.gr/palikarask/home
+  Bio: "Konstantinos Palikaras is Assistant Professor of Experimental Physiology at the Medical School of the National and Kapodistrian University of Athens, in Athens, Greece. He is a molecular biologist who has great experience in energy metabolism, autophagy and ageing. His research focuses on studies of autophagy, mitophagy and cellular homeostasis investigating the role of energy metabolism in neuronal physiology and survival. His main interests are the molecular mechanisms of necrotic and mitophagic cell death and their interplay between cellular metabolism and ageing, and the development of novel genetic tools for biomedical research. For his scientific accomplishments, Konstantinos Palikaras has received several notable scientific prizes including ERC Starting Grant (2022) and selected Fellow of the Young Academy of Europe (2024; https://yacadeuro.org/palikaras/). He is also the recipient of the Cells 2023 Young Investigator Award (https://www.mdpi.com/journal/cells/awards/2187) and the “Fotis Kafatos” Award for excellence in biology from Hellenic Society of Bioscientists. His research is supported the Fondation Santé, the Hellenic Foundation for Research and Innovation (HFRI), the AXA Research Fund Post-doctoral fellowship, the Bodossaki Foundation Post-doctoral fellowship, the DeLill Nasser Award for Professional Development in Genetics form Genetic Society of America and the Manasaki Doctoral Fellowship from the University of Crete. He is also a member of Genetics Society of America (GSA), the Hellenic Society of Biochemistry and Molecular Biology (HSBMB), the Hellenic Society for Neuroscience (HSfN), the Mediterranean Neuroscience Society (MNS) and the Hellenic Initiative Against Alzheimer's Disease (HIAAD)."
+  Office: null
+  modalId: palikaras-konstantinos-modal
+  showOnlyInAdministration: false
+
 - Image: /theme/img/team/alexandridis-georgios.webp
   Name: Alexandridis Georgios
   Category: Professors
