@@ -1,4 +1,4 @@
-<nav class="navbar navbar-expand-lg navbar-light fixed-top justify-content-between px-4">
+<nav class="navbar navbar-custom-collapse navbar-light fixed-top justify-content-between px-4">
     <a class="navbar-brand font-weight-bold p-0" href="{{ site.baseurl }}{% link _pages/index.md %}">
       <img src="{{ site.baseurl }}/theme/img/logos/TEAM-logo-minimal.svg" title="TEAM logo" alt="TEAM logo" class="site-logo">
     </a>
@@ -8,7 +8,7 @@
     <button class="navbar-toggler collapsed" type="button" data-toggle="collapse" data-target="#navbarContent" >
         <span class="navbar-toggler-icon"></span>
     </button>
-    <div class="collapse navbar-custom-collapse" id="navbarContent">
+    <div class="collapse navbar-collapse" id="navbarContent">
         <ul class="navbar-nav ml-auto">
         {% for item in site.data.nav %}
             {% if item.subpages %}
