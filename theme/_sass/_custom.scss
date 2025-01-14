@@ -517,7 +517,7 @@ a.map-section {
 }
 
 .navbar-custom-collapse {
-  @media (max-width: 800px) {
+  @media (max-width: 400px) {
     flex-flow: column nowrap;
 
     .navbar-nav {
