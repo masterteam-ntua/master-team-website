@@ -24,5 +24,13 @@
     - title: Events
       href: /events
 
+- title: Quality Assurance
+  href: /
+  subpages:
+    - title: Quality Assurance Policy
+      href: "{{ site.baseurl }}/files/Μ1.1 new.pdf"
+    - title: Complaints Process
+      href: "{{ site.baseurl }}/files/Μ3.2 new.pdf"
+
 - title: Contact
   href: /contact
