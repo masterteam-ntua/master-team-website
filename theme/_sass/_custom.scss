@@ -515,3 +515,21 @@ a.map-section {
     }
   }
 }
+
+.navbar-custom-collapse {
+  @media (max-width: 800px) {
+    flex-flow: column nowrap;
+
+    .navbar-nav {
+      flex-direction: column;
+    }
+
+    .navbar-toggler {
+      display: block;
+    }
+
+    .navbar-collapse {
+      display: none !important;
+    }
+  }
+}
