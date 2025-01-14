@@ -28,9 +28,9 @@
   href: /
   subpages:
     - title: Quality Assurance Policy
-      href: "{{ site.baseurl }}/files/Μ1.1-2025.pdf"
+      href: "/files/Μ1.1-2025.pdf"
     - title: Complaints Process
-      href: "{{ site.baseurl }}/files/Μ3.2-2025.pdf"
+      href: "/files/Μ3.2-2025.pdf"
 
 - title: Contact
   href: /contact
