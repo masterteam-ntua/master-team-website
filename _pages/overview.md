@@ -70,9 +70,24 @@ header3: Program Overview
                 </a> (in English)
             </li>
             <li class="mb-3">
+                <a href="{{ site.baseurl }}/files/StudyGuide.TranslationalEngineering.23-24.UPDATE.10.6.24.pdf"  target="_blank">
+                  <strong>Study Guide</strong>
+                </a> (in English)
+            </li>
+            <li class="mb-3">
+                <a href="{{ site.baseurl }}/files/M2.3 new.pdf"  target="_blank">
+                  <strong>Study Guide</strong>
+                </a> (in Greek)
+            </li>
+            <li class="mb-3">
                 <a href="{{ site.baseurl }}/files/ΦΕΚ-1231-Έγκριση Κανονισμού Λειτουργίας ΔΠΜΣ.pdf" target="_blank">
                   <strong>Program Rules and Regulations</strong>
                 </a> as published in Government Gazette issue 1231/B/17.03.2022 (in Greek)
+            </li>
+            <li class="mb-3">
+                <a href="{{ site.baseurl }}/files/Regulation.TranslationalEngineering.pdf" target="_blank">
+                  <strong>Program Rules and Regulations Update</strong>
+                </a> as published in Government Gazette issue 1183/B/19.02.2024 (in English)
             </li>
             <li class="mb-3">
                 <a href="{{ site.baseurl }}/files/FEK1183epikairopoiisidpms.pdf" target="_blank">
@@ -85,19 +100,6 @@ header3: Program Overview
                 </a> as published in Government Gazette issue 1338/B/23.03.2022 (in Greek)
             </li>
         </ul>
-        <!--
-        <h2 class="my-3">Quality Policy</h2>
-        <p>
-            Relevant documents concerning and/or describing the Quality Policy of the Postgraduate Studies Program are given below:
-        </p>
-        <ul>
-            <li class="mb-3">
-                <a href="{{ site.baseurl }}/files/MasterTEAM-QualityPolicy.pdf"  target="_blank">
-                  <strong>Quality Policy</strong>
-                </a> (in Greek)
-            </li>
-        </ul>
-        -->
 
     </div>
 
