@@ -70,6 +70,7 @@ show_sidebar: false
                 <a href="{{ site.baseurl }}/files/MasterTEAM-Brochure.pdf" role="button" class="btn btn-custom mt-3" target="_blank">
                     <i class="fa-solid fa-download fa-lg mr-2"></i>Brochure
                 </a>
+                 <img class="btn btn-custom mt-3" decoding="async" src="theme/img/logos/espa-logo.jpg">
             </div>
             <div class="carousel carousel-testimonials slide w-100 mt-5" data-ride="carousel" data-interval="5000" id="testimonialsCarousel">
                 <div class="row align-items-center">
