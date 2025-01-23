@@ -3,13 +3,17 @@
 
 - title: Program Overview
   href: /overview
+
+- title: Studies
+  href: /
+  subpages:
+    - title: Diploma Theses
+      href: /thesis
+    - title: Courses
+      href: /courses
+    - title: Timetables
+      href: /timetables
   
-- title: Diploma Theses
-  href: /thesis
-
-- title: Courses
-  href: /courses
-
 - title: People
   href: /people
 
@@ -24,13 +28,12 @@
     - title: Events
       href: /events
 
-- title: Quality Assurance
+- title: About
   href: /
   subpages:
     - title: Quality Assurance Policy
       href: /quality-assurance-policy
     - title: Complaints Process
       href: /complaint-process
-
-- title: Contact
-  href: /contact
+    - title: Contact
+      href: /contact
