@@ -168,6 +168,10 @@
       background-image: none;
     }
   }
+  /* Center-align text for mobile view */
+  @media (max-width: 768px) {
+    text-align: center;
+  }
 }
 
 .dropdown-menu.show {
