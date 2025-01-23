@@ -503,15 +503,40 @@ a.map-section {
   justify-content: center;
   align-items: center;
   margin-top: 5rem;
+  padding: 1rem; /* Added padding for better spacing around content */
+}
+
+.disclaimer-logos {
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap; /* Allows wrapping of content for smaller screens */
+  justify-content: center; /* Center-aligns content by default */
+  align-items: center;
+  gap: 2rem; /* Adds space between items for better alignment */
+  margin-bottom: 2rem;
+}
+
+.disclaimer-logos img {
+  height: 4rem; /* Keeps logos uniform */
+  max-width: 100%; /* Ensures logos don't overflow their container */
+  margin: 0; /* Removed excessive margin for better alignment */
+}
+
+.disclaimer-logos p {
+  text-align: center; /* Centers the text within its container */
+  margin: 1rem 0; /* Adds consistent spacing between paragraphs */
+  line-height: 1.5; /* Improves readability of the text */
+}
+
+@media (max-width: 768px) {
   .disclaimer-logos {
-    width: 100%;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    margin-bottom: 2rem;
-    img {
-      margin: 0 2rem;
-      height: 4rem;
-    }
+    flex-direction: column; /* Stacks items vertically on smaller screens */
+    align-items: center; /* Ensures everything stays centered */
+    gap: 1rem; /* Reduces space for better compactness */
+  }
+  
+  .disclaimer-logos img {
+    height: 3rem; /* Adjust logo size for smaller screens */
   }
 }
+
