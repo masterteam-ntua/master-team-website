@@ -311,7 +311,9 @@ show_sidebar: false
     </div>
     <div class="disclaimer-footer">
         <div class="disclaimer-logos">
-            <img class="logo-footer-secondary" decoding="async" src="theme/img/logos/mpodosaki.jpg">
+            <a class="logo-footer-secondary" href="https://www.bodossaki.gr/en/" target="_blank">
+                <img decoding="async" src="theme/img/logos/mpodosaki.jpg">
+            </a>
             <a class="logo-footer-primary" href="https://studyingreece.edu.gr/" target="_blank">
                 <img decoding="async" src="theme/img/logos/sig_logo_2.png">
             </a>
