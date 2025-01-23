@@ -70,7 +70,9 @@ show_sidebar: false
                 <a href="{{ site.baseurl }}/files/MasterTEAM-Brochure.pdf" role="button" class="btn btn-custom mt-3" target="_blank">
                     <i class="fa-solid fa-download fa-lg mr-2"></i>Brochure
                 </a>
-                 <img class="btn btn-custom mt-3" decoding="async" src="theme/img/logos/espa-logo-english.png">
+                <a href="https://www.elke.ntua.gr/research-activities/espa-programms/" role="button" class="btn btn-custom mt-3" target="_blank">
+                    <img class="btn btn-custom mt-3" decoding="async" src="theme/img/logos/espa-logo-english.png">
+                </a>
             </div>
             <div class="carousel carousel-testimonials slide w-100 mt-5" data-ride="carousel" data-interval="5000" id="testimonialsCarousel">
                 <div class="row align-items-center">
@@ -316,7 +318,11 @@ show_sidebar: false
         </div>
         <div class="disclaimer-logos">
             <p>The collaboration with Columbia University is supported by Bodosaki Foundation.</p>
+            <!--
             <p>This project "Support for Internationalization Actions of Postgraduate Studies of the National Technical University of Athens" (MIS 51461485)  is co-financed by Greece and the European Union (European Social Fund- ESF) through the Operational Programme "Human Resources Development, Education and Lifelong Learning 2014-2020".</p>
+            -->
+            <p>The sub-project "Internationalization of the MSc Program Translational Engineering in Health and Medicine” is part of the broader project “Support for Internationalization Actions of Foreign Language Speaker Postgraduate Studies of the National Technical University of Athens” (MIS 6004804) which is co-financed by the European Union through the Operational Programme “Human Resources and Social Cohesion". This project aims to internationalize eleven MSc programs at NTUA, providing high-level, specialized postgraduate studies in critical technology fields for both the Greek and international economies.</p>
+            
         </div>
     </div>
 </div>
