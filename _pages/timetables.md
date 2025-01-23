@@ -11,6 +11,6 @@ show_sidebar: false
 <div class="container">
     <div class="row flex-column">
         <h2 class="my-3">Winter Semester 2024-2025</h2>
-        <img source="post_assets/announcements/1st-semester-2024-2025.png" decoding="async"></img>
+        <img src="post_assets/announcements/1st-semester-2024-2025.png" decoding="async">
     </div>
 </div>
