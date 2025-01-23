@@ -499,52 +499,56 @@ a.map-section {
 
 .disclaimer-footer {
   display: flex;
-  flex-direction: row; /* Aligns items side by side */
-  justify-content: center;
-  align-items: flex-start; /* Aligns text and logos at the top */
+  flex-direction: column;
+  align-items: center;
   margin-top: 5rem;
-  gap: 2rem; /* Adds spacing between the two sections */
   padding: 1rem;
 }
 
 .disclaimer-logos {
-  flex: 3; /* Takes 30% of the space */
+  width: 100%;
   display: flex;
-  flex-direction: column;
   justify-content: center;
   align-items: center;
-  gap: 1rem;
-}
-
-.disclaimer-content {
-  flex: 7; /* Takes 70% of the space */
-  text-align: justify; /* Ensures text is evenly distributed */
-  line-height: 1.5; /* Improves readability */
-  margin: 0;
+  margin-bottom: 2rem;
+  gap: 2rem; /* Space between logos */
 }
 
 .disclaimer-logos img {
-  height: 4rem; /* Keeps logos uniform */
-  max-width: 100%; /* Prevents overflow */
+  height: 4rem; /* Uniform logo size */
+  max-width: 100%;
+}
+
+.disclaimer-text {
+  display: flex;
+  flex-direction: row; /* Side-by-side layout for the two text blocks */
+  width: 100%;
+  gap: 2rem; /* Space between the text sections */
+}
+
+.text-primary {
+  flex: 7; /* Takes 70% of the width */
+  text-align: justify; /* Aligns text evenly */
+  line-height: 1.5;
+}
+
+.text-secondary {
+  flex: 3; /* Takes 30% of the width */
+  text-align: justify;
+  line-height: 1.5;
 }
 
 @media (max-width: 768px) {
-  .disclaimer-footer {
-    flex-direction: column; /* Stacks sections vertically on smaller screens */
-    gap: 1rem; /* Reduces spacing for compact layout */
+  .disclaimer-text {
+    flex-direction: column; /* Stacks text vertically for smaller screens */
   }
 
-  .disclaimer-logos {
-    flex: 1; /* Adjust proportions for better stacking */
-    align-items: center;
-  }
-
-  .disclaimer-content {
-    flex: 1; /* Adjust proportions for better stacking */
+  .text-primary, .text-secondary {
+    flex: 1; /* Equal width when stacked vertically */
   }
 
   .disclaimer-logos img {
-    height: 3rem; /* Adjust logo size for smaller screens */
+    height: 3rem; /* Adjusted logo size for smaller screens */
   }
 }
 
