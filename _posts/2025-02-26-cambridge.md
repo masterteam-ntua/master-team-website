@@ -1,7 +1,7 @@
 ---
 title: Internship Opportunity at the University of Cambridge
-description: Call for Expression of Interest
+description: 
 directory: announcements
-thumb: columbia-logo.webp
+thumb: 
 categories: announcement
 ---
