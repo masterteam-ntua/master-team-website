@@ -14,6 +14,6 @@ The selected student will have the opportunity to spend 1 to 2 months between Oc
 
 Applicants must have excellent programming skills in Matlab and/or Python.
 
-Interested candidates are invited to send their application to masterteam-info@ece.ntua.gr by March 18. The application should include a CV and a one-page cover letter explaining their interest in this opportunity and how they envision this project contributing to their future career plans.
+Interested candidates are invited to send their application to <a href = "mailto:masterteam-info@ece.ntua.gr">masterteam-info@ece.ntua.gr</a> by March 18. The application should include a CV and a one-page cover letter explaining their interest in this opportunity and how they envision this project contributing to their future career plans.
 
-For more details about the project, please contact Dr. Marialena Dounavi (med57@cam.ac.uk).
+For more details about the project, please contact Dr. Marialena Dounavi (<a href = "mailto:med57@cam.ac.uk">med57@cam.ac.uk</a>).
