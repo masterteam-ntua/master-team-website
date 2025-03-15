@@ -1,3 +1,17 @@
+- Image: /theme/img/team/delis-ioannis.jpg
+  Name: Delis Ioannis
+  Category: Professors
+  Title1: Lecturer (Assistant Professor)
+  Title2: Motor Control, School of Biomedical Sciences, University of Leeds
+  School: School of Biomedical Sciences, University of Leeds
+  Email: ioannis.delis@leeds.ac.uk
+  Phone: null
+  Website: https://biologicalsciences.leeds.ac.uk/school-biomedical-sciences/staff/52/dr-ioannis-delis
+  Bio: "I am a Lecturer (Assistant Professor) in the School of Biomedical Sciences at the University of Leeds. I am a member of the Motor Control and Neurorehabilitation and Neural Circuits research themes. I do research in Computational Neuroscience with a special focus on Motor Control, Decision Making, Multi-sensory Integration & Sensory-Motor Coupling. I develop and implement computational methods from Machine Learning (Dimensionality Reduction, Classification, Regression etc) and Information Theory to analyse and model high-dimensional neural, biomedical and behavioural signals. I couple large-scale computational modelling with behavioral experiments and advanced neuroimaging and neurophysiology techniques (EEG-EMG) to understand the neural and behavioural mechanisms underlying sensory-motor behaviours in healthy humans and clinical populations.<br>I teach courses in Motor Control, Neuroscience and Quantitative methods in the Sport and Exercise Sciences programme and the Neuroscience programme.<br>I received a Diploma from the University of Patras, Greece (2006) and a M.Sc. from the University of Minnesota, USA (2009) both in Electrical and Computer Engineering and a Ph.D. in Computational Neuroscience from the University of Genoa, Italy (2013). I worked as a post-doctoral researcher at the Institute of Neuroscience and Psychology, University of Glasgow (Jan 2013- Dec 2015) and the Biomedical Engineering Department, Columbia University (Jan 2016- Dec 2017). I have been a Lecturer in Motor Control at the University of Leeds since January 2018"
+  Office: null
+  modalId: delis-ioannis-modal
+  showOnlyInAdministration: false
+
 - Image: /theme/img/team/mavragani-clio.jpg
   Name: Mavragani Clio
   Category: Professors
