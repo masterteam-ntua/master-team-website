@@ -1,7 +1,7 @@
 ---
 title: Senses & Sensibility Seminar, multi-sensory decision-making in the human brain
 directory: announcements
-thumb: delis.png
+thumb: announcement.webp
 images:
   - espa.png
 categories: announcement
