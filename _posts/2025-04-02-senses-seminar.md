@@ -26,4 +26,6 @@ Prof. Ioannis (Yiannis) Delis, University of Leeds, to speak at ECE-NTUA on Apri
 
 **For more information**, please contact Konstantina S. Nikita (<a href = "mailto:knikita@ece.ntua.gr">knikita@ece.ntua.gr</a>)
 
+![](main/post_assets/announcements/espa.png)
+
 The event is supported within the framework of the actions for the internationalization of the NTUA, which is funded by the NSRF (MIS No. 6004804) and specifically within the M.Sc. in "Translational Engineering in Health and Medicine"
