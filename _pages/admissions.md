@@ -20,7 +20,7 @@ show_sidebar: false
             National Academic Recognition and Information Center - NARIC (<a href="http://www.doatap.gr/en/index.php" target="_blank" class="font-weight-bold">DOATAP</a>), according to Law 4957/2022.
         </p>
         <p>
-            For the academic year 2024-2025, a maximum of 40 students will be selected and enrolled in the M.Sc. program.
+            For the academic year 2025-2026, a maximum of 40 students will be selected and enrolled in the M.Sc. program.
         </p>
         <h2 class="my-3" ><a id= "Application_Material_Section">Application Material</a></h2>
         <label class="col-12 pl-0">The application consists of the following elements:</label>
@@ -31,7 +31,7 @@ show_sidebar: false
                 Recognized Academic Title Types (<a href="http://www.doatap.gr/en/index.php" target="_blank" class="font-weight-bold">DOATAP</a>).
                 In case of a university degree/diploma that has not yet been conferred but is about to
                 be awarded, the candidate should submit a statement accompanied with letters from the university personnel that indicate (i) what degree
-                requirements are pending and (ii) that the degree can be fully completed by the period of October 2024.
+                requirements are pending and (ii) that the degree can be fully completed by the period of October 2025.
             </li>
             <li class="mb-3">
                 Copy of transcripts of grades from all previous Universities attended (in Greek or English). Accepted candidates must submit official
@@ -85,7 +85,7 @@ show_sidebar: false
         </p>
         <h2 class="my-3"><a id= "Application_Process_Section">Application Process</a></h2>
         <p>
-            Interested candidates are invited to submit their application online <strong>between  15 May and 22 June 2024</strong>. Prospective graduate
+            Interested candidates are invited to submit their application online <strong>between  5 May and 26 May 2025</strong>. Prospective graduate
             students must register as users at 
             <a href ="https://gradapply.ece.ntua.gr/register" target="_blank"><strong>gradapply.ece.ntua.gr/register</strong></a> 
             and then submit their application by the deadline at 
@@ -93,8 +93,8 @@ show_sidebar: false
             with the necessary supporting documents (see <a href="#Application_Material_Section"><strong>Application Material</strong></a> above).
         </p>
         <p>
-            The application deadline for the MSc in Translational Engineering in Health and Medicine for the academic year 2024-2025 is 
-            <strong>June 22nd, 2024</strong>.
+            The application deadline for the MSc in Translational Engineering in Health and Medicine for the academic year 2025-2026 is 
+            <strong>May 26th, 2025</strong>.
         </p>
         <p>
             All materials must be received by the applicable deadline to be considered. Successful candidates will be required to present
@@ -103,8 +103,8 @@ show_sidebar: false
         </p>
         <p>
             Candidates should be prepared for a possible interview if the admissions committee decides to conduct one, and they should be able to clearly
-            demonstrate their interest in the field of Translational Engineering in Health and Medicine. Interviews are planned for July 3, 2024. Final
-            selection will be completed by July 15, 2024 and candidates will be notified electronically of the results.
+            demonstrate their interest in the field of Translational Engineering in Health and Medicine. Interviews are planned from July 10th to 12th, 2025. Final
+            selection will be completed by July 27, 2025 and candidates will be notified electronically of the results.
         </p>
         <p>
             No tuition fees are required for European citizens to participate in the program. Students from non-EU countries must pay the
