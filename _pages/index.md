@@ -39,6 +39,10 @@ show_sidebar: false
                     research labs, clinical departments, and industry.
                 </p>
             </div>
+            <br>
+             <br>
+             <br>
+             <br>
             <div class="col-12">
                 <h2>Who can apply?</h2>
                 <p>
