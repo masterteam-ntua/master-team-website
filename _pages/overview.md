@@ -65,21 +65,6 @@ header3: Program Overview
         </p>
         <ul>
             <li class="mb-3">
-                <a href="{{ site.baseurl }}/files/MasterTEAM-Student Handbook.pdf"  target="_blank">
-                  <strong>Student Handbook</strong>
-                </a> (in English)
-            </li>
-            <li class="mb-3">
-                <a href="{{ site.baseurl }}/files/StudyGuide.TranslationalEngineering.23-24.UPDATE.10.6.24.pdf"  target="_blank">
-                  <strong>Study Guide</strong>
-                </a> (in English)
-            </li>
-            <li class="mb-3">
-                <a href="{{ site.baseurl }}/files/M2.3 new.pdf"  target="_blank">
-                  <strong>Study Guide</strong>
-                </a> (in Greek)
-            </li>
-            <li class="mb-3">
                 <a href="{{ site.baseurl }}/files/ΦΕΚ-1231-Έγκριση Κανονισμού Λειτουργίας ΔΠΜΣ.pdf" target="_blank">
                   <strong>Program Rules and Regulations</strong>
                 </a> as published in Government Gazette issue 1231/B/17.03.2022 (in Greek)
