@@ -7,10 +7,10 @@
 - title: Program
   href: /
   subpages:
-    - title: Diploma Theses
-      href: /thesis
     - title: Courses
       href: /courses
+    - title: Diploma Theses
+      href: /thesis
     - title: Timetables
       href: /timetables
   
