@@ -19,6 +19,8 @@
 
 - title: Students
   subpages:
+      - title: Handbooks
+        href: /handbooks
       - title: Complaints Process
         href: /complaint-process
 
