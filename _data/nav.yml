@@ -21,14 +21,13 @@
   subpages:
       - title: Handbooks
         href: /handbooks
+      - title: Alumni
+        href: /
       - title: Complaints Process
         href: /complaint-process
 
 - title: Admissions
   href: /admissions
-
-- title: Alumni
-  href: /
 
 - title: News
   href: /news
