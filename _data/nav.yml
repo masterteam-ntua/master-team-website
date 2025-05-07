@@ -1,10 +1,10 @@
 - title: Home
   href: /
 
-- title: Program Overview
+- title: Overview
   href: /overview
 
-- title: Studies
+- title: Program
   href: /
   subpages:
     - title: Diploma Theses
@@ -14,13 +14,19 @@
     - title: Timetables
       href: /timetables
   
-- title: People
+- title: Faculty
   href: /people
+
+- title: Students
+  href: /
 
 - title: Admissions
   href: /admissions
 
-- title: News - Events
+- title: Alumni
+  href: /
+
+- title: News
   href: /news
   subpages:
     - title: News
@@ -28,7 +34,7 @@
     - title: Events
       href: /events
 
-- title: About
+- title: Contact
   href: /
   subpages:
     - title: Quality Assurance Policy
