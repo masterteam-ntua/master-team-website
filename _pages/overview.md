@@ -100,10 +100,6 @@ header3: Program Overview
                 </a> as published in Government Gazette issue 1338/B/23.03.2022 (in Greek)
             </li>
         </ul>
-
-    </div>
-    <div class="container">
-    <div class="row flex-column">
         <h2 class="my-3">Quality Policy</h2>
         <p>
             Relevant documents concerning and/or describing the Quality Policy of the Postgraduate Studies Program are given below:
@@ -115,9 +111,6 @@ header3: Program Overview
                 </a> (in Greek)
             </li>
         </ul>
-    </div>
-    <div class="container">
-    <div class="row flex-column">
         <h2 class="my-3">Complaint Process</h2>
         <p>
             Relevant documents concerning and/or describing the Complaint Process of the Postgraduate Studies Program are given below:
