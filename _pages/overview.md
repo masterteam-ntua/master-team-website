@@ -102,5 +102,36 @@ header3: Program Overview
         </ul>
 
     </div>
+    <div class="container">
+    <div class="row flex-column">
+        <h2 class="my-3">Quality Policy</h2>
+        <p>
+            Relevant documents concerning and/or describing the Quality Policy of the Postgraduate Studies Program are given below:
+        </p>
+        <ul>
+            <li class="mb-3">
+                <a href="{{ site.baseurl }}/files/Μ1.1-2025.pdf"  target="_blank">
+                  <strong>Quality Policy</strong>
+                </a> (in Greek)
+            </li>
+        </ul>
+    </div>
+    <div class="container">
+    <div class="row flex-column">
+        <h2 class="my-3">Complaint Process</h2>
+        <p>
+            Relevant documents concerning and/or describing the Complaint Process of the Postgraduate Studies Program are given below:
+        </p>
+        <ul>
+            <li class="mb-3">
+                <a href="{{ site.baseurl }}/files/Μ3.2-2025.pdf"  target="_blank">
+                  <strong>Complaint Process</strong>
+                </a> (in Greek)
+            </li>
+        </ul>
+    </div>
+</div>
+
+</div>
 
 </div>
