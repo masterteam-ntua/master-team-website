@@ -18,7 +18,9 @@
   href: /people
 
 - title: Students
-  href: /
+  subpages:
+      - title: Complaints Process
+        href: /complaint-process
 
 - title: Admissions
   href: /admissions
@@ -35,11 +37,4 @@
       href: /events
 
 - title: Contact
-  href: /
-  subpages:
-    - title: Quality Assurance Policy
-      href: /quality-assurance-policy
-    - title: Complaints Process
-      href: /complaint-process
-    - title: Contact
-      href: /contact
+  href: /contact
