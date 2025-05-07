@@ -12,7 +12,7 @@ header3: Handbooks
     <div class="row flex-column">
         <h2 class="my-3">Relevant documents</h2>
         <p>
-            Relevant documents concerning and/or describing the regulatory framework of the Postgraduate Studies Program are given below:
+            Access the official Student Handbook and Study Guides (available in both English and Greek) for the MSc in Translational Engineering in Health and Medicine program below:
         </p>
         <ul>
             <li class="mb-3">
