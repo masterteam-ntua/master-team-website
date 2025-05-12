@@ -17,7 +17,7 @@ header3: Events
             <li class="mb-3">
                 <a href="{{ site.baseurl }}/isbi-2024-satellite-event"  target="_blank">
                   <strong>ISBI 2024 Satellite Event</strong>
-                </a> (in Greek)
+                </a>
             </li>
         </ul>
     </div>
