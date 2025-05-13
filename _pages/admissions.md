@@ -103,8 +103,8 @@ show_sidebar: false
         </p>
         <p>
             Candidates should be prepared for a possible interview if the admissions committee decides to conduct one, and they should be able to clearly
-            demonstrate their interest in the field of Translational Engineering in Health and Medicine. Interviews are planned from July 10th to 12th, 2025. Final
-            selection will be completed by July 27, 2025 and candidates will be notified electronically of the results.
+            demonstrate their interest in the field of Translational Engineering in Health and Medicine. Interviews are planned from June 10th to 12th, 2025. Final
+            selection will be completed by June 27, 2025 and candidates will be notified electronically of the results.
         </p>
         <p>
             No tuition fees are required for European citizens to participate in the program. Students from non-EU countries must pay the
