@@ -1,6 +1,6 @@
 ---
 title: Applications for the academic year 2025-2026 are now open!
-description: Prospective students can apply until May 26th, 2024 
+description: Prospective students can apply until May 26th, 2025 
 directory: announcements
 thumb: announcement.webp
 categories: announcement
