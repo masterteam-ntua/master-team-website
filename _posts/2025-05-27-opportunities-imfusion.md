@@ -14,7 +14,9 @@ Research Internship / MSc Thesis – Ultrasound Simulation & AI
 This position focuses on implementing and potentially enhancing state-of-the-art ultrasound simulation techniques, with the goal of integrating synthetic data into AI training pipelines.
 
 Detailed descriptions are available in the attached PDFs.
+
 <a href="{{ site.baseurl }}/files/WorkingStudentPosition.pdf" target="_blank"><strong>Working Student Position – Ultrasound Group</strong></a>
+
 <a href="{{ site.baseurl }}/files/ResearchInternshipPosition.pdf" target="_blank"><strong>Research Internship / MSc Thesis – Ultrasound Simulation & AI</strong></a>
 
 
