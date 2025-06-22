@@ -39,12 +39,12 @@ show_sidebar: false
 }
 
 .thesis-title {
-  flex: 1 1 70%;
+  flex: 1 1 65%;
   font-weight: bold;
 }
 
 .supervisor-name {
-  flex: 0 0 30%;
+  flex: 0 0 35%;
   text-align: right;
   font-size: 0.9em;
   color: #e4aeb1;
