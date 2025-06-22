@@ -23,7 +23,6 @@ show_sidebar: false
     white-space: normal;
   }
 }
-  
 .collapsible {
   display: flex;
   justify-content: space-between;
@@ -51,6 +50,13 @@ show_sidebar: false
   color: #e4aeb1;
   white-space: nowrap;
 }
+.new-label {
+  color: #ffcb05;
+  font-weight: bold;
+  font-size: 0.85em;
+  margin-left: 8px;
+}
+
 
 .collapsible:hover {
   background-color: #555;
@@ -90,7 +96,12 @@ show_sidebar: false
   {% assign subjects = site.data.thesis | sort: "Sort"%}
   {% for subject in subjects%}
     <button class="collapsible">
-      <span class="thesis-title">{{ subject.Title }}</span>
+     <span class="thesis-title">
+        {% if subject.New %}
+          <span class="new-label">(NEW) </span>
+        {% endif %}
+        {{ subject.Title }}
+      </span>
       <span class="supervisor-name">{{ subject.Supervisor }}</span>
     </button>
 
