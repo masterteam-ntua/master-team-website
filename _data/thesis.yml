@@ -4,6 +4,7 @@
   Area: null
   Supervisor: '<a href="" data-toggle="modal" data-target="#stamatakos-modal">Stamatakos Georgios</a>'
   Sort: stamatakos
+  New: false
   
 - Title: "Artificial intelligence based modeling in the psycho-oncology domain"
   Text: 'Artificial intelligence and statistics based models of the course of several psychological and psychiatric aspects of women with early breast cancer will be developed, based on the experience of <a href="https://www.in-silico-oncology.iccs.ntua.gr/"  target="_blank">In Silico Oncology and In Silico Medicine Group, ICCS, ECE, National Technical University of Athens</a> in the respective domains. Data from collaborating clinical centres across Europe and Israel will be used. The ultimate goal of the models is to predict the temporal trajectories of crucial psychological and psychiatric aspects (e.g. depression and anxiety) of women, following their early breast cancer treatment, and subsequently to provide suggestions regarding eventual interventions needed for the optimization of quality of life and resilience.'
@@ -11,6 +12,7 @@
   Area: null
   Supervisor: '<a href="" data-toggle="modal" data-target="#stamatakos-modal">Stamatakos Georgios</a>'
   Sort: stamatakos
+  New: false
 
 - Title: "Enhancing Diagnostic Accuracy with Deep Learning: A Study on MRI Image Segmentation for Brain Tumor Identification"
   Text: 'The primary aim of this thesis is to develop a deep learning model that enhances the accuracy and efficiency of brain tumor identification through MRI image segmentation. This research will focus on employing and refining state-of-the-art deep learning techniques to segment brain tumors from MRI scans more precisely than current traditional and semi-automated methods.'
@@ -18,6 +20,7 @@
   Area: null
   Supervisor: '<a href="" data-toggle="modal" data-target="#asvestas-modal">Asvestas Panteleimon</a>'
   Sort: asvestas
+  New: false
 
 - Title: "Application of Convolutional Neural Networks in the Automated Detection of Pulmonary Tuberculosis from Chest X-Rays"
   Text: 'The goal of this thesis is to develop a convolutional neural network (CNN) based model that can automatically detect pulmonary tuberculosis (TB) from chest X-ray images. This research aims to enhance the detection speed and accuracy, potentially aiding in quicker and more reliable TB screening, especially in under-resourced areas.'
@@ -25,6 +28,7 @@
   Area: null
   Supervisor: '<a href="" data-toggle="modal" data-target="#asvestas-modal">Asvestas Panteleimon</a>'
   Sort: asvestas
+  New: false
   
 - Title: 'In silico generation of 4D flow MRI data employing computational fluid dynamics simulations in patient-specific abdominal aortic aneurysm models'
   Text: 'There are only limited medical imaging methodologies to non-invasively and accurately assess the blood flow and its properties. The most advanced technique is 4D Flow Magnetic Resonance Imaging (MRI), that enables the calculation of hemodynamic fields across extended vascular regions and can be further processed to produce clinically relevant hemodynamic indices, such as wall shear stresses. The aim of the thesis is to in silico generate 4D flow MRI-like training data starting from computational hemodynamic simulations in patient-specific pathological vascular anatomies, particularly in abdominal aortic aneurysms. Several transformations will be implemented to bridge the gap between the computational fluid dynamics (CFD)- generated blood velocity field and actual imaging data derived from 4D Flow MRI scans. The candidate will collaborate with vascular surgeons and radiologists from the “Attikon” University Hospital who will provide real 4D MRI scans for validation purposes.'
@@ -32,6 +36,7 @@
   Area: null
   Supervisor: '<a href="" data-toggle="modal" data-target="#manopoulos-modal">Manopoulos Christos</a>'
   Sort: manopoulos
+  New: false
    
 - Title: 'Inverse hemodynamic modelling in simplified vascular anatomies using computational fluid dynamics and physics-informed neural networks'
   Text: 'Hemodynamics, the study of blood flow in the circulatory system, is vital for understanding various physiological and pathological processes in the human body. Current non-invasive, high-resolution methods like computational fluid dynamics (CFD) face limitations, particularly in clinical applicability due to high resource demands. This study aims to introduce physics-informed neural networks (PINNs) as a novel approach for quantifying key hemodynamic parameters, specifically in vascular diseases like arterial stenoses and aneurysms. Training data will be generated using CFD to simulate pulsatile hemodynamics in simplified vascular anatomies, incorporating the injection and transport of contrast agents commonly used in medical imaging tests like computed tomography angiographies. Through PINNs, velocity and pressure fields, along with clinically important hemodynamic indices, can be inversely deduced from the contrast agent transport. The accuracy and generalizability of the PINNs methodology will be rigorously tested against CFD and its applicability for patient-specific 3D hemodynamic modeling.'
@@ -39,6 +44,7 @@
   Area: null
   Supervisor: '<a href="" data-toggle="modal" data-target="#manopoulos-modal">Manopoulos Christos</a>'
   Sort: manopoulos
+  New: false
   
 - Title: 'In-vitro mechanical properties of human aortic tissue dissection'
   Text: 'This experimental study investigates the biomechanical properties underlying arterial dissection, focusing on the human ascending aorta through direct tension experiments. Arterial dissections, whether spontaneous or traumatic, are complex events with significant clinical implications, often leading to acute aortic emergencies. Mechanical stress within the aortic wall, influenced by factors such as elastin and collagen, plays a crucial role in dissection propagation. The research aims to quantify the strength of dissection and its propagation, contributing to a comprehensive understanding of aortic dissection and primarily providing valuable insights into its initiation, paving the way for more effective treatment strategies in the future. The candidate will collaborate with the Center of Clinical, Experimental Surgery & Translational Research of the Biomedical Research Foundation of the Academy of Athens (BRFAA).'
@@ -46,6 +52,7 @@
   Area: null
   Supervisor: '<a href="" data-toggle="modal" data-target="#manopoulos-modal">Manopoulos Christos</a>'
   Sort: manopoulos
+  New: false
   
 - Title: 'Pumping effect of an Intra-Aortic Balloon Pump. A numerical non-linear model'
   Text: "The Intra-Aortic Balloon Pump (IABP) is a reciprocating pump that operates in series with the heart. Currently, it is one of the most widespread and extensively used methods for temporarily providing mechanical support to the circulatory system, functioning on the principle of counterpulsation. This principle is based on the reduction of aortic pressure during left ventricular systole and an increase in aortic pressure during left ventricular dilation. These primary changes subsequently lead to an increase in coronary flow and oxygen supply to the myocardium, as well as a reduction in the heart's oxygen requirements and a decrease in the systolic workload of the left ventricle. IABP support involves placing a balloon on a catheter in the descending thoracic aorta and coordinating the expansion and contraction of the balloon with the cardiac cycle. In the proposed project, a net flow rate in the aorta will be simulated using an IABP positioned within the aorta vessel, which includes the aortic valve. The cross-sectional area of the aortic valve varies over time as needed. By applying continuity and momentum fluid equations, a first-order differential equation with respect to flow rate is derived, incorporating a nonlinear term responsible for net flow rate generation. This differential equation will be solved numerically using a fourth-order Runge-Kuta numerical scheme."
@@ -53,6 +60,7 @@
   Area: null
   Supervisor: '<a href="" data-toggle="modal" data-target="#manopoulos-modal">Manopoulos Christos</a>'
   Sort: manopoulos
+  New: false
   
 - Title: 'Flow Rate Augmentation of Valveless Pumping Device via a Time-Dependent Stenosis: a numerical approach'
   Text: "A valveless pump device consists of a closed hydraulic loop, including a flexible tube and a stiff tube with different elasticities. To achieve the pumping effect, three basic elements are essential: first, the tubes should have different elasticity; second, the excitation should be applied impulsively with relatively rapid acceleration and deceleration phases; and third, the compression point must not be midway along the more flexible tube (asymmetric excitation). Additionally, the installation of a time-dependent tube stenosis close to the pump’s pinching excitation can significantly increase the pumping effect. Flow rate augmentation results from the proper synchronization of the stenosis opening with the tube compression by the pincher. One potential application of this device could be as a blood flow booster in areas of the human body where the blood flow rate is abnormally low due to pathological reasons (ischemic episodes). The fact that this device does not require any external energy source is of paramount importance in this type of application. A device for flow rate augmentation will be simulated in a horizontal valveless closed loop pump using a time-dependent stenosis (convergent-divergent channel). The stenosis, integrated into the flexible tube of the pump, will be simulated as a local constriction attached to a compression spring with adjustable pretension, compressing the tube against a flat plate. Positioned on either side of the pump pincher, the shape of the stenosis changes over time, without any external power source, in response to the fluid pressure and the pretension of the spring. The spring pretension is a free parameter aimed at maximizing the net flow rate for each pinching frequency. Various pinching frequencies and compression ratios will be examined. Key parameters for flow enhancement will be evaluated, including the stenosis location along the loop, its opening, the compression ratio at the pincher area, and the pinching frequency."
@@ -60,6 +68,7 @@
   Area: null
   Supervisor: '<a href="" data-toggle="modal" data-target="#manopoulos-modal">Manopoulos Christos</a>'
   Sort: manopoulos
+  New: false
 
 - Title: 'Integrating computational fluid dynamics data into medical image visualization workflows via DICOM'
   Text: "The integration of computational fluid dynamics (CFD) data into clinical workflows, particularly for the purposes of risk assessment or treatment planning, presents significant challenges. While various software tools have been developed to aid in the clinical visualization of CFD data, these tools often overlook established medical imaging practices and data infrastructures. This thesis explores methods to translate CFD data into DICOM series, leveraging the ubiquity of the DICOM file format to enable interactive visualization in PACS software.<br>The research focuses on resampling unstructured CFD data, including volumetric hemodynamic fields and morphological data, into structured grids. Raster-based techniques will be pursued to simulate experimental optical blurring, which helps integrate pathlines into structured image volumes. The volumetric hemodynamic and morphological data can be encoded into the DICOM file’s PixelArray tag, allowing for efficient data management that supports real-time rendering and minimal storage requirements. These encoded data can then be co-visualized using opacity-based rendering transfer functions in open source PACS software such as Orthanc DICOM server."
@@ -67,6 +76,7 @@
   Area: null
   Supervisor: '<a href="" data-toggle="modal" data-target="#manopoulos-modal">Manopoulos Christos</a>'
   Sort: manopoulos
+  New: false
 
 - Title: 'Computational modelling of endovascular repair of aortic aneurysms'
   Text: 'Endovascular aortic repair (EVAR) is preferred over open surgery for aortic aneurysms due to its minimally invasive nature, leading to lower in-hospital mortality rates. However, the long-term benefits of EVAR diminish after three years due to higher complication rates. Clinicians often rely on personal experience for stent-graft (SG) selection and procedural decisions, impacting long-term outcomes. This thesis will explore the use of computational modeling to predict SG deployment and tissue remodeling post-EVAR, aiming to improve preoperative planning and SG design. The methodology involves developing and validating computational models that simulate SG deployment and interaction with aortic tissue using patient-specific preoperative scans to generate accurate vessel models. Various deployment simulation methods, including virtual catheter, virtual shell, and direct placement methods, will be assessed for their efficiency and accuracy. The models will be validated by comparing simulation results with postoperative scans to ensure precision.'
@@ -74,6 +84,7 @@
   Area: null
   Supervisor: '<a href="" data-toggle="modal" data-target="#manopoulos-modal">Manopoulos Christos</a>'
   Sort: manopoulos
+  New: false
 
 - Title: 'Inverse finite element analysis to predict the unpressurized state of 3D reconstructed vascular models'
   Text: 'This thesis will investigate the challenges and advancements in reconstructing patient-specific computational models of the vasculature, emphasizing the importance of accurately estimating the unpressurized zero stress state. Current models typically derive from medical images captured at various points in the cardiac cycle, resulting in geometries that reflect a pressurized state without clear intraluminal pressure parameters. This ambiguity in pressure conditions can significantly affect the accuracy of stress estimations on vascular walls. The research will explore the application of inverse elastostatic methods, originally developed for homogeneous elastic materials and later refined for complex, nearly incompressible materials, to address these challenges. By analyzing and refining the finite element formulations used in these methods, the study aims to improve the precision of reconstructed geometries under physiological or pathological pressures. Additionally, the thesis will consider the anisotropic properties of arterial walls and the presence of intraluminal thrombus (ILT) to enhance the predictive capabilities of these models. By integrating these factors, the research aspires to provide a more reliable framework for vascular modeling, potentially improving the prediction of the vascular stress state.'
@@ -81,6 +92,7 @@
   Area: null
   Supervisor: '<a href="" data-toggle="modal" data-target="#manopoulos-modal">Manopoulos Christos</a>'
   Sort: manopoulos
+  New: false
 
 - Title: 'Identifying unique morphological variations between abdominal aortic aneurysms of male and female patients via statistical shape modelling'
   Text: "Abdominal aortic aneurysm (AAA) is characterized by the dilation and outward swelling of the abdominal aorta's wall. This condition predominantly affects older males (two to four times more frequently than females), but it is more severe in women. Consequently, the repair threshold for AAA is set at a maximum diameter of 5.5 cm in men and 5.0 cm in women. However, clinical guidelines acknowledge that “the size threshold for AAA repair in women and specific ethnic groups is an area of uncertainty requiring further research and high-quality long-term follow up cohort data may be the basis for better substantiated future recommendations.” The thesis aims to quantify morphological variations between AAAs in men and women. Using medical imaging data, the 3D reconstruction of AAA anatomy will be performed on an equal number of male and female patients using open software. Statistical shape modeling (SSM) will be employed to quantify morphological variations within the population. Principal component analysis (PCA) will identify linearly independent components that describe shape variation, capturing potential interactions between different morphological characteristics. The SSM will identify unique shape components, allowing for the reconstruction of an individual patient's AAA morphology from these components. These shape components may not correspond directly to known AAA morphological characteristics, as a component could represent a combination of these traits."
@@ -88,6 +100,7 @@
   Area: null
   Supervisor: '<a href="" data-toggle="modal" data-target="#manopoulos-modal">Manopoulos Christos</a>'
   Sort: manopoulos
+  New: false
 
 - Title: 'Fluid-Structure Interaction modelling of abdominal aortic aneurysms using open-source software'
   Text: "Fluid-Structure Interaction (FSI) represents the pinnacle of computational modeling techniques for assessing the biomechanical behavior of abdominal aortic aneurysms (AAAs). This approach integrates both hemodynamics and the mechanical properties of the aortic wall, and can also incorporate the intraluminal thrombus (ILT) typically present in AAAs. Understanding these complex interactions is crucial for predicting potential rupture, which is a life-threatening complication.<br>This thesis aims to leverage SimVascular, an open-source software for cardiovascular simulations, to develop advanced FSI models of AAAs. By utilizing SimVascular's capabilities, the research will simulate the coupled dynamics of blood flow and arterial wall deformation under physiological and pathological (hypertension) conditions. These simulations will include detailed geometrical reconstructions of patient-specific AAAs obtained from medical imaging data, ensuring that the models accurately reflect the patient anatomy. The proposed research will involve several key steps. Initially, the geometries of AAAs will be reconstructed from imaging data, followed by mesh generation suitable for FSI simulations. Next, material properties of the aortic wall and ILT will be defined based on experimental data from the literature. The blood flow will be modeled using Navier-Stokes equations, while the structural response of the aortic wall and ILT will be captured using appropriate constitutive models. The thesis will explore various scenarios, including different blood pressure conditions and wall material properties, to understand their impact on the mechanical stresses and strains within the aneurysm. This will help identify critical factors that contribute to rupture risk."
@@ -95,6 +108,7 @@
   Area: null
   Supervisor: '<a href="" data-toggle="modal" data-target="#manopoulos-modal">Manopoulos Christos</a>'
   Sort: manopoulos
+  New: false
 
 - Title: 'Three-dimensional computational analysis of steady and pulsating flow around a gate valve for biomechanics applications'
   Text: 'Both in pathological cases involving the flow of bodily fluids and in medical fluid flow devices, a change in fluid flow due to the presence of a constriction is observed. This study focuses on predicting the flow field around a gate valve geometry (constriction) using appropriate software (e.g., ANSYS Fluent). The study will be conducted for four different flow rates, ranging from 10 ml/s to 60 ml/s, and nine different degrees of valve opening, ranging from 10% to 90%. Various solution methods and turbulence models will be employed to gain a better understanding of both transitional and turbulent flow in the valve. The objectives of this research include predicting the pressure distribution along the tube containing the valve for various flow rates and degrees of valve opening, estimating the hydraulic coefficient of local losses, and analyzing the velocity field and shear stresses on the tube walls. An appropriate computational mesh will be selected, and various algorithms and turbulence models offered by the software will be tested for discretization and interpolation schemes. An in-depth fluid mechanics analysis will be presented, along with comparisons of the numerical results of various turbulence models. Finally, the CFD results will be compared with relevant experimental data to identify the most suitable turbulence model for each examined flow case.'
@@ -102,6 +116,7 @@
   Area: null
   Supervisor: '<a href="" data-toggle="modal" data-target="#manopoulos-modal">Manopoulos Christos</a>'
   Sort: manopoulos
+  New: false
 
 - Title: 'Arterial wave propagation of blood flow in elastic vessel with stenosis'
   Text: 'The purpose of this study is to develop a mathematical model that simulates blood flow in stenotic human vessels with elastic properties. The hemodynamic study includes the analysis of pressure and flow waveforms, which are key quantities characterizing the propagation of pulse waves in vessels. Pressure and flow waveforms continuously change as blood flows from the heart to peripheral vessels. In a specific cross-section of a vessel, the properties of the cardiovascular system (geometry, wall elasticity, peripheral resistance, heart rate, inertial forces, etc.) dictate the graph of these waveforms. Changes in these properties cause changes in pressure and flow waveforms.<br>Pressure and flow wave propagation in the human arterial system will be modeled using a one-dimensional, nonlinear analysis in a vessel. This one-dimensional consideration assumes that the pressure and flow in the three-dimensional space of the vessel can be represented by an appropriate calculated "average value" in each cross-section. The blood continuity and momentum equations, together with a nonlinear elastic membrane equation describing the vessel wall, constitute a nonlinear hyperbolic system of partial differential equations that is solved computationally using appropriate numerical discretization methods. Additionally, appropriate boundary conditions allow the model to be applied to any type of vessel. Two models will be constructed, differing in the equation that describes the movement of the vessel wall. The first model uses shell theory to describe the axial and radial displacement of the wall as a function of pressure and inertial forces. The second, more simplified model is based on the theory of elasticity, where the vessel wall is considered a membrane that experiences only tensile or compressive stresses tangential to its plane.<br>Many cardiovascular diseases are related to blood flow conditions in vessels. Arterial stenosis is one of the most serious cardiovascular diseases. For this reason, blood flow in a vessel with stenosis will be modeled to describe the changes in pressure and flow waveforms in relation to the initial physiological state.'
@@ -109,6 +124,7 @@
   Area: null
   Supervisor: '<a href="" data-toggle="modal" data-target="#manopoulos-modal">Manopoulos Christos</a>'
   Sort: manopoulos
+  New: false
 
 - Title: 'Computational simulation of blood flow in cerebral circulation'
   Text: "The purpose of this project is to study blood flow in the circulatory system of the human brain. A detailed mapping of the brain's arteries and veins will be conducted to build a comprehensive anatomical model. Both the arterial and venous systems will be modeled, each containing the major arteries and veins (about 40) of the human brain. The two systems will be examined separately and then connected to form an arteriovenous model of cerebral circulation. Smaller and peripheral vessels will be modeled as lumped parameter resistances to ensure that blood flow values are distributed physiologically according to the literature. The model will consider blood vessels as straight tubes of circular cross-section, in both steady and potentially unsteady flow. Initially, no pathology due to arterial stenosis will be taken into consideration. Subsequently, cerebral blood flow will be examined in the presence of stenosis, which causes redistribution of blood flow in the vessels."
@@ -116,6 +132,7 @@
   Area: null
   Supervisor: '<a href="" data-toggle="modal" data-target="#manopoulos-modal">Manopoulos Christos</a>'
   Sort: manopoulos
+  New: false
 
 - Title: 'Experimental study of pulsatile flow in a vessel with symmetrical stenosis'
   Text: 'The fluid mechanics around a symmetrical stenosis in a vessel will be studied experimentally in an open system rig for unsteady flow testing. The experimental setup will consist of two rigid overflow compartments filled with incompressible fluid, connected by a rigid plastic vessel. To evaluate the impact of flow resistance from a symmetrical stenosis, a gate valve will be inserted at a specific location in the vessel. Various displacement volumes of fluid will be achieved using a piston mechanism placed upstream of the gate valve. The piston mechanism will be driven by a DC motor with a controller setting various frequencies of pulsatile flow. The flow rate will be measured by an electromagnetic flow meter connected to the vessel. Various parameters for different degrees of stenosis will be studied by measuring the flow rate and pressure difference on both sides of the stenosis. All measurement signals will be recorded on a computer for further processing of time-averaged values and amplitudes for important parameters such as flow rates, pressure differences, and stenosis loss coefficients.'
@@ -123,6 +140,7 @@
   Area: null
   Supervisor: '<a href="" data-toggle="modal" data-target="#manopoulos-modal">Manopoulos Christos</a>'
   Sort: manopoulos
+  New: false
 
 - Title: 'Airflow simulation in a bifurcated tube for the simultaneous mechanical ventilation of two patients with respiratory failure'
   Text: "During the coronavirus disease (COVID-19) pandemic, many countries around the world experienced ventilator shortages due to the need to admit too many patients to Intensive Care Units (ICUs) simultaneously to treat Acute Respiratory Distress Syndrome (ARDS), one of the serious complications of the coronavirus.<br>Two suitable pipe bifurcation and convergence devices for the inhalation and exhalation of two patients can be adapted to the outlet and inlet of a mechanical ventilator to support two patients simultaneously. By using these devices, mechanical ventilation can be provided for a long time to two patients from a single mechanical ventilator with an appropriate 'patient pairing.' With proper management, more patients in need can benefit. One condition that must be met when using ventilators with such connected flow dividers is that the pressure driving the airflow must be distributed equally and remain unchanged for each branch of a patient. However, this condition cannot be maintained when the connected patients have different somatometric characteristics and, importantly, different behavior in the resistance to airflow to and from the lungs during mechanical ventilation, such as varying degrees of lung fibrosis. If the resistance and compliance of the patients' lungs differ, there will be a spatially asymmetric pressure variation. This will result in asymmetric air drainage in each branch (Coandă effect), restricting airflow to one patient relative to the other and preventing free access of air to one branch of the flow divider.<br>Two geometric pipe structures will be designed, one bifurcated and one convergent, from which the intraluminal space of each will be extracted. This space will be meshed and segmented appropriately to represent the computational sections of the inspiratory and expiratory airflow, respectively. Appropriate software will be used to build the grid. The fluid dynamics will be simulated using suitable software, applying the equations of conservation of momentum (Navier-Stokes) and conservation of mass in a unified system of units (e.g., SI). The solution algorithm to solve the equations, the numerical scheme with its order of accuracy, the solution time step Δt, and the method for entering the boundary conditions into the software will be chosen accordingly. The velocity and pressure fields will be solved in the intraluminal space when two different patients, A and B, are connected to the ventilator. Patient A will have severe lung damage, and Patient B will have less lung damage. Based on the literature, they will have different resistance (RA ≠ RB) and different compliance (CA ≠ CB). The model will determine the different volumes of air each patient inhales and investigate whether the volumes of exhaled air match those that must be removed by each patient."
@@ -130,6 +148,7 @@
   Area: null
   Supervisor: '<a href="" data-toggle="modal" data-target="#manopoulos-modal">Manopoulos Christos</a>'
   Sort: manopoulos
+  New: false
 
 - Title: 'Design and manufacture of an adjustable-volume liquid dispensing pump'
   Text: "This project focuses on the design and manufacture of an adjustable-volume liquid dispensing pump. The objective is to develop a reliable and efficient pump capable of dispensing precise volumes of liquid, which can be easily adjusted to meet varying requirements. The design process involves creating a robust mechanical structure with components that allow for accurate volume adjustments and consistent dispensing. Advanced modeling and simulation techniques are employed to optimize the pump's performance and ensure durability. The manufacturing phase utilizes precision machining and high-quality materials to produce the pump components, followed by rigorous testing to validate functionality and accuracy. This adjustable-volume liquid dispensing pump is intended for applications in laboratories, medical fields, and industrial settings where precise liquid measurement and dispensing are crucial. The outcome of this project is a versatile, user-friendly pump that enhances operational efficiency and accuracy in liquid handling tasks. Initially, the aim of this project is to establish technical specifications for the design of an adjustable-volume liquid dispensing pump in accordance with international practices and standards. A detailed presentation of at least ten (10) alternative construction solutions, including functional layouts and comprehensive descriptions, will be conducted through patent research. These design solutions will be evaluated and rated based on international practices and standards. Furthermore, an analysis, design, and simulation of the pump's operation according to the chosen design solution will be performed. The strength, reliability, and precision of the mechanism will also be assessed. Finally, the selected pump design will be manufactured using rapid prototyping tools."
@@ -137,6 +156,7 @@
   Area: null
   Supervisor: '<a href="" data-toggle="modal" data-target="#manopoulos-modal">Manopoulos Christos</a>'
   Sort: manopoulos
+  New: false
 
 - Title: 'Online application for simulating blood flow in the human circulatory system'
   Text: "An existing model of the human circulatory system will be developed into an interactive online application, allowing users to input their own data and obtain real-time results. The application will be based on a comprehensive one-dimensional computational blood flow model of the entire cardiovascular system. Key components of the application will include:<br>Distributed Model of the Human Arterial Tree: This model will incorporate all major arteries of the systemic circulation and numerically solve the one-dimensional momentum and continuity equations, along with the viscoelastic arterial wall equation, to calculate blood pressure, flow rate, and vessel cross-sectional area throughout the arterial network.<br>Heart Model: Utilizing the varying elastance of the left ventricle, this model will proportionally affect the properties of the coronary arteries. Integrating the heart model with the arterial tree will allow for realistic simulation of cardiac cycles and their impact on blood flow dynamics.<br>Shear Stress Model: Based on the Witzig-Womersley theory.<br>Windkessel Models for Distal Vessels: Distal vessels will be terminated with three-element Windkessel models to simulate peripheral resistance and compliance as boundary conditions.<br>Detailed Cerebral Vasculature Description: Geometry and properties taken from existing literature will be incorporated into the model. Additionally, a zero-dimensional model of the cerebral venous system will be added to extend the model's applicability to both normal and pathological conditions, such as carotid stenosis.<br>The model will be validated using experimental and computational results from the literature to ensure accuracy and reliability. Both normal and pathological conditions will be examined, and results will be compared with experimental data to validate model predictions.<br><br>Online Application Features<br>User Data Input: Users will be able to input their physiological data, such as heart rate, blood pressure, age, gender, and specific cardiovascular conditions. The application will process these inputs to personalize the blood flow simulation.<br>Real-Time Simulations: The application will run real-time simulations of the user's cardiovascular system based on the input data. Numerical solutions of the blood flow model will be generated quickly to provide immediate feedback.<br>Interactive Visualizations: Created using web technologies like WebGL and JavaScript libraries such as Three.js, these visualizations will allow users to explore different parts of the circulatory system and view dynamic changes in blood pressure, flow rate, and vessel cross-sectional area.<br>Detailed Reports: The application will generate detailed reports summarizing the simulation results, highlighting key hemodynamic parameters and potential risk factors. Users will have the option to download or share their personalized reports for further analysis or consultation with healthcare providers.<br>This online application will serve as a powerful tool for personalized cardiovascular health assessment, educational purposes, and potential clinical decision support."
@@ -144,6 +164,7 @@
   Area: null
   Supervisor: '<a href="" data-toggle="modal" data-target="#manopoulos-modal">Manopoulos Christos</a>'
   Sort: manopoulos
+  New: false
 
 - Title: 'Blood dynamics variations between patient-specific coronary arteries of the human myocardium: A computational study'
   Text: 'This computational study investigates the variations in blood dynamics within patient-specific coronary arteries of the human myocardium. Utilizing advanced imaging techniques and computational fluid dynamics (CFD) simulations, we analyze the hemodynamic parameters that influence coronary artery disease progression and treatment outcomes. By creating detailed, patient-specific models of coronary arteries, we examine the impact of anatomical differences on blood flow patterns, wall shear stress, and pressure distribution. This study aims to enhance our understanding of the relationship between coronary artery geometry and blood dynamics, potentially leading to more personalized and effective therapeutic strategies. The findings highlight significant inter-patient variability in blood flow characteristics, underscoring the importance of individualized assessment in the diagnosis and treatment of cardiovascular diseases.'
@@ -151,6 +172,7 @@
   Area: null
   Supervisor: '<a href="" data-toggle="modal" data-target="#manopoulos-modal">Manopoulos Christos</a>'
   Sort: manopoulos
+  New: false
 
 - Title: 'In-vitro mechanical behavior of the human esophagus'
   Text: "The esophagus is a hollow tubular organ responsible for transporting food from the pharynx to the stomach. It consists primarily of two layers: the inner mucosa/submucosa and the outer muscularis, spanning three main sections along its length: cervical, thoracic, and abdominal. Biomechanical knowledge of these layers in the human esophagus remains limited but crucial for understanding its physiology, pathophysiology, and applications in surgery, medical devices, and prosthetic implants.<br>Previous studies have focused primarily on animal esophagi, highlighting a need to investigate human esophageal behavior, which may differ significantly. This thesis proposes to study human cadaver esophagi obtained from the Forensic and Toxicology Laboratory of the Clinical Laboratory Sector, School of Health Sciences, NKUA. Ethics Committee approval and compliance with necropsy protocols are prerequisites for obtaining tissue samples within 48 hours post-mortem.<br>Measurements will be taken pre- and post-unloading to assess residual stresses and deformation. The mucosa-submucosa and muscle layers will be separated and individually evaluated to understand their mechanical interaction. Uniaxial tensile testing will explore the esophageal lining's behavior up to failure, considering tissue anisotropy in axial and circumferential orientations. Mechanical properties will be mapped across anatomical regions (cervical, thoracic, abdominal) and within each layer.<br>The study aims for a sample size of at least 21, ensuring robust statistical analysis, with additional categorization by gender and age where applicable. (This project will be conducted in collaboration with the Biomedical Research Foundation of the Academy of Athens-BRFAA)"
@@ -158,6 +180,7 @@
   Area: null
   Supervisor: '<a href="" data-toggle="modal" data-target="#manopoulos-modal">Manopoulos Christos</a>'
   Sort: manopoulos
+  New: false
 
 - Title: 'Computational simulation of urine flow in the human ureter'
   Text: 'A theoretical-numerical model will be developed to simulate pumping phenomena in a cylindrical ureter with elastic walls. Urine pumping will be induced by applying an external pressure on the elastic ureter wall, varying in both time and space to simulate peristaltic motion caused by the smooth muscles of the ureter wall. The model comprises three functions that vary in time and space: the cross-sectional lumen area of the ureter, the internal pressure build-up, and the urine velocity inside the ureter. These are governed by a system of nonlinear partial differential equations of hyperbolic type. The flow rate within the ureter will be calculated as a function of excitation frequency. Numerical solutions will be obtained using second-order finite difference methods such as Lax-Wendroff and MacCormack schemes. The urine flow rates predicted by this theoretical model will be compared with physiological data from the human ureter over the same range of frequencies.'
@@ -165,6 +188,7 @@
   Area: null
   Supervisor: '<a href="" data-toggle="modal" data-target="#manopoulos-modal">Manopoulos Christos</a>'
   Sort: manopoulos
+  New: false
 
 - Title: 'A computational model of intramyocardial coronary blood flow'
   Text: "The purpose of this project is to study the blood flow in the coronary vessels of the interventricular septum of the heart. The flow of blood in intramyocardial coronary vascular networks can be described by a system of algebraic and differential equations derived from the fundamental principles of blood fluid dynamics and vessel wall mechanics. Each vascular segment is treated as a straight cylindrical tube, with a radius that changes over time. The fluid continuity and momentum equations are solved using powers of the Womersley number. After introducing a deformation law for the segment, an ordinary differential equation is derived. A vascular network is described by a system of these differential equations, along with a system of algebraic equations derived from the law of mass conservation applied to the network's nodes. A large-scale network would result in an unsolvable system due to the enormous number of equations; therefore, the method will be applied to large symmetrical and small nonsymmetrical networks of the interventricular septum. Phasic velocity signals and reversed flows will be predicted. Average blood flows and velocities in small vessels will be accurately estimated, along with predictions of velocities in large vessels and the distribution of pressure."
@@ -172,6 +196,7 @@
   Area: null
   Supervisor: '<a href="" data-toggle="modal" data-target="#manopoulos-modal">Manopoulos Christos</a>'
   Sort: manopoulos
+  New: false
 
 - Title: "Assessment of the precise volume flow rate of a small peristaltic roller pump through the reconstruction, processing, and smoothing of the surface geometry of the pump’s flexible tube lumen scanned by a CT scanner"
   Text: "Peristaltic pumps are used in medical applications such as cardiopulmonary bypass and drug infusion, among others. They offer an effective pumping solution due to the minimal mechanical contact with the transported bio-fluid and their accurate flow control. This study aims to extract the precise fluid displacement volume of a peristaltic pump, which influences the output mass flow rate. A small peristaltic roller pump for drug infusion, with an optimized tube geometry, was scanned using a CT scanner (Canon Aquilion One Prism Edition 640 sections) while operating with a solution of water and iodide contrast agent. The 209 image sections, each with a slice thickness of 0.5 mm, will be reconstructed using appropriate software (Materialise Mimics or 3D Slicer), along with several post-processing steps for surface refinement, to reveal the morphology of the flexible tube lumen when compressed by the pump’s rollers. This will enable the creation of geometric surface models representing the lumen fluid volume. Additionally, the exact deformation of the flexible tube around the squeezed area by the roller will be assessed to precisely determine the lumen volume, ensuring the accuracy of fluid injection."
@@ -179,6 +204,7 @@
   Area: null
   Supervisor: '<a href="" data-toggle="modal" data-target="#manopoulos-modal">Manopoulos Christos</a>'
   Sort: manopoulos
+  New: false
 
 - Title: 'Assessing the effects of venoarterial extracorporeal membrane oxygenation on cerebral oxygenation using a one-dimensional blood flow simulator'
   Text: "Venoarterial extracorporeal membrane oxygenation (VA-ECMO) is a mechanical system that provides rapid, short-term support for patients experiencing cardiac failure. Many of these patients also have impaired pulmonary function, leading to poorly oxygenated cardiac output competing with well-oxygenated VA-ECMO output, a condition known as North-South syndrome. This syndrome is a significant concern due to its potential to cause cerebral hypoxia, which can lead to neurological complications commonly seen in these patients. To mitigate ischemic neurological complications, it is crucial to understand how clinical decisions regarding VA-ECMO parameters affect blood oxygenation. This project aims to study the impacts of flow rate and cannulation site on oxygenation using a one-dimensional (1D) model to simulate blood flow. The model will initially be validated by comparing its blood flow results to experimental data from VA-ECMO patients. The 1D model will then be integrated with a two-phase flow model to simulate oxygenation. Additionally, the influence of various clinician-tunable parameters on oxygenation in the common carotid arteries (CCAs) will be tested, including blood viscosity, cannula position within the insertion artery, heart rate, and systemic vascular resistance (SVR), as well as geometric changes such as arterial radius and length. The results aim to elucidate the incidence of cerebral hypoxia in this patient population and the frequent need to adjust cannulation strategies during treatment to address this clinical issue."
@@ -186,6 +212,7 @@
   Area: null
   Supervisor: '<a href="" data-toggle="modal" data-target="#manopoulos-modal">Manopoulos Christos</a>'
   Sort: manopoulos
+  New: false
 
 - Title: "Online topological map creation with semantic information for robot-assisted indoor navigation"
   Text: 'Topological maps in robotics are an important tool used to represent the environment. These maps provide an abstract, topological representation of the environment, meaning they do not include details such as graphical representations of objects, but instead, include relationships between various locations or areas in the environment. In this diploma thesis, the online generation of a topological map will be investigated using the information produced by a local robot motion planner, such as the "Dynamic Window Arc-Line" (DWAL) planner [1]. DWAL produces spatiotemporally correlated clusters of motion, which contain both topological and metric information. It has been successfully applied in assisted navigation scenarios for people with motor or cognitive deficits, through the use of robotic Rollator platforms. A further investigation will concern the augmentation of the topological map with semantic information regarding movement directions for people within the space, which will be extracted based on the motion clusters provided by the motion planner algorithm. Experimental evaluation is envisaged to be conducted on the <a href="https://www.i-walk.gr/"  target="_blank">i-Walk intelligent Robotic Rollator platform</a>, which aims at providing mobility and cognitive assistance of elderly and motor-impaired people.'
@@ -193,6 +220,7 @@
   Area: "Assistive Robotics"
   Supervisor: '<a href="" data-toggle="modal" data-target="#tzafestas-modal">Tzafestas Costas</a>'
   Sort: tzafestas
+  New: false
   
 - Title: "Optimized Real-Time Smartphone Sensor Data Collection for Diverse Applications"
   Text: "Embark on a pioneering master's thesis project that stands at the intersection of technology and practical utility. This initiative focuses on leveraging smartphone sensors such as accelerometers and gyros to collect real-time data, forming a detailed time series dataset with entries comprising timestamps and sensor readings. The data, captured at frequencies around 50 to 60 Hz over periods of a few seconds, will be pivotal in a myriad of applications. The project demands the development of a system capable of functioning both in the foreground and the background, ensuring uninterrupted data collection without draining substantial battery power or consuming excessive bandwidth. A distinctive feature to be integrated is the system’s ability to self-restart, guaranteeing continuous data acquisition even in adverse conditions. We invite aspiring graduate students to contribute to this groundbreaking endeavor, paving the way for innovations in real-time data analysis and setting a new benchmark in smartphone sensor data collection."
@@ -200,6 +228,7 @@
   Area: null
   Supervisor: '<a href="" data-toggle="modal" data-target="#papakonstantinou-modal">Papakonstantinou Vassilis</a>, <a href="" data-toggle="modal" data-target="#alexopoulos-modal">Alexopoulos Leonidas</a>'
   Sort: papakonstantinou
+  New: false
 
 - Title: "Εnhancing Cardiology Diagnostics through Collaborative AI-Human Interaction"
   Text: "Recent advances in artificial intelligence (AI) have opened new avenues for improving clinical diagnostics in specialized fields such as cardiology. This thesis will focus on exploring the dynamics of collaboration between human cardiologists and AI, specifically using Retrieval-Augmented Generation (RAG) enabled Large Language Models (LLMs) that incorporate dynamic access to medical knowledge bases. The study will assess how AI can augment human decision-making in real time during the diagnostic process."
@@ -207,6 +236,7 @@
   Area: null
   Supervisor: '<a href="" data-toggle="modal" data-target="#papakonstantinou-modal">Papakonstantinou Vassilis</a>, <a href="" data-toggle="modal" data-target="#nikita-modal">Konstantina Nikita</a>'
   Sort: papakonstantinou
+  New: false
   
 # - Title: "Use of digital technologies in palliative care"
 #   Text: "Digital technologies are increasingly being used in delivery of palliative care, i.e. specialised care for patients with serious illnesses, including terminal conditions. Opportunities and barriers in integrating digital technologies in palliative care have been documented in recent studies. In collaboration with palliative care practitioners in Evangelismos hospital, the thesis aims to develop strategies and approaches to support palliative care."
@@ -228,6 +258,7 @@
   Area: null
   Supervisor: '<a href="" data-toggle="modal" data-target="#golemati-modal">Golemati Spyretta</a>'
   Sort: golemati
+  New: false
 
 - Title: "B-mode ultrasound elastography"
   Text: "Ultrasound elastography is widely used for characterising tissue stiffness. The primary premises of elastography are that speckle kinematics reproduces underlying tissue kinematics and that tissue motion can be inferred from speckle tracking. Tissue motion can be assessed with a number of methods, including, for example, optical flow (OF) equations. This thesis focuses on the development of a novel motion-based elastography method devoted to B-mode data; traditional ultrasound elastography techniques rely on radiofrequency data. The method will allow computing axial and lateral displacement fields, as well as the 2-D strain tensor. The method will be applied to ultrasound images of the carotid arteries of normal and atherosclerotic subjects."
@@ -235,6 +266,7 @@
   Area: null
   Supervisor: '<a href="" data-toggle="modal" data-target="#golemati-modal">Golemati Spyretta</a>'
   Sort: golemati
+  New: false
 
 - Title: "Motion analysis of diaphragmatic ultrasound images"
   Text: "The diaphragm is the main muscle of respiration, acting continuously and uninterruptedly to sustain the task of breathing. Diaphragmatic dysfunction can occur secondary to numerous pathological conditions. Diaphragmatic ultrasound can be used to assess diaphragmatic excursion and diaphragm thickening in the zone of apposition. Ultrasound diaphragmatic muscle motion characteristics may provide useful information about normal or abnormal diaphragmatic function and indicate diaphragmatic weakness, or paralysis. Such information is useful for assessing the status of critically ill patients, and those receiving mechanical ventilation. This thesis will develop an automated analysis method for the quantitative analysis of ultrasonic motion from ultrasound diaphragmatic videos.<br>The work will be carried out in collaboration with the First Intensive Care Unit of the National and Kapodistrian University of Athens."
@@ -242,6 +274,7 @@
   Area: null
   Supervisor: '<a href="" data-toggle="modal" data-target="#golemati-modal">Golemati Spyretta</a>'
   Sort: golemati
+  New: false
 
 - Title: "Automatic pleural effusion classification from lung ultrasound images"
   Text: "Lung ultrasound is a well-established point-of-care diagnostic approach used in detecting pathological changes near the pleura of the lung. The main limitation to widespread use is its dependence on the operator training and experience. In this thesis, an automated system will be developed for the interpretation of lung ultrasound of pleural effusion.<br>The work will be carried out in collaboration with the First Intensive Care Unit of the National and Kapodistrian University of Athens."
@@ -249,6 +282,7 @@
   Area: null
   Supervisor: '<a href="" data-toggle="modal" data-target="#golemati-modal">Golemati Spyretta</a>'
   Sort: golemati
+  New: false
 
 - Title: "Identifying risk factors for Mild Cognitive Impairment progression via Interpretable Machine Learning"
   Text: "Dementia is a neurodegenerative disease that significantly impacts cognitive functions, such as decline in memory, thinking, and reasoning abilities. Mild Cognitive Impairment (MCI) serves as an intermediate stage between normal cognitive aging and dementia. MCI is considered a significant risk factor for the development of dementia and identifying individuals with MCI who are at higher risk of progressing is essential for early intervention and treatment. This diploma thesis will investigate the progression of MCI by employing machine learning (ML) techniques for discriminating between healthy individuals that remain stable and healthy individuals that develop MCI and MCI patients that remain stable and MCI patients that develop dementia. Interpretable machine learning methods will be also used to highlight risk factors, clinical and genetic, that can lead to the progression of MCI."
@@ -256,6 +290,7 @@
   Area: null
   Supervisor: '<a href="" data-toggle="modal" data-target="#kalliopi-dalakleidi-modal">Dalakleidi Kalliopi</a>, <a href="" data-toggle="modal" data-target="#nikita-modal">Konstantina Nikita</a>'
   Sort: dalakleidi
+  New: false
 
 - Title: "Design and development of a counterfactual interpretable machine learning method towards robustness for clinical decision making"
   Text: "Clinical decision-making needs specialized knowledge from AI systems to ensure that their decisions are rational and comprehensive. Counterfactual explanations let XAI simulate alternative cases that never happened. It lets clinical decision makers answer “why” questions and imagine events that might have happened. This diploma thesis will investigate the development of a counterfactual algorithm that will address the needs of the several XAI stakeholders in a clinical decision making system as well as explanation effectiveness measures, such as explanatory power and robustness."
@@ -263,6 +298,7 @@
   Area: null
   Supervisor: '<a href="" data-toggle="modal" data-target="#kalliopi-dalakleidi-modal">Dalakleidi Kalliopi</a>, <a href="" data-toggle="modal" data-target="#nikita-modal">Konstantina Nikita</a>'
   Sort: dalakleidi
+  New: false
 
 - Title: "Deep multimodal fusion of image and non-image data in identification of high-risk carotid atheromatous plaque"
   Text: "Carotid atherosclerosis poses a significant clinical challenge due to its association with high mortality and disability rates. Accurate risk stratification of carotid atheromatous plaque is essential for effective patient management. In this diploma thesis, we aim to leverage the capabilities of deep learning to address this complex task, which inherently involves multiple data modalities. The primary objective is to develop and compare innovative strategies for seamlessly integrating both imaging and tabular non-image data into an end-to-end trainable framework. By doing so, we aim to enhance the precision and reliability of carotid atheromatous plaque risk assessment."
@@ -270,6 +306,7 @@
   Area: null
   Supervisor: '<a href="" data-toggle="modal" data-target="#nikita-modal">Konstantina Nikita</a>'
   Sort: nikita
+  New: false
 
 - Title: "Development of interpretable machine learning models for the risk assessment of multimorbidity in patients with type 2 diabetes"
   Text: "Patients with type 2 diabetes mellitus (T2DM) are at high risk of living with and developing multiple co-occurring conditions, namely multimorbidity. Common comorbidities in patients with T2DM include hypertension, lipid disorders, cardiovascular disease, microvascular conditions, chronic kidney disease, arthritis, and depression. T2DM-related multimorbidity impacts significantly clinical care and patient quality of life. Along these lines, the stratification of multimorbid T2DM patients based on the risk of negative health outcomes is critical for the timely identification of targets for treatment initiation and the development of personalized and cost-efficient care plans. This diploma thesis will focus on investigating the use of various machine learning methods towards the development of risk prediction models able to estimate the 5-year risk of the incidence of common morbidities in multimorbid T2DM patients. Emphasis will be placed on the integration of the concept of multimorbidity by exploring and accounting for potential phenotypic associations among multiple morbid conditions, and identifying previously unknown patterns in disease trajectories. Intrepretability techniques will also be applied in order to provide insights into influential risk factors, associated with higher multimorbidity risk scores."
@@ -277,6 +314,7 @@
   Area: null
   Supervisor: '<a href="" data-toggle="modal" data-target="#nikita-modal">Konstantina Nikita</a>'
   Sort: nikita
+  New: false
 
 - Title: "Procedural game content generation via machine learning in serious games for health"
   Text: "Serious games constitute a research field that has attracted increasing research interest in the last decade, with the field health being one of the most prominent areas of application. Modern digital games often incorporate machine learning techniques with the capacity for dynamically generated content and dynamic difficulty adjustment. Serious games, as intervention tools, can take advantage of such approaches and tailor their content according to the needs of the user. In this manner, they enhance user engagement levels, while personalizing the intervention they provide. The aim of this thesis is the development of a machine learning approach for dynamic adaptation of content according to the needs of the user in a game with a serious purpose for health."
@@ -284,6 +322,7 @@
   Area: null
   Supervisor: '<a href="" data-toggle="modal" data-target="#nikita-modal">Konstantina Nikita</a>'
   Sort: nikita
+  New: false
 
 - Title: "Explainable AI (XAI) in the healthcare domain"
   Text: "Artificial intelligence (AI) has revolutionized the healthcare landscape, offering remarkable diagnostic capabilities. However, the inherent black box nature of AI and machine learning (ML) models poses a significant challenge to their adoption, hindering trust and transparency in clinical decision-making. Explainable AI (XAI) emerges as a solution to the aforementioned problem, aiming to elucidate the inner workings of AI & ML models and provide human-interpretable justifications for their outputs. Τhe objective of this thesis is to explore and expand state-of-the-art XAI techniques in reference healthcare applications, with respect to enhancing transparency without compromising performance."
@@ -291,6 +330,7 @@
   Area: null
   Supervisor: '<a href="" data-toggle="modal" data-target="#alexandridis-georgios-modal">Alexandridis Georgios</a>'
   Sort: alexandridis
+  New: false
 
 - Title: "Deep-learning techniques for evaluating Parkinson’s Disease progression from voice recordings."
   Text: "Parkinson's disease (PD) is a chronic neurodegenerative disorder manifesting not only in motor symptoms, but also in distinct changes to vocal patterns. Early diagnosis and accurate assessment of disease progression are crucial for effective treatment and management. The thesis will research the application of deep-learning (DL) techniques to evaluate PD progression using voice recordings. The objective is to evaluate current DL models, assess their performance in the task at hand and propose possible extensions that would further enhance their efficiency, thereby establishing more reliable, automated PD progression that would improve patient care and facilitate clinical research."
@@ -298,6 +338,7 @@
   Area: null
   Supervisor: '<a href="" data-toggle="modal" data-target="#alexandridis-georgios-modal">Alexandridis Georgios</a>'
   Sort: alexandridis
+  New: false
 
 - Title: "Large Language Models for clinical data"
   Text: "The integration of large language models (LLMs) in the analysis of clinical data marks a transformative reality in healthcare research and practice. This thesis explores the applications of LLMs, on the extraction, interpretation and utilization of information within the vast realm of clinical data, such as electronic health records, medical literature or even patient notes. The objective would be to illustrate whether LLMs can be used in a way that helps revealing intricate patterns, identifying subtle correlations and deriving meaningful insights that may elude traditional clinical analysis methods, thereby aiding healthcare professionals in suggesting therapies, prescribing drugs and in overall decision-making."
@@ -305,6 +346,7 @@
   Area: null
   Supervisor: '<a href="" data-toggle="modal" data-target="#alexandridis-georgios-modal">Alexandridis Georgios</a>'
   Sort: alexandridis
+  New: false
 
 - Title: "Extracellular matrix and mechanical regulation of fibroblasts activation in pulmonary fibrosis"
   Text: "Idiopathic pulmonary fibrosis (IPF) is a chronic, progressive, fibrotic form of diffuse lung disease occurring mainly in older adults and characterized by progressive worsening of lung functions and a poor prognosis. It is characterized abnormal wound healing in response to pulmonary epithelial damage, involving increased activity and possibly exaggerated responses by a spectrum of proinflammatory and profibrogenic factors. The hallmark of IPF is the presence of hyperplastic reparative epithelium overlying distinctive myofibroblastic foci that deposit exuberant Extracellular Matrix (ECM) components, leading to thickening of alveolar septa and the collapse of normal lung architecture. In the context of IPF, the rigidity of the ECM is thought to control the activation of myofibroblasts, the main effector cells in disease pathogenesis. Therefore, in the current project the recruited researcher will explore a possible role of Versican, a proteoglycan highly abundant in the lung, in ECM organization, stiffness and activation of lung fibroblasts.<br><br><u>Minimum methodologies to be learned:</u> DNA/RNA/protein isolation, reverse transcription, primer design, Real-Time PCR, Western blot, immunocytochemistry, cell culture, in silico expression analysis<br><u>Exposure to:</u> animal handling, genomic and recombination PCR, bleomycin-induced pulmonary fibrosis, measurements of respiratory functions (Flexivent), sectioning and pathology, FACS<br><u>Expected results:</u> co-authorship in a publication/conference presentation, preliminary results for a PhD thesis"
@@ -312,6 +354,7 @@
   Area: null
   Supervisor: '<a href="" data-toggle="modal" data-target="#aidinis-modal">Aidinis Vassilis</a>'
   Sort: aidinis
+  New: true
 
 - Title: "Development of Antimicrobial Coatings Using Integrated Electric Micro-heaters"
   Text: "The transmission of pathogenic microorganisms from contaminated surfaces to humans is a major threat to public health. The transparent and conductive material Indium Tin Oxide (ITO) can form the basis for the development of flexible coatings with antimicrobial activity, provided they are heated to the appropriate temperature by passing an electric current.<br>In this project, ITO surfaces, properly patterned with laser engraving, will be examined for their antimicrobial action through supply with electric current. Depending on the geometry of their morphology, obtained from laser engraving, the electrical resistance of the surfaces can be adjusted, impacting their temperature and heat distribution when electrically activated. The electrical and thermal properties of such surfaces will be examined and the conditions with optimal antimicrobial activity will be selected."
@@ -319,3 +362,4 @@
   Area: null
   Supervisor: '<a href="" data-toggle="modal" data-target="#chronis-modal">Chronis Nikos</a>'
   Sort: chronis
+  New: false
