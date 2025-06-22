@@ -15,21 +15,28 @@ show_sidebar: false
   justify-content: space-between;
   align-items: flex-start;
   flex-wrap: wrap;
+  background-color: #777;
+  color: white;
+  cursor: pointer;
+  padding: 18px;
+  width: 100%;
+  border: none;
+  text-align: left;
+  font-size: 15px;
 }
 
-.title-text {
-  flex: 1 1 auto;
-  margin-right: 10px;
+.thesis-title {
+  flex: 1 1 75%;
   font-weight: bold;
 }
 
-.supervisor {
-  white-space: nowrap;
-  flex-shrink: 0;
+.supervisor-name {
+  flex: 0 0 25%;
+  text-align: right;
   font-size: 0.9em;
-  color: #ddd;
+  color: #e4aeb1;
+  white-space: nowrap;
 }
-
 
 .collapsible:hover {
   background-color: #555;
@@ -69,9 +76,10 @@ show_sidebar: false
   {% assign subjects = site.data.thesis | sort: "Sort"%}
   {% for subject in subjects%}
     <button class="collapsible">
-      <span class="title-text">{{ subject.Title }}</span>
-      <span class="supervisor">{{ subject.Supervisor }}</span>
+      <span class="thesis-title">{{ subject.Title }}</span>
+      <span class="supervisor-name">{{ subject.Supervisor }}</span>
     </button>
+
      <div class="content_c">
        <p>Supervisor: {{subject.Supervisor}}</p>
        <p>{{subject.Text}}</p>
