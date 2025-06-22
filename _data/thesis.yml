@@ -368,31 +368,31 @@
   Text: "Aging is characterized by skeletal muscle cell atrophy and apoptosis. The impaired growth and survival potential of the aged muscle cells can be ameliorated by its mechanical loading via the regulation of muscle atrophy and pro-apoptotic factors, which have been negatively implicated in cell growth and survival. However the loading conditions for optimum molecular responses in both control and aged muscle cells remain unclear.<br>Purpose: This study will examine the effects of a specific mechanical loading protocol on the expression of muscle atrophy and pro-apoptotic genes in aged and control differentiated myoblasts (myotubes), in vitro.<br>Method: A model of multiple cell divisions of C2C12 myoblasts will be used to replicate cell senescence and both aged and control myoblasts wil undergo a stretching protocol using the Flexcell Tension System. The expression of genes such as myostatin, muscle-specific ubiquitin ligase Atrogin-1 (MaFbx), FoxO, FUCA and p53 in response to mechanical loading will be evaluated using Real Time-PCR."
   Related: null
   Area: null
-  Supervisor: '<a href="" data-toggle="modal" data-target="#anagnostopoulou-modal">Chronis Nikos</a>'
-  Sort: anagnostopoulou
+  Supervisor: '<a href="" data-toggle="modal" data-target="#ipatia-doussis-modal">Doussis-Anagnostopoulou Ipatia</a>'
+  Sort: doussis
   New: true
 
 - Title: "Motor coordination during a novel balance task"
   Text: "The aim of this project is to understand how humans achieve motor coordination when facing a novel balance task and how the underlying coordinative structures change with practice. You will use high-density electromyography (HD-EMG) recordings of the activity of multiple muscles made during behavioural experiments in which human participants tried to balance on a balance board. The HD-EMG signals will open a window into the neural activity at the level of the spinal cord. Using a signal decomposition approach, you will uncover the motoneuronal firing and then relate it with task performance and learning measures. Ultimately, you will understand how the nervous system coordinates muscles to perform a novel task effectively and how practice/learning affects this muscle coordination."
   Related: null
   Area: null
-  Supervisor: '<a href="" data-toggle="modal" data-target="#dellis-modal">Chronis Nikos</a>'
-  Sort: dellis
+  Supervisor: '<a href="" data-toggle="modal" data-target="#delis-ioannis-modal">Delis Ioannis</a>'
+  Sort: delis
   New: true
 
 - Title: "Uncovering the brain networks underlying multisensory processing in health and disease"
   Text: "Incoming signals from different senses provide us with complementary information about the environment. However, the neural mechanisms underlying the processing of multi-sensory information and its translation to perceptual judgment remain elusive. In this project, you will investigate the neural underpinnings of audio-visual decision making. You will record brain signals (EEG) while human participants perform a perceptual choice task using different types of sensory information (visual, auditory or both). You will measure participants’ task performance as discrimination accuracy and response time and assess if performance improves when both sensory signals are available. You will then analyse the EEG signals to identify neural components discriminating the presented stimuli and the subjects’ choices and determine “where” and “when” the brain fuses information from different senses to optimize decisions."
   Related: null
   Area: null
-  Supervisor: '<a href="" data-toggle="modal" data-target="#dellis-modal">Chronis Nikos</a>'
-  Sort: dellis
+  Supervisor: '<a href="" data-toggle="modal" data-target="#delis-ioannis-modal">Delis Ioannis</a>'
+  Sort: delis
   New: true
 
 - Title: "Application of source localization & artificial intelligence techniques on electroencephalography data for identification of brain areas involved in imaginary motion tasks"
   Text: "Using an electroencephalography (EEG) dataset from human subjects performing imaginary motion tasks, students will apply source localization techniques to identify the underlying brain areas responsible for the activity measured on source level. This process will be combined with artificial intelligence to highlight the sources that are involved in movement planning within the brain and can be used to discriminate among different motion states.<br>Supervised by: G. Matsopoulos, I. Kakkos"
   Related: null
   Area: null
-  Supervisor: '<a href="" data-toggle="modal" data-target="#matsopoulos-modal">Chronis Nikos</a>'
+  Supervisor: '<a href="" data-toggle="modal" data-target="#matsopoulos-modal">Matsopoulos George</a>'
   Sort: matsopoulos
   New: true
   
@@ -400,7 +400,7 @@
   Text: "Students are asked to develop a multi-purpose brain network analysis framework incorporating multiple connectivity algorithms (directional / non-directional, bivariate / multivariate, time-domain / frequency-domain) and network metrics for evaluation of brain interactions and comparative analysis between different methods. This framework will be applied on an electroencephalography (EEG) dataset from human subjects performing real motion tasks.<br>Supervised by: G. Matsopoulos, S. Miloulis"
   Related: null
   Area: null
-  Supervisor: '<a href="" data-toggle="modal" data-target="#matsopoulos-modal">Chronis Nikos</a>'
+  Supervisor: '<a href="" data-toggle="modal" data-target="#matsopoulos-modal">Matsopoulos George</a>'
   Sort: matsopoulos
   New: true
 
@@ -408,6 +408,6 @@
   Text: "Students are asked to develop a clinical decision support system (CDSS) that can identify cases of diabetic retinopathy, based on a dataset of fundoscopic images collected from a population of patients and healthy individuals. Image processing techniques will be applied to extract features that will be integrated within a machine learning framework to achieve optimal clinical performance.<br>Supervised by: G. Matsopoulos, I. Vezakis"
   Related: null
   Area: null
-  Supervisor: '<a href="" data-toggle="modal" data-target="#matsopoulos-modal">Chronis Nikos</a>'
+  Supervisor: '<a href="" data-toggle="modal" data-target="#matsopoulos-modal">Matsopoulos George</a>'
   Sort: matsopoulos
   New: true
