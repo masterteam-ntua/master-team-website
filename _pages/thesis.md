@@ -28,7 +28,7 @@ show_sidebar: false
   justify-content: space-between;
   align-items: flex-start;
   flex-wrap: wrap;
-  background-color: #777;
+  background-color: #a3a3a3;
   color: white;
   cursor: pointer;
   padding: 18px;
