@@ -10,6 +10,20 @@ show_sidebar: false
 ---
 <head>
 <style>
+@media (max-width: 768px) {
+  .collapsible {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .supervisor-name {
+    text-align: left;
+    margin-top: 8px;
+    flex: 1 1 100%;
+    white-space: normal;
+  }
+}
+  
 .collapsible {
   display: flex;
   justify-content: space-between;
