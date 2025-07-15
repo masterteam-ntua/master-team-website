@@ -120,14 +120,22 @@ ul.navbar-nav.ml-auto {
     color: $black;
   }
 }
-.linkedin-icon {
-  position: absolute;
-  bottom: 10px;
-  right: 10px;
+.linkedin-fixed-icon {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  z-index: 1000;
 }
-.linkedin-icon img {
-  width: 32px; /* adjust size if needed */
+
+.linkedin-fixed-icon img {
+  width: 32px;
   height: auto;
+  opacity: 0.8;
+  transition: opacity 0.2s ease;
+}
+
+.linkedin-fixed-icon:hover img {
+  opacity: 1;
 }
 
 .site-container {
