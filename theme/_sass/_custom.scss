@@ -120,6 +120,15 @@ ul.navbar-nav.ml-auto {
     color: $black;
   }
 }
+.linkedin-icon {
+  position: absolute;
+  bottom: 10px;
+  right: 10px;
+}
+.linkedin-icon img {
+  width: 32px; /* adjust size if needed */
+  height: auto;
+}
 
 .site-container {
   padding-top: 2rem;
