@@ -88,7 +88,7 @@ ul.navbar-nav.ml-auto {
 .site-logo {
   height: 7rem;
   @media (max-width: 1180px) {
-    height: 5.3rem;
+    height: 4.5rem;
   }
   &.ntua-logo {
     @media (max-width: 388px) {
@@ -128,10 +128,17 @@ ul.navbar-nav.ml-auto {
 }
 
 .linkedin-fixed-icon img {
-  width: 48px;
+  width: 64px;
   height: auto;
   opacity: 0.8;
   transition: opacity 0.2s ease;
+}
+
+/* Reduce size on smaller screens */
+@media (max-width: 600px) {
+  .linkedin-fixed-icon img {
+    width: 32px;
+  }
 }
 
 .linkedin-fixed-icon:hover img {
