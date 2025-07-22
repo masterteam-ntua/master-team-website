@@ -14,21 +14,21 @@
   Sort: stamatakos
   New: false
 
-- Title: "Enhancing Diagnostic Accuracy with Deep Learning: A Study on MRI Image Segmentation for Brain Tumor Identification"
-  Text: 'The primary aim of this thesis is to develop a deep learning model that enhances the accuracy and efficiency of brain tumor identification through MRI image segmentation. This research will focus on employing and refining state-of-the-art deep learning techniques to segment brain tumors from MRI scans more precisely than current traditional and semi-automated methods.'
-  Related: null
-  Area: null
-  Supervisor: '<a href="" data-toggle="modal" data-target="#asvestas-modal">Asvestas Panteleimon</a>'
-  Sort: asvestas
-  New: false
+# - Title: "Enhancing Diagnostic Accuracy with Deep Learning: A Study on MRI Image Segmentation for Brain Tumor Identification"
+#   Text: 'The primary aim of this thesis is to develop a deep learning model that enhances the accuracy and efficiency of brain tumor identification through MRI image segmentation. This research will focus on employing and refining state-of-the-art deep learning techniques to segment brain tumors from MRI scans more precisely than current traditional and semi-automated methods.'
+#   Related: null
+#   Area: null
+#   Supervisor: '<a href="" data-toggle="modal" data-target="#asvestas-modal">Asvestas Panteleimon</a>'
+#   Sort: asvestas
+#   New: false
 
-- Title: "Application of Convolutional Neural Networks in the Automated Detection of Pulmonary Tuberculosis from Chest X-Rays"
-  Text: 'The goal of this thesis is to develop a convolutional neural network (CNN) based model that can automatically detect pulmonary tuberculosis (TB) from chest X-ray images. This research aims to enhance the detection speed and accuracy, potentially aiding in quicker and more reliable TB screening, especially in under-resourced areas.'
-  Related: null
-  Area: null
-  Supervisor: '<a href="" data-toggle="modal" data-target="#asvestas-modal">Asvestas Panteleimon</a>'
-  Sort: asvestas
-  New: false
+# - Title: "Application of Convolutional Neural Networks in the Automated Detection of Pulmonary Tuberculosis from Chest X-Rays"
+#   Text: 'The goal of this thesis is to develop a convolutional neural network (CNN) based model that can automatically detect pulmonary tuberculosis (TB) from chest X-ray images. This research aims to enhance the detection speed and accuracy, potentially aiding in quicker and more reliable TB screening, especially in under-resourced areas.'
+#   Related: null
+#   Area: null
+#   Supervisor: '<a href="" data-toggle="modal" data-target="#asvestas-modal">Asvestas Panteleimon</a>'
+#   Sort: asvestas
+#   New: false
   
 - Title: 'In silico generation of 4D flow MRI data employing computational fluid dynamics simulations in patient-specific abdominal aortic aneurysm models'
   Text: 'There are only limited medical imaging methodologies to non-invasively and accurately assess the blood flow and its properties. The most advanced technique is 4D Flow Magnetic Resonance Imaging (MRI), that enables the calculation of hemodynamic fields across extended vascular regions and can be further processed to produce clinically relevant hemodynamic indices, such as wall shear stresses. The aim of the thesis is to in silico generate 4D flow MRI-like training data starting from computational hemodynamic simulations in patient-specific pathological vascular anatomies, particularly in abdominal aortic aneurysms. Several transformations will be implemented to bridge the gap between the computational fluid dynamics (CFD)- generated blood velocity field and actual imaging data derived from 4D Flow MRI scans. The candidate will collaborate with vascular surgeons and radiologists from the “Attikon” University Hospital who will provide real 4D MRI scans for validation purposes.'
@@ -284,21 +284,21 @@
   Sort: golemati
   New: false
 
-- Title: "Identifying risk factors for Mild Cognitive Impairment progression via Interpretable Machine Learning"
-  Text: "Dementia is a neurodegenerative disease that significantly impacts cognitive functions, such as decline in memory, thinking, and reasoning abilities. Mild Cognitive Impairment (MCI) serves as an intermediate stage between normal cognitive aging and dementia. MCI is considered a significant risk factor for the development of dementia and identifying individuals with MCI who are at higher risk of progressing is essential for early intervention and treatment. This diploma thesis will investigate the progression of MCI by employing machine learning (ML) techniques for discriminating between healthy individuals that remain stable and healthy individuals that develop MCI and MCI patients that remain stable and MCI patients that develop dementia. Interpretable machine learning methods will be also used to highlight risk factors, clinical and genetic, that can lead to the progression of MCI."
-  Related: null
-  Area: null
-  Supervisor: '<a href="" data-toggle="modal" data-target="#kalliopi-dalakleidi-modal">Dalakleidi Kalliopi</a>, <a href="" data-toggle="modal" data-target="#nikita-modal">Konstantina Nikita</a>'
-  Sort: dalakleidi
-  New: false
+# - Title: "Identifying risk factors for Mild Cognitive Impairment progression via Interpretable Machine Learning"
+#   Text: "Dementia is a neurodegenerative disease that significantly impacts cognitive functions, such as decline in memory, thinking, and reasoning abilities. Mild Cognitive Impairment (MCI) serves as an intermediate stage between normal cognitive aging and dementia. MCI is considered a significant risk factor for the development of dementia and identifying individuals with MCI who are at higher risk of progressing is essential for early intervention and treatment. This diploma thesis will investigate the progression of MCI by employing machine learning (ML) techniques for discriminating between healthy individuals that remain stable and healthy individuals that develop MCI and MCI patients that remain stable and MCI patients that develop dementia. Interpretable machine learning methods will be also used to highlight risk factors, clinical and genetic, that can lead to the progression of MCI."
+#   Related: null
+#   Area: null
+#   Supervisor: '<a href="" data-toggle="modal" data-target="#kalliopi-dalakleidi-modal">Dalakleidi Kalliopi</a>, <a href="" data-toggle="modal" data-target="#nikita-modal">Konstantina Nikita</a>'
+#   Sort: dalakleidi
+#   New: false
 
-- Title: "Design and development of a counterfactual interpretable machine learning method towards robustness for clinical decision making"
-  Text: "Clinical decision-making needs specialized knowledge from AI systems to ensure that their decisions are rational and comprehensive. Counterfactual explanations let XAI simulate alternative cases that never happened. It lets clinical decision makers answer “why” questions and imagine events that might have happened. This diploma thesis will investigate the development of a counterfactual algorithm that will address the needs of the several XAI stakeholders in a clinical decision making system as well as explanation effectiveness measures, such as explanatory power and robustness."
-  Related: null
-  Area: null
-  Supervisor: '<a href="" data-toggle="modal" data-target="#kalliopi-dalakleidi-modal">Dalakleidi Kalliopi</a>, <a href="" data-toggle="modal" data-target="#nikita-modal">Konstantina Nikita</a>'
-  Sort: dalakleidi
-  New: false
+# - Title: "Design and development of a counterfactual interpretable machine learning method towards robustness for clinical decision making"
+#   Text: "Clinical decision-making needs specialized knowledge from AI systems to ensure that their decisions are rational and comprehensive. Counterfactual explanations let XAI simulate alternative cases that never happened. It lets clinical decision makers answer “why” questions and imagine events that might have happened. This diploma thesis will investigate the development of a counterfactual algorithm that will address the needs of the several XAI stakeholders in a clinical decision making system as well as explanation effectiveness measures, such as explanatory power and robustness."
+#   Related: null
+#   Area: null
+#   Supervisor: '<a href="" data-toggle="modal" data-target="#kalliopi-dalakleidi-modal">Dalakleidi Kalliopi</a>, <a href="" data-toggle="modal" data-target="#nikita-modal">Konstantina Nikita</a>'
+#   Sort: dalakleidi
+#   New: false
 
 - Title: "Deep multimodal fusion of image and non-image data in identification of high-risk carotid atheromatous plaque"
   Text: "Carotid atherosclerosis poses a significant clinical challenge due to its association with high mortality and disability rates. Accurate risk stratification of carotid atheromatous plaque is essential for effective patient management. In this diploma thesis, we aim to leverage the capabilities of deep learning to address this complex task, which inherently involves multiple data modalities. The primary objective is to develop and compare innovative strategies for seamlessly integrating both imaging and tabular non-image data into an end-to-end trainable framework. By doing so, we aim to enhance the precision and reliability of carotid atheromatous plaque risk assessment."
@@ -348,13 +348,13 @@
   Sort: alexandridis
   New: false
 
-- Title: "Extracellular matrix and mechanical regulation of fibroblasts activation in pulmonary fibrosis"
-  Text: "Idiopathic pulmonary fibrosis (IPF) is a chronic, progressive, fibrotic form of diffuse lung disease occurring mainly in older adults and characterized by progressive worsening of lung functions and a poor prognosis. It is characterized abnormal wound healing in response to pulmonary epithelial damage, involving increased activity and possibly exaggerated responses by a spectrum of proinflammatory and profibrogenic factors. The hallmark of IPF is the presence of hyperplastic reparative epithelium overlying distinctive myofibroblastic foci that deposit exuberant Extracellular Matrix (ECM) components, leading to thickening of alveolar septa and the collapse of normal lung architecture. In the context of IPF, the rigidity of the ECM is thought to control the activation of myofibroblasts, the main effector cells in disease pathogenesis. Therefore, in the current project the recruited researcher will explore a possible role of Versican, a proteoglycan highly abundant in the lung, in ECM organization, stiffness and activation of lung fibroblasts.<br><br><u>Minimum methodologies to be learned:</u> DNA/RNA/protein isolation, reverse transcription, primer design, Real-Time PCR, Western blot, immunocytochemistry, cell culture, in silico expression analysis<br><u>Exposure to:</u> animal handling, genomic and recombination PCR, bleomycin-induced pulmonary fibrosis, measurements of respiratory functions (Flexivent), sectioning and pathology, FACS<br><u>Expected results:</u> co-authorship in a publication/conference presentation, preliminary results for a PhD thesis"
-  Related: null
-  Area: null
-  Supervisor: '<a href="" data-toggle="modal" data-target="#aidinis-modal">Aidinis Vassilis</a>'
-  Sort: aidinis
-  New: false
+# - Title: "Extracellular matrix and mechanical regulation of fibroblasts activation in pulmonary fibrosis"
+#   Text: "Idiopathic pulmonary fibrosis (IPF) is a chronic, progressive, fibrotic form of diffuse lung disease occurring mainly in older adults and characterized by progressive worsening of lung functions and a poor prognosis. It is characterized abnormal wound healing in response to pulmonary epithelial damage, involving increased activity and possibly exaggerated responses by a spectrum of proinflammatory and profibrogenic factors. The hallmark of IPF is the presence of hyperplastic reparative epithelium overlying distinctive myofibroblastic foci that deposit exuberant Extracellular Matrix (ECM) components, leading to thickening of alveolar septa and the collapse of normal lung architecture. In the context of IPF, the rigidity of the ECM is thought to control the activation of myofibroblasts, the main effector cells in disease pathogenesis. Therefore, in the current project the recruited researcher will explore a possible role of Versican, a proteoglycan highly abundant in the lung, in ECM organization, stiffness and activation of lung fibroblasts.<br><br><u>Minimum methodologies to be learned:</u> DNA/RNA/protein isolation, reverse transcription, primer design, Real-Time PCR, Western blot, immunocytochemistry, cell culture, in silico expression analysis<br><u>Exposure to:</u> animal handling, genomic and recombination PCR, bleomycin-induced pulmonary fibrosis, measurements of respiratory functions (Flexivent), sectioning and pathology, FACS<br><u>Expected results:</u> co-authorship in a publication/conference presentation, preliminary results for a PhD thesis"
+#   Related: null
+#   Area: null
+#   Supervisor: '<a href="" data-toggle="modal" data-target="#aidinis-modal">Aidinis Vassilis</a>'
+#   Sort: aidinis
+#   New: false
 
 - Title: "Development of Antimicrobial Coatings Using Integrated Electric Micro-heaters"
   Text: "The transmission of pathogenic microorganisms from contaminated surfaces to humans is a major threat to public health. The transparent and conductive material Indium Tin Oxide (ITO) can form the basis for the development of flexible coatings with antimicrobial activity, provided they are heated to the appropriate temperature by passing an electric current.<br>In this project, ITO surfaces, properly patterned with laser engraving, will be examined for their antimicrobial action through supply with electric current. Depending on the geometry of their morphology, obtained from laser engraving, the electrical resistance of the surfaces can be adjusted, impacting their temperature and heat distribution when electrically activated. The electrical and thermal properties of such surfaces will be examined and the conditions with optimal antimicrobial activity will be selected."
