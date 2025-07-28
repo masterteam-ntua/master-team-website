@@ -614,7 +614,7 @@
   modalId: toumpanakis-dimitrios-modal
   showOnlyInAdministration: false
 
-  - Image: /theme/img/team/maria_athanasiou.jpg
+- Image: /theme/img/team/maria_athanasiou.jpg
   Name: Athanasiou Maria
   Category: Researchers
   Title1: Postdoctoral Researcher
