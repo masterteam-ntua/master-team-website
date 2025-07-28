@@ -588,7 +588,7 @@
 
 - Image: /theme/img/team/papaspyropoulos-angelos.jpg
   Name: Papaspyropoulos Angelos
-  Category: Researchers
+  Category: Professors
   Title1: Assistant Professor
   Title2: Laboratory of Histology and Embryology, NKUA Medical School
   School: Athens Medical School, NKUA
@@ -598,5 +598,19 @@
   Bio: 'Dr Papaspyropoulos graduated with distinction from the School of Biology, Aristotle University of Thessaloniki, where he became specialized in Molecular Biology, Genetics and Biotechnology. Dr Papaspyropoulos was subsequently admitted to the University of Oxford, UK under a competitive 4-year full Medical Research Council (MRC) studentship, where he successfully completed his DPhil thesis at the Department of Oncology (2010-2014). During his doctoral studies, he investigated the role of Hippo and Wnt key signaling pathways in tumorigenesis and stem cell biology. Between 2014-2015, Dr Papaspyropoulos worked as a postdoctoral fellow at the Oxford Institute for Radiation Oncology, having received an MRC DTP Postdoctoral Fellowship Award. In the cancer field, Dr Papaspyropoulos became involved with the transcriptional and epigenetic regulation of tumor suppressive genes and their role in cancer stem cell biology. In the stem cell field, his research in induced pluripotent stem cells (iPSC) and embryonic stem cells contributed to the elucidation of key mechanisms governing the transition from pluripotency to differentiation during embryogenesis. Between 2015-2018, Dr Papaspyropoulos moved to the Netherlands where he worked as a postdoctoral fellow at the Hubrecht Institute for Developmental Biology and Stem Cell Research, Utrecht University. His research was focused on the establishment and implementation of organoids as a personalized medicine platform against human disease, particularly lung and colorectal cancer. Between 2019-2023, Dr Papaspyropoulos worked as a senior postdoctoral fellow (recipient of an IKY fellowship) at the Department of Biochemistry, School of Chemistry, Aristotle University of Thessaloniki (2019-2020), and later (2020-2023) at the Department of Histology-Embryology at the National and Kapodistrian University of Athens Medical School. Dr Papaspyropoulos is currently (2024-) Assistant Professor of Histology-Embryology at the National and Kapodistrian University of Athens Medical School. His research activity involves the elucidation of signaling pathways and (epi)genetic events governing tumorigenesis, aging and stem cell biology as well as the development and use of organoids in precision oncology.'
   Office: null
   modalId: papaspyropoulos-angelos-modal
+  showOnlyInAdministration: false
+
+- Image: /theme/img/team/toumpanakis-dimitrios.jpg
+  Name: Toumpanakis Dimitrios
+  Category: Professors
+  Title1: Assistant Professor
+  Title2: Critical Care and Pulmonary Medicine, NKUA Medical School
+  School: Athens Medical School, NKUA
+  Email: dtoumpanakis@med.uoa.gr
+  Phone: null
+  Website: null
+  Bio: 'I graduated from the Medical School of the National and Kapodistrian University of Athens in 2006. From 2007 to 2011, I conducted my PhD thesis at the 1st Department of Critical Care Medicine of the National and Kapodistrian University of Athens (NKUA), at “Evangelismos” Hospital, under the supervision of Professor Theodoros Vassilakopoulos. In my thesis, I developed an experimental model of resistive breathing-induced acute lung injury, with clinical applications in critical care and pulmonary medicine, especially for exacerbations of obstructive pulmonary diseases. My thesis was published in the renowned American Journal of Respiratory and Critical Care Medicine.<br>I specialized in Pulmonary Medicine at the 1st Department of Critical Care Medicine of NKUA (2011–2016). From July 2016 to February 2018, I worked as a Postdoctoral Fellow at the “Marianti Simou” Center for Applied Biomedical Education and Research, where I further developed the findings of my doctoral research. I obtained the subspecialty title in Intensive Care from “G. Gennimatas” Hospital (2018–2020). From April 2020, during the COVID-19 pandemic, I worked as an attending physician at “Sotiria” Chest Hospital, both in the ICU at the 1st University Pulmonary Clinic and the 4th Pulmonary Clinic of the National Health System.<br>I conducted postdoctoral basic research at the Keenan Research Centre of the University of Toronto between June and November 2015, with a fellowship from the European Respiratory Society, focusing on the application of mesenchymal stem cells in adult acute respiratory distress syndrome, under Professor Haibo Zhang. Additionally, I conducted clinical research at the National Heart and Lung Institute of Imperial College London from June 2022 to May 2023, supported by the European Respiratory Society, in the field of respiratory physiology with a focus on small airways, under Professor Omar Usmani.<br>In October 2023, I was appointed Assistant Professor of Critical Care and Pulmonary Medicine at the Medical School of the National and Kapodistrian University of Athens and was assigned to the 2nd Department of Critical Care Medicine at the University Hospital “Attikon.”. My research interests include mechanical ventilation and acute lung injury, respiratory physiology, and obstructive lung diseases, combining techniques of basic science with clinical research. In December 2024, I received the “Elisavet F. Fotinelli – Ioannis D. Kritikos Award” of the 1st Section of the Academy of Athens for the year 2024, for my research work and overall contribution to the fields of Pulmonary and Critical Care Medicine.'
+  Office: null
+  modalId: toumpanakis-dimitrios-modal
   showOnlyInAdministration: false
 
