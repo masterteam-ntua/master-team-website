@@ -614,3 +614,18 @@
   modalId: toumpanakis-dimitrios-modal
   showOnlyInAdministration: false
 
+  - Image: /theme/img/team/maria_athanasiou.jpg
+  Name: Athanasiou Maria
+  Category: Researchers
+  Title1: Postdoctoral Researcher
+  Title2: Biomedical Simulations and Imaging Laboratory
+  School: School of Electrical and Computer Engineering, National Technical University of Athens (NTUA)
+  Email: mathanasiou@biosim.ntua.gr
+  Phone: null
+  Website: null
+  Bio: 'Maria Athanasiou received the Diploma in Electrical and Computer Engineering (ECE) and the PhD degree from the National Technical University of Athens (NTUA) in 2015 and 2023, respectively. Her PhD thesis aimed at the development of interpretable machine learning models supporting diabetes management and introduced, among others, the first interpretable risk prediction model for hospitalization risk assessment due to diabetic ketoacidosis. She currently serves as a Postdoctoral Research Associate at the Biomedical Simulations and Imaging Lab, School of ECE, NTUA, focusing on the development of innovative methodologies for increasing the transparency, fairness, and reliability of decision support systems in health through physiology-driven approaches and human-centered AI methods. She has published 26 papers in international peer-reviewed scientific journals and international conferences. She is a Lectuter of the postgraduate courses “Research Methodology” and “Artificial Intelligence in Healthcare” of the NTUA MSc Program “Translational Engineering in Health and Medicine”. She serves as reviewer for international peer-reviewed scientific journals and international conferences (IEEE Transactions on Biomedical Engineering, IEEE Journal of Biomedical and Health Informatics, Springer Nature, Journal of Medical Internet Research, International Conference of the IEEE Engineering in Medicine and Biology Society). She has received the Best Student Paper Award at the 20th IEEE International Conference on BioInformatics And BioEngineering for her research on assessing the risk of cardiovascular disease in patients with Type 2 Diabetes Mellitus.. She has also won the second prize at 2020 HackCoronaGreece as a member of the NTUA team for the project “Self-Assessment & Monitoring Tool for COVID-19 based on Audio Records and Artificial Intelligence -SMARTY”. She is the Administrative Editor of the IEEE Transactions on Antennas and Propagation and from 2019 to 2022 served as the inaugural Administrative Editor of the IEEE Open Journal of Antennas and Propagation. She is Chair of the IEEE Women in Engineering Greece Section Affinity Group. She is an IEEE Member and a member of the Technical Chamber of Greece.'
+  Office: null
+  modalId: athanasiou-maria-modal
+  showOnlyInAdministration: false
+
+
