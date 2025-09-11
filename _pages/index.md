@@ -323,12 +323,14 @@ show_sidebar: false
             </a>
         </div>
         <div class="disclaimer-text">
-            <p class="text-footer-secondary">The collaboration with Columbia University is supported by Bodosaki Foundation.</p>
+            <p class="text-footer-secondary"></p>
             <!--
             <p>This project "Support for Internationalization Actions of Postgraduate Studies of the National Technical University of Athens" (MIS 51461485)  is co-financed by Greece and the European Union (European Social Fund- ESF) through the Operational Programme "Human Resources Development, Education and Lifelong Learning 2014-2020".</p>
             -->
             <p class="text-footer-primary"></p>
-            
+        </div>
+        <div style="text-align: justify; text-justify: inter-word; line-height: 1.4; font-size: 11px;">
+            The collaboration with Columbia University is supported by Bodosaki Foundation.
         </div>
         <div style="text-align: justify; text-justify: inter-word; line-height: 1.4; font-size: 11px;">
     The sub-project "Internationalization of the MSc Program Translational Engineering in Health and Medicine" is part of the broader project "Support for Internationalization Actions of Foreign Language Speaker Postgraduate Studies of the National Technical University of Athens" (MIS 6004804) which is co-financed by the European Union through the Operational Programme "Human Resources and Social Cohesion". This project aims to internationalize eleven MSc programs at NTUA, providing high-level, specialized postgraduate studies in critical technology fields for both the Greek and international economies.<br>
