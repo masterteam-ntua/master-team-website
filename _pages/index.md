@@ -329,7 +329,7 @@ show_sidebar: false
             -->
             <p class="text-footer-primary"></p>
         </div>
-        <div style="text-align: left; text-justify: inter-word; line-height: 1.4; font-size: 11px;">
+        <div style="line-height: 1.4; font-size: 11px;">
             The collaboration with Columbia University is supported by Bodosaki Foundation.<br>
         </div>
         <div style="text-align: justify; text-justify: inter-word; line-height: 1.4; font-size: 11px;">
