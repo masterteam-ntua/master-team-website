@@ -330,9 +330,9 @@ show_sidebar: false
             <p class="text-footer-primary"></p>
             
         </div>
-        <div>
-        The sub-project "Internationalization of the MSc Program Translational Engineering in Health and Medicine” is part of the broader project “Support for Internationalization Actions of Foreign Language Speaker Postgraduate Studies of the National Technical University of Athens” (MIS 6004804) which is co-financed by the European Union through the Operational Programme “Human Resources and Social Cohesion". This project aims to internationalize eleven MSc programs at NTUA, providing high-level, specialized postgraduate studies in critical technology fields for both the Greek and international economies.<br>
-            Relevant link: <a href="https://www.elke.ntua.gr/research-activities/espa-programms/" target="_blank">https://www.elke.ntua.gr/research-activities/espa-programms/</a> 
+        <div style="text-align: justify; text-justify: inter-word; line-height: 1.2; font-size: 8px;">
+    The sub-project "Internationalization of the MSc Program Translational Engineering in Health and Medicine" is part of the broader project "Support for Internationalization Actions of Foreign Language Speaker Postgraduate Studies of the National Technical University of Athens" (MIS 6004804) which is co-financed by the European Union through the Operational Programme "Human Resources and Social Cohesion". This project aims to internationalize eleven MSc programs at NTUA, providing high-level, specialized postgraduate studies in critical technology fields for both the Greek and international economies.<br>
+    Relevant link: <a href="https://www.elke.ntua.gr/research-activities/espa-programms/" target="_blank">https://www.elke.ntua.gr/research-activities/espa-programms/</a> 
         </div>
     </div>
 </div>
