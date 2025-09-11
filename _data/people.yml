@@ -628,7 +628,8 @@
   modalId: athanasiou-maria-modal
   showOnlyInAdministration: false
 
-- Name: Havaki Sophia
+- Image: /theme/img/avatar.jpg
+  Name: Havaki Sophia
   Category: Professors
   Title1: Associate Professor
   Title2: Laboratory of Histology and Embryology, School of Medicine, NKUA Medical School
