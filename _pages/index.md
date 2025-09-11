@@ -327,9 +327,12 @@ show_sidebar: false
             <!--
             <p>This project "Support for Internationalization Actions of Postgraduate Studies of the National Technical University of Athens" (MIS 51461485)  is co-financed by Greece and the European Union (European Social Fund- ESF) through the Operational Programme "Human Resources Development, Education and Lifelong Learning 2014-2020".</p>
             -->
-            <p class="text-footer-primary">The sub-project "Internationalization of the MSc Program Translational Engineering in Health and Medicine” is part of the broader project “Support for Internationalization Actions of Foreign Language Speaker Postgraduate Studies of the National Technical University of Athens” (MIS 6004804) which is co-financed by the European Union through the Operational Programme “Human Resources and Social Cohesion". This project aims to internationalize eleven MSc programs at NTUA, providing high-level, specialized postgraduate studies in critical technology fields for both the Greek and international economies.<br>
-            Relevant link: <a href="https://www.elke.ntua.gr/research-activities/espa-programms/" target="_blank">https://www.elke.ntua.gr/research-activities/espa-programms/</a> </p>
+            <p class="text-footer-primary"></p>
             
+        </div>
+        <div>
+        The sub-project "Internationalization of the MSc Program Translational Engineering in Health and Medicine” is part of the broader project “Support for Internationalization Actions of Foreign Language Speaker Postgraduate Studies of the National Technical University of Athens” (MIS 6004804) which is co-financed by the European Union through the Operational Programme “Human Resources and Social Cohesion". This project aims to internationalize eleven MSc programs at NTUA, providing high-level, specialized postgraduate studies in critical technology fields for both the Greek and international economies.<br>
+            Relevant link: <a href="https://www.elke.ntua.gr/research-activities/espa-programms/" target="_blank">https://www.elke.ntua.gr/research-activities/espa-programms/</a> 
         </div>
     </div>
 </div>
