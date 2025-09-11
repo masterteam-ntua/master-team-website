@@ -329,7 +329,7 @@ show_sidebar: false
             -->
             <p class="text-footer-primary"></p>
         </div>
-        <div style="line-height: 1.4; font-size: 11px; text-align: left;">
+        <div style="line-height: 1.4; font-size: 11px; text-align: left !important; margin-left: 0; padding-left: 0;">
             The collaboration with Columbia University is supported by Bodosaki Foundation.
             <br><br>
         </div>
