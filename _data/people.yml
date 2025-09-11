@@ -628,4 +628,16 @@
   modalId: athanasiou-maria-modal
   showOnlyInAdministration: false
 
+- Name: Havaki Sophia
+  Category: Professors
+  Title1: Associate Professor
+  Title2: Laboratory of Histology and Embryology, School of Medicine, NKUA Medical School
+  School: Athens Medical School, NKUA
+  Email: shavaki@med.uoa.gr
+  Phone: (0030) 210-7462333, 6937936290
+  Website: null
+  Bio: 'Havaki Sophia is an Associate Professor in the Laboratory of Histology and Embryology at the National and Kapodistrian University of Athens (NKUA). She received her BSc in Biology from University of Crete in 1993 and her PhD in Medical School of NKUA in 2004. She has a lot of experience in Transmission Electron Microscopy of biological samples with conventional and cryo-applications. Her latest research interests are focused on the role of autophagy and cellular senescence in cancer dormancy. She has supervised more than 35 BSc, MSc, and PhD theses and has written more than 48 articles in international journals.'
+  Office: null
+  modalId: havaki-sophia-modal
+  showOnlyInAdministration: false
 
