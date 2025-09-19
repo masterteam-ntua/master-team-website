@@ -16,6 +16,11 @@ show_sidebar: false
         </p>
         <ul>
             <li class="mb-3">
+                <a href="{{ site.baseurl }}/files/1st-semester-2025-2026.pdf"  target="_blank">
+                  <strong>Weekly Schedule Fall Semester 2025-2026</strong>
+                </a>
+            </li>
+            <li class="mb-3">
                 <a href="{{ site.baseurl }}/files/NTUA TEAM EXAMINATION SCHEDULE MAY JUNE 2025.pdf"  target="_blank">
                   <strong>Exam schedule May - June 2025</strong>
                 </a>
