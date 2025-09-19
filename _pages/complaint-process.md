@@ -16,6 +16,11 @@ header3: Complaint Process
         </p>
         <ul>
             <li class="mb-3">
+                <a href="{{ site.baseurl }}/files/complaint-process-english.pdf"  target="_blank">
+                  <strong>Complaint Process</strong>
+                </a> (in English)
+            </li>
+            <li class="mb-3">
                 <a href="{{ site.baseurl }}/files/Μ3.2-2025.pdf"  target="_blank">
                   <strong>Complaint Process</strong>
                 </a> (in Greek)
