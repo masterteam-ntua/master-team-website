@@ -167,16 +167,16 @@
   New: false
 
 - Title: Design and construction of an anthropomorphic cardiac phantom for simulation of diagnostic nuclear medicine examinations
-  Supervisor: '<a href="" data-toggle="modal" data-target="#nikita-modal">Nikita Konstantina</a>'
+  Supervisor: '<a href="" data-toggle="modal" data-target="#anagnostakis-modal">Anagnostakis Marios</a>'
   Student: Spanidis Antonios
   Link: null
-  Sort: nikita
+  Sort: anagnostakis
   New: false
 
 - Title: Development of interpretable machine learning models for the prediction of nocturnal hypoglycemia in patients with Type 1 Diabetes
-  Supervisor: '<a href="" data-toggle="modal" data-target="#anagnostakis-modal">Anagnostakis Marios</a>'
+  Supervisor: '<a href="" data-toggle="modal" data-target="#nikita-modal">Nikita Konstantina</a>'
   Student: Tziavaras Konstantinos
   Link: null
-  Sort: anagnostakis
+  Sort: nikita
   New: false
 
