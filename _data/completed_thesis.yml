@@ -33,3 +33,30 @@
   Sort: nikita
   New: false
 
+- Title: "The Evolution and Current State of Left Ventricular Assist Device Technology: A review of Clinical, Computational, and Experimental Studies on Commercial and Research Devices"
+  Supervisor: <a href="" data-toggle="modal" data-target="#manopoulos-modal">Manopoulos Christos</a>
+  Student: Karelas Dimitrios
+  Link: http://artemis.cslab.ece.ntua.gr:8080/jspui/handle/123456789/19725
+  Sort: manopoulos
+  New: false
+
+- Title: In silico generation of 4D flow MRI data employing computational fluid dynamics simulations in patien-specific aortic aneurysm models
+  Supervisor: <a href="" data-toggle="modal" data-target="#manopoulos-modal">Manopoulos Christos</a>
+  Student: Petrolekas Dimitrios
+  Link: http://artemis.cslab.ece.ntua.gr:8080/jspui/handle/123456789/19684
+  Sort: manopoulos
+  New: false
+  
+- Title: Bioinformatics analysis and prediction of pharmacodynamics of antidepressant drugs through molecular simulations and machine learning techniques
+  Supervisor: <a href="" data-toggle="modal" data-target="#matsopoulos-modal">Matsopoulos George</a>
+  Student: Papanagnou Dimitrios
+  Link: http://artemis.cslab.ece.ntua.gr:8080/jspui/handle/123456789/19694
+  Sort: matsopoulos
+  New: false
+  
+- Title: "Machine Learning Algorithms for Detecting Fatigue: An EEG Data Analysis"
+  Supervisor: <a href="" data-toggle="modal" data-target="#matsopoulos-modal">Matsopoulos George</a>
+  Student: Sofras Michael
+  Link: http://artemis.cslab.ece.ntua.gr:8080/jspui/handle/123456789/19461
+  Sort: matsopoulos
+  New: false
