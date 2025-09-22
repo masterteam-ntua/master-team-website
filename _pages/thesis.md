@@ -129,7 +129,7 @@ show_sidebar: false
      <div class="content_c">
        <p>Supervisor: {{subject.Supervisor}}</p>
        <p>Student: {{subject.Student}}</p>
-       <p>Link: {{subject.Link}}</p>
+       <p>Link: <a href={{subject.Link}}>Artemis</a></p>
      </div>
   {% endfor %}
 </div>
