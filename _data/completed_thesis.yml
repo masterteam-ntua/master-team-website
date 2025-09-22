@@ -60,3 +60,123 @@
   Link: http://artemis.cslab.ece.ntua.gr:8080/jspui/handle/123456789/19461
   Sort: matsopoulos
   New: false
+
+- Title: Digital health innovation in Greece, from academia to market
+  Supervisor: '<a href="" data-toggle="modal" data-target="#matsopoulos-modal">Matsopoulos George</a>'
+  Student: Vidakis Athanasios
+  Link: null
+  Sort: matsopoulos
+  New: false
+
+- Title: Multi-Scale Simulation and Printability Assessment of Implantable Titanium Voronoi Scaffolds for Femur Bone Management
+  Supervisor: '<a href="" data-toggle="modal" data-target="#sitsas-modal">Sitsas Vasilis</a>'
+  Student: Poulakis Georgios
+  Link: null
+  Sort: sitsas
+  New: false
+
+- Title: Application of Machine Learning methods to predict critical Multiple Myeloma events
+  Supervisor: '<a href="" data-toggle="modal" data-target="#matsopoulos-modal">Matsopoulos George</a>'
+  Student: Georgoula Marina
+  Link: null
+  Sort: matsopoulos
+  New: false
+
+- Title: Machine-learning-based Prioritisation of Long COVID Patients for Specialist Consultation
+  Supervisor: '<a href="" data-toggle="modal" data-target="#golemis-modal">Golemis Stefanos</a>'
+  Student: Kerelis Argyrios
+  Link: null
+  Sort: golemis
+  New: false
+
+- Title: "Differential Gene Expression Analysis of RNA-Seq Data: Comparing Lung Squamous Cell Carcinomas and Healthy Lung Cells in Homo sapiens"
+  Supervisor: '<a href="" data-toggle="modal" data-target="#matsopoulos-modal">Matsopoulos George</a>'
+  Student: Kosta Christina
+  Link: null
+  Sort: matsopoulos
+  New: false
+
+- Title: Maximal coupling between implanted dipole antennas and external sources
+  Supervisor: '<a href="" data-toggle="modal" data-target="#nikita-modal">Nikita Konstantina</a>'
+  Student: Mouzi Barbara
+  Link: null
+  Sort: nikita
+  New: false
+
+- Title: Comparative analysis for mental health prediction tasks based on social media posts
+  Supervisor: '<a href="" data-toggle="modal" data-target="#nikita-modal">Nikita Konstantina</a>'
+  Student: Spiliotis Theodoros
+  Link: null
+  Sort: nikita
+  New: false
+
+- Title: Flame-Made Calcium Phosphate Nanoparticles for Biomolecule delivery
+  Supervisor: '<a href="" data-toggle="modal" data-target="#nikita-modal">Nikita Konstantina</a>'
+  Student: Chronopoulou Eleni
+  Link: null
+  Sort: nikita
+  New: false
+
+- Title: "Modelling Long Term Human Brain Activity: Are models still valid given errors in measurement?"
+  Supervisor: '<a href="" data-toggle="modal" data-target="#nikita-modal">Nikita Konstantina</a>'
+  Student: Zorpala Kontessa-Ioanna
+  Link: null
+  Sort: nikita
+  New: false
+
+- Title: Dissection mechanics of tissue components in human aorta
+  Supervisor: '<a href="" data-toggle="modal" data-target="#mantopoulos-modal">Manopoulos Christos</a>'
+  Student: Papanikolaou Eleni
+  Link: null
+  Sort: manopoulos
+  New: false
+
+- Title: Unsupervised Machine Learning approach on Metabolic Syndrome patient identification
+  Supervisor: '<a href="" data-toggle="modal" data-target="#matsopoulos-modal">Matsopoulos George</a>'
+  Student: Sardis Antonios
+  Link: null
+  Sort: matsopoulos
+  New: false
+
+- Title: Development of a Robust Algorithm for 3D-Rendering of Multi-2D Electromechanical Wave Imaging Maps and CT Registration
+  Supervisor: '<a href="" data-toggle="modal" data-target="#nikita-modal">Nikita Konstantina</a>'
+  Student: Afentouli Aikaterini
+  Link: null
+  Sort: nikita
+  New: false
+
+- Title: Predictive modeling of medication adherence using Machine Learning techniques
+  Supervisor: '<a href="" data-toggle="modal" data-target="#nikita-modal">Nikita Konstantina</a>'
+  Student: Georgiou Konstantina
+  Link: null
+  Sort: nikita
+  New: false
+
+- Title: Decoding Speech Perception utilizing EEG-Based Partial Information Decomposition and Hierarchical Drift Diffusion Modeling
+  Supervisor: '<a href="" data-toggle="modal" data-target="#nikita-modal">Nikita Konstantina</a>'
+  Student: Kalaitzidou Parthena
+  Link: null
+  Sort: nikita
+  New: false
+
+- Title: Evaluating Multisensory Integration in individuals with Autism and Schizophrenia utilizing EEG Data
+  Supervisor: '<a href="" data-toggle="modal" data-target="#nikita-modal">Nikita Konstantina</a>'
+  Student: Mpaloukas Theodoros
+  Link: null
+  Sort: nikita
+  New: false
+
+- Title: Design and construction of an anthropomorphic cardiac phantom for simulation of diagnostic nuclear medicine examinations
+  Supervisor: '<a href="" data-toggle="modal" data-target="#nikita-modal">Nikita Konstantina</a>'
+  Student: Spanidis Antonios
+  Link: null
+  Sort: nikita
+  New: false
+
+- Title: Development of interpretable machine learning models for the prediction of nocturnal hypoglycemia in patients with Type 1 Diabetes
+  Supervisor: '<a href="" data-toggle="modal" data-target="#anagnostakis-modal">Anagnostakis Marios</a>'
+  Student: Tziavaras Konstantinos
+  Link: null
+  Sort: anagnostakis
+  New: false
+
