@@ -68,11 +68,11 @@
   Sort: matsopoulos
   New: false
 
-- Title: Multi-Scale Simulation and Printability Assessment of Implantable Titanium Voronoi Scaffolds for Femur Bone Management
-  Supervisor: '<a href="" data-toggle="modal" data-target="#sitsas-modal">Sitsas Vasilis</a>'
+- Title: 3D Printing of Porous Scaffolds for Bore Defect Management (A Feasibility Study)
+  Supervisor: '<a href="" data-toggle="modal" data-target="#spitas-modal">Spitas Vasilios</a>'
   Student: Poulakis Georgios
   Link: null
-  Sort: sitsas
+  Sort: spitas
   New: false
 
 - Title: Application of Machine Learning methods to predict critical Multiple Myeloma events
@@ -82,84 +82,84 @@
   Sort: matsopoulos
   New: false
 
-- Title: Machine-learning-based Prioritisation of Long COVID Patients for Specialist Consultation
-  Supervisor: '<a href="" data-toggle="modal" data-target="#golemis-modal">Golemis Stefanos</a>'
+- Title: Interpretable machine learning for long Covid patient risk stratification
+  Supervisor: '<a href="" data-toggle="modal" data-target="#golemati-modal">Golemati Spyretta</a>'
   Student: Kerelis Argyrios
   Link: null
-  Sort: golemis
+  Sort: golemati
   New: false
 
-- Title: "Differential Gene Expression Analysis of RNA-Seq Data: Comparing Lung Squamous Cell Carcinomas and Healthy Lung Cells in Homo sapiens"
+- Title: "RNA-Seq Analysis in Lung Cancer"
   Supervisor: '<a href="" data-toggle="modal" data-target="#matsopoulos-modal">Matsopoulos George</a>'
   Student: Kosta Christina
   Link: null
   Sort: matsopoulos
   New: false
 
-- Title: Maximal coupling between implanted dipole antennas and external sources
+- Title: Antennas and metasurfaces for biomedical applications
   Supervisor: '<a href="" data-toggle="modal" data-target="#nikita-modal">Nikita Konstantina</a>'
   Student: Mouzi Barbara
   Link: null
   Sort: nikita
   New: false
 
-- Title: Comparative analysis for mental health prediction tasks based on social media posts
+- Title: Machine learning techniques for sentiment analysis through social media posts
   Supervisor: '<a href="" data-toggle="modal" data-target="#nikita-modal">Nikita Konstantina</a>'
   Student: Spiliotis Theodoros
   Link: null
   Sort: nikita
   New: false
 
-- Title: Flame-Made Calcium Phosphate Nanoparticles for Biomolecule delivery
+- Title: Flame made nanoparticles for biomolecules delivery
   Supervisor: '<a href="" data-toggle="modal" data-target="#nikita-modal">Nikita Konstantina</a>'
   Student: Chronopoulou Eleni
   Link: null
   Sort: nikita
   New: false
 
-- Title: "Modelling Long Term Human Brain Activity: Are models still valid given errors in measurement?"
+- Title: "Modelling long-term human brain activity: Are models still valid given errors in measurement?"
   Supervisor: '<a href="" data-toggle="modal" data-target="#nikita-modal">Nikita Konstantina</a>'
   Student: Zorpala Kontessa-Ioanna
   Link: null
   Sort: nikita
   New: false
 
-- Title: Dissection mechanics of tissue components in human aorta
+- Title: Biofluid Mechanics
   Supervisor: '<a href="" data-toggle="modal" data-target="#mantopoulos-modal">Manopoulos Christos</a>'
   Student: Papanikolaou Eleni
   Link: null
   Sort: manopoulos
   New: false
 
-- Title: Unsupervised Machine Learning approach on Metabolic Syndrome patient identification
+- Title: Artificial Intelligence Applications on Metabolic Syndrome
   Supervisor: '<a href="" data-toggle="modal" data-target="#matsopoulos-modal">Matsopoulos George</a>'
   Student: Sardis Antonios
   Link: null
   Sort: matsopoulos
   New: false
 
-- Title: Development of a Robust Algorithm for 3D-Rendering of Multi-2D Electromechanical Wave Imaging Maps and CT Registration
+- Title: Development of a robust algorithm for 3D-rendering of multi-2D echocardiography views
   Supervisor: '<a href="" data-toggle="modal" data-target="#nikita-modal">Nikita Konstantina</a>'
   Student: Afentouli Aikaterini
   Link: null
   Sort: nikita
   New: false
 
-- Title: Predictive modeling of medication adherence using Machine Learning techniques
+- Title: Machine learning techniques for medication adherence prediction
   Supervisor: '<a href="" data-toggle="modal" data-target="#nikita-modal">Nikita Konstantina</a>'
   Student: Georgiou Konstantina
   Link: null
   Sort: nikita
   New: false
 
-- Title: Decoding Speech Perception utilizing EEG-Based Partial Information Decomposition and Hierarchical Drift Diffusion Modeling
+- Title: Decoding speech perception using EEG signals
   Supervisor: '<a href="" data-toggle="modal" data-target="#nikita-modal">Nikita Konstantina</a>'
   Student: Kalaitzidou Parthena
   Link: null
   Sort: nikita
   New: false
 
-- Title: Evaluating Multisensory Integration in individuals with Autism and Schizophrenia utilizing EEG Data
+- Title: Multisensory integration deficits in Schizophrenia and Autism
   Supervisor: '<a href="" data-toggle="modal" data-target="#nikita-modal">Nikita Konstantina</a>'
   Student: Mpaloukas Theodoros
   Link: null
