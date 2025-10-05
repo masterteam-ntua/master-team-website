@@ -1,10 +1,11 @@
 ---
-title: Welcome Reception Event
+title: Welcome event for New Students]
 description: Join us as we kick off the new academic year!
 directory: announcements
 thumb: welcome_event_2025_fall.png
 images:
   - welcome_event_2025_fall.png
+  - Welcome Event Program 2025-26.png
 categories: announcement
 ---
 Welcome Event
