@@ -349,15 +349,15 @@
   showOnlyInAdministration: false
 
 - Image: /theme/img/team/protonotarios.webp
-  Name: Protonotarios Nikolas
+  Name: Protonotarios Nicholas
   Category: Researchers
-  Title1: Research Associate
-  Title2: Research Associate at the Department of Applied Mathematics and Theoretical Physics (DAMTP), University of Cambridge, Postdoctoral Researcher, Academy of Athens
+  Title1: Research Scientist
+  Title2: Research Scientist (Assistant Professor) at the Mathematics Research Center (MaRC) of the Academy of Athens
   School: null
-  Email: np558@cam.ac.uk
+  Email: nprotonotarios@academyofathens.gr
   Phone: null
-  Website: https://www.nicholasprotonotarios.com/
-  Bio: Nicholas Protonotarios is a visiting Research Associate with the Department of Applied Mathematics and Theoretical Physics (DAMTP), University of Cambridge, and a postdoctoral researcher at the Mathematics Research Center (MaRC) of the Academy of Athens. He holds an MEng in Naval Architecture and Marine Engineering, an MBA in Engineering Economics, and a PhD in Applied Mathematics from the National Technical University of Athens (NTUA). His current research interests include inverse problems in biomedicine, and medical image reconstruction techniques for PET, SPECT, and MRI.
+  Website: https://www.academyofathens.gr/en/personel/nikolaos-protonotarios
+  Bio: 'Nicholas Protonotarios is a Research Scientist (Assistant Professor) at the Mathematics Research Center (MaRC) of the Academy of Athens. His research focuses on the applications of mathematics, computer science, and artificial intelligence in biomedicine and medical imaging.<br>He studied at the School of Naval Architecture and Marine Engineering, NTUA and obtained a master&rsquo;s degree in Engineering Economics from the School of Electrical and Computer Engineering of NTUA. He received his PhD in Applied Mathematics from the School of Applied Mathematical and Physical Sciences, also at NTUA. Before joining the MaRC faculty, Nicholas held postdoctoral positions at MaRC, the Department of Applied Mathematics and Theoretical Physics at the University of Cambridge, and NCSR Demokritos.<br>Nicholas's publications can be found <a id="LPlnk266614" title="https://scholar.google.gr/citations?user=FHli5o8AAAAJ" href="https://scholar.google.gr/citations?user=FHli5o8AAAAJ">here</a>.<br>Since 2011, he has been the founder and organizer of the <a id="LPlnk777769" title="https://thehubevents.gr/our-events/hub-science-2/" href="https://thehubevents.gr/our-events/hub-science-2/">Hub Science</a> lecture series (videos available <a id="LPlnk550831" title="https://www.blod.gr/events/hub-science/" href="https://www.blod.gr/events/hub-science/">here</a>), aiming to disseminate science to the general public. Furthermore, Nicholas has also worked as a naval architect and marine engineer.'
   Office: null
   modalId: protonotarios-modal
   showOnlyInAdministration: false
