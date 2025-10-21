@@ -56,7 +56,7 @@ defaults:
     scope:
       path: "_posts"
     values:
-      header0: MASTER
+      header0: NTUA
       header1: TEAM
       header2:
       header3: News
