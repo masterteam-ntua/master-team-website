@@ -12,6 +12,20 @@
   modalId: delis-ioannis-modal
   showOnlyInAdministration: false
 
+- Image: /theme/img/team/armoundas-antonis.jpg
+  Name: Armoundas Antonis
+  Category: Professors
+  Title1: Associate Professor
+  Title2: of Medicine, Harvard Medical School
+  School: Harvard Medical School
+  Email: armoundas.antonis@mgh.harvard.edu
+  Phone: null
+  Website: https://researchers.mgh.harvard.edu/profile/194263/Antonis-Armoundas
+  Bio: "Dr. Armoundas was born in Mytilini, Greece. He received the BS degree in electrical engineering from National Technical University of Athens in 1991 and the MS degree in biomedical engineering from Boston University, in 1994. He received his PhD degree in nuclear Engineering, from the Massachusetts Institute of Technology (MIT), in 1999. He has been an American Heart Association sponsored Postdoctoral Fellow at MIT and the Division of Molecular Cardiobiology and the Department of Biomedical Engineering at Johns Hopkins University. Currently, he is a Principal Investigator with the Cardiovascular Research Center at Massachusetts General Hospital, and an Associate Professor of Medicine at Harvard Medical School, while he maintains an appointment at MIT. Dr. Armoundas’ research interests include the development of biomedical signal processing and machine learning algorithms aiming to improve the diagnosis and treatment of cardiovascular and respiratory disease."
+  Office: null
+  modalId: armoundas-antonis-modal
+  showOnlyInAdministration: false
+
 - Image: /theme/img/team/mavragani-clio.jpg
   Name: Mavragani Clio
   Category: Professors
