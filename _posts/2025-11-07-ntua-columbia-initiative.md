@@ -52,7 +52,7 @@ Applications are submitted in **teams of 2–4 members**. Exceptional individual
 
 ## Key dates
 
-- **Kick-off event:** 10 Νοεμβρίου 2025, 5.00 pm, Event Hall of the Administration Building NTUA, Zografou Campus  
+- **Kick-off event:** 10 November 2025, 5.00 pm, Event Hall of the Administration Building NTUA, Zografou Campus  
 - **Application deadline:** 15 December 2025  
 - **Program start (Bootcamp in Athens):** 14–16 January 2026  
 
