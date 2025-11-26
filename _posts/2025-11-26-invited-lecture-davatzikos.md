@@ -3,7 +3,7 @@ title: Machine learning in neuroimaging
 description: Emphasis on aging and dementia, neuropsychiatric disorders, and brain cancer
 directory: announcements
 thumb: invited_lecture_davatzikos.png
-categories: other
+categories: announcement
 ---
 
 Prof. Christos Davatzikos, Director of the AI2D Center for AI and Data Science for Integrated Diagnostics, University of Pensylvania, to give a lecture at ECE-NTUA on December 8th, 2025, at 16:30 (Multimedia Amphitheatre, Ground Floor, Central Library, Zografos campus)
