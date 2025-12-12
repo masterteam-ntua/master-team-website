@@ -20,5 +20,12 @@ header3: Events
                 </a>
             </li>
         </ul>
+        <ul>
+            <li class="mb-3">
+                <a href="{{ site.baseurl }}/cdavatzikos-event"  target="_blank">
+                  <strong>Machine learning in Neuroimaging: Emphasis on aging and dementia, neuropsychiatric disorders, and brain cancer.</strong>
+                </a>
+            </li>
+        </ul>
     </div>
 </div>
