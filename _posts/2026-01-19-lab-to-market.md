@@ -1,5 +1,5 @@
 ---
-title: Two student teams accepted into the "Lab to Market" program
+title: Two student teams accepted into the 'Lab to Market' program
 description: We congratulate the participating teams!
 directory: announcements
 thumb: lab-to-market.png
