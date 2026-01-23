@@ -1,5 +1,5 @@
 ---
-title: Internship in Columbia University
+title: Internship at Columbia University
 description: Summer 2026
 directory: announcements
 thumb: columbia-logo.webp

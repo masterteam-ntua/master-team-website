@@ -2,7 +2,7 @@
 title: Lab to Market Initiative kick-off event
 description: a joint NTUA-Columbia program
 directory: announcements
-thumb: lab-to-market.png
+thumb: lab-to-market-1.png
 categories: other
 ---
 # Lab to Market Initiative kick-off event
