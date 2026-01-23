@@ -2,7 +2,7 @@
 title: Machine learning in neuroimaging
 description: Video recording now available!
 directory: announcements
-thumb: invited_lecture_davatzikos.png
+thumb: davatzikos-lecture.jpg
 categories: announcement
 ---
 
