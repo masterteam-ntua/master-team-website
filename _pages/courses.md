@@ -269,7 +269,7 @@ header3: Courses
     </div>
     <div class="row subject-block" id="medical-imaging">
         <h2>
-            Medical Imaging and Image Analysis
+            Biomedical Imaging and Image Analysis
         </h2>
         <p>
             The course is aimed to teach the principles of biomedical imaging and the foundation techniques required to process,
