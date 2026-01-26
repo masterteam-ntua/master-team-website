@@ -58,7 +58,6 @@ header3: Program Overview
             centers. Distinguished guest speakers from industry, the clinical sector, and regulatory authorities are also invited to deliver lectures and
             interact with students.
         </p>
-
         <h2 class="my-3">Relevant documents</h2>
         <p>
             Relevant documents concerning and/or describing the regulatory framework of the Postgraduate Studies Program are given below:
@@ -84,12 +83,27 @@ header3: Program Overview
                   <strong>Program Foundation Act</strong>
                 </a> as published in Government Gazette issue 1338/B/23.03.2022 (in Greek)
             </li>
+            <li class="mb-3">
+                <a href="{{ site.baseurl }}/files/Regulation-of-Operations-Internships-Student Mobility-and-Conduct-of-Thesis.pdf" target="_blank">
+                  <strong>Regulation of Operations, Internships, Student Mobility, and Conduct</strong>
+                </a> (in English)
+            </li>
+            <li class="mb-3">
+                <a href="{{ site.baseurl }}/files/Greek-Regulation-of-Operations-Internships-Student Mobility-and-Conduct-of-Thesis.pdf" target="_blank">
+                  <strong>Regulation of Operations, Internships, Student Mobility, and Conduct</strong>
+                </a> (in Greek)
+            </li>
         </ul>
         <h2 class="my-3">Quality Policy</h2>
         <p>
             Relevant documents concerning and/or describing the Quality Policy of the Postgraduate Studies Program are given below:
         </p>
         <ul>
+            <li class="mb-3">
+                <a href="{{ site.baseurl }}/Quality-Policy-English.pdf"  target="_blank">
+                  <strong>Quality Policy</strong>
+                </a> (in English)
+            </li>
             <li class="mb-3">
                 <a href="{{ site.baseurl }}/files/Μ1.1-2025.pdf"  target="_blank">
                   <strong>Quality Policy</strong>

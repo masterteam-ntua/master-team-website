@@ -216,6 +216,11 @@ show_sidebar: false
   </p>
   <ul>
       <li class="mb-3">
+          <a href="{{ site.baseurl }}/files/MasterTEAM-SupportDevelopmentPolicy-English.pdf"  target="_blank">
+            <strong>Support and Development Policy</strong>
+          </a> (in English)
+      </li>
+      <li class="mb-3">
           <a href="{{ site.baseurl }}/files/MasterTEAM-SupportDevelopmentPolicy.pdf"  target="_blank">
             <strong>Support and Development Policy</strong>
           </a> (in Greek)

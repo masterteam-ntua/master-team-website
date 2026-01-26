@@ -31,8 +31,7 @@
 - title: Admissions
   href: /admissions
 
-- title: News
-  href: /news
+- title: Program Updates
   subpages:
     - title: News
       href: /news
