@@ -84,12 +84,12 @@ header3: Program Overview
                 </a> as published in Government Gazette issue 1338/B/23.03.2022 (in Greek)
             </li>
             <li class="mb-3">
-                <a href="{{ site.baseurl }}/files/Regulation-of-Operations-Internships-Student Mobility-and-Conduct-of-Thesis.pdf" target="_blank">
+                <a href="{{ site.baseurl }}/files/Regulation-of-Operations-Internships-Student-Mobility-and-Conduct-of-Thesis.pdf" target="_blank">
                   <strong>Regulation of Operations, Internships, Student Mobility, and Conduct</strong>
                 </a> (in English)
             </li>
             <li class="mb-3">
-                <a href="{{ site.baseurl }}/files/Greek-Regulation-of-Operations-Internships-Student Mobility-and-Conduct-of-Thesis.pdf" target="_blank">
+                <a href="{{ site.baseurl }}/files/Greek-Regulation-of-Operations-Internships-Student-Mobility-and-Conduct-of-Thesis.pdf" target="_blank">
                   <strong>Regulation of Operations, Internships, Student Mobility, and Conduct</strong>
                 </a> (in Greek)
             </li>
