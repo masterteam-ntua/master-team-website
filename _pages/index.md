@@ -12,7 +12,7 @@ show_sidebar: false
     <div class="row">
         <div class="col-lg-8 col-sm-12 pl-0 pr-0">
             <div class="col-12">
-                <h2>Welcome to our Master TEAM</h2>
+                <h2>Welcome to NTUA TEAM</h2>
                 <p>
                     Translational Engineering is the process of translating engineering research findings
                     and discoveries into innovations and functional products. Applications of Translational
