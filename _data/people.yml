@@ -670,3 +670,16 @@
   modalId: philippou-anastassios-modal
   showOnlyInAdministration: false
 
+- Image: /theme/img/team/bellos.png
+  Name: Bellos Ioannis
+  Category: Researchers
+  Title1: Postdoctoral Researcher
+  Title2: Nephrologist, Department of Hygiene, Epidemiology and Medical Statistics,
+  School: School of Medicine, NKUA
+  Email: bellosg@windowslive.com
+  Phone: (0030) 6947470441
+  Website: null
+  Bio: 'Ioannis Bellos is a graduate of the Medical School of the National and Kapodistrian University of Athens (NKUA). He holds a Master’s degree in Epidemiology and Research Methodology from the Medical School of NKUA and a PhD from the Department of Hygiene, Epidemiology and Medical Statistics of the same institution, with a research focus on the prevention of cardiovascular disease in patients with chronic kidney disease. He is a board-certified Nephrologist, having completed his specialty training at Laiko General Hospital of Athens.<br>He actively contributes to teaching in the undergraduate courses “Epidemiology and Research Methodology” and “Preventive Medicine and Public Health,” as well as in the postgraduate program “Epidemiology – Research Methodology in biomedical sciences, clinical practice and public health” at the School of Medicine of NKUA.<br>He has an extensive authorship and editorial record in international peer-reviewed journals. As of January 2026, he has co-authored 108 scientific publications indexed in Scopus, while Google Scholar reports over 3,000 citations with an h-index of 32. His research interests focus on research methodology, evidence synthesis and meta-analysis, clinical epidemiology, and the study and management of kidney diseases.'
+  Office: null
+  modalId: bellos-ioannis-modal
+  showOnlyInAdministration: false
