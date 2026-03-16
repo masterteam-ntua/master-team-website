@@ -15,7 +15,11 @@
       href: /timetables
   
 - title: Faculty
-  href: /people
+  subpages:
+      - title: People
+        href: /people
+      - title: Labs
+        href: /labs
 
 - title: Students
   subpages:
