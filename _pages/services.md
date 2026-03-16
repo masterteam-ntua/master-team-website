@@ -11,17 +11,28 @@ header3: Services
 <div class="container">
     <div class="row flex-column">
         <ul>
+        Student ID Card
+            <li class="mb-3">
+                <a href="https://academicid.minedu.gov.gr/"  target="_blank">
+                  <strong>Student ID Card</strong>
+                </a><br>
+                All students, both undergraduates and postgraduates, receive a student ID card, which proves that they
+                have been students for no longer than the normal period required to obtain a degree plus two years. It is
+                valid for one academic year and entitles the holder to a discount of between 25% and 50% on tickets for
+                buses, trains, ships, museums and art exhibitions. It is issued to students by the School Secretariats
+                following registration at the beginning of the academic year, and requires a photograph.
+            </li>
             <li class="mb-3">
                 <a href="https://student-affairs.ntua.gr/en/department-of-student-welfare/"  target="_blank">
-                  <strong>Food services free of charge – Meal cards</strong>
+                  <strong>Food services - Meal cards</strong>
                 </a><br>
-                Both undergraduate and postgraduate students at the NTUA can apply for a free meal card. The selection of those who are entitled to receive food services free of charge is made based on current legislation and student ranking i.e. those with the lowest personal and family income.
+                Postgraduate students at the NTUA can apply for meal card at no cost. The selection of those who are entitled to receive food services free of charge is made based on current legislation and student ranking i.e. those with the lowest personal and family income.
             </li>
             <li class="mb-3">
                 <a href="https://student-affairs.ntua.gr/en/department-of-student-welfare/"  target="_blank">
                   <strong>Housing allowance</strong>
                 </a><br>
-                It is provided to students who study and live in a city other than their main place of residency and also meet other requirements such as low family or personal income, citizenship, academic id etc., set by the Ministry of Education, Religious Affairs and Sports.
+                Housing allowance is provided to students who study and live in a city other than their main place of residency and also meet other requirements such as low family or personal income, citizenship, academic id etc., set by the Ministry of Education, Religious Affairs and Sports.
             </li>
             <li class="mb-3">
                 <a href="https://student-affairs.ntua.gr/en/music-department/"  target="_blank">
@@ -40,13 +51,13 @@ header3: Services
                 <a href="https://student-affairs.ntua.gr/en/health-care-department-2/"  target="_blank">
                   <strong>Healthcare Department</strong>
                 </a><br>
-                It provides medical services to both students and staff of the University, and it also operates as a First Aid Unit. Students that study or do an internship in any EU country can issue a European Health Insurance Card so as to be fully covered in the country they temporarily reside. At the same note students who are EU citizens can issue their European Health Insurance Card at the country of their origin. 
+                Healthcare Department provides medical services to students of the University, and it also operates as a First Aid Unit. Students that study or do an internship in any EU country can issue a European Health Insurance Card so as to be fully covered in the country they temporarily reside. At the same note students who are EU citizens can issue their European Health Insurance Card at the country of their origin. 
             </li>
             <li class="mb-3">
-                <a href="https://student-affairs.ntua.gr/en/student-support-unit/internship-2/"  target="_blank">
-                  <strong>Internship Office</strong>
+                <a href="https://tto.ntua.gr/en/home/"  target="_blank">
+                  <strong>Technology Transfer Office</strong>
                 </a><br>
-                Internship has been implemented at NTUA since the 1950s and is a compulsory course in some schools and optional in others. It lasts between one and two months and is carried out annually between April and October. The institution is financially supported by the NTUA’s regular budget and by European funds.
+                The Technology Transfer Office of NTUA was re-established in 2020 with the aim of effectively linking the research activity of the Institution with the productive sector of the country. This connection aims both at strengthening the production and the economy of the country, but also at strengthening and expanding the research activity of the Institution, while adhering to the academic principles and ethical rules of NTUA.
             </li>
             <li class="mb-3">
                 <a href="https://student-affairs.ntua.gr/en/student-support-unit/career-office-2/"  target="_blank">
@@ -65,6 +76,15 @@ header3: Services
                   <strong>Accessibility Center for individuals with Disabilities and/or Special Educational Needs</strong>
                 </a><br>
                 The Accessibility Center for individuals with Disabilities and/or Special Educational Needs operates as a point of reference and support, ensuring that every student at the National Technical University of Athens (NTUA) can participate equally in academic and campus life, with particular care for those with disabilities or special educational needs. Also, the Center cares that all student could fully develop their academic potential and actively participate in university life, within an environment of respect and inclusion.
+            </li>
+            <li class="mb-3">
+                <a href="https://www.ece.ntua.gr/en/alumni/register"  target="_blank">
+                  <strong>Alumni Association</strong>
+                </a><br>
+                There is also an Alumni Association at the Zografou Campus to serve the 40000 graduates of the
+                University, whose job is to promote closer relations between graduates and NTUA, inform graduates
+                about the activities of the NTUA, mutual support of graduates and the university in areas where the
+                conditions require it.
             </li>
         </ul>
     </div>
