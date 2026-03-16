@@ -81,8 +81,8 @@ header3: Services
                 <a href="https://www.ece.ntua.gr/en/alumni/register"  target="_blank">
                   <strong>Alumni Association</strong>
                 </a><br>
-                There is also an Alumni Association at the Zografou Campus to serve the 40000 graduates of the
-                University, whose job is to promote closer relations between graduates and NTUA, inform graduates
+                The Alumni Association at the Zografou Campus serves the 40000 graduates of the
+                University, and its job is to promote closer relations between graduates and NTUA, inform graduates
                 about the activities of the NTUA, mutual support of graduates and the university in areas where the
                 conditions require it.
             </li>
