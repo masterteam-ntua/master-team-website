@@ -11,7 +11,6 @@ header3: Services
 <div class="container">
     <div class="row flex-column">
         <ul>
-        Student ID Card
             <li class="mb-3">
                 <a href="https://academicid.minedu.gov.gr/"  target="_blank">
                   <strong>Student ID Card</strong>
