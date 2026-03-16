@@ -10,9 +10,6 @@ header3: Services
 
 <div class="container">
     <div class="row flex-column">
-        <p>
-            Relevant documents concerning and/or describing the Complaint Process of the Postgraduate Studies Program are given below:
-        </p>
         <ul>
             <li class="mb-3">
                 <a href="https://student-affairs.ntua.gr/en/department-of-student-welfare/"  target="_blank">
