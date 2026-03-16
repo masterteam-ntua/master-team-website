@@ -21,6 +21,10 @@
   subpages:
       - title: Handbooks
         href: /handbooks
+      - title: Services
+        href: /services
+      - title: Forms
+        href: /forms
       - title: Alumni
         href: /alumni
       - title: Complaint Process
