@@ -20,8 +20,6 @@ header3: Academic Counselor
                   <strong>Academic Councelor</strong>
                 </a> (in English)
             </li>
-        </ul>
-        <ul>
             <li class="mb-3">
                 <a href="{{ site.baseurl }}/files/Μ3.3_greek.pdf"  target="_blank">
                   <strong>Academic Councelor</strong>
