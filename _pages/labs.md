@@ -7,13 +7,12 @@ header1: Master of Science
 header2: Translational Engineering in Health and Medicine
 header3: Labs
 ---
-
 <div class="container">
     <div class="row flex-column">
         <ul>
             <li class="mb-3">
                 <a href="https://www.ails.ece.ntua.gr"  target="_blank">
-                  <strong>Artificial Intelligence and Learning Systems Laboratory: Home</strong>
+                  <strong>Artificial Intelligence and Learning Systems Laboratory</strong>
                 </a><br>
                 The Artificial Intelligence and Learning Systems Laboratory (AILS Lab) is one of the main research units of the ECE NTUA, directed by Professor Giorgos Stamou. AILS Lab has been established as the union of two major ECE Laboratories, the Image, Video and Multimedia Laboratory (IVML) and the Intelligent Systems Laboratory (ISLab), pioneering from 1989 in areas like neural networks, multimedia content analysis, human interaction, fuzzy logics, ontological knowledge representation and reasoning. AILS Lab has a significant presence in leading conference in the field of AI and Machine learning, such as IJCAI, ACL, EMNLP and others.
             </li>
