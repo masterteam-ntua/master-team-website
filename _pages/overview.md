@@ -39,7 +39,7 @@ header3: Program Overview
             Program Structure
         </h2>
         <p>
-            The program is offered full-time and includes two semesters of coursework and one semester of <a href="{{ site.baseurl }}/thesis">Master's (M.Sc.) thesis research</a>. The regular
+            The program is offered full-time and includes two semesters of coursework and one semester of <a href="{{ site.baseurl }}/thesis">Master's (M.Sc.) thesis</a> research. The regular
             duration for completing the M.Sc. program is three (3) academic semesters. The maximum study period is two (2) years. The language of
             instruction is English. Attendance of lectures and laboratory sessions is mandatory. Courses for the academic year 2024-2025 will start in
             October 2024.
@@ -51,7 +51,7 @@ header3: Program Overview
             student has successfully completed at least half of the M.Sc. program courses by that time. The M.Sc. thesis is written in English.
         </p>
         <h2 class="my-3">
-            Faculty & Collaborators
+            <a href="{{ site.baseurl }}/people">Faculty & Collaborators</a>
         </h2>
         <p>
             The M.Sc. in Translational Engineering in Health and Medicine is taught by faculty from NTUA and collaborating Universities and research

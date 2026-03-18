@@ -1,12 +1,11 @@
 - title: Home
   href: /
 
-- title: Overview
-  href: /overview
-
 - title: Program
   href: /
   subpages:
+    - title: Overview
+      href: /overview
     - title: Courses
       href: /courses
     - title: Diploma Theses
