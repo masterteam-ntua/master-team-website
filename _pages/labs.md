@@ -53,6 +53,12 @@ header3: Labs
                 The Laboratory of Biofluid Mechanics & Biomedical Engineering was established in 2002 and is provided by the Fluids Section of the School of Mechanical Engineering of the NTUA. Its activities mainly concern the development of experimental technics and theoretical - computational methodologies with application to the solution of problems involved to biomechanics of the circulatory, respiratory and urinary system.
             </li>
             <li class="mb-3">
+                <a href="https://controlsystemslab.gr/"  target="_blank">
+                  <strong>Control Systems Laboratory</strong>
+                </a><br>
+                The Control Systems Laboratory (CSL), part of the School of Mechanical Engineering at the National Technical University of Athens, was established in 1981 and focuses on automatic control and advanced automation technologies. It is internationally recognized for its research and development in robotics and automation, maintaining strong collaborations with industry, government, and the European Union.
+            </li>
+            <li class="mb-3">
                 <a href="https://histology-cema-en.med.uoa.gr/laboratory_of_histology_embryology"  target="_blank">
                   <strong>Histology - Embryology Laboratory</strong>
                 </a><br>
@@ -65,6 +71,12 @@ header3: Labs
                   <strong>Intelligent Robotics and Automation Laboratory</strong>
                 </a><br>
                 The Intelligent Robotics and Automation Laboratory (IRAL) was established in 1985. Its mission is to advance and sustain research and to support teaching in the broad fields of Robotics, Artificial Intelligence, Signal & Information Processing, Machine Learning, Control and Automation, Perception and Cognitive Systems. Basic and applied research is conducted in both theoretical and application problems.
+            </li>
+            <li class="mb-3">
+                <a href="http://nuclear.ntua.gr/arcas/overview/index.en.html"  target="_blank">
+                  <strong>Nuclear Engineering Laboratory</strong>
+                </a><br>
+                The Nuclear Engineering Laboratory (NEL-NTUA) has been established in 1965 and currently belongs to the Niclear Engineering Department of NTUA's School of Mechanical Engineering. The Laboratory focuses on education and research regarding the fields of nuclear energy applications and related phenomena, technical applications of nuclear methods as well as the natural and man-made radiological environment.
             </li>
             <li class="mb-3">
                 <a href="https://physiology.med.uoa.gr/en/"  target="_blank">
