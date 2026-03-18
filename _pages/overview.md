@@ -39,14 +39,14 @@ header3: Program Overview
             Program Structure
         </h2>
         <p>
-            The program is offered full-time and includes two semesters of coursework and one semester of Master's (M.Sc.) thesis research. The regular
+            The program is offered full-time and includes two semesters of coursework and one semester of <a href="{{ site.baseurl }}/thesis">Master's (M.Sc.) thesis research</a>. The regular
             duration for completing the M.Sc. program is three (3) academic semesters. The maximum study period is two (2) years. The language of
             instruction is English. Attendance of lectures and laboratory sessions is mandatory. Courses for the academic year 2024-2025 will start in
             October 2024.
         </p>
         <p>
-            To earn the M.Sc. degree, students must: (i) attend and successfully pass seven (7) compulsory and five (5) elective courses, corresponding
-            to a total of 60 credits (30 per semester) and (ii) complete and successfully defend their M.Sc. thesis (30 credits). The enrollment in the
+            To earn the M.Sc. degree, students must: (i) attend and successfully pass seven (7) compulsory and five (5) elective <a href="{{ site.baseurl }}/courses">courses</a>, corresponding
+            to a total of 60 credits (30 per semester) and (ii) complete and successfully defend their <a href="{{ site.baseurl }}/thesis">M.Sc. thesis</a> (30 credits). The enrollment in the
             third semester of studies and the assignment of the M.Sc. thesis can take place at the end of the first year of studies, provided that the
             student has successfully completed at least half of the M.Sc. program courses by that time. The M.Sc. thesis is written in English.
         </p>
