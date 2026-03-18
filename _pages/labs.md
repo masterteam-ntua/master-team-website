@@ -11,6 +11,12 @@ header3: Labs
     <div class="row flex-column">
         <ul>
             <li class="mb-3">
+                <a href="https://adoa.gr/en/"  target="_blank">
+                  <strong>Anatomy Department</strong>
+                </a><br>
+                The Department of Anatomy – “Anatomeio” is a powerful, internationally recognized and aims to become a pioneer in research field and education of students and young doctors. This dedication to excellence is reflected in the remarkable research work of the academic staff and in the professional recognition of its scientific collaborators.
+            </li>
+            <li class="mb-3">
                 <a href="https://www.ails.ece.ntua.gr"  target="_blank">
                   <strong>Artificial Intelligence and Learning Systems Laboratory</strong>
                 </a><br>
@@ -47,10 +53,24 @@ header3: Labs
                 The Laboratory of Biofluid Mechanics & Biomedical Engineering was established in 2002 and is provided by the Fluids Section of the School of Mechanical Engineering of the NTUA. Its activities mainly concern the development of experimental technics and theoretical - computational methodologies with application to the solution of problems involved to biomechanics of the circulatory, respiratory and urinary system.
             </li>
             <li class="mb-3">
+                <a href="https://histology-cema-en.med.uoa.gr/laboratory_of_histology_embryology"  target="_blank">
+                  <strong>Histology - Embryology Laboratory</strong>
+                </a><br>
+                The Laboratory of Histology - Embryology belongs to the Department of Medical Sciences (formerly Morphofunctional Department) of the School of Medicine of the National and Kapodistrian University of Athens.
+                It was established in 1932 and serves the teaching, research, diagnostic, training and academic needs of the Medical School in the field of Histology and Embryology.
+                The Laboratory includes and operates the following Units, which cover the wide range of Cellular, Molecular and Developmental Biology, Experimental Embryology, as well as the Humanities. Specifically:
+            </li>
+            <li class="mb-3">
                 <a href="https://robotics.ntua.gr/"  target="_blank">
                   <strong>Intelligent Robotics and Automation Laboratory</strong>
                 </a><br>
                 The Intelligent Robotics and Automation Laboratory (IRAL) was established in 1985. Its mission is to advance and sustain research and to support teaching in the broad fields of Robotics, Artificial Intelligence, Signal & Information Processing, Machine Learning, Control and Automation, Perception and Cognitive Systems. Basic and applied research is conducted in both theoretical and application problems.
+            </li>
+            <li class="mb-3">
+                <a href="https://physiology.med.uoa.gr/en/"  target="_blank">
+                  <strong>Physiology Department</strong>
+                </a><br>
+                The Department of Physiology (“Physiologeion”) of the Medical School, National and Kapodistrian University of Athens, plays an important educational and research role in the discipline of Experimental Physiology. The purpose of the department is to provide a high level of education, and to conduct research aiming at underlying the mechanisms governing human health and disease and discovering new diagnostic and therapeutic approaches to address them.
             </li>
         </ul>
     </div>
