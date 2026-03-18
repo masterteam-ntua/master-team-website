@@ -25,6 +25,8 @@
   subpages:
       - title: Handbooks
         href: /handbooks
+      - title: Academic Counselor
+        href: /academic-counselor
       - title: Services
         href: /services
       - title: Forms
@@ -33,8 +35,6 @@
         href: /alumni
       - title: Complaint Process
         href: /complaint-process
-      - title: Academic Counselor
-        href: /academic-counselor
 
 - title: Admissions
   href: /admissions
