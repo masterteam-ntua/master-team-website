@@ -89,6 +89,13 @@
   Sort: golemati
   New: false
 
+- Title: The Significance of Carotid Artery Longitudinal Wall Motion: Insights from Block-Matching Ultrasound Analysis
+  Supervisor: '<a href="" data-toggle="modal" data-target="#golemati-modal">Golemati Spyretta</a>'
+  Student: Tselios Ioannis
+  Link: http://artemis.cslab.ece.ntua.gr:8080/jspui/handle/123456789/19943
+  Sort: golemati
+  New: false
+
 - Title: "RNA-Seq Analysis in Lung Cancer"
   Supervisor: '<a href="" data-toggle="modal" data-target="#matsopoulos-modal">Matsopoulos George</a>'
   Student: Kosta Christina
@@ -180,3 +187,79 @@
   Sort: nikita
   New: false
 
+- Title: Detection of Glioblastoma Pseudoprogression Using Patch-Level Variational Autoencoder Architectures
+  Supervisor: '<a href="" data-toggle="modal" data-target="#nikita-modal">Nikita Konstantina</a>'
+  Student: Brilli Dionisia-Danae
+  Link: http://artemis.cslab.ece.ntua.gr:8080/jspui/handle/123456789/20088
+  Sort: nikita
+  New: false
+
+- Title: Machine Learning Assessment of EEG Data in a fatigue related n-back task
+  Supervisor: '<a href="" data-toggle="modal" data-target="#matsopoulos-modal">Matsopoulos George</a>'
+  Student: Charalampous Ioannis
+  Link: http://artemis.cslab.ece.ntua.gr:8080/jspui/handle/123456789/19713
+  Sort: matsopoulos
+  New: false
+
+- Title: EEG-Based Classification of Rhyming and Non-Rhyming Trials in a Multisensory Language Task Using ICA and LDA
+  Supervisor: '<a href="" data-toggle="modal" data-target="#delis-ioannis-modal">Delis Ioannis</a>'
+  Student: Zografakis Georgios
+  Link: http://artemis.cslab.ece.ntua.gr:8080/jspui/handle/123456789/19931
+  Sort: delis
+  New: false
+
+- Title: Decoding EEG signals to understand decision-making and learning
+  Supervisor: '<a href="" data-toggle="modal" data-target="#delis-ioannis-modal">Delis Ioannis</a>'
+  Student: Kanaki Ermioni
+  Link: http://artemis.cslab.ece.ntua.gr:8080/jspui/handle/123456789/19927
+  Sort: delis
+  New: false
+
+- Title: Multivariate correlation analysis on multimodal neurophysiological data
+  Supervisor: '<a href="" data-toggle="modal" data-target="#delis-ioannis-modal">Delis Ioannis</a>'
+  Student: Kapsampelis Nikolaos
+  Link: http://artemis.cslab.ece.ntua.gr:8080/jspui/handle/123456789/19923
+  Sort: delis
+  New: false
+
+- Title: EMG Analysis of Redundant and Synergistic Muscle Coordination and Cross-Frequency Coupling During Grip Force Control
+  Supervisor: '<a href="" data-toggle="modal" data-target="#delis-ioannis-modal">Delis Ioannis</a>'
+  Student: Ronzi Karolina
+  Link: http://artemis.cslab.ece.ntua.gr:8080/jspui/handle/123456789/19947
+  Sort: delis
+  New: false
+
+- Title: Implementation of Trajectory-Based Attractive Virtual Fixtures for Surgical Knot Tying on a Simulated Surgical Robot
+  Supervisor: '<a href="" data-toggle="modal" data-target="#tzafestas-modal">Tzafestas Costas</a>'
+  Student: Kanellos Theodoros
+  Link: http://artemis.cslab.ece.ntua.gr:8080/jspui/handle/123456789/19945
+  Sort: tzafestas
+  New: false
+
+- Title: Robot-Assisted Feeding Tasks Using a Learning by Demonstration Framework
+  Supervisor: '<a href="" data-toggle="modal" data-target="#tzafestas-modal">Tzafestas Costas</a>'
+  Student: Carampinas Ioannis
+  Link: http://artemis.cslab.ece.ntua.gr:8080/jspui/handle/123456789/19961
+  Sort: tzafestas
+  New: false
+
+- Title: Speech-Based Perceptual Features for Clinical Decision Support in Mental Health
+  Supervisor: '<a href="" data-toggle="modal" data-target="#voulodimos-modal">Voulodimos Athanasios</a>'
+  Student: Lyberatos Vassilis
+  Link: http://artemis.cslab.ece.ntua.gr:8080/jspui/handle/123456789/20007
+  Sort: voulodimos
+  New: false
+
+- Title: Comparative CFD Study of Bubble Trap Inlet Geometry for Ex-Vivo Heart Perfusion Systems
+  Supervisor: '<a href="" data-toggle="modal" data-target="#spitas-modal">Spitas Vasilios</a>'
+  Student: Manou Nikoletta
+  Link: http://artemis.cslab.ece.ntua.gr:8080/jspui/handle/123456789/19897
+  Sort: spitas
+  New: false
+
+- Title: 3D Simulation of Drug Concentration Profiles in the Brain Using a Multi-Injection Site Microcatheter
+  Supervisor: '<a href="" data-toggle="modal" data-target="#chronis-modal">Chronis Nikos</a>'
+  Student: Papazisimou Nikoletta
+  Link: http://artemis.cslab.ece.ntua.gr:8080/jspui/handle/123456789/19960
+  Sort: chronis
+  New: false
