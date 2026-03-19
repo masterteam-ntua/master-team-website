@@ -287,7 +287,7 @@ show_sidebar: false
                 <input type="hidden" name="u" value="af8a299a4b7efa610dbb1ade4">
                 <input type="hidden" name="id" value="4143f2b4fa">
                 <!-- people should not fill these in and expect good things -->
-                <div class="field-shift" aria-label="Please leave the following three fields empty" aria-hidden="true">
+                <div style="position: absolute; left: -5000px;" aria-hidden="true">
                     <label for="b_name">Name: </label>
                     <input type="text" name="b_name" tabindex="-1" value="" placeholder="Freddie" id="b_name">
                     <label for="b_email">Email: </label>
