@@ -21,12 +21,12 @@ header3: Handbooks
                 </a> (in English)
             </li>
             <li class="mb-3">
-                <a href="{{ site.baseurl }}/files/Study Guide 2025-2026 ΕΝ.pdf"  target="_blank">
+                <a href="{{ site.baseurl }}/files/Study-Guide-2025-2026-EN.pdf"  target="_blank">
                   <strong>Study Guide</strong>
                 </a> (in English)
             </li>
             <li class="mb-3">
-                <a href="{{ site.baseurl }}/files/Study Guide 2025-2026 GR.pdf"  target="_blank">
+                <a href="{{ site.baseurl }}/files/Study-Guide-2025-2026-GR.pdf"  target="_blank">
                   <strong>Study Guide</strong>
                 </a> (in Greek)
             </li>
