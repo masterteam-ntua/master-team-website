@@ -12,7 +12,7 @@ show_sidebar: false
     <div class="row flex-column">
         <h2 class="my-3">Timetables</h2>
         <p>
-            Here you can find a list of weekly schedules of past semesters and exams:
+            Here you can find a list of weekly semester schedules and exam schedules:
         </p>
         <ul>
             <li class="mb-3">
