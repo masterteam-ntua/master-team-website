@@ -296,27 +296,30 @@ show_sidebar: false
                     <textarea name="b_comment" tabindex="-1" placeholder="Please comment" id="b_comment"></textarea>
                 </div>
                 <div id="mergeTable" class="mergeTable">
-                    <div class="mergeRow dojoDndItem mergeRow-email" id="mergeRow-0">
-                        <label for="MERGE0" class="font-weight-bold">Email Address <span class="req asterisk">*</span></label>
+                    <div class="mergeRow dojoDndItem mergeRow-email mc-field-group form-group" id="mergeRow-0">
+                        <label for="MERGE0" class="font-weight-bold">Email Address <span class="asterisk colored-main">*</span></label>
                         <div class="field-group">
                             <input type="email" autocapitalize="off" autocorrect="off" name="MERGE0" id="MERGE0" size="25" value="">
                         </div>
                     </div>
-                    <div class="mergeRow dojoDndItem mergeRow-text" id="mergeRow-1">
-                        <label for="MERGE1" class="font-weight-bold">First Name</label>
+                    <div class="mergeRow dojoDndItem mergeRow-text mc-field-group form-group" id="mergeRow-1">
+                        <label for="MERGE1" class="font-weight-bold">First Name <span class="asterisk colored-main">*</span></label>
                         <div class="field-group">
                             <input type="text" name="MERGE1" id="MERGE1" size="25" value="">
                         </div>
                     </div>
-                    <div class="mergeRow dojoDndItem mergeRow-text" id="mergeRow-2">
-                        <label for="MERGE2" class="font-weight-bold">Last Name</label>
+                    <div class="mergeRow dojoDndItem mergeRow-text mc-field-group form-group" id="mergeRow-2">
+                        <label for="MERGE2" class="font-weight-bold">Last Name <span class="asterisk colored-main">*</span></label>
                         <div class="field-group">
                             <input type="text" name="MERGE2" id="MERGE2" size="25" value="">
                         </div>
                     </div>
                 </div>
-                <div class="submit_container clear">
-                    <input type="submit" name="submit" value="Subscribe" class="btn btn-primary">
+                <div class="optionalParent">
+                        <div class="clear foot">
+                            <button type="submit" value="Subscribe" name="submit" class="btn btn-primary">Submit</button>
+                            <span class="indicates-required float-right font-italic pt-2"><span class="asterisk colored-main font-weight-bold">*</span> indicates required</span>
+                        </div>
                 </div>
                 <input type="hidden" name="ht" value="f94ec8e9cb7243eb43fcb09ed6c0ec5d1674dae0:MTc3MzkzNTI0NS4xNjM0">
                 <input type="hidden" name="mc_signupsource" value="hosted">
