@@ -324,34 +324,6 @@ show_sidebar: false
                 <input type="hidden" name="ht" value="f94ec8e9cb7243eb43fcb09ed6c0ec5d1674dae0:MTc3MzkzNTI0NS4xNjM0">
                 <input type="hidden" name="mc_signupsource" value="hosted">
             </form>
-            <form action="https://ntua.us12.list-manage.com/subscribe/post?u=2294fad3462396a281ff35e61&amp;id=edfa3a462d" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
-                <div id="mc_embed_signup_scroll">
-                    <div class="mc-field-group form-group">
-                        <label for="mce-EMAIL" class="font-weight-bold">Email Address <span class="asterisk colored-main">*</span></label>
-                        <input type="email" value="" name="EMAIL" class="required email form-control" id="mce-EMAIL" placeholder="Enter e-mail address" required>
-                    </div>
-                    <div class="mc-field-group form-group">
-                        <label for="mce-FNAME" class="font-weight-bold">First Name <span class="asterisk colored-main">*</span></label>
-                        <input type="text" value="" name="FNAME" class="required form-control" id="mce-FNAME" placeholder="Enter first name" required>
-                    </div>
-                    <div class="mc-field-group form-group">
-                        <label for="mce-LNAME" class="font-weight-bold">Last Name <span class="asterisk colored-main">*</span></label>
-                        <input type="text" value="" name="LNAME" class="required form-control" id="mce-LNAME" placeholder="Enter last name" required>
-                    </div>
-                    <div id="mce-responses" class="clear foot">
-                        <div class="response" id="mce-error-response" style="display:none"></div>
-                        <div class="response" id="mce-success-response" style="display:none"></div>
-                    </div>
-                    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
-                    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_2294fad3462396a281ff35e61_edfa3a462d" tabindex="-1" value=""></div>
-                    <div class="optionalParent">
-                        <div class="clear foot">
-                            <button type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="btn btn-primary">Submit</button>
-                            <span class="indicates-required float-right font-italic pt-2"><span class="asterisk colored-main font-weight-bold">*</span> indicates required</span>
-                        </div>
-                    </div>
-                </div>
-            </form>
         </div>
     </div>
     <div class="disclaimer-footer">
