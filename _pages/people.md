@@ -95,7 +95,7 @@ show_sidebar: false
           Studies Committee
         </h3>
         <p>
-          <a href="" data-toggle="modal" data-target="#alexopoulos-modal">Leonidas Alexopoulos</a>, Associate Professor, School of
+          <a href="" data-toggle="modal" data-target="#anagnostakis-modal">Marios Anagnostakis</a>, Professor, School of
           Mechanical Engineering, NTUA
         </p>
         <p>
@@ -111,7 +111,7 @@ show_sidebar: false
           Engineering, NTUA
         </p>
         <p>
-          <a href="" data-toggle="modal" data-target="#stamou-modal">Giorgos Stamou</a>, Professor, School of Electrical and Computer Engineering, NTUA
+          <a href="" data-toggle="modal" data-target="#voulodimos-modal">Athanasios Voulodimos</a>, Assistant Professor, School of Electrical and Computer Engineering, NTUA
         </p>
 
 
