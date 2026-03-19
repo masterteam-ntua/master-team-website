@@ -21,6 +21,7 @@ show_sidebar: false
     margin-top: 8px;
     flex: 1 1 100%;
     white-space: normal;
+    color: #C02F51;
   }
 }
 .collapsible {
