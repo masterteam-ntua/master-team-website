@@ -299,19 +299,19 @@ show_sidebar: false
                     <div class="mergeRow dojoDndItem mergeRow-email mc-field-group form-group" id="mergeRow-0">
                         <label for="MERGE0" class="font-weight-bold">Email Address <span class="asterisk colored-main">*</span></label>
                         <div class="field-group">
-                            <input type="email" autocapitalize="off" autocorrect="off" name="MERGE0" id="MERGE0" size="25" value="">
+                            <input class = "required email form-control" placeholder="Enter e-mail address" type="email" autocapitalize="off" autocorrect="off" name="MERGE0" id="MERGE0" size="25" value="">
                         </div>
                     </div>
                     <div class="mergeRow dojoDndItem mergeRow-text mc-field-group form-group" id="mergeRow-1">
                         <label for="MERGE1" class="font-weight-bold">First Name <span class="asterisk colored-main">*</span></label>
                         <div class="field-group">
-                            <input type="text" name="MERGE1" id="MERGE1" size="25" value="">
+                            <input class="required form-control" placeholder="Enter first name" type="text" name="MERGE1" id="MERGE1" size="25" value="">
                         </div>
                     </div>
                     <div class="mergeRow dojoDndItem mergeRow-text mc-field-group form-group" id="mergeRow-2">
                         <label for="MERGE2" class="font-weight-bold">Last Name <span class="asterisk colored-main">*</span></label>
                         <div class="field-group">
-                            <input type="text" name="MERGE2" id="MERGE2" size="25" value="">
+                            <input class="required form-control" placeholder="Enter last name" type="text" name="MERGE2" id="MERGE2" size="25" value="">
                         </div>
                     </div>
                 </div>
