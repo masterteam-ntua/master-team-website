@@ -99,7 +99,7 @@ show_sidebar: false
           Mechanical Engineering, NTUA
         </p>
         <p>
-          <a href="" data-toggle="modal" data-target="#manopoulos-modal">Christos Manopoulos</a>, Assistant Professor, School of Mechanical
+          <a href="" data-toggle="modal" data-target="#manopoulos-modal">Christos Manopoulos</a>, Associate Professor, School of Mechanical
           Engineering, NTUA
         </p>
         <p>
