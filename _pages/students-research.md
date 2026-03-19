@@ -48,7 +48,7 @@ show_sidebar: false
   flex: 0 0 35%;
   text-align: right;
   font-size: 0.9em;
-  color: #e4aeb1;
+  color: #C02F51;
   white-space: nowrap;
 }
 .new-label {
