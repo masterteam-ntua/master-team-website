@@ -35,6 +35,13 @@
       - title: Complaint Process
         href: /complaint-process
 
+- title: Research
+  subpages:
+      - title: Labs
+        href: /labs
+      - title: Students' Research
+        href: /students-research
+
 - title: Admissions
   href: /admissions
 
