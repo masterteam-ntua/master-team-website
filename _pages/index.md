@@ -283,6 +283,44 @@ show_sidebar: false
     <div class="row mt-5 pl-2">
         <h2>Sign up for email updates on the program and upcoming events</h2>
         <div id="mc_embed_signup" class="form-container">
+            <form action="https://ntua.us11.list-manage.com/subscribe/post" method="POST">
+                <input type="hidden" name="u" value="af8a299a4b7efa610dbb1ade4">
+                <input type="hidden" name="id" value="4143f2b4fa">
+                <!-- people should not fill these in and expect good things -->
+                <div class="field-shift" aria-label="Please leave the following three fields empty" aria-hidden="true">
+                    <label for="b_name">Name: </label>
+                    <input type="text" name="b_name" tabindex="-1" value="" placeholder="Freddie" id="b_name">
+                    <label for="b_email">Email: </label>
+                    <input type="email" name="b_email" tabindex="-1" value="" placeholder="youremail@gmail.com" id="b_email">
+                    <label for="b_comment">Comment: </label>
+                    <textarea name="b_comment" tabindex="-1" placeholder="Please comment" id="b_comment"></textarea>
+                </div>
+                <div id="mergeTable" class="mergeTable">
+                    <div class="mergeRow dojoDndItem mergeRow-email" id="mergeRow-0">
+                        <label for="MERGE0" class="font-weight-bold">Email Address <span class="req asterisk">*</span></label>
+                        <div class="field-group">
+                            <input type="email" autocapitalize="off" autocorrect="off" name="MERGE0" id="MERGE0" size="25" value="">
+                        </div>
+                    </div>
+                    <div class="mergeRow dojoDndItem mergeRow-text" id="mergeRow-1">
+                        <label for="MERGE1" class="font-weight-bold">First Name</label>
+                        <div class="field-group">
+                            <input type="text" name="MERGE1" id="MERGE1" size="25" value="">
+                        </div>
+                    </div>
+                    <div class="mergeRow dojoDndItem mergeRow-text" id="mergeRow-2">
+                        <label for="MERGE2" class="font-weight-bold">Last Name</label>
+                        <div class="field-group">
+                            <input type="text" name="MERGE2" id="MERGE2" size="25" value="">
+                        </div>
+                    </div>
+                </div>
+                <div class="submit_container clear">
+                    <input type="submit" name="submit" value="Subscribe" class="btn btn-primary">
+                </div>
+                <input type="hidden" name="ht" value="f94ec8e9cb7243eb43fcb09ed6c0ec5d1674dae0:MTc3MzkzNTI0NS4xNjM0">
+                <input type="hidden" name="mc_signupsource" value="hosted">
+            </form>
             <form action="https://ntua.us12.list-manage.com/subscribe/post?u=2294fad3462396a281ff35e61&amp;id=edfa3a462d" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
                 <div id="mc_embed_signup_scroll">
                     <div class="mc-field-group form-group">
