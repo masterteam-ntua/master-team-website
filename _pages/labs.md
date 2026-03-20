@@ -39,7 +39,7 @@ header3: Labs
                The Bio-Microsystems Laboratory leverages MEMS technology, microfluidics, lab-on-chip platforms, biosensors, and wearables to develop integrated solutions at the intersection of engineering and life sciences. Its research focuses on advancing MEMS-based microsystems to address pressing challenges in human health—from eliminating environmental pollutants and combating pathogen transmission to advancing neurotherapeutics and mental health monitoring.
             </li>
             <li class="mb-3">
-                <a href="https://biosim.ntua.gr/"  target="_blank">
+                <a href="https://www.biosim.ntua.gr/"  target="_blank">
                   <strong>Biomedical Simulations and Imaging Laboratory NTUA</strong>
                 </a><br>
                 The Biomedical Simulations and Imaging (BIOSIM) Laboratory was founded in 1999 and is part of the Institute of Communication and Computer Systems (ICCS) and the Faculty of Electrical and Computer Engineering of the National Technical University of Athens (NTUA). The Laboratory is involved in research, mainly in the following areas: Diabetes & Obesity Management, Cardiovascular Diseases, Mobile Health, Computational & Congnitive Neuroscience, Smart Health Systems.
