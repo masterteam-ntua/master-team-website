@@ -33,7 +33,7 @@ header3: Labs
                The Laboratory of Biomedical Optics and Applied Biophysics at the National Technical University of Athens focuses on the development and application of optical technologies and biophysical methods for medical diagnostics and imaging. It combines principles from physics, engineering, and medicine to advance non-invasive healthcare solutions and biomedical research.
             </li>
             <li class="mb-3">
-                <a href="https://www.biomed.ntua.gr/"  target="_blank">
+                <a href="https://chronis-group.chemeng.ntua.gr/"  target="_blank">
                   <strong>Bio-Microsystems Laboratory NTUA</strong>
                 </a><br>
                The Bio-Microsystems Laboratory leverages MEMS technology, microfluidics, lab-on-chip platforms, biosensors, and wearables to develop integrated solutions at the intersection of engineering and life sciences. Its research focuses on advancing MEMS-based microsystems to address pressing challenges in human health—from eliminating environmental pollutants and combating pathogen transmission to advancing neurotherapeutics and mental health monitoring.
