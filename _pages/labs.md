@@ -29,7 +29,7 @@ header3: Labs
                 The Biomedical Engineering Laboratory (BEL) of the School of Electrical and Computer Engineering (ECE) of the National Technical University of Athens (NTUA) was created in 1990 and since 2001 it has been an institutionalized laboratory of the School of Electrical and Computer Engineering. The mission of the Laboratory is to serve educational and research needs in the fields of Biomedical Technology and applications related to the relevant technologies.
             </li>
             <li class="mb-3">
-                  <strong class="a">Biomedical Optics and Applied Biophysics Laboratory NTUA</strong><br>
+                  <strong class="fake-link-style">Biomedical Optics and Applied Biophysics Laboratory NTUA</strong><br>
                The Laboratory of Biomedical Optics and Applied Biophysics at the National Technical University of Athens focuses on the development and application of optical technologies and biophysical methods for medical diagnostics and imaging. It combines principles from physics, engineering, and medicine to advance non-invasive healthcare solutions and biomedical research.
             </li>
             <li class="mb-3">
@@ -45,7 +45,7 @@ header3: Labs
                 The Biomedical Simulations and Imaging (BIOSIM) Laboratory was founded in 1999 and is part of the Institute of Communication and Computer Systems (ICCS) and the Faculty of Electrical and Computer Engineering of the National Technical University of Athens (NTUA). The Laboratory is involved in research, mainly in the following areas: Diabetes & Obesity Management, Cardiovascular Diseases, Mobile Health, Computational & Congnitive Neuroscience, Smart Health Systems.
             </li>
             <li class="mb-3">
-                <strong class="a">Biofluid Mechanics & Biomedical Technology Laboratory NTUA</strong><br>
+                <strong class="fake-link-style">Biofluid Mechanics & Biomedical Technology Laboratory NTUA</strong><br>
                 The Laboratory of Biofluid Mechanics & Biomedical Engineering was established in 2002 and is provided by the Fluids Section of the School of Mechanical Engineering of the NTUA. Its activities mainly concern the development of experimental technics and theoretical - computational methodologies with application to the solution of problems involved to biomechanics of the circulatory, respiratory and urinary system.
             </li>
             <li class="mb-3">
