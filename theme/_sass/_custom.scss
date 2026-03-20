@@ -572,6 +572,12 @@ a.map-section {
   line-height: 1.5;
 }
 
+.fake-link-style {
+    color: #C02F51;
+    text-decoration: none;
+    background-color:transparent
+}
+
 @media (max-width: 768px) {
   .disclaimer-text {
     flex-direction: column; /* Stacks text vertically for smaller screens */
