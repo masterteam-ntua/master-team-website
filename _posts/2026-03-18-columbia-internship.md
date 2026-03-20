@@ -1,5 +1,5 @@
 ---
-title: Internships in Columbia University
+title: Internships at Columbia University
 description: Shortlisted Candidates
 directory: announcements
 thumb: columbia-logo.webp
