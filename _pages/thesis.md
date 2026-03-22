@@ -80,7 +80,7 @@ least half of the postgraduate courses required for the acquisition of the Maste
 time.
 </p><br>
 <p>
-The postgraduate student submits an application (εδώ βάλε link στα forms), including the proposed title of the MT, the
+The postgraduate student submits an <a href="{{ site.baseurl }}/forms">application</a>, including the proposed title of the MT, the
 proposed supervisor, and an abstract of the proposed work.<br>
 Diploma thesis evaluation:
 </p>
