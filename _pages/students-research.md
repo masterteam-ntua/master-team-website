@@ -5,7 +5,7 @@ narrow: false
 header0: 
 header1: Master of Science
 header2: Translational Engineering in Health and Medicine
-header3: Students' Research
+header3: Student Research
 show_sidebar: false
 ---
 <head>
@@ -92,7 +92,7 @@ show_sidebar: false
 
 <div class="container mt-5">
  <h3 class="mt-5 mb-3 colored-main">
-    Students' Research
+    Student Research
   </h3>
   
   {% assign subjects = site.data.completed_thesis | sort: "Student"%}
