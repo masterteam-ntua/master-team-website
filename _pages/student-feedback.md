@@ -16,6 +16,6 @@ header3: Student Feedback
         <h2 class="my-3">Feedback results</h2>
         <p>Student input is systematically reviewed and taken into account in shaping the studies program. Feedback plays a key role in identifying strengths, addressing areas for improvement, and refining both course content and teaching practices. A summary of the results across the four axes of the evaluation by students is presented below.
         </p>
-        <img src="{{ site.baseurl }}/post_assets/student-feedback.png"></img>
+        <img style="width: 75%" src="{{ site.baseurl }}/post_assets/student-feedback.png">
     </div>
 </div>

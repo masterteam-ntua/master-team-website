@@ -85,13 +85,13 @@ proposed supervisor, and an abstract of the proposed work.<br>
 Diploma thesis evaluation:
 </p>
 <ul>
-  <li>the thoroughness of the literature review.</li>
-  <li>the collection of specific data (through laboratory experiments, field data collection, or the results of theoretical calculations).</li>
-  <li>logical processing (e.g., processing of collected data, results of computational simulations, evaluation, and critical presentation of results).</li>
-  <li>the structure of the thesis and its written presentation, e.g., the coherence of the text, the correct use of terminology and language, the precise formulation of concepts, the scientifically sound documentation of conclusions, etc.</li>
-  <li>the originality of the thesis.</li>
-  <li>the student's initiative.</li>
-  <li>the oral presentation of the thesis and the response to the examination committee's questions.</li>  
+  <li class="mb-3">the thoroughness of the literature review.</li>
+  <li class="mb-3">the collection of specific data (through laboratory experiments, field data collection, or the results of theoretical calculations).</li>
+  <li class="mb-3">logical processing (e.g., processing of collected data, results of computational simulations, evaluation, and critical presentation of results).</li>
+  <li class="mb-3">the structure of the thesis and its written presentation, e.g., the coherence of the text, the correct use of terminology and language, the precise formulation of concepts, the scientifically sound documentation of conclusions, etc.</li>
+  <li class="mb-3">the originality of the thesis.</li>
+  <li class="mb-3">the student's initiative.</li>
+  <li class="mb-3">the oral presentation of the thesis and the response to the examination committee's questions.</li>  
 </ul><br>
   <!-- Modals -->
   {% for person in site.data.people %}
