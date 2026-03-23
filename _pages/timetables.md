@@ -16,6 +16,11 @@ show_sidebar: false
         </p>
         <ul>
             <li class="mb-3">
+                <a href="{{ site.baseurl }}/files/2nd-semester-2025-2026.pdf"  target="_blank">
+                  <strong>Weekly Schedule Spring Semester 2025-2026</strong>
+                </a>
+            </li>
+            <li class="mb-3">
                 <a href="{{ site.baseurl }}/files/1st-semester-2025-2026.pdf"  target="_blank">
                   <strong>Weekly Schedule Fall Semester 2025-2026</strong>
                 </a>
