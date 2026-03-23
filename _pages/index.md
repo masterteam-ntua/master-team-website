@@ -286,7 +286,7 @@ show_sidebar: false
             <form action="https://ntua.us11.list-manage.com/subscribe/post" method="POST">
                 <input type="hidden" name="u" value="af8a299a4b7efa610dbb1ade4">
                 <input type="hidden" name="id" value="4143f2b4fa">
-                <input type="hidden" name="MERGE3" value="NTUATEAMWebsite">
+                <input type="hidden" name="MERGE7" value="NTUATEAMWebsite">
                 <!-- people should not fill these in and expect good things -->
                 <div style="position: absolute; left: -5000px;" aria-hidden="true">
                     <label for="b_name">Name: </label>
