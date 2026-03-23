@@ -13,6 +13,8 @@
       href: /thesis
     - title: Timetables
       href: /timetables
+    - title: Student Feedback
+      href: /student-feedback
   
 - title: Faculty
   subpages:
@@ -35,8 +37,6 @@
         href: /alumni
       - title: Complaint Process
         href: /complaint-process
-      - title: Student Feedback
-        href: /student-feedback
 
 - title: Research
   subpages:
