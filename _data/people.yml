@@ -504,14 +504,14 @@
 
 - Image: /theme/img/team/zarkogianni.webp
   Name: Zarkogianni Konstantia
-  Category: Researchers
-  Title1: Laboratory Teaching Staff
-  Title2: School of Electrical and Computer Engineering, NTUA
-  School: Electrical and Computer Engineering, NTUA
-  Email: kzarkog@biosim.ntua.gr
-  Phone: 2107722149
-  Website: https://www.biosim.ntua.gr/en/people/kzarkog
-  Bio: Konstantia Zarkogianni received the diploma in Electrical and Computer Engineering (2003) from the Aristotle University of Thessaloniki, Greece, the MSc Degree in Electronic and Computer Engineering (2005) from the Technical University of Crete, Greece, and the PhD degree (2011) from the NTUA, Greece. Since 2005, she is a member of the BIOmedical Simulations and IMaging Laboratory of NTUA. In October 2017, she was appointed as permanent laboratory teaching staff at the School of Electrical and Computer Engineering of the NTUA. Her current research interests include clinical decision support systems, control systems, physiological systems modelling, diabetes management, multiscale modelling and serious games design in health. She has authored or coauthored 11 papers in refereed international journals, one chapter in book, and 19 papers in international conference proceedings. She has participated as research associate and principle investigator in national and EU funded projects. She has been a guest editor of the special issue on Emerging Technologies for the Management of Diabetes Mellitus (Springer Journal of Medical and Biological Engineering and Computing [MBEC], 2015). She has been a member of the Editorial Board of the SpringerPlus journal in 2016 and reviewer for international scientific journals (IEEE Transactions on Biomedical Engineering, IEEE Journal of Biomedical and Health Informatics, Springer Medical & Biological Engineering & Computing, Elsevier Journal of Biomedical Informatics, and JSM Diabetology and Management). She is a member of the Institute of Electrical and Electronics Engineers (ΙΕΕΕ) and the Technical Chamber of Greece.
+  Category: Professors
+  Title1: Associate Professor
+  Title2: Human-Centered AI, Deparment of Advanced Computing Sciences
+  School: Maastricht University
+  Email: konstantia.zarkogianni@maastrichtuniversity.nl
+  Phone: null
+  Website: https://www.maastrichtuniversity.nl/k-zarkogianni
+  Bio: 'Konstantia Zarkogianni received a MEng in Electrical and Computer Engineering (2003) from the Aristotle University of Thessaloniki, a MSc Degree in Electronic and Computer Engineering (2005) from the Technical University of Crete, and a PhD degree (2011) from the National Technical University of Athens (NTUA), Greece. In October 2017, she was appointed as a permanent laboratory teaching staff member at the School of Electrical and Computer Engineering of the NTUA. Since 2023, she has been an Associate Professor of Human-Centered AI at DACS of UM. Her research is mainly focused on AI (e.g., ML, XAI, knowledge bases & reasoning, and recommender systems) and decision intelligence. She has authored or coauthored 18 papers in refereed international journals, one chapter in book, and more than 30 papers in international conference proceedings. She has participated as research associate and PI in greek and EU funded projects. She has been a guest editor of the special issue on Emerging Technologies for the Management of Diabetes Mellitus (Springer Journal of Medical and Biological Engineering and Computing [MBEC], 2015). She has been a member of the Editorial Board of the SpringerPlus journal in 2016 and reviewer for international scientific journals (IEEE Transactions on Biomedical Engineering, IEEE Journal of Biomedical and Health Informatics, Springer Medical & Biological Engineering & Computing, Elsevier Journal of Biomedical Informatics, and JSM Diabetology and Management). She is a member of the Institute of Electrical and Electronics Engineers (ΙΕΕΕ) and the Technical Chamber of Greece.'
   Office: null
   modalId: zarkogianni-modal
   showOnlyInAdministration: false
@@ -640,6 +640,20 @@
   Bio: 'Maria Athanasiou received the Diploma in Electrical and Computer Engineering (ECE) and the PhD degree from the National Technical University of Athens (NTUA) in 2015 and 2023, respectively. Her PhD thesis aimed at the development of interpretable machine learning models supporting diabetes management and introduced, among others, the first interpretable risk prediction model for hospitalization risk assessment due to diabetic ketoacidosis. She currently serves as a Postdoctoral Research Associate at the Biomedical Simulations and Imaging Lab, School of ECE, NTUA, focusing on the development of innovative methodologies for increasing the transparency, fairness, and reliability of decision support systems in health through physiology-driven approaches and human-centered AI methods. She has published 26 papers in international peer-reviewed scientific journals and international conferences. She is a Lectuter of the postgraduate courses “Research Methodology” and “Artificial Intelligence in Healthcare” of the NTUA MSc Program “Translational Engineering in Health and Medicine”. She serves as reviewer for international peer-reviewed scientific journals and international conferences (IEEE Transactions on Biomedical Engineering, IEEE Journal of Biomedical and Health Informatics, Springer Nature, Journal of Medical Internet Research, International Conference of the IEEE Engineering in Medicine and Biology Society). She has received the Best Student Paper Award at the 20th IEEE International Conference on BioInformatics And BioEngineering for her research on assessing the risk of cardiovascular disease in patients with Type 2 Diabetes Mellitus.. She has also won the second prize at 2020 HackCoronaGreece as a member of the NTUA team for the project “Self-Assessment & Monitoring Tool for COVID-19 based on Audio Records and Artificial Intelligence -SMARTY”. She is the Administrative Editor of the IEEE Transactions on Antennas and Propagation and from 2019 to 2022 served as the inaugural Administrative Editor of the IEEE Open Journal of Antennas and Propagation. She is Chair of the IEEE Women in Engineering Greece Section Affinity Group. She is an IEEE Member and a member of the Technical Chamber of Greece.'
   Office: null
   modalId: athanasiou-maria-modal
+  showOnlyInAdministration: false
+
+- Image: /theme/img/team/konstantinos_mitsis.jpg
+  Name: Mitsis Konstantinos
+  Category: Researchers
+  Title1: Postdoctoral Researcher
+  Title2: Biomedical Simulations and Imaging Laboratory
+  School: School of Electrical and Computer Engineering, National Technical University of Athens (NTUA)
+  Email: kmhtshs@biosim.ntua.gr
+  Phone: null
+  Website: null
+  Bio: 'Kostas Mitsis is a postdoctoral researcher and game designer with a background in Electrical and Computer Engineering (NTUA, MEng 2013, PhD 2023). He combines over eight years of academic and industry experience with focus in areas such as digital games, AI, mHealth applications and project management. He has participated and mentored startup ventures and an active content creator and designer in the tabletop gaming space, with a strong interest in building communities and crafting engaging, interactive experiences.'
+  Office: null
+  modalId: mitsis-konstantinos-modal
   showOnlyInAdministration: false
 
 - Image: /theme/img/avatar.jpg
