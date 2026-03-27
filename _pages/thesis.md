@@ -225,16 +225,6 @@ Diploma thesis evaluation:
         aria-label="Filter by supervisor"
       >
         <option value="">All supervisors</option>
-        {% assign supervisor_names = "" | split: "|" %}
-        {% for subject in subjects %}
-          {% unless supervisor_names contains subject.Supervisor %}
-            {% assign supervisor_names = supervisor_names | push: subject.Supervisor %}
-          {% endunless %}
-        {% endfor %}
-        {% assign supervisor_names = supervisor_names | sort %}
-        {% for supervisor in supervisor_names %}
-          <option value="{{ supervisor | downcase }}">{{ supervisor }}</option>
-        {% endfor %}
       </select>
 
       <label class="thesis-checkbox-wrap">
@@ -261,6 +251,7 @@ Diploma thesis evaluation:
         class="thesis-item"
         data-search="{{ searchable_text | strip_html | downcase | normalize_whitespace | escape }}"
         data-supervisor="{{ subject.Supervisor | downcase | strip | escape }}"
+        data-supervisor-display="{{ subject.Supervisor | strip | escape }}"
         data-new="{% if subject.New %}true{% else %}false{% endif %}"
       >
         <button class="collapsible">
@@ -330,6 +321,28 @@ document.addEventListener("DOMContentLoaded", function () {
   var resultCount = document.getElementById("thesisResultsCount");
   var thesisItems = document.querySelectorAll("#availableThesesList .thesis-item");
 
+  function populateSupervisorFilter() {
+    var supervisors = [];
+
+    thesisItems.forEach(function (item) {
+      var supervisor = (item.getAttribute("data-supervisor-display") || "").trim();
+      if (supervisor && supervisors.indexOf(supervisor) === -1) {
+        supervisors.push(supervisor);
+      }
+    });
+
+    supervisors.sort(function (a, b) {
+      return a.localeCompare(b);
+    });
+
+    supervisors.forEach(function (supervisor) {
+      var option = document.createElement("option");
+      option.value = supervisor.toLowerCase();
+      option.textContent = supervisor;
+      supervisorFilter.appendChild(option);
+    });
+  }
+
   function filterTheses() {
     var searchTerm = searchInput.value.trim().toLowerCase();
     var selectedSupervisor = supervisorFilter.value.trim().toLowerCase();
@@ -370,6 +383,8 @@ document.addEventListener("DOMContentLoaded", function () {
   }
 
   if (searchInput && supervisorFilter && newOnlyFilter && clearButton) {
+    populateSupervisorFilter();
+
     searchInput.addEventListener("input", filterTheses);
     supervisorFilter.addEventListener("change", filterTheses);
     newOnlyFilter.addEventListener("change", filterTheses);
