@@ -597,7 +597,6 @@ a.map-section {
    THESIS PAGE
 ================================ */
 
-/* Intro text */
 .thesis-page-intro {
   p,
   li {
@@ -610,7 +609,6 @@ a.map-section {
   }
 }
 
-/* Filter container */
 .thesis-filters-wrap {
   background-color: $light-grey;
   padding: 0.9rem 1rem 0.75rem 1rem;
@@ -629,6 +627,86 @@ a.map-section {
   }
 }
 
+.thesis-control {
+  height: 46px;
+  min-height: 46px;
+  box-sizing: border-box;
+  padding: 0 0.9rem;
+  border: 1px solid $main-grey;
+  border-radius: 0.35rem;
+  background: $white;
+  color: $black;
+  font-size: 0.95rem;
+  font-family: inherit;
+  box-shadow: none;
+  transition: border-color 0.15s ease, box-shadow 0.15s ease, background-color 0.15s ease;
+
+  &:focus {
+    outline: none;
+    border-color: $main-color;
+    box-shadow: 0 0 0 0.15rem rgba($main-color, 0.15);
+  }
+}
+
+.thesis-search-input {
+  width: 100%;
+
+  &::placeholder {
+    color: $main-grey;
+  }
+}
+
+.thesis-filter-select {
+  width: 100%;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  padding-right: 2.4rem;
+  background-image:
+    linear-gradient(45deg, transparent 50%, $main-grey 50%),
+    linear-gradient(135deg, $main-grey 50%, transparent 50%);
+  background-position:
+    calc(100% - 18px) calc(50% - 3px),
+    calc(100% - 12px) calc(50% - 3px);
+  background-size: 6px 6px, 6px 6px;
+  background-repeat: no-repeat;
+}
+
+.thesis-checkbox-wrap {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.55rem;
+  height: 46px;
+  padding: 0 1rem;
+  border: 1px solid $main-grey;
+  border-radius: 0.35rem;
+  background: $white;
+  color: $black;
+  font-size: 0.95rem;
+  white-space: nowrap;
+  box-sizing: border-box;
+
+  input {
+    margin: 0;
+    accent-color: $main-color;
+  }
+}
+
+.thesis-clear-btn {
+  color: $white;
+  background-color: $main-color;
+  border: 1px solid $main-color;
+  cursor: pointer;
+  white-space: nowrap;
+  font-weight: 500;
+
+  &:hover {
+    color: $white;
+    background-color: $main-color-light;
+    border-color: $main-color-light;
+  }
+}
+
 #thesisResultsCount {
   margin-top: 0.45rem;
   margin-bottom: 0;
@@ -637,18 +715,32 @@ a.map-section {
   font-weight: 500;
 }
 
-/* Collapsible button */
+#availableThesesList,
+.completed-theses-list,
+.thesis-list {
+  display: flex;
+  flex-direction: column;
+  gap: 0.85rem;
+}
+
+.thesis-item,
+.completed-thesis-item {
+  border-radius: 0.5rem;
+  overflow: hidden;
+  background: $white;
+}
+
 .collapsible {
   display: flex;
   justify-content: space-between;
   align-items: flex-start;
-  text-align: left;
   flex-wrap: wrap;
   width: 100%;
   padding: 1rem 1.15rem;
   border: none;
   background-color: $light-grey;
   color: $black;
+  text-align: left;
   font-size: 1rem;
   cursor: pointer;
   transition: background-color 0.2s ease;
@@ -689,38 +781,8 @@ a.map-section {
       text-decoration: underline;
     }
   }
-
-  @media (max-width: 768px) {
-    text-align: left;
-    margin-top: 6px;
-    flex: 1 1 100%;
-  }
 }
 
-/* Title + supervisor */
-.thesis-title {
-  flex: 1 1 65%;
-  font-weight: 600;
-  padding-right: 1rem;
-}
-
-.supervisor-name {
-  flex: 0 0 35%;
-  text-align: right;
-  font-size: 0.9rem;
-  color: $main-color;
-
-  a {
-    color: inherit;
-    text-decoration: none;
-
-    &:hover {
-      text-decoration: underline;
-    }
-  }
-}
-
-/* NEW label */
 .new-label {
   color: $main-color;
   font-weight: bold;
@@ -728,7 +790,6 @@ a.map-section {
   margin-right: 0.3rem;
 }
 
-/* Content */
 .content_c {
   padding: 0 1.15rem;
   max-height: 0;
@@ -736,6 +797,22 @@ a.map-section {
   transition: max-height 0.22s ease-out, padding 0.22s ease-out;
   background-color: $white;
   border-top: 1px solid $light-grey;
+
+  p {
+    margin-bottom: 0.75rem;
+
+    &:last-child {
+      margin-bottom: 0;
+    }
+  }
+
+  a {
+    color: $main-color;
+
+    &:hover {
+      text-decoration: underline;
+    }
+  }
 }
 
 .collapsible.active + .content_c {
@@ -743,23 +820,6 @@ a.map-section {
   padding-bottom: 1rem;
 }
 
-.content_c p {
-  margin-bottom: 0.75rem;
-
-  &:last-child {
-    margin-bottom: 0;
-  }
-}
-
-.content_c a {
-  color: $main-color;
-
-  &:hover {
-    text-decoration: underline;
-  }
-}
-
-/* Completed theses slight variation */
 .completed-thesis-item {
   .collapsible {
     background-color: lighten($light-grey, 3%);
@@ -770,12 +830,11 @@ a.map-section {
   }
 }
 
-/* Mobile adjustments */
 @media (max-width: 768px) {
   .supervisor-name {
     text-align: left;
     margin-top: 6px;
     flex: 1 1 100%;
+    white-space: normal;
   }
 }
-

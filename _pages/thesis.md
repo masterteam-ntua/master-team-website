@@ -267,7 +267,7 @@ document.addEventListener("DOMContentLoaded", function () {
       }
     });
 
-    resultCount.textContent = visibleCount + " thesis" + (visibleCount === 1 ? "" : "es") + " found";
+    resultCount.textContent = visibleCount + " thes" + (visibleCount === 1 ? "is" : "es") + " found";
   }
 
   if (searchInput && supervisorFilter && newOnlyFilter && clearButton) {
