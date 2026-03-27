@@ -725,9 +725,23 @@ a.map-section {
 
 .thesis-item,
 .completed-thesis-item {
-  border-radius: 0.5rem;
-  overflow: hidden;
-  background: $white;
+  .collapsible {
+    background-color: lighten($light-grey, 3%);
+
+    &:hover {
+      background-color: $light-grey;
+    }
+
+    &.active {
+      background-color: $main-color;
+      color: $white;
+
+      .supervisor-name,
+      .new-label {
+        color: $white;
+      }
+    }
+  }
 }
 
 .collapsible {

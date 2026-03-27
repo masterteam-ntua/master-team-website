@@ -63,20 +63,40 @@ show_sidebar: false
 </div>
 
 <script>
-document.addEventListener("DOMContentLoaded", function () {
-  var coll = document.getElementsByClassName("collapsible");
+  document.addEventListener("DOMContentLoaded", function () {
+    var coll = document.getElementsByClassName("collapsible");
 
-  for (var i = 0; i < coll.length; i++) {
-    coll[i].addEventListener("click", function () {
-      this.classList.toggle("active");
-      var content = this.nextElementSibling;
+    function closeContent(button, content) {
+      button.classList.remove("active");
+      content.style.maxHeight = null;
+    }
 
-      if (content.style.maxHeight) {
-        content.style.maxHeight = null;
-      } else {
-        content.style.maxHeight = content.scrollHeight + "px";
+    function openContent(button, content) {
+      button.classList.add("active");
+      content.style.maxHeight = content.scrollHeight + 40 + "px";
+    }
+
+    for (var i = 0; i < coll.length; i++) {
+      coll[i].addEventListener("click", function () {
+        var content = this.nextElementSibling;
+
+        if (content.style.maxHeight) {
+          closeContent(this, content);
+        } else {
+          openContent(this, content);
+        }
+      });
+    }
+
+    window.addEventListener("resize", function () {
+      for (var i = 0; i < coll.length; i++) {
+        var button = coll[i];
+        var content = button.nextElementSibling;
+
+        if (button.classList.contains("active")) {
+          content.style.maxHeight = content.scrollHeight + 40 + "px";
+        }
       }
     });
-  }
-});
+  });
 </script>
