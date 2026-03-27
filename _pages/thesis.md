@@ -162,28 +162,30 @@ show_sidebar: false
 </head>
 
 <body>
-<p>
-The undertaking of the Master's Thesis (MT) can take place after the end of the 2nd semester of
-the first year of studies, provided that the postgraduate student has successfully completed at
-least half of the postgraduate courses required for the acquisition of the Master's degree by that
-time.
-</p><br>
+<div class="completed-theses-list">
+  <p>
+  The undertaking of the Master's Thesis (MT) can take place after the end of the 2nd semester of
+  the first year of studies, provided that the postgraduate student has successfully completed at
+  least half of the postgraduate courses required for the acquisition of the Master's degree by that
+  time.
+  </p><br>
 
-<p>
-The postgraduate student submits an <a href="{{ site.baseurl }}/forms">application</a>, including the proposed title of the MT, the
-proposed supervisor, and an abstract of the proposed work.<br>
-Diploma thesis evaluation:
-</p>
+  <p>
+  The postgraduate student submits an <a href="{{ site.baseurl }}/forms">application</a>, including the proposed title of the MT, the
+  proposed supervisor, and an abstract of the proposed work.<br>
+  Diploma thesis evaluation:
+  </p>
 
-<ul>
-  <li class="mb-3">the thoroughness of the literature review.</li>
-  <li class="mb-3">the collection of specific data (through laboratory experiments, field data collection, or the results of theoretical calculations).</li>
-  <li class="mb-3">logical processing (e.g., processing of collected data, results of computational simulations, evaluation, and critical presentation of results).</li>
-  <li class="mb-3">the structure of the thesis and its written presentation, e.g., the coherence of the text, the correct use of terminology and language, the precise formulation of concepts, the scientifically sound documentation of conclusions, etc.</li>
-  <li class="mb-3">the originality of the thesis.</li>
-  <li class="mb-3">the student's initiative.</li>
-  <li class="mb-3">the oral presentation of the thesis and the response to the examination committee's questions.</li>  
-</ul><br>
+  <ul>
+    <li class="mb-3">the thoroughness of the literature review.</li>
+    <li class="mb-3">the collection of specific data (through laboratory experiments, field data collection, or the results of theoretical calculations).</li>
+    <li class="mb-3">logical processing (e.g., processing of collected data, results of computational simulations, evaluation, and critical presentation of results).</li>
+    <li class="mb-3">the structure of the thesis and its written presentation, e.g., the coherence of the text, the correct use of terminology and language, the precise formulation of concepts, the scientifically sound documentation of conclusions, etc.</li>
+    <li class="mb-3">the originality of the thesis.</li>
+    <li class="mb-3">the student's initiative.</li>
+    <li class="mb-3">the oral presentation of the thesis and the response to the examination committee's questions.</li>  
+  </ul><br>
+</div>
 
 <!-- Modals -->
 {% for person in site.data.people %}
@@ -271,7 +273,7 @@ Diploma thesis evaluation:
   </div>
 </div>
 
-<div class="container mt-5">
+<div class="container mt-5 comlpeted-thesis"-list>
   <h3 class="mt-5 mb-3 colored-main">
     Completed Theses
   </h3>
