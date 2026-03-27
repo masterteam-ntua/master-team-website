@@ -8,72 +8,9 @@ header2: Translational Engineering in Health and Medicine
 header3: Student Research
 show_sidebar: false
 ---
-<head>
-<style>
-@media (max-width: 768px) {
-  .collapsible {
-    flex-direction: column;
-    align-items: flex-start;
-  }
 
-  .supervisor-name {
-    text-align: left;
-    margin-top: 8px;
-    flex: 1 1 100%;
-    white-space: normal;
-    color: #C02F51;
-  }
-}
-.collapsible {
-  display: flex;
-  justify-content: space-between;
-  align-items: flex-start;
-  flex-wrap: wrap;
-  background-color: #a3a3a3;
-  color: white;
-  cursor: pointer;
-  padding: 18px;
-  width: 100%;
-  border: none;
-  text-align: left;
-  font-size: 15px;
-}
+<div class="container thesis-page">
 
-.thesis-title {
-  flex: 1 1 65%;
-  font-weight: bold;
-}
-
-.supervisor-name {
-  flex: 0 0 35%;
-  text-align: right;
-  font-size: 0.9em;
-  color: #C02F51;
-  white-space: nowrap;
-}
-.new-label {
-  color: #ffcb05;
-  font-weight: bold;
-  font-size: 0.85em;
-  margin-left: 8px;
-}
-
-
-.collapsible:hover {
-  background-color: #555;
-}
-
-.content_c {
-  padding: 0 18px;
-  max-height: 0;
-  overflow: hidden;
-  transition: max-height 0.2s ease-out;
-  background-color: #f1f1f1;
-}
-</style>
-</head>
-
-<body>
   <!-- Modals -->
   {% for person in site.data.people %}
     {% include components/person-modal.html
@@ -90,41 +27,56 @@ show_sidebar: false
     %}
   {% endfor %}
 
-<div class="container mt-5">
- <h3 class="mt-5 mb-3 colored-main">
-    Student Research
-  </h3>
-  
-  {% assign subjects = site.data.completed_thesis | sort: "Student"%}
-  {% for subject in subjects%}
-    <button class="collapsible">
-     <span class="thesis-title">
-        {{ subject.Title }}
-      </span>
-      <span class="supervisor-name">{{ subject.Student }}</span>
-    </button>
-     <div class="content_c">
-       <p>Supervisor: {{subject.Supervisor}}</p>
-       <p>Student: {{subject.Student}}</p>
-       <p>Link: <a href="{{subject.Link}}" target="_blank">Artemis</a></p>
-     </div>
-  {% endfor %}
+  <div class="row mt-5 mb-5">
+    <div class="col">
+      <h3 class="mb-3 colored-main">
+        Student Research
+      </h3>
+
+      <div class="completed-theses-list thesis-list">
+        {% assign subjects = site.data.completed_thesis | sort: "Student" %}
+        {% for subject in subjects %}
+          <div class="completed-thesis-item">
+            <button class="collapsible" type="button">
+              <span class="thesis-title">
+                {{ subject.Title }}
+              </span>
+              <span class="supervisor-name">
+                {{ subject.Student }}
+              </span>
+            </button>
+
+            <div class="content_c">
+              <p><strong>Supervisor:</strong> {{ subject.Supervisor }}</p>
+              <p><strong>Student:</strong> {{ subject.Student }}</p>
+              <p><strong>Link:</strong> 
+                <a href="{{ subject.Link }}" target="_blank">Artemis</a>
+              </p>
+            </div>
+          </div>
+        {% endfor %}
+      </div>
+
+    </div>
+  </div>
+
 </div>
 
 <script>
-var coll = document.getElementsByClassName("collapsible");
-var i;
+document.addEventListener("DOMContentLoaded", function () {
+  var coll = document.getElementsByClassName("collapsible");
 
-for (i = 0; i < coll.length; i++) {
-  coll[i].addEventListener("click", function() {
-    this.classList.toggle("active");
-    var content = this.nextElementSibling;
-    if (content.style.maxHeight){
-      content.style.maxHeight = null;
-    } else {
-      content.style.maxHeight = content.scrollHeight + "px";
-    } 
-  });
-}
+  for (var i = 0; i < coll.length; i++) {
+    coll[i].addEventListener("click", function () {
+      this.classList.toggle("active");
+      var content = this.nextElementSibling;
+
+      if (content.style.maxHeight) {
+        content.style.maxHeight = null;
+      } else {
+        content.style.maxHeight = content.scrollHeight + "px";
+      }
+    });
+  }
+});
 </script>
-</body>
