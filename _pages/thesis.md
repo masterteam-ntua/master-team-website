@@ -25,14 +25,7 @@ show_sidebar: false
   }
 
   .thesis-filters {
-    flex-direction: column;
-    align-items: stretch;
-  }
-
-  .thesis-search-input,
-  .thesis-filter-select,
-  .thesis-clear-btn {
-    width: 100%;
+    grid-template-columns: 1fr;
   }
 }
 
@@ -83,51 +76,88 @@ show_sidebar: false
   background-color: #f1f1f1;
 }
 
+.thesis-item.hidden {
+  display: none;
+}
+
+/* Filter UI */
+.thesis-filters-wrap {
+  margin: 20px 0 18px 0;
+}
+
 .thesis-filters {
-  display: flex;
-  flex-wrap: wrap;
+  display: grid;
+  grid-template-columns: minmax(260px, 1.8fr) minmax(220px, 1fr) auto auto;
   gap: 12px;
-  align-items: center;
-  margin-bottom: 1rem;
+  align-items: stretch;
 }
 
-.thesis-search-input,
-.thesis-filter-select {
-  padding: 10px 12px;
+.thesis-control {
+  height: 46px;
+  min-height: 46px;
+  box-sizing: border-box;
+  padding: 0 14px;
+  border: 1px solid #d2d2d2;
+  border-radius: 0;
+  background: #fff;
+  color: #444;
   font-size: 14px;
-  min-width: 240px;
-  border: 1px solid #ccc;
-  border-radius: 4px;
+  line-height: 46px;
+  box-shadow: none;
 }
 
-.thesis-checkbox {
+.thesis-control:focus {
+  outline: none;
+  border-color: #999;
+}
+
+.thesis-search-input {
+  width: 100%;
+}
+
+.thesis-filter-select {
+  width: 100%;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  background-image: linear-gradient(45deg, transparent 50%, #666 50%), linear-gradient(135deg, #666 50%, transparent 50%);
+  background-position: calc(100% - 18px) calc(50% - 3px), calc(100% - 12px) calc(50% - 3px);
+  background-size: 6px 6px, 6px 6px;
+  background-repeat: no-repeat;
+  padding-right: 34px;
+}
+
+.thesis-checkbox-wrap {
   display: flex;
   align-items: center;
-  gap: 6px;
-  margin: 0;
+  height: 46px;
+  padding: 0 14px;
+  border: 1px solid #d2d2d2;
+  background: #fff;
+  color: #444;
   font-size: 14px;
+  box-sizing: border-box;
+  white-space: nowrap;
+}
+
+.thesis-checkbox-wrap input {
+  margin-right: 8px;
 }
 
 .thesis-clear-btn {
-  padding: 10px 14px;
-  font-size: 14px;
-  border: 1px solid #999;
-  background-color: white;
   cursor: pointer;
-  border-radius: 4px;
+  white-space: nowrap;
+  transition: background-color 0.15s ease;
 }
 
 .thesis-clear-btn:hover {
   background-color: #f3f3f3;
 }
 
-.thesis-item.hidden {
-  display: none;
-}
-
 #thesisResultsCount {
+  margin: 12px 0 18px 0;
   font-size: 14px;
-  color: #555;
+  color: #666;
 }
 </style>
 </head>
@@ -178,48 +208,59 @@ Diploma thesis evaluation:
   </h3>
 
   {% assign subjects = site.data.thesis | sort: "Sort" %}
-  {% assign supervisors = subjects | map: "Supervisor" | uniq | sort %}
 
-  <div class="thesis-filters">
-    <input
-      type="text"
-      id="thesisSearch"
-      class="thesis-search-input"
-      placeholder="Search by title, supervisor, keyword..."
-      aria-label="Search available theses"
-    >
+  <div class="thesis-filters-wrap">
+    <div class="thesis-filters">
+      <input
+        type="text"
+        id="thesisSearch"
+        class="thesis-control thesis-search-input"
+        placeholder="Search by title, supervisor, keyword..."
+        aria-label="Search available theses"
+      >
 
-    <select
-      id="supervisorFilter"
-      class="thesis-filter-select"
-      aria-label="Filter by supervisor"
-    >
-      <option value="">All supervisors</option>
-      {% for supervisor in supervisors %}
-        <option value="{{ supervisor | downcase }}">{{ supervisor }}</option>
-      {% endfor %}
-    </select>
+      <select
+        id="supervisorFilter"
+        class="thesis-control thesis-filter-select"
+        aria-label="Filter by supervisor"
+      >
+        <option value="">All supervisors</option>
+        {% assign supervisor_names = "" | split: "|" %}
+        {% for subject in subjects %}
+          {% unless supervisor_names contains subject.Supervisor %}
+            {% assign supervisor_names = supervisor_names | push: subject.Supervisor %}
+          {% endunless %}
+        {% endfor %}
+        {% assign supervisor_names = supervisor_names | sort %}
+        {% for supervisor in supervisor_names %}
+          <option value="{{ supervisor | downcase }}">{{ supervisor }}</option>
+        {% endfor %}
+      </select>
 
-    <label class="thesis-checkbox">
-      <input type="checkbox" id="newOnlyFilter">
-      NEW only
-    </label>
+      <label class="thesis-checkbox-wrap">
+        <input type="checkbox" id="newOnlyFilter">
+        NEW only
+      </label>
 
-    <button type="button" id="clearThesisFilters" class="thesis-clear-btn">
-      Clear filters
-    </button>
+      <button
+        type="button"
+        id="clearThesisFilters"
+        class="thesis-control thesis-clear-btn"
+      >
+        Clear filters
+      </button>
+    </div>
+
+    <p id="thesisResultsCount"></p>
   </div>
-
-  <p id="thesisResultsCount"></p>
 
   <div id="availableThesesList">
     {% for subject in subjects %}
+      {% capture searchable_text %}{{ subject.Title }} {{ subject.Supervisor }} {{ subject.Text }} {{ subject.Related }}{% endcapture %}
       <div
         class="thesis-item"
-        data-title="{{ subject.Title | downcase | escape }}"
-        data-supervisor="{{ subject.Supervisor | downcase | escape }}"
-        data-text="{{ subject.Text | strip_html | downcase | escape }}"
-        data-related="{{ subject.Related | strip_html | downcase | escape }}"
+        data-search="{{ searchable_text | strip_html | downcase | normalize_whitespace | escape }}"
+        data-supervisor="{{ subject.Supervisor | downcase | strip | escape }}"
         data-new="{% if subject.New %}true{% else %}false{% endif %}"
       >
         <button class="collapsible">
@@ -291,29 +332,18 @@ document.addEventListener("DOMContentLoaded", function () {
 
   function filterTheses() {
     var searchTerm = searchInput.value.trim().toLowerCase();
-    var selectedSupervisor = supervisorFilter.value;
+    var selectedSupervisor = supervisorFilter.value.trim().toLowerCase();
     var newOnly = newOnlyFilter.checked;
     var visibleCount = 0;
 
     thesisItems.forEach(function (item) {
-      var title = item.dataset.title || "";
-      var supervisor = item.dataset.supervisor || "";
-      var text = item.dataset.text || "";
-      var related = item.dataset.related || "";
-      var isNew = item.dataset.new === "true";
+      var searchable = (item.getAttribute("data-search") || "").toLowerCase();
+      var supervisor = (item.getAttribute("data-supervisor") || "").toLowerCase();
+      var isNew = item.getAttribute("data-new") === "true";
 
-      var matchesSearch =
-        !searchTerm ||
-        title.indexOf(searchTerm) !== -1 ||
-        supervisor.indexOf(searchTerm) !== -1 ||
-        text.indexOf(searchTerm) !== -1 ||
-        related.indexOf(searchTerm) !== -1;
-
-      var matchesSupervisor =
-        !selectedSupervisor || supervisor === selectedSupervisor;
-
-      var matchesNew =
-        !newOnly || isNew;
+      var matchesSearch = !searchTerm || searchable.indexOf(searchTerm) !== -1;
+      var matchesSupervisor = !selectedSupervisor || supervisor === selectedSupervisor;
+      var matchesNew = !newOnly || isNew;
 
       var isVisible = matchesSearch && matchesSupervisor && matchesNew;
 
@@ -325,9 +355,11 @@ document.addEventListener("DOMContentLoaded", function () {
 
         var button = item.querySelector(".collapsible");
         var content = item.querySelector(".content_c");
+
         if (button) {
           button.classList.remove("active");
         }
+
         if (content) {
           content.style.maxHeight = null;
         }
