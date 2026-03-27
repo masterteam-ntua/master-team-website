@@ -98,7 +98,7 @@
 
 - Title: "RNA-Seq Analysis in Lung Cancer"
   Supervisor: '<a href="" data-toggle="modal" data-target="#matsopoulos-modal">Matsopoulos George</a>'
-  Student: Kosta Christina
+  Student: Kotsa Christina
   Link: http://artemis.cslab.ece.ntua.gr:8080/jspui/handle/123456789/19231
   Sort: matsopoulos
   New: false
@@ -262,4 +262,11 @@
   Student: Papazisimou Nikoletta
   Link: http://artemis.cslab.ece.ntua.gr:8080/jspui/handle/123456789/19960
   Sort: chronis
+  New: false
+
+- Title: 'Gene-Level Prioritization of Reinforced Plasticity during Adaptation using Machine Learning'
+  Supervisor: '<a href="" data-toggle="modal" data-target="#alexandridis-modal">Alexandridis Georgios</a>'
+  Student: Konsta Vasiliki
+  Link: http://artemis.cslab.ece.ntua.gr:8080/jspui/handle/123456789/19960
+  Sort: alexandridis
   New: false
