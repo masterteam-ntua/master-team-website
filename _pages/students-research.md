@@ -63,40 +63,53 @@ show_sidebar: false
 </div>
 
 <script>
-  document.addEventListener("DOMContentLoaded", function () {
-    var coll = document.getElementsByClassName("collapsible");
+document.addEventListener("DOMContentLoaded", function () {
+  var coll = document.getElementsByClassName("collapsible");
 
-    function closeContent(button, content) {
-      button.classList.remove("active");
-      content.style.maxHeight = null;
-    }
+  function closeContent(button, content) {
+    button.classList.remove("active");
+    content.style.maxHeight = null;
+  }
 
-    function openContent(button, content) {
-      button.classList.add("active");
-      content.style.maxHeight = content.scrollHeight + 40 + "px";
-    }
+  function openContent(button, content) {
+    button.classList.add("active");
+    content.style.maxHeight = content.scrollHeight + 40 + "px";
+  }
 
+  function closeAllExcept(currentButton) {
     for (var i = 0; i < coll.length; i++) {
-      coll[i].addEventListener("click", function () {
-        var content = this.nextElementSibling;
+      var button = coll[i];
+      var content = button.nextElementSibling;
 
-        if (content.style.maxHeight) {
-          closeContent(this, content);
-        } else {
-          openContent(this, content);
-        }
-      });
+      if (button !== currentButton) {
+        closeContent(button, content);
+      }
     }
+  }
 
-    window.addEventListener("resize", function () {
-      for (var i = 0; i < coll.length; i++) {
-        var button = coll[i];
-        var content = button.nextElementSibling;
+  for (var i = 0; i < coll.length; i++) {
+    coll[i].addEventListener("click", function () {
+      var content = this.nextElementSibling;
+      var isOpen = !!content.style.maxHeight;
 
-        if (button.classList.contains("active")) {
-          content.style.maxHeight = content.scrollHeight + 40 + "px";
-        }
+      if (isOpen) {
+        closeContent(this, content);
+      } else {
+        closeAllExcept(this);
+        openContent(this, content);
       }
     });
+  }
+
+  window.addEventListener("resize", function () {
+    for (var i = 0; i < coll.length; i++) {
+      var button = coll[i];
+      var content = button.nextElementSibling;
+
+      if (button.classList.contains("active")) {
+        content.style.maxHeight = content.scrollHeight + 40 + "px";
+      }
+    }
   });
+});
 </script>
