@@ -80,7 +80,6 @@ show_sidebar: false
   display: none;
 }
 
-/* Filter UI */
 .thesis-filters-wrap {
   margin: 20px 0 18px 0;
 }
@@ -246,12 +245,10 @@ Diploma thesis evaluation:
 
   <div id="availableThesesList">
     {% for subject in subjects %}
-      {% capture searchable_text %}{{ subject.Title }} {{ subject.Supervisor }} {{ subject.Text }} {{ subject.Related }}{% endcapture %}
+      {% capture searchable_text %}{{ subject.Title }} {{ subject.Text }} {{ subject.Related }}{% endcapture %}
       <div
         class="thesis-item"
         data-search="{{ searchable_text | strip_html | downcase | normalize_whitespace | escape }}"
-        data-supervisor="{{ subject.Supervisor | downcase | strip | escape }}"
-        data-supervisor-display="{{ subject.Supervisor | strip | escape }}"
         data-new="{% if subject.New %}true{% else %}false{% endif %}"
       >
         <button class="collapsible">
@@ -321,14 +318,39 @@ document.addEventListener("DOMContentLoaded", function () {
   var resultCount = document.getElementById("thesisResultsCount");
   var thesisItems = document.querySelectorAll("#availableThesesList .thesis-item");
 
+  function normalizeText(text) {
+    return (text || "")
+      .replace(/\s+/g, " ")
+      .trim()
+      .toLowerCase();
+  }
+
+  function extractSupervisorsFromItem(item) {
+    var supervisorElement = item.querySelector(".supervisor-name");
+    if (!supervisorElement) return [];
+
+    var rawText = supervisorElement.textContent || "";
+    return rawText
+      .split(",")
+      .map(function (name) {
+        return name.replace(/\s+/g, " ").trim();
+      })
+      .filter(function (name) {
+        return name.length > 0;
+      });
+  }
+
   function populateSupervisorFilter() {
     var supervisors = [];
 
     thesisItems.forEach(function (item) {
-      var supervisor = (item.getAttribute("data-supervisor-display") || "").trim();
-      if (supervisor && supervisors.indexOf(supervisor) === -1) {
-        supervisors.push(supervisor);
-      }
+      var itemSupervisors = extractSupervisorsFromItem(item);
+
+      itemSupervisors.forEach(function (name) {
+        if (supervisors.indexOf(name) === -1) {
+          supervisors.push(name);
+        }
+      });
     });
 
     supervisors.sort(function (a, b) {
@@ -337,25 +359,32 @@ document.addEventListener("DOMContentLoaded", function () {
 
     supervisors.forEach(function (supervisor) {
       var option = document.createElement("option");
-      option.value = supervisor.toLowerCase();
+      option.value = normalizeText(supervisor);
       option.textContent = supervisor;
       supervisorFilter.appendChild(option);
     });
   }
 
   function filterTheses() {
-    var searchTerm = searchInput.value.trim().toLowerCase();
-    var selectedSupervisor = supervisorFilter.value.trim().toLowerCase();
+    var searchTerm = normalizeText(searchInput.value);
+    var selectedSupervisor = normalizeText(supervisorFilter.value);
     var newOnly = newOnlyFilter.checked;
     var visibleCount = 0;
 
     thesisItems.forEach(function (item) {
-      var searchable = (item.getAttribute("data-search") || "").toLowerCase();
-      var supervisor = (item.getAttribute("data-supervisor") || "").toLowerCase();
+      var baseSearchable = normalizeText(item.getAttribute("data-search"));
+      var itemSupervisors = extractSupervisorsFromItem(item);
+      var supervisorsSearchable = normalizeText(itemSupervisors.join(" "));
       var isNew = item.getAttribute("data-new") === "true";
 
+      var searchable = baseSearchable + " " + supervisorsSearchable;
+
       var matchesSearch = !searchTerm || searchable.indexOf(searchTerm) !== -1;
-      var matchesSupervisor = !selectedSupervisor || supervisor === selectedSupervisor;
+      var matchesSupervisor =
+        !selectedSupervisor ||
+        itemSupervisors.some(function (name) {
+          return normalizeText(name) === selectedSupervisor;
+        });
       var matchesNew = !newOnly || isNew;
 
       var isVisible = matchesSearch && matchesSupervisor && matchesNew;
