@@ -158,17 +158,51 @@ show_sidebar: false
 document.addEventListener("DOMContentLoaded", function () {
   var coll = document.getElementsByClassName("collapsible");
 
+  function closeContent(button, content) {
+    button.classList.remove("active");
+    content.style.maxHeight = null;
+  }
+
+  function openContent(button, content) {
+    button.classList.add("active");
+    content.style.maxHeight = content.scrollHeight + 40 + "px";
+  }
+
+  function closeAllExcept(currentButton) {
+    for (var i = 0; i < coll.length; i++) {
+      var button = coll[i];
+      var content = button.nextElementSibling;
+
+      if (button !== currentButton) {
+        closeContent(button, content);
+      }
+    }
+  }
+
   for (var i = 0; i < coll.length; i++) {
     coll[i].addEventListener("click", function () {
-      this.classList.toggle("active");
       var content = this.nextElementSibling;
-      if (content.style.maxHeight) {
-        content.style.maxHeight = null;
+      var isOpen = !!content.style.maxHeight;
+
+      if (isOpen) {
+        closeContent(this, content);
       } else {
-        content.style.maxHeight = content.scrollHeight + "px";
+        closeAllExcept(this);
+        openContent(this, content);
       }
     });
   }
+
+  window.addEventListener("resize", function () {
+    for (var i = 0; i < coll.length; i++) {
+      var button = coll[i];
+      var content = button.nextElementSibling;
+
+      if (button.classList.contains("active")) {
+        content.style.maxHeight = content.scrollHeight + 40 + "px";
+      }
+    }
+  });
 
   var searchInput = document.getElementById("thesisSearch");
   var supervisorFilter = document.getElementById("supervisorFilter");
@@ -267,7 +301,7 @@ document.addEventListener("DOMContentLoaded", function () {
       }
     });
 
-    resultCount.textContent = visibleCount + " thes" + (visibleCount === 1 ? "is" : "es") + " found";
+    resultCount.textContent = visibleCount + " " + (visibleCount === 1 ? "thesis" : "theses") + " found";
   }
 
   if (searchInput && supervisorFilter && newOnlyFilter && clearButton) {
