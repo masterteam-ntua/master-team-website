@@ -97,9 +97,12 @@ show_sidebar: false
             <strong>May 26th, 2025</strong>.
         </p>
         <p>
-            All materials must be received by the applicable deadline to be considered. Successful candidates will be required to present
-            on the day of their registration, certified copies of all the supporting materials submitted electronically, as well as a copy of their
-            electronic application form.
+            All materials must be received by the applicable deadline to be considered. Successful
+            candidates will be required to present on the day of their registration, copies of all necessary
+            supporting documents submitted electronically. If the certificates originate from countries
+            that are parties to the Hague Convention (Apostille Convention), all certificates must bear the
+            Apostille stamp. For countries that are not parties to the Hague Convention, certificates
+            issued abroad must be authenticated by the relevant Consulate (consular legalization).
         </p>
         <p>
             Candidates should be prepared for a possible interview if the admissions committee decides to conduct one, and they should be able to clearly
