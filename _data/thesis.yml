@@ -411,3 +411,11 @@
   Supervisor: '<a href="" data-toggle="modal" data-target="#matsopoulos-modal">Matsopoulos George</a>'
   Sort: matsopoulos
   New: true
+
+- Title: "Development and validation of a machine learning model for cardiovascular disease risk prediction in patients with autoimmune rheumatic diseases"
+  Text: "This study focuses on developing and validating a machine learning model to identify predictors of subclinical atherosclerosis in patients with autoimmune rheumatic diseases. The model will analyze clinical, laboratory, and disease-specific factors to improve early detection of cardiovascular risk before overt cardiovascular disease develops, supporting personalized prevention and management strategies."
+  Related: null
+  Area: null
+  Supervisor: '<a href="" data-toggle="modal" data-target="#mavragani-clio-modal">Mavragani Clio</a>'
+  Sort: mavragani
+  New: true
