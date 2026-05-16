@@ -94,7 +94,7 @@ show_sidebar: false
         </p>
         <p>
             The application deadline for the MSc in Translational Engineering in Health and Medicine for the academic year 2026-2027 is 
-            <strong>May 26th, 2025</strong>.
+            <strong>May 26th, 2026</strong>.
         </p>
         <p>
             All materials must be received by the applicable deadline to be considered. Successful
