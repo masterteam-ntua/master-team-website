@@ -6,7 +6,7 @@ thumb: announcement.webp
 categories: announcement
 ---
 
-Interested candidates are invited to submit their application online <strong>between 4 May and 26 May 2026</strong>. Prospective graduate
+Interested candidates are invited to submit their application online <strong>between 4 May and 25 May 2026</strong>. Prospective graduate
 students must register as users at <a href ="https://gradapply.ece.ntua.gr/register" target="_blank"><strong>gradapply.ece.ntua.gr/register</strong></a> 
 and then submit their application by the deadline at <a href ="https://gradapply.ece.ntua.gr/" target="_blank"><strong>gradapply.ece.ntua.gr</strong></a> 
 with the necessary supporting documents.
