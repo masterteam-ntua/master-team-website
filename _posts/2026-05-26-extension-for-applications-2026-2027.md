@@ -5,7 +5,7 @@ directory: announcements
 thumb: announcement.webp
 categories: announcement
 ---
-The deadline for the applications for the academic year 2025-2026 has been extended until June 2nd, 2026.
+The deadline for the applications for the academic year 2026-2027 has been extended until June 2nd, 2026.
 
 Interested candidates are invited to submit their application online. Prospective graduate
 students must register as users at <a href ="https://gradapply.ece.ntua.gr/register" target="_blank"><strong>gradapply.ece.ntua.gr/register</strong></a> 
