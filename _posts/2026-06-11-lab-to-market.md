@@ -4,7 +4,6 @@ description: Two NTUA TEAM student teams, CalmaPulse and TrialSight, travelled t
 directory: calmapulse-trialsight
 thumb: trialsight.png
 images:
-    - trialsight.png
     - calmapulse.jpg
 categories: other
 ---
