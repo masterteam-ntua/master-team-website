@@ -335,6 +335,9 @@ show_sidebar: false
             <a class="logo-footer-primary" href="https://studyingreece.edu.gr/" target="_blank">
                 <img decoding="async" src="theme/img/logos/sig_logo_2.png">
             </a>
+            <a class="logo-footer-secondary" href="https://www.ethaae.gr/en/" target="_blank">
+                <img decoding="async" src="theme/img/logos/HAHE_Certified_Study_Programme.png">
+            </a>
         </div>
         <div class="disclaimer-text">
             <p class="text-footer-secondary"></p>
