@@ -2,7 +2,7 @@
 title: Applications for the academic year 2026-2027 are now open!
 description: Prospective students can apply until May 26th, 2026 
 directory: announcements
-thumb: announcement.webp
+thumb: schedule.jpg
 categories: announcement
 ---
 

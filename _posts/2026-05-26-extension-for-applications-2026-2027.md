@@ -2,7 +2,7 @@
 title: Applications deadline extension!
 description: Prospective students can apply until June 2nd, 2026
 directory: announcements
-thumb: announcement.webp
+thumb: registration_05_09.bmp
 categories: announcement
 ---
 The deadline for the applications for the academic year 2026-2027 has been extended until June 2nd, 2026.
