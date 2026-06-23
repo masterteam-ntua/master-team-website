@@ -12,8 +12,10 @@ Two NTUA TEAM student teams, CalmaPulse and TrialSight, advanced through this ye
 
 The two teams embody the translational and entrepreneurial spirit at the heart of MSc TEAM:
 
-CalmaPulse develops a real-time solution for stress and anxiety management, helping users regulate panic and chronic stress.
-TrialSight develops a solution that improves how clinical trial information is accessed, evaluated, and translated into actionable insight.
+* CalmaPulse develops a real-time solution for stress and anxiety management, helping users regulate panic and chronic stress.
+
+* TrialSight develops a solution that improves how clinical trial information is accessed, evaluated, and translated into actionable insight.
+
 Their projects were originally developed within the dedicated Innovation track of the MSc TEAM program and reflect its broader mission: preparing students to translate biomedical engineering knowledge into technologies and solutions with real clinical, societal, and commercial impact.
 
 We warmly congratulate the members of CalmaPulse and TrialSight and wish them every success as they continue their innovation journey.
