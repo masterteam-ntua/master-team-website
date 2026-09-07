@@ -370,7 +370,7 @@
   Area: null
   Supervisor: '<a href="" data-toggle="modal" data-target="#philippou-anastassios-modal">Philippou Anastassios</a>'
   Sort: philippou
-  New: true
+  New: false
 
 - Title: "Motor coordination during a novel balance task"
   Text: "The aim of this project is to understand how humans achieve motor coordination when facing a novel balance task and how the underlying coordinative structures change with practice. You will use high-density electromyography (HD-EMG) recordings of the activity of multiple muscles made during behavioural experiments in which human participants tried to balance on a balance board. The HD-EMG signals will open a window into the neural activity at the level of the spinal cord. Using a signal decomposition approach, you will uncover the motoneuronal firing and then relate it with task performance and learning measures. Ultimately, you will understand how the nervous system coordinates muscles to perform a novel task effectively and how practice/learning affects this muscle coordination."
@@ -378,7 +378,7 @@
   Area: null
   Supervisor: '<a href="" data-toggle="modal" data-target="#delis-ioannis-modal">Delis Ioannis</a>'
   Sort: delis
-  New: true
+  New: false
 
 - Title: "Uncovering the brain networks underlying multisensory processing in health and disease"
   Text: "Incoming signals from different senses provide us with complementary information about the environment. However, the neural mechanisms underlying the processing of multi-sensory information and its translation to perceptual judgment remain elusive. In this project, you will investigate the neural underpinnings of audio-visual decision making. You will record brain signals (EEG) while human participants perform a perceptual choice task using different types of sensory information (visual, auditory or both). You will measure participants’ task performance as discrimination accuracy and response time and assess if performance improves when both sensory signals are available. You will then analyse the EEG signals to identify neural components discriminating the presented stimuli and the subjects’ choices and determine “where” and “when” the brain fuses information from different senses to optimize decisions."
@@ -386,7 +386,7 @@
   Area: null
   Supervisor: '<a href="" data-toggle="modal" data-target="#delis-ioannis-modal">Delis Ioannis</a>'
   Sort: delis
-  New: true
+  New: false
 
 - Title: "Application of source localization & artificial intelligence techniques on electroencephalography data for identification of brain areas involved in imaginary motion tasks"
   Text: "Using an electroencephalography (EEG) dataset from human subjects performing imaginary motion tasks, students will apply source localization techniques to identify the underlying brain areas responsible for the activity measured on source level. This process will be combined with artificial intelligence to highlight the sources that are involved in movement planning within the brain and can be used to discriminate among different motion states.<br>Supervised by: G. Matsopoulos, I. Kakkos"
@@ -394,7 +394,7 @@
   Area: null
   Supervisor: '<a href="" data-toggle="modal" data-target="#matsopoulos-modal">Matsopoulos George</a>'
   Sort: matsopoulos
-  New: true
+  New: false
   
 - Title: "Brain network analysis during motion planning and execution using multiple connectivity methods"
   Text: "Students are asked to develop a multi-purpose brain network analysis framework incorporating multiple connectivity algorithms (directional / non-directional, bivariate / multivariate, time-domain / frequency-domain) and network metrics for evaluation of brain interactions and comparative analysis between different methods. This framework will be applied on an electroencephalography (EEG) dataset from human subjects performing real motion tasks.<br>Supervised by: G. Matsopoulos, S. Miloulis"
@@ -402,7 +402,7 @@
   Area: null
   Supervisor: '<a href="" data-toggle="modal" data-target="#matsopoulos-modal">Matsopoulos George</a>'
   Sort: matsopoulos
-  New: true
+  New: false
 
 - Title: "Diabetic retinopathy diagnosis via fundoscopic images"
   Text: "Students are asked to develop a clinical decision support system (CDSS) that can identify cases of diabetic retinopathy, based on a dataset of fundoscopic images collected from a population of patients and healthy individuals. Image processing techniques will be applied to extract features that will be integrated within a machine learning framework to achieve optimal clinical performance.<br>Supervised by: G. Matsopoulos, I. Vezakis"
@@ -410,7 +410,7 @@
   Area: null
   Supervisor: '<a href="" data-toggle="modal" data-target="#matsopoulos-modal">Matsopoulos George</a>'
   Sort: matsopoulos
-  New: true
+  New: false
 
 - Title: "Development and validation of a machine learning model for cardiovascular disease risk prediction in patients with autoimmune rheumatic diseases"
   Text: "This study focuses on developing and validating a machine learning model to identify predictors of subclinical atherosclerosis in patients with autoimmune rheumatic diseases. The model will analyze clinical, laboratory, and disease-specific factors to improve early detection of cardiovascular risk before overt cardiovascular disease develops, supporting personalized prevention and management strategies."
@@ -418,7 +418,7 @@
   Area: null
   Supervisor: '<a href="" data-toggle="modal" data-target="#mavragani-clio-modal">Mavragani Clio</a>'
   Sort: mavragani
-  New: true
+  New: false
 
 - Title: "Effects of mechanotransduction on skeletal and cardiac muscle cells"
   Text: "The maintenance of muscle mass is achieved by a dynamic equilibrium between signals inducing muscle growth and muscle atrophy. Skeletal muscle atrophy is a consequence of multiple conditions and pathologies including aging and chronic diseases, such as cancer, chronic heart failure (CHF) and cytokine-induced inflammation. It is characterized by muscle cell autophagy and apoptosis and muscle protein turnover impairment, resulting in the reduction of muscle protein content, cross-sectional area, mass and strength and in serious impairment of the functional capacity of the patients. Protection against loss of muscle mass requires enhancement of pro-growth signals induced by mechanical loading and growth factors, to counter the drive toward atrophy. Various mechanosensitive complexes (mechanosensors) are situated in the muscle cell membrane (sarcolemma), which tether the extracellular matrix (ECM) to intracellular cytoskeleton and sense the alterations in mechanical loading applied on the cell. Whether these mechanosensors mediate interchangeable, reciprocal, or divergent mechanical signals is currently unknown, but appear to have an important role in promoting muscle cell survival and muscle growth, helping coordinate the balance between muscle growth and atrophy. Moreover, it is not known whether the intracellular pathways associated with muscle cell survival and growth, and the expression pattern of genes that are key players in the anabolic/catabolic and metabolic drive for skeletal muscle are similarly or differentially affected in the various muscle atrophy-inducing conditions i.e., sarcopenia of aging vs. CHF-induced cachexia. Thus, for an in depth understanding of the potential atrophy variations that occur due to aging or disease, there is a need to identify the signaling and gene expression responses associated with muscle atrophy in different models, and to determine if these responses are similarly affected upon mechanical anabolic signals to muscle cells.<br>A primary aim of this project is to characterize the responses of mechanoresponsive transduction pathways and genes associated with muscle cell growth and survival to different mechanical loading protocols in various muscle atrophy/hypertrophy-inducing conditions.<br>The aims of the project will be achieved by utilizing novel methodology based on an in vitro cell loading apparatus available in our Department (Experimental Physiology, Faculty of Medicine). By applying tensile strains to skeletal and cardiac muscle cells cultured in vitro we will investigate molecular responses of muscle cells derived from various atrophy/hypertrophy models and cultured in a mechanically active environment. RT-PCR and Western blot analyses will be utilized to examine the aforementioned cellular responses."
@@ -426,4 +426,20 @@
   Area: null
   Supervisor: '<a href="" data-toggle="modal" data-target="#philippou-anastassios-modal">Philippou Anastassios</a>'
   Sort: philippou
+  New: false
+
+- Title: "Attacks, defenses and the security–privacy–utility trade-off in federated learning for healthcare."
+  Text: "This thesis reviews federated learning frameworks in healthcare from a security perspective. It will examine threat models such as data poisoning, backdoor attacks and inference attacks, as well as defensive strategies including robust aggregation, secure aggregation and attack detection. Particular emphasis will be placed on the trade-off between security, privacy and model performance. The thesis will synthesize current approaches, identify open challenges and best practices, and include a small experimental case study evaluating selected defenses, with the aim of a review publication."
+  Related: null
+  Area: null
+  Supervisor: '<a href="" data-toggle="modal" data-target="#protonotarios-nikolaosstassios-modal">Protonotarios Nikolaos</a>'
+  Sort: protonotarios
+  New: true
+
+- Title: "Privacy-preserving federated learning for medical imaging."
+  Text: "This thesis surveys privacy-preserving techniques for federated learning in medical imaging and clinical data analysis, including differential privacy, homomorphic encryption and secure multi-party computation. It will critically assess their effectiveness, limitations and practical applicability in real hospital settings. The thesis will also include experiments on a public medical imaging dataset, for example through simulated multi-site training with differential privacy, in order to quantify the privacy–accuracy trade-off, with the aim of a review publication."
+  Related: null
+  Area: null
+  Supervisor: '<a href="" data-toggle="modal" data-target="#protonotarios-nikolaosstassios-modal">Protonotarios Nikolaos</a>'
+  Sort: protonotarios
   New: true
