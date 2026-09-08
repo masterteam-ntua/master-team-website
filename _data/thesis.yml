@@ -432,7 +432,7 @@
   Text: "This thesis reviews federated learning frameworks in healthcare from a security perspective. It will examine threat models such as data poisoning, backdoor attacks and inference attacks, as well as defensive strategies including robust aggregation, secure aggregation and attack detection. Particular emphasis will be placed on the trade-off between security, privacy and model performance. The thesis will synthesize current approaches, identify open challenges and best practices, and include a small experimental case study evaluating selected defenses, with the aim of a review publication."
   Related: null
   Area: null
-  Supervisor: '<a href="" data-toggle="modal" data-target="#protonotarios-modal">rotonotarios Nicholas</a>'
+  Supervisor: '<a href="" data-toggle="modal" data-target="#protonotarios-modal">Protonotarios Nicholas</a>'
   Sort: protonotarios
   New: true
 
@@ -440,6 +440,6 @@
   Text: "This thesis surveys privacy-preserving techniques for federated learning in medical imaging and clinical data analysis, including differential privacy, homomorphic encryption and secure multi-party computation. It will critically assess their effectiveness, limitations and practical applicability in real hospital settings. The thesis will also include experiments on a public medical imaging dataset, for example through simulated multi-site training with differential privacy, in order to quantify the privacy–accuracy trade-off, with the aim of a review publication."
   Related: null
   Area: null
-  Supervisor: '<a href="" data-toggle="modal" data-target="#protonotarios-modal">rotonotarios Nicholas</a>'
+  Supervisor: '<a href="" data-toggle="modal" data-target="#protonotarios-modal">Protonotarios Nicholas</a>'
   Sort: protonotarios
   New: true
