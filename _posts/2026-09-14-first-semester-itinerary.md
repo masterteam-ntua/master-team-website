@@ -2,9 +2,9 @@
 title: Weekly Schedule Fall Semester 2026-2027
 description: The weekly schedule of the fall semester courses has been announced!
 directory: announcements
-thumb: 1st semester 2026-2027.png
+thumb: 1st-semester-2026-2027.png
 images:
-  - 1st semester 2026-2027.png
+  - 1st-semester-2026-2027.png
 categories: announcement
 ---
 The weekly schedule of the fall semester courses has been announced!
