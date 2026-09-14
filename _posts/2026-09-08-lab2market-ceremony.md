@@ -2,7 +2,7 @@
 title: NTUA TEAM Students Win Audience Choice Award at the Lab to Market Pitch Competition 2026
 description: We are delighted to congratulate CalmaPulse, on winning the Audience Choice Award at the Lab to Market Pitch Competition 2026.
 directory: calmapulse-trialsight
-thumb: calmapulse.jpg
+thumb: 19.jpeg
 categories: other
 ---
 We are delighted to congratulate CalmaPulse, developed by Evgenia Skouloudi, Lamprini Kourou, and Filoxeni-Kyriaki Laskaridou, on winning the Audience Choice Award at the Lab to Market Pitch Competition 2026. The team is developing a real-time solution for stress and anxiety management, designed to help users regulate panic attacks and chronic stress.
